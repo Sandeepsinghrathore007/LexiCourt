@@ -53,17 +53,17 @@ export default function DashboardPage() {
         <div className="absolute right-0 bottom-0 w-96 h-96 bg-primary-500/10 rounded-full blur-3xl pointer-events-none" />
       </div>
 
-      {/* Strategic Exam Framework (The 3 Golden Rules) */}
+      {/* Strategic Exam Framework (Official Rules & Prep Strategies) */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
         <Card variant="default" padding="md" className="border-l-4 border-l-primary-500">
           <div className="flex items-center gap-2.5 mb-2">
             <div className="w-8 h-8 rounded-lg bg-primary-100 text-primary-700 flex items-center justify-center font-bold">
               1
             </div>
-            <h3 className="font-heading font-bold text-sm text-surface-900">Zero Negative Marking</h3>
+            <h3 className="font-heading font-bold text-sm text-surface-900">Zero Negative Marking (Official)</h3>
           </div>
           <p className="text-xs text-surface-600 leading-relaxed">
-            The official HSA notification prescribes 100 MCQs with no penalty. A mandatory 100% attempt strategy ensures every English mark is captured.
+            The official syllabus explicitly confirms no negative marking for wrong answers across the 100 MCQs. A full 100% attempt strategy ensures every possible mark is captured.
           </p>
         </Card>
 
@@ -72,10 +72,10 @@ export default function DashboardPage() {
             <div className="w-8 h-8 rounded-lg bg-amber-100 text-amber-700 flex items-center justify-center font-bold">
               2
             </div>
-            <h3 className="font-heading font-bold text-sm text-surface-900">Official Discrepancy Shield</h3>
+            <h3 className="font-heading font-bold text-sm text-surface-900">Part-B Merit Scope (Official)</h3>
           </div>
           <p className="text-xs text-surface-600 leading-relaxed">
-            In ambiguous bilingual questions (including Part-A Computer science terms), English takes legal precedence under High Court rules.
+            Part-A carries 80 marks (Computer Knowledge) and Part-B carries 20 marks (GK & English combined). High English accuracy is a decisive merit differentiator in the written test.
           </p>
         </Card>
 
@@ -84,10 +84,10 @@ export default function DashboardPage() {
             <div className="w-8 h-8 rounded-lg bg-success-100 text-success-700 flex items-center justify-center font-bold">
               3
             </div>
-            <h3 className="font-heading font-bold text-sm text-surface-900">8-10 Minute Velocity Target</h3>
+            <h3 className="font-heading font-bold text-sm text-surface-900">8–10 Min Pacing (Strategy)</h3>
           </div>
           <p className="text-xs text-surface-600 leading-relaxed">
-            Solving the 10 English questions rapidly with 10/10 accuracy frees up critical cognitive bandwidth for the 80 computer science questions.
+            While the 2-hour paper has no official sectional time limits, completing English in 8–10 minutes is a recommended preparation strategy to maximize time for Part-A.
           </p>
         </Card>
       </div>
@@ -104,7 +104,7 @@ export default function DashboardPage() {
               Lesson 01: Tenses Architecture & Time Markers
             </h2>
             <p className="text-xs md:text-sm text-primary-800/80 max-w-xl">
-              12 tense structures (3 Times × 4 Aspects), auxiliary verb concord, affirmative/negative/interrogative syntax shifts, and deterministic signal adverbs.
+              12 tense structures (3 Times × 4 Aspects), auxiliary verb concord, affirmative/negative/interrogative syntax shifts, and contextual time markers.
             </p>
           </div>
 
@@ -133,7 +133,7 @@ export default function DashboardPage() {
               Official Examination Topics
             </h2>
             <p className="text-xs text-surface-500">
-              All 10 syllabus topics mapped to 18 sequential micro-lessons
+              Instructional 18-lesson decomposition of all 10 official syllabus topics
             </p>
           </div>
           <Badge variant="neutral">Curriculum: {overallProgress}% Completed</Badge>

@@ -1,4 +1,4 @@
-import { Target, CheckCircle2, ShieldCheck, Flame, BookOpen } from 'lucide-react'
+import { Target, CheckCircle2, ShieldCheck } from 'lucide-react'
 import { Card, Badge, Callout } from '../common'
 
 export default function OrientationStep({ metadata }) {
@@ -16,7 +16,7 @@ export default function OrientationStep({ metadata }) {
           Why Tenses Form the Mathematical Core of the High Court Exam
         </h2>
         <p className="text-xs md:text-sm text-primary-100/90 leading-relaxed max-w-3xl">
-          In the Rajasthan High Court System Assistant examination, Part-B English accounts for 10 pivotal marks. Master teachers recognize that <strong>Tenses</strong> are not an isolated chapter—they are the underlying syntactical foundation that directly governs Active & Passive Voice, Direct & Indirect Narration, Conditional Clauses, and Subject-Verb Agreement.
+          In the Rajasthan High Court System Assistant examination, Part-B carries 20 marks for General Knowledge and English combined (with preparation strategy commonly targeting ~10 pivotal English questions). Master teachers recognize that <strong>Tenses</strong> are not an isolated chapter—they are the underlying syntactical foundation that directly governs Active & Passive Voice, Direct & Indirect Narration, Conditional Clauses, and Subject-Verb Agreement.
         </p>
       </div>
 
@@ -58,7 +58,7 @@ export default function OrientationStep({ metadata }) {
             <li>The 3×4 Tense Matrix (Past, Present, Future × 4 Aspects)</li>
             <li>Auxiliary verb rules across person and number concord</li>
             <li>Affirmative, Negative, and Interrogative syntax structures</li>
-            <li>Deterministic temporal time markers (signal adverbs)</li>
+            <li>Contextual temporal time markers (signal adverbs)</li>
             <li>Disambiguating Simple Past vs Present Perfect</li>
           </ul>
         </Card>
@@ -80,7 +80,7 @@ export default function OrientationStep({ metadata }) {
 
       {/* Strategic Exam Tip */}
       <Callout type="tip" title="Strategic High Court Insight">
-        In multiple-choice examinations, question-setters deliberately insert <strong>signal time markers</strong> (such as <em>yesterday, already, since, by the time</em>) as deterministic clues. Once you master the time marker decoder in this lesson, you will eliminate 2 to 3 incorrect options in under 5 seconds per question.
+        In multiple-choice examinations, question-setters deliberately insert <strong>time markers</strong> (such as <em>yesterday, already, since, by the time</em>) as contextual clues. Their interpretation depends on meaning, event duration, completion, and sentence structure. Once you master interpreting time markers in context, you will quickly eliminate inconsistent options.
       </Callout>
     </div>
   )

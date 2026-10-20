@@ -4,59 +4,59 @@
     "title": "The Definite Past Time Trap (Present Perfect vs Simple Past)",
     "category": "High Frequency Exam Trap",
     "frequency": "Extremely High (Appears in 80%+ of State Exams)",
-    "explanation": "Present Perfect ('has/have + V3') connects a past action to the present moment. Therefore, it is GRAMMATICALLY FORBIDDEN to use Present Perfect with adverbs denoting finished, definite past time (such as yesterday, ago, last week, in 2021, on Monday). When a specific past time anchor is present, you MUST use Simple Past ('V2').",
+    "explanation": "Present Perfect ('has/have + V₃') connects a past action to the present moment. Therefore, do not pair Present Perfect with adverbs denoting finished, definite past time (such as yesterday, ago, last week, in 2021). When a finished past time anchor is present, use Simple Past ('V₂'). However, if specifying an action actively in progress at a specific past point ('at 4 PM yesterday'), use Past Continuous ('was/were + V-ing').",
     "incorrectExample": "The advocate general has argued the bail application yesterday.",
     "correctExample": "The advocate general argued the bail application yesterday.",
-    "trapRule": "Definite Past Time Adverbs (yesterday, ago, last..., in [past year]) ➔ MANDATE Simple Past (V₂)."
+    "trapRule": "Finished Past Time Adverbs (yesterday, ago, last...) ➔ Simple Past (V₂); Action in progress at past point ➔ Past Continuous."
   },
   {
     "id": "PIT-02",
-    "title": "The 'Did + V2' Redundancy Pitfall",
-    "category": "Syntactic Inversion Error",
+    "title": "The 'Did + V₂' Redundancy Pitfall (Auxiliary vs. Lexical Verb)",
+    "category": "Auxiliary Verb Discord",
     "frequency": "Very High",
-    "explanation": "In English, the auxiliary 'did' already carries the simple past grammatical inflection. In negative sentences ('did not') and questions ('Did + Subject...?'), the main verb MUST remain in its base dictionary form (V1). Using a second past form (V2) creates an erroneous double-past construction.",
+    "explanation": "In Simple Past affirmative clauses, V₂ is the past lexical verb form (no auxiliary verb is present). In negative sentences ('did not') and interrogatives ('Did + Subject...?'), 'did' functions as the auxiliary verb and carries the past inflection. Consequently, the lexical verb MUST remain in its base form (V₁). Using a past form after 'did' creates an erroneous double-past construction.",
     "incorrectExample": "The petitioner did not submitted the requisite documents on time.",
     "correctExample": "The petitioner did not submit the requisite documents on time.",
-    "trapRule": "Did / Did not + ALWAYS Base Verb (V₁). Never use V₂ after 'did'."
+    "trapRule": "Auxiliary 'did' + Lexical Base Verb (V₁). Never use V₂ after 'did'."
   },
   {
     "id": "PIT-03",
     "title": "The Stative Verb Progressive Distortion",
     "category": "Aspect Incompatibility",
     "frequency": "High",
-    "explanation": "Certain English verbs express cognitive states, emotions, perceptions, or possession rather than dynamic physical activities. These 'stative verbs' (know, believe, understand, belong, possess, remember, hear, smell) resist the continuous/progressive (-ing) aspect under normal circumstances. Use Simple Present instead.",
+    "explanation": "Certain English verbs express cognitive states, emotions, perceptions, or possession rather than dynamic physical activities. These 'stative verbs' (know, believe, understand, belong, possess, remember) resist continuous/progressive (-ing) aspect under standard usage. Use Simple Present instead. Note that frequency adverbs like 'always' can accompany continuous dynamic verbs to express irritation (e.g., 'He is always interrupting').",
     "incorrectExample": "The judicial registrar is knowing the procedural guidelines thoroughly.",
     "correctExample": "The judicial registrar knows the procedural guidelines thoroughly.",
     "trapRule": "Stative verbs (know, belong, understand, believe, want) take Simple Aspect, NOT Continuous."
   },
   {
     "id": "PIT-04",
-    "title": "The 'Since' vs 'For' Prepositional Confusion",
-    "category": "Time Marker Discord",
+    "title": "The 'Since' vs 'For' & Duration Context Trap",
+    "category": "Time Marker Context",
     "frequency": "Very High",
-    "explanation": "In Perfect and Perfect Continuous tenses, learners frequently interchange 'since' and 'for':\n• 'Since' is used strictly for a specific starting POINT in time (since 9 AM, since Monday, since 2019, since childhood).\n• 'For' is used for a DURATION or period of time (for 3 hours, for 5 days, for two decades).",
+    "explanation": "Learners frequently confuse 'since' and 'for', or assume 'for' invariably forces a continuous tense:\n• 'Since' marks a specific starting point in time (since 9 AM, since 2019).\n• 'For' marks a duration span (for 3 hours, for 5 years).\n• Critical Contextual Rule: Duration does not invariably force Present Perfect Continuous. A completed period in the past takes Simple Past ('He worked in Jaipur for three years'). A period extending to the present takes Present Perfect ('He has worked here for three years') or Present Perfect Continuous for dynamic activity ('He has been working for 3 hours').",
     "incorrectExample": "He has been serving in the High Court computer wing since five years.",
     "correctExample": "He has been serving in the High Court computer wing for five years.",
-    "trapRule": "Since = Starting Point (e.g., since 2018) | For = Duration Count (e.g., for 5 years)."
+    "trapRule": "Since = Starting Point | For = Duration Count (Completed period = Simple Past; Period extending to present = Present Perfect / Perf Cont)."
   },
   {
     "id": "PIT-05",
-    "title": "The 'By the Time' Future Perfect Mandate",
-    "category": "Clause Aspect Pairing",
+    "title": "The 'By + Time' Completion Boundary Trap",
+    "category": "Temporal Boundary Alignment",
     "frequency": "High",
-    "explanation": "When a sentence contains 'by + future time' (e.g., 'by tomorrow', 'by next month', 'by the time he arrives'), it indicates that an action will be completed prior to that future boundary. Candidates mistakenly choose Simple Future ('will complete') instead of the mandatory Future Perfect ('will have completed').",
+    "explanation": "When a sentence contains 'by + future time' (e.g., 'by tomorrow', 'by 6 PM'), it signals that an action will be completed on or before that deadline, typically taking Future Perfect ('will have + V₃') rather than Simple Future ('will complete'). Similarly, 'by + past time' (e.g., 'by 5 PM yesterday') marks completion prior to a past boundary, taking Past Perfect ('had + V₃').",
     "incorrectExample": "The system assistant will upload all case records by 6 PM today.",
     "correctExample": "The system assistant will have uploaded all case records by 6 PM today.",
-    "trapRule": "By + Future Time Benchmark ➔ MANDATES Future Perfect (will/shall have + V₃)."
+    "trapRule": "By + Future Time Benchmark ➔ Future Perfect (will have + V₃); By + Past Time Benchmark ➔ Past Perfect (had + V₃)."
   },
   {
     "id": "PIT-06",
-    "title": "The 'Past of the Past' Double Simple Past Fallacy",
-    "category": "Sequential Chronology",
+    "title": "The Isolated Past Perfect Fallacy (Past Reference Point Required)",
+    "category": "Aspect Misapplication",
     "frequency": "High",
-    "explanation": "When two actions happened in the past, and one was completed BEFORE the other began, the earlier action cannot remain in Simple Past. It must take Past Perfect ('had + V3') to establish the chronological sequence. The later action remains in Simple Past ('V2').",
-    "incorrectExample": "The power supply failed after the clerk saved the database.",
-    "correctExample": "The power supply failed after the clerk had saved the database.",
-    "trapRule": "Earlier Past Action = Past Perfect ('had + V₃') | Subsequent Past Action = Simple Past ('V₂')."
+    "explanation": "Past Perfect ('had + V₃') is not merely an older simple past; it requires a specific past reference point or prior completed context (e.g., 'The team had compiled the dossier by 4 PM yesterday'). An independent single past event without a reference boundary must take Simple Past ('V₂'), not Past Perfect. Advanced multi-clause Sequence of Tenses rules between two past events are systematically mastered in Lesson 02.",
+    "incorrectExample": "The advocate general had filed the writ petition yesterday.",
+    "correctExample": "The advocate general filed the writ petition yesterday.",
+    "trapRule": "Single isolated past event ➔ Simple Past (V₂). Past Perfect ('had + V₃') requires a prior reference boundary (Lesson 02 covers cross-clause sequence)."
   }
 ]

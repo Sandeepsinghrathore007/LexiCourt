@@ -40,12 +40,12 @@ export default function AppHeader() {
         <div className="hidden lg:flex items-center gap-3 bg-surface-50 border border-surface-200/80 px-4 py-1.5 rounded-full shadow-xs">
           <div className="flex items-center gap-2 text-xs font-semibold text-surface-700">
             <ShieldCheck size={16} className="text-primary-600" />
-            <span>Part-B: English Section (10 MCQs / 10 Marks)</span>
+            <span>Part-B: GK & English (20 Marks Combined)</span>
           </div>
           <span className="text-surface-300">•</span>
           <div className="flex items-center gap-1.5 text-xs text-amber-700 font-medium">
             <Award size={14} className="text-amber-500" />
-            <span>10/10 Target Blueprint</span>
+            <span>Prep Target: Flawless English Score</span>
           </div>
         </div>
 

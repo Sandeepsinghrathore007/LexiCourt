@@ -34,7 +34,7 @@ According to the official **Rajasthan High Court System Assistant Examination Sc
 
 Key structural factors governing the exam:
 - **No Negative Marking:** Every single question must be attempted on the OMR answer sheet.
-- **Language Discrepancy Rule:** In case of linguistic ambiguity in technical computer questions, the English version takes legal precedence. English proficiency directly safeguards performance in Part-A.
+- **Language Precedence (Unverified Planning Assumption):** The assertion that the English version overrides Hindi translations in technical questions was an unverified assumption from the initial planning draft; it is not established in the official examination syllabus/notification and must not be treated as an official examination rule without an authoritative source.
 - **Qualifying Benchmarks:** Minimum 40% for SC/ST and PH candidates; 45% for other categories in the written test.
 - **High Merit Impact:** Because Part-A (Computer Knowledge) is heavily saturated among technical candidates, the 10 English questions serve as a decisive differentiator for securing top merit ranks.
 

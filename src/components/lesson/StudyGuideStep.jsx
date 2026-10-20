@@ -1,4 +1,4 @@
-import { BookOpen, Sparkles, Layers, AlertTriangle } from 'lucide-react'
+import { Sparkles, Layers } from 'lucide-react'
 import { Card, Badge, Callout } from '../common'
 
 export default function StudyGuideStep() {

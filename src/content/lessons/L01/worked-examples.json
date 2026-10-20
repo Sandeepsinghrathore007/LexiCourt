@@ -8,10 +8,10 @@
       "step1_marker": "Detected time marker: 'yesterday afternoon' — signals a definite, completed point in past time.",
       "step2_time": "Time Dimension: Past.",
       "step3_aspect": "Aspect: Simple (single completed past event without ongoing duration or prior past boundary).",
-      "step4_inflection": "Verb Inflection: Regular base verb 'submit' takes the simple past V₂ form 'submitted'.",
+      "step4_inflection": "Verb Inflection: In affirmative Simple Past clauses, no auxiliary is used; the lexical verb takes V₂ form 'submitted'.",
       "step5_synthesis": "Final Output: 'The applicant submitted the affidavit yesterday afternoon.'"
     },
-    "trapWarning": "Do not write 'has submitted'. Definite past adverbs strictly forbid Present Perfect."
+    "trapWarning": "Do not write 'has submitted'. Definite past time points without present connection take Simple Past. (If describing an ongoing action in progress at a past moment, Past Continuous would be used instead)."
   },
   {
     "id": "WE-02",
@@ -22,7 +22,7 @@
       "step1_marker": "Detected time marker: 'currently' — denotes dynamic action happening at the ongoing moment.",
       "step2_time": "Time Dimension: Present.",
       "step3_aspect": "Aspect: Continuous (progressive real-time activity).",
-      "step4_inflection": "Auxiliary selection: 'The Chief Justice' is 3rd-person singular → 'is'. Base verb 'preside' inflects to V_ing 'presiding'.",
+      "step4_inflection": "Auxiliary and Lexical verb: Auxiliary 'is' (agrees with 3rd-person singular subject) + lexical present participle V_ing 'presiding'.",
       "step5_synthesis": "Final Output: 'The Chief Justice is presiding over the special constitutional bench currently.'"
     },
     "trapWarning": "Simple Present ('presides') would imply permanent routine rather than the dynamic temporary state signaled by 'currently'."
@@ -36,10 +36,10 @@
       "step1_marker": "Detected time marker: 'already' — signals a completed action with active present relevance.",
       "step2_time": "Time Dimension: Present.",
       "step3_aspect": "Aspect: Perfect (completed state viewed from the present reference point).",
-      "step4_inflection": "Subject 'The IT team' functions as a collective singular unit in this context → auxiliary 'has'. Past participle of 'resolve' is V₃ 'resolved'.",
+      "step4_inflection": "Auxiliary and Lexical verb: Subject 'The IT team' functions as a collective singular unit in this context → auxiliary 'has' + lexical past participle V₃ 'resolved'.",
       "step5_synthesis": "Final Output: 'The IT team has resolved five critical database bugs already.'"
     },
-    "trapWarning": "Do not use 'resolved' alone; 'already' firmly anchors the completed action to the present frame."
+    "trapWarning": "In a present frame, 'already' pairs with Present Perfect ('has resolved'). Definite finished past time markers (e.g., yesterday, ago) take Simple Past."
   },
   {
     "id": "WE-04",
@@ -50,24 +50,24 @@
       "step1_marker": "Detected time marker: 'since 2018' — points to a past origin continuing unbroken into the present.",
       "step2_time": "Time Dimension: Present.",
       "step3_aspect": "Aspect: Perfect Continuous (duration spanning past to now).",
-      "step4_inflection": "Subject 'He' takes 'has been' + present participle V_ing 'working'.",
+      "step4_inflection": "Auxiliary and Lexical verb: Subject 'He' takes auxiliary 'has been' + lexical present participle V_ing 'working'.",
       "step5_synthesis": "Final Output: 'He has been working as a senior clerk in the High Court registry since 2018.'"
     },
-    "trapWarning": "Classic CET/LDC trap: Writing 'He is working since 2018' is an egregious error; continuous aspect cannot take 'since/for' duration."
+    "trapWarning": "Writing 'He is working since 2018' is incorrect; continuous aspect alone cannot take 'since/for' duration. Contrast duration contexts: a completed past period takes Simple Past ('He worked in Jaipur for three years'), whereas an ongoing period extending to the present uses Present Perfect ('He has worked here for three years') or Present Perfect Continuous ('has been working')."
   },
   {
     "id": "WE-05",
-    "sentence": "Before the registrar arrived, the clerk ___ (dispatch) all official summons.",
+    "sentence": "By 11 AM yesterday, the clerk ___ (dispatch) all official summons.",
     "correctAnswer": "had dispatched",
     "tense": "Past Perfect",
     "steps": {
-      "step1_marker": "Temporal relation: Two past actions joined by 'Before'. Action 1 (dispatching) concluded before Action 2 (arrived).",
+      "step1_marker": "Detected time marker: 'By 11 AM yesterday' — marks an action completed prior to a specific past deadline.",
       "step2_time": "Time Dimension: Past.",
-      "step3_aspect": "Aspect: Perfect ('Past of the Past').",
-      "step4_inflection": "Earlier action mandates auxiliary 'had' + past participle V₃ 'dispatched'.",
-      "step5_synthesis": "Final Output: 'Before the registrar arrived, the clerk had dispatched all official summons.'"
+      "step3_aspect": "Aspect: Perfect (prior completion relative to a past reference point).",
+      "step4_inflection": "Auxiliary and Lexical verb: Invariable past auxiliary 'had' + lexical past participle V₃ 'dispatched'.",
+      "step5_synthesis": "Final Output: 'By 11 AM yesterday, the clerk had dispatched all official summons.'"
     },
-    "trapWarning": "The earlier past action takes Past Perfect ('had dispatched'), while the later action takes Simple Past ('arrived')."
+    "trapWarning": "Past Perfect ('had + V₃') designates action accomplished prior to a past reference point. Note: cross-clause sequence of tenses between two past actions is systematically mastered in Lesson 02."
   },
   {
     "id": "WE-06",
@@ -77,25 +77,25 @@
     "steps": {
       "step1_marker": "Detected time marker: 'By 5 PM this evening' ('by + future deadline').",
       "step2_time": "Time Dimension: Future.",
-      "step3_aspect": "Aspect: Perfect (action will be completely accomplished before this boundary).",
-      "step4_inflection": "Mandatory future perfect formula: 'will have' + V₃ 'finalized'.",
+      "step3_aspect": "Aspect: Perfect (action will be accomplished before this future boundary).",
+      "step4_inflection": "Auxiliary and Lexical verb: Future perfect auxiliaries 'will have' + lexical past participle V₃ 'finalized'.",
       "step5_synthesis": "Final Output: 'By 5 PM this evening, the committee will have finalized the technical merit list.'"
     },
-    "trapWarning": "'By + future time' requires Future Perfect ('will have finalized'), NOT Simple Future ('will finalize')."
+    "trapWarning": "'By + future time' signals completion prior to a future deadline, typically requiring Future Perfect ('will have finalized') rather than Simple Future ('will finalize')."
   },
   {
     "id": "WE-07",
-    "sentence": "While the stenographer was taking notes, the lawyer ___ (present) the evidence.",
-    "correctAnswer": "was presenting",
-    "tense": "Past Continuous (Parallel Actions)",
+    "sentence": "At 4 PM yesterday, the system assistant ___ (verify) the server access records.",
+    "correctAnswer": "was verifying",
+    "tense": "Past Continuous",
     "steps": {
-      "step1_marker": "Conjunction 'While' introduces two simultaneous ongoing actions occurring in past time.",
+      "step1_marker": "Detected time marker: 'At 4 PM yesterday' — specifies a precise past instant when an action was actively in progress.",
       "step2_time": "Time Dimension: Past.",
-      "step3_aspect": "Aspect: Continuous (parallel progressive states).",
-      "step4_inflection": "Subject 'the lawyer' takes singular auxiliary 'was' + V_ing 'presenting'.",
-      "step5_synthesis": "Final Output: 'While the stenographer was taking notes, the lawyer was presenting the evidence.'"
+      "step3_aspect": "Aspect: Continuous (ongoing progressive action at that reference moment).",
+      "step4_inflection": "Auxiliary and Lexical verb: Singular past auxiliary 'was' + lexical present participle V_ing 'verifying'.",
+      "step5_synthesis": "Final Output: 'At 4 PM yesterday, the system assistant was verifying the server access records.'"
     },
-    "trapWarning": "Parallel past ongoing activities linked by 'while' both take Past Continuous."
+    "trapWarning": "Do not assume that past markers like 'yesterday' invariably force Simple Past. When a marker pinpoints an activity in progress at a specific past moment ('at 4 PM yesterday'), use Past Continuous ('was verifying')."
   },
   {
     "id": "WE-08",
@@ -106,10 +106,10 @@
       "step1_marker": "Detected time marker: 'every winter' — denotes regular annual habitual recurrence.",
       "step2_time": "Time Dimension: Present.",
       "step3_aspect": "Aspect: Simple (timeless recurrence / habit).",
-      "step4_inflection": "Subject 'The judicial academy' is 3rd-person singular → base verb 'organize' adds '-s' → 'organizes'.",
+      "step4_inflection": "Verb Inflection: Subject 'The judicial academy' is 3rd-person singular → base verb 'organize' adds lexical '-s' → 'organizes' (no auxiliary in affirmative simple present).",
       "step5_synthesis": "Final Output: 'The judicial academy organizes specialized workshops every winter.'"
     },
-    "trapWarning": "Never use continuous aspect ('is organizing') with habitual markers like 'every winter'."
+    "trapWarning": "For scheduled institutional routines ('every winter'), use Simple Present ('organizes'). However, note the contextual exception: frequency words like 'always' can pair with Present Continuous to express emotional emphasis or repeated annoyance ('He is always interrupting')."
   },
   {
     "id": "WE-09",
@@ -120,10 +120,10 @@
       "step1_marker": "Combination of 'By next December' (future boundary) and 'for ten years' (continuous duration).",
       "step2_time": "Time Dimension: Future.",
       "step3_aspect": "Aspect: Perfect Continuous (duration measured up to a future point).",
-      "step4_inflection": "Mandatory structure: 'will have been' + V_ing 'serving'.",
+      "step4_inflection": "Auxiliary and Lexical verb: Auxiliaries 'will have been' + lexical present participle V_ing 'serving'.",
       "step5_synthesis": "Final Output: 'By next December, she will have been serving as judicial assistant for ten years.'"
     },
-    "trapWarning": "Requires 'will have been serving' to capture both the duration and the future completion marker."
+    "trapWarning": "Combines a future deadline ('by next December') with ongoing duration measurement ('for ten years'), taking Future Perfect Continuous."
   },
   {
     "id": "WE-10",
@@ -134,10 +134,10 @@
       "step1_marker": "Detected time marker: 'at that time' — definite past anchor.",
       "step2_time": "Time Dimension: Past.",
       "step3_aspect": "Aspect: Simple (negative declarative statement).",
-      "step4_inflection": "Negative simple past takes auxiliary 'did not' + base form V₁ 'comprehend'.",
+      "step4_inflection": "Auxiliary and Lexical verb: Negative simple past uses auxiliary 'did' + negative particle 'not' + lexical base verb V₁ 'comprehend'.",
       "step5_synthesis": "Final Output: 'He did not comprehend the technical system guidelines at that time.'"
     },
-    "trapWarning": "NEVER say 'did not comprehended'. 'Did' already carries the past tense inflection."
+    "trapWarning": "CRITICAL AUXILIARY DISTINCTION: In negative and interrogative Simple Past, 'did' is the auxiliary carrying the past inflection; the lexical verb MUST remain in base form V₁ ('did not comprehend', never 'did not comprehended')."
   },
   {
     "id": "WE-11",
@@ -148,24 +148,24 @@
       "step1_marker": "Imperative cue 'Look!' + temporal marker 'now' — commands visual attention to a real-time event.",
       "step2_time": "Time Dimension: Present.",
       "step3_aspect": "Aspect: Continuous.",
-      "step4_inflection": "Subject 'The digital signature' takes 'is' + V_ing 'appearing'.",
+      "step4_inflection": "Auxiliary and Lexical verb: Subject 'The digital signature' takes auxiliary 'is' + lexical present participle V_ing 'appearing'.",
       "step5_synthesis": "Final Output: 'Look! The digital signature is appearing on the portal now.'"
     },
     "trapWarning": "Attention-calling exclamations ('Look!', 'Listen!', 'Hurry up!') trigger Present Continuous."
   },
   {
     "id": "WE-12",
-    "sentence": "The security auditor ___ (examine) the log files for two hours when the power outage struck.",
+    "sentence": "Prior to the 4 PM audit cutoff yesterday, the security team ___ (examine) the log files for two hours.",
     "correctAnswer": "had been examining",
     "tense": "Past Perfect Continuous",
     "steps": {
-      "step1_marker": "'for two hours' (duration) preceding an interrupting past event ('when the power outage struck').",
+      "step1_marker": "Detected context: 'for two hours' (duration) accumulating prior to a past reference point ('Prior to the 4 PM audit cutoff yesterday').",
       "step2_time": "Time Dimension: Past.",
-      "step3_aspect": "Aspect: Perfect Continuous (duration leading directly into a past point).",
-      "step4_inflection": "Past Perfect Continuous auxiliary: 'had been' + V_ing 'examining'.",
-      "step5_synthesis": "Final Output: 'The security auditor had been examining the log files for two hours when the power outage struck.'"
+      "step3_aspect": "Aspect: Perfect Continuous (duration leading up to a past reference time).",
+      "step4_inflection": "Auxiliary and Lexical verb: Past perfect continuous auxiliary 'had been' + lexical present participle V_ing 'examining'.",
+      "step5_synthesis": "Final Output: 'Prior to the 4 PM audit cutoff yesterday, the security team had been examining the log files for two hours.'"
     },
-    "trapWarning": "Distinguishes ongoing duration prior to a past interruption from simple continuous actions."
+    "trapWarning": "Past Perfect Continuous ('had been examining') captures duration leading up to a past reference point. Advanced multi-clause sequence-of-tense harmony is taught in Lesson 02."
   },
   {
     "id": "WE-13",
@@ -176,10 +176,10 @@
       "step1_marker": "Detected marker: 'at this exact time tomorrow' — specific ongoing moment in the future.",
       "step2_time": "Time Dimension: Future.",
       "step3_aspect": "Aspect: Continuous (action in progress at a future instant).",
-      "step4_inflection": "Future continuous formula: 'will be' + V_ing 'addressing'.",
+      "step4_inflection": "Auxiliary and Lexical verb: Future continuous auxiliaries 'will be' + lexical present participle V_ing 'addressing'.",
       "step5_synthesis": "Final Output: 'The advocate general will be addressing the full bench at this exact time tomorrow.'"
     },
-    "trapWarning": "'Tomorrow' alone takes Simple Future, but 'at this time tomorrow' demands Future Continuous."
+    "trapWarning": "'Tomorrow' alone takes Simple Future, but 'at this time tomorrow' specifies an action ongoing at that moment (Future Continuous)."
   },
   {
     "id": "WE-14",
@@ -190,10 +190,10 @@
       "step1_marker": "Universal scientific truth / natural law — true in past, present, and future.",
       "step2_time": "Time Dimension: Present (timeless zero tense).",
       "step3_aspect": "Aspect: Simple.",
-      "step4_inflection": "Uncountable noun 'Water' takes singular 3rd-person inflection '-s' → 'freezes'.",
+      "step4_inflection": "Verb Inflection: Uncountable noun 'Water' takes lexical 3rd-person singular inflection '-s' → 'freezes' (no auxiliary in affirmative simple present).",
       "step5_synthesis": "Final Output: 'Water freezes at 0 degrees Celsius under standard atmospheric pressure.'"
     },
-    "trapWarning": "Scientific facts never shift to past tense even in indirect speech or historical reports."
+    "trapWarning": "Scientific truths, universal natural laws, and permanent facts take Simple Present ('freezes'). Detailed exceptions regarding tense retention in subordinate clauses after past verbs are taught in Lesson 02."
   },
   {
     "id": "WE-15",
@@ -204,9 +204,9 @@
       "step1_marker": "Detected marker: 'yet' in an interrogative sentence — inquiries about completion up to the present.",
       "step2_time": "Time Dimension: Present.",
       "step3_aspect": "Aspect: Perfect.",
-      "step4_inflection": "Interrogative inversion: Auxiliary 'Has' placed before singular subject 'the High Court administration' + V₃ 'published'.",
+      "step4_inflection": "Auxiliary and Lexical verb: Interrogative inversion places auxiliary 'Has' before singular subject 'the High Court administration', followed by lexical past participle V₃ 'published'.",
       "step5_synthesis": "Final Output: 'Has the High Court administration published the provisional answer key yet?'"
     },
-    "trapWarning": "'Yet' is characteristic of negative and interrogative Present Perfect sentences."
+    "trapWarning": "'Yet' commonly functions as a contextual clue in negative and interrogative Present Perfect sentences."
   }
 ]

@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react'
-import { Sparkles, Check, X, HelpCircle, Filter } from 'lucide-react'
+import { Filter } from 'lucide-react'
 import ruleCardsData from '../../content/lessons/L01/rule-cards.json'
 import { Card, Badge, Button } from '../common'
 

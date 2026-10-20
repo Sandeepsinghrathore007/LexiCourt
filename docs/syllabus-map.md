@@ -159,6 +159,8 @@ To uphold software quality and factual integrity, all development and content te
 1. **English vs. GK Partitioning:** The official syllabus does not specify the exact split of the 20 Part-B marks between General Knowledge and English (e.g., whether it is 10/10, 12/8, or variable).
 2. **Per-Topic Weightage:** No official document guarantees a specific question distribution across the 10 English topics (e.g., how many questions will come from Tenses vs. Voice vs. Vocabulary).
 3. **Historical Cutoffs & Trends:** Previous year question (PYQ) patterns, statistical topic frequency, and category-specific score distributions are not provided in the primary syllabus notification.
+4. **Official Language Precedence / Discrepancy Rule:** The supplied official syllabus PDF does not establish the asserted official English-language precedence rule. While frequently referenced in coaching roadmaps, it is not established by the official notification.
+5. **Sectional Time Limits:** The official written examination is a single 2-hour paper (120 minutes) across all 100 questions. Sectional pacing targets (such as completing English in 8–10 minutes) are candidate preparation strategies, not statutory examination limits.
 
 ### Strict Question Labeling Policy
 > [!IMPORTANT]

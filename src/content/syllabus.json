@@ -1,11 +1,14 @@
 {
   "examInfo": {
     "title": "Rajasthan High Court System Assistant Examination",
-    "section": "Part-B: General Knowledge & English (20 Marks)",
-    "englishWeightage": "10 Marks (10 MCQs)",
-    "ruleDiscrepancy": "In case of language ambiguity, English version prevails",
+    "writtenTestScheme": "100 MCQs / 100 Marks (Part-A: 80 Marks Computer Knowledge, Part-B: 20 Marks GK & English combined)",
+    "duration": "2 Hours (120 Minutes)",
     "negativeMarking": false,
-    "targetScore": "10/10"
+    "negativeMarkingNote": "Official syllabus specifies no negative marking in the written test",
+    "partBAllocationNote": "Part-B total is 20 marks combined for General Knowledge and English; an exact 10-question English split is not officially specified in the syllabus",
+    "prepTarget": "Flawless score across all English questions (commonly targeted as ~10/10 in prep roadmaps)",
+    "discrepancyRuleStatus": "Not established in the supplied official syllabus PDF; treated as secondary prep advice",
+    "curriculumDesign": "18-lesson instructional decomposition developed to systematically teach the 10 official syllabus topics"
   },
   "topics": [
     {
@@ -22,11 +25,11 @@
           "status": "active",
           "estimatedMinutes": 90,
           "difficulty": "Foundational",
-          "description": "Master all 12 tense structures (3 Times × 4 Aspects), auxiliary verb rules, affirmative/negative/interrogative patterns, and deterministic time markers.",
+          "description": "Master all 12 tense structures (3 Times × 4 Aspects), auxiliary verb rules, affirmative/negative/interrogative patterns, and contextual time markers.",
           "learningObjectives": [
             "Deconstruct the dual-axis tense matrix (Time × Aspect)",
             "Master structural formulas and auxiliary verbs for all 12 tenses",
-            "Identify deterministic time markers that signal correct tense choice",
+            "Identify contextual time markers that guide correct tense choice",
             "Disambiguate Simple Past vs Present Perfect and other confusing pairs",
             "Construct positive, negative, and interrogative sentences accurately"
           ],

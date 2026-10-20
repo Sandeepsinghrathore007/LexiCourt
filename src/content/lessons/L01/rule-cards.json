@@ -4,8 +4,8 @@
     "tense": "Simple Present (Present Indefinite)",
     "time": "Present",
     "aspect": "Simple",
-    "formula": "Subject + V₁ / V_s/es + Object",
-    "auxiliary": "do / does (in negative & interrogative)",
+    "formula": "Affirmative: S + V₁ / V_s/es + O | Negative: S + do/does not + V₁ + O",
+    "auxiliary": "None in affirmative; do / does in negative & interrogative",
     "usage": "Habitual actions, universal/scientific truths, permanent facts, scheduled future routines.",
     "patterns": {
       "affirmative": "The High Court issues notices on Mondays.",
@@ -13,7 +13,7 @@
       "interrogative": "Does the High Court issue notices on Mondays?"
     },
     "timeMarkers": ["always", "usually", "often", "daily", "every day", "seldom", "rarely", "regularly", "never"],
-    "keyTip": "Use V_s/es ONLY with 3rd-person singular subjects (He, She, It, Court, Committee)."
+    "keyTip": "Use V_s/es ONLY with 3rd-person singular affirmative subjects. Contextual note: frequency adverbs like 'always' can take Present Continuous to express irritation/annoyance (e.g., 'He is always interrupting')."
   },
   {
     "id": "RC-02",
@@ -29,7 +29,7 @@
       "interrogative": "Is the system assistant configuring the server right now?"
     },
     "timeMarkers": ["now", "right now", "at present", "at this moment", "currently", "nowadays", "these days"],
-    "keyTip": "Avoid using continuous aspect with stative verbs (know, believe, understand, belong, possess)."
+    "keyTip": "Avoid using continuous aspect with stative verbs (know, believe, understand, belong, possess). Note that 'always' can combine with continuous aspect to indicate annoyance."
   },
   {
     "id": "RC-03",
@@ -61,15 +61,15 @@
       "interrogative": "Has the IT department been testing the software for three hours?"
     },
     "timeMarkers": ["since + starting point", "for + duration", "all morning", "how long"],
-    "keyTip": "'Since' marks a point in time (since 2020, since 9 AM); 'For' marks duration (for 4 years, for 2 hours)."
+    "keyTip": "'Since' marks a starting point; 'for' marks duration. Contextual distinction: a completed period takes Simple Past ('He worked in Jaipur for three years'), while an ongoing period extending to the present uses Present Perfect or Perfect Continuous ('He has worked here for three years')."
   },
   {
     "id": "RC-05",
     "tense": "Simple Past (Past Indefinite)",
     "time": "Past",
     "aspect": "Simple",
-    "formula": "Subject + V₂ + Object (Affirmative) | Subject + did not + V₁ + Object (Negative)",
-    "auxiliary": "did (in negative & interrogative; base V₁ follows did)",
+    "formula": "Affirmative: S + V₂ + O | Negative: S + did not + V₁ + O",
+    "auxiliary": "None in affirmative; did in negative & interrogative",
     "usage": "Completed action that took place at a definite, finished point or period in the past.",
     "patterns": {
       "affirmative": "The bench pronounced the verdict yesterday.",
@@ -77,7 +77,7 @@
       "interrogative": "Did the bench pronounce the verdict yesterday?"
     },
     "timeMarkers": ["yesterday", "ago", "last night", "last year", "in 2018", "the other day", "once upon a time"],
-    "keyTip": "CRUCIAL: 'Did' absorbs pastness! Always use base form V₁ after 'did' (e.g., 'did not see', NEVER 'did not saw')."
+    "keyTip": "In affirmative clauses, V₂ is the past lexical verb form (no auxiliary). In negative and interrogative clauses, 'did' is the auxiliary and takes lexical base V₁ ('did not see', never 'did not saw'). If an action was in progress at a past point ('at 4 PM yesterday'), use Past Continuous."
   },
   {
     "id": "RC-06",
@@ -86,14 +86,14 @@
     "aspect": "Continuous",
     "formula": "Subject + was/were + V_ing + Object",
     "auxiliary": "was (singular & I) / were (plural & you)",
-    "usage": "Action ongoing at a specific moment in the past, or continuous background to a sudden past event.",
+    "usage": "Action ongoing at a specific moment in the past, or continuous background to a past reference time.",
     "patterns": {
-      "affirmative": "The clerk was updating the database when the power failed.",
+      "affirmative": "The clerk was updating the database at 4 PM yesterday.",
       "negative": "The clerk was not updating the database at that time.",
-      "interrogative": "Was the clerk updating the database when the power failed?"
+      "interrogative": "Was the clerk updating the database at 4 PM yesterday?"
     },
-    "timeMarkers": ["at that moment", "at 4 PM yesterday", "while", "when + Simple Past clause"],
-    "keyTip": "'While' typically introduces the continuous action; 'When' introduces the interrupting Simple Past action."
+    "timeMarkers": ["at that moment", "at 4 PM yesterday", "at that time", "during that hour"],
+    "keyTip": "Specifies an action in progress at a specific past moment. Note: 'yesterday' alone typically takes Simple Past, but a specific moment in progress ('at 4 PM yesterday') takes Past Continuous."
   },
   {
     "id": "RC-07",
@@ -102,14 +102,14 @@
     "aspect": "Perfect",
     "formula": "Subject + had + V₃ + Object",
     "auxiliary": "had (invariable for all subjects)",
-    "usage": "The 'Past of the Past' — an action completed prior to another definite past action or past time boundary.",
+    "usage": "An action completed prior to a specific past reference point or boundary.",
     "patterns": {
-      "affirmative": "The witness had left the courtroom before the judge arrived.",
-      "negative": "The witness had not left the courtroom before the judge arrived.",
-      "interrogative": "Had the witness left the courtroom before the judge arrived?"
+      "affirmative": "The witness had left the courtroom by 11 AM.",
+      "negative": "The witness had not left the courtroom by 11 AM.",
+      "interrogative": "Had the witness left the courtroom by 11 AM?"
     },
-    "timeMarkers": ["before", "after", "by the time", "already (in past context)", "until then"],
-    "keyTip": "Earlier Past Action = Past Perfect (had + V₃); Later Past Action = Simple Past (V₂)."
+    "timeMarkers": ["by + past time", "already (in past context)", "until then", "before [past time reference]"],
+    "keyTip": "Earlier Past Action = Past Perfect (had + V₃) relative to a past reference point. Advanced cross-clause sequence of tenses between two past actions is deferred to Lesson 02."
   },
   {
     "id": "RC-08",
@@ -118,14 +118,14 @@
     "aspect": "Perfect Continuous",
     "formula": "Subject + had + been + V_ing + Object + since/for + Time",
     "auxiliary": "had been (invariable)",
-    "usage": "Ongoing action that had been occurring for a duration prior to a specific point of intervention in the past.",
+    "usage": "Ongoing action that had been occurring for a duration prior to a specific reference point in the past.",
     "patterns": {
-      "affirmative": "They had been troubleshooting the network for two hours before finding the severed cable.",
+      "affirmative": "They had been troubleshooting the network for two hours before noon.",
       "negative": "They had not been monitoring the servers since morning.",
-      "interrogative": "Had they been troubleshooting the network for two hours before finding the bug?"
+      "interrogative": "Had they been troubleshooting the network for two hours before noon?"
     },
-    "timeMarkers": ["for + duration + before", "since + point + when"],
-    "keyTip": "Emphasizes duration leading directly up to another past event."
+    "timeMarkers": ["for + duration + before [past time]", "since + point (past context)"],
+    "keyTip": "Emphasizes duration leading directly up to a past reference point. Multi-clause sequence of tenses is developed in Lesson 02."
   },
   {
     "id": "RC-09",
@@ -173,7 +173,7 @@
       "interrogative": "Will the administration have digitized all records by the end of this year?"
     },
     "timeMarkers": ["by tomorrow", "by next week", "by the time + Simple Present clause", "by 2028"],
-    "keyTip": "Whenever you see 'by + future time', Future Perfect ('will have + V₃') is almost always mandatory."
+    "keyTip": "Whenever you see 'by + future time', Future Perfect ('will have + V₃') is the standard completion form."
   },
   {
     "id": "RC-12",

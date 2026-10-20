@@ -1,54 +1,144 @@
 import { useState } from 'react'
-import { GitCommit, ArrowRight, CheckCircle2 } from 'lucide-react'
+import { GitCommit, ArrowRight } from 'lucide-react'
 import { Badge, Card, Button } from '../../common'
 
 const DECISION_TREE = {
   Present: {
     Simple: {
-      'I / You / Plural': { aux: 'do (neg/int) | Base V₁ (aff)', example: 'They work • Do they work?' },
-      'He / She / It / Singular': { aux: 'does (neg/int) | V_s/es (aff)', example: 'He works • Does he work?' },
+      'I / You / Plural': {
+        aux: 'None in affirmative; "do" in negative & interrogative',
+        lexical: 'Base form V₁ in all clause types',
+        formula: 'Aff: S + V₁ | Neg: S + do not + V₁ | Int: Do + S + V₁?',
+        example: 'Affirmative: They work. | Interrogative: Do they work?',
+      },
+      'He / She / It / Singular': {
+        aux: 'None in affirmative; "does" in negative & interrogative',
+        lexical: 'V_s/es in affirmative; base V₁ after auxiliary "does"',
+        formula: 'Aff: S + V_s/es | Neg: S + does not + V₁ | Int: Does + S + V₁?',
+        example: 'Affirmative: He works. | Negative: He does not work.',
+      },
     },
     Continuous: {
-      'I': { aux: 'am', example: 'I am auditing the file.' },
-      'He / She / It / Singular': { aux: 'is', example: 'The court is hearing the plea.' },
-      'You / We / They / Plural': { aux: 'are', example: 'They are preparing the order.' },
+      'I': {
+        aux: 'am',
+        lexical: 'Present participle (V_ing)',
+        formula: 'S + am + V_ing',
+        example: 'I am auditing the file.',
+      },
+      'He / She / It / Singular': {
+        aux: 'is',
+        lexical: 'Present participle (V_ing)',
+        formula: 'S + is + V_ing',
+        example: 'The court is hearing the plea.',
+      },
+      'You / We / They / Plural': {
+        aux: 'are',
+        lexical: 'Present participle (V_ing)',
+        formula: 'S + are + V_ing',
+        example: 'They are preparing the order.',
+      },
     },
     Perfect: {
-      'He / She / It / Singular': { aux: 'has + V₃', example: 'She has submitted the affidavit.' },
-      'I / You / We / They / Plural': { aux: 'have + V₃', example: 'We have checked the database.' },
+      'He / She / It / Singular': {
+        aux: 'has',
+        lexical: 'Past participle (V₃)',
+        formula: 'S + has + V₃',
+        example: 'She has submitted the affidavit.',
+      },
+      'I / You / We / They / Plural': {
+        aux: 'have',
+        lexical: 'Past participle (V₃)',
+        formula: 'S + have + V₃',
+        example: 'We have checked the database.',
+      },
     },
     'Perfect Continuous': {
-      'He / She / It / Singular': { aux: 'has been + V_ing', example: 'He has been studying since 8 AM.' },
-      'I / You / We / They / Plural': { aux: 'have been + V_ing', example: 'They have been typing for hours.' },
+      'He / She / It / Singular': {
+        aux: 'has been (primary aux "has" + aspectual aux "been")',
+        lexical: 'Present participle (V_ing)',
+        formula: 'S + has been + V_ing',
+        example: 'He has been studying since 8 AM.',
+      },
+      'I / You / We / They / Plural': {
+        aux: 'have been (primary aux "have" + aspectual aux "been")',
+        lexical: 'Present participle (V_ing)',
+        formula: 'S + have been + V_ing',
+        example: 'They have been typing for hours.',
+      },
     },
   },
   Past: {
     Simple: {
-      'All Subjects': { aux: 'did (neg/int) | V₂ (aff)', example: 'He filed • Did he file?' },
+      'All Subjects': {
+        aux: 'None in affirmative; "did" in negative & interrogative',
+        lexical: 'V₂ (past) in affirmative; base V₁ after auxiliary "did"',
+        formula: 'Aff: S + V₂ | Neg: S + did not + V₁ | Int: Did + S + V₁?',
+        example: 'Affirmative: He filed the petition. | Interrogative: Did he file the petition?',
+      },
     },
     Continuous: {
-      'I / He / She / It / Singular': { aux: 'was + V_ing', example: 'The registrar was signing.' },
-      'You / We / They / Plural': { aux: 'were + V_ing', example: 'The clerks were drafting.' },
+      'I / He / She / It / Singular': {
+        aux: 'was',
+        lexical: 'Present participle (V_ing)',
+        formula: 'S + was + V_ing',
+        example: 'The registrar was signing the order.',
+      },
+      'You / We / They / Plural': {
+        aux: 'were',
+        lexical: 'Present participle (V_ing)',
+        formula: 'S + were + V_ing',
+        example: 'The clerks were drafting the notices.',
+      },
     },
     Perfect: {
-      'All Subjects': { aux: 'had + V₃', example: 'They had dispatched the notice.' },
+      'All Subjects': {
+        aux: 'had (invariable)',
+        lexical: 'Past participle (V₃)',
+        formula: 'S + had + V₃',
+        example: 'They had dispatched the notice before noon.',
+      },
     },
     'Perfect Continuous': {
-      'All Subjects': { aux: 'had been + V_ing', example: 'She had been waiting for two hours.' },
+      'All Subjects': {
+        aux: 'had been (past aux "had" + aspectual aux "been")',
+        lexical: 'Present participle (V_ing)',
+        formula: 'S + had been + V_ing',
+        example: 'She had been waiting for two hours.',
+      },
     },
   },
   Future: {
     Simple: {
-      'All Subjects (Formal I/We)': { aux: 'will / shall + V₁', example: 'The bench will convene tomorrow.' },
+      'All Subjects (Formal I/We)': {
+        aux: 'will / shall (modal auxiliary)',
+        lexical: 'Base form V₁',
+        formula: 'S + will/shall + V₁',
+        example: 'The bench will convene tomorrow.',
+      },
     },
     Continuous: {
-      'All Subjects': { aux: 'will be / shall be + V_ing', example: 'He will be drafting at that hour.' },
+      'All Subjects': {
+        aux: 'will be / shall be (modal "will/shall" + aspectual "be")',
+        lexical: 'Present participle (V_ing)',
+        formula: 'S + will/shall + be + V_ing',
+        example: 'He will be drafting at that hour.',
+      },
     },
     Perfect: {
-      'All Subjects': { aux: 'will have + V₃', example: 'They will have finished by 5 PM.' },
+      'All Subjects': {
+        aux: 'will have / shall have (modal "will/shall" + aspectual "have")',
+        lexical: 'Past participle (V₃)',
+        formula: 'S + will/shall + have + V₃',
+        example: 'They will have finished by 5 PM.',
+      },
     },
     'Perfect Continuous': {
-      'All Subjects': { aux: 'will have been + V_ing', example: 'By 2026, he will have been serving.' },
+      'All Subjects': {
+        aux: 'will have been / shall have been (modal + aspectual auxiliaries)',
+        lexical: 'Present participle (V_ing)',
+        formula: 'S + will/shall + have been + V_ing',
+        example: 'By next year, he will have been serving for a decade.',
+      },
     },
   },
 }
@@ -75,6 +165,8 @@ export default function AuxiliaryFlowchart() {
 
   const activeResult = DECISION_TREE[time]?.[aspect]?.[selectedSubject] || {
     aux: 'Select subject',
+    lexical: '',
+    formula: '',
     example: '',
   }
 
@@ -157,7 +249,7 @@ export default function AuxiliaryFlowchart() {
       </div>
 
       {/* Decision Output Box */}
-      <div className="p-4 rounded-xl bg-gradient-to-r from-primary-900 via-primary-800 to-indigo-950 text-white shadow-md space-y-3">
+      <div className="p-5 rounded-xl bg-gradient-to-r from-primary-900 via-primary-800 to-indigo-950 text-white shadow-md space-y-4">
         <div className="flex items-center justify-between text-xs text-primary-200 border-b border-primary-700/60 pb-2">
           <span className="flex items-center gap-1.5 font-mono">
             {time} <ArrowRight size={12} /> {aspect} <ArrowRight size={12} /> {selectedSubject}
@@ -165,17 +257,39 @@ export default function AuxiliaryFlowchart() {
           <Badge variant="success" size="sm">Decision Resolved</Badge>
         </div>
 
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
-          <div>
-            <span className="text-xs text-primary-200 block mb-1">Mandatory Auxiliary & Form:</span>
-            <p className="font-mono text-xl font-extrabold text-amber-300">
-              {activeResult.aux}
-            </p>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div className="space-y-2">
+            <div>
+              <span className="text-[11px] uppercase tracking-wider text-primary-300 block font-semibold">
+                Auxiliary Verb:
+              </span>
+              <p className="font-mono text-sm font-bold text-amber-300">
+                {activeResult.aux}
+              </p>
+            </div>
+            <div>
+              <span className="text-[11px] uppercase tracking-wider text-primary-300 block font-semibold">
+                Lexical Verb Form:
+              </span>
+              <p className="font-mono text-sm font-bold text-white">
+                {activeResult.lexical}
+              </p>
+            </div>
+            <div>
+              <span className="text-[11px] uppercase tracking-wider text-primary-300 block font-semibold">
+                Structural Formula:
+              </span>
+              <p className="font-mono text-xs text-primary-100 bg-primary-950/50 p-1.5 rounded border border-primary-700/40">
+                {activeResult.formula}
+              </p>
+            </div>
           </div>
 
-          <div className="bg-primary-950/60 p-3 rounded-lg border border-primary-700/50 max-w-md">
-            <span className="text-[10px] text-primary-300 block font-semibold mb-0.5">EXAM EXAMPLE:</span>
-            <p className="text-xs text-white font-medium italic">
+          <div className="bg-primary-950/60 p-3.5 rounded-lg border border-primary-700/50 flex flex-col justify-center">
+            <span className="text-[10px] text-primary-300 block font-semibold uppercase tracking-wider mb-1">
+              Exam Pattern Example:
+            </span>
+            <p className="text-xs text-white font-medium italic leading-relaxed">
               "{activeResult.example}"
             </p>
           </div>

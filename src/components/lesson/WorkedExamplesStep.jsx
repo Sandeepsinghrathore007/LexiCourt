@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { CheckCircle2, ChevronDown, ChevronRight, Eye, EyeOff, AlertTriangle, ArrowRight } from 'lucide-react'
+import { CheckCircle2, ChevronDown, ChevronRight, Eye, EyeOff, AlertTriangle } from 'lucide-react'
 import examplesData from '../../content/lessons/L01/worked-examples.json'
 import { Card, Badge, Button } from '../common'
 
@@ -60,7 +60,7 @@ export default function WorkedExamplesStep() {
         <div className="grid grid-cols-1 sm:grid-cols-5 gap-2 text-xs">
           <div className="p-2 rounded bg-white border border-surface-200 text-center">
             <span className="font-bold text-primary-700 block">1. Marker</span>
-            <span className="text-[10px] text-surface-500">Detect Signal Word</span>
+            <span className="text-[10px] text-surface-500">Contextual Clue</span>
           </div>
           <div className="p-2 rounded bg-white border border-surface-200 text-center">
             <span className="font-bold text-primary-700 block">2. Time</span>
@@ -72,7 +72,7 @@ export default function WorkedExamplesStep() {
           </div>
           <div className="p-2 rounded bg-white border border-surface-200 text-center">
             <span className="font-bold text-primary-700 block">4. Inflection</span>
-            <span className="text-[10px] text-surface-500">Aux + V₁/V₂/V₃</span>
+            <span className="text-[10px] text-surface-500">Aux & Lexical V</span>
           </div>
           <div className="p-2 rounded bg-white border border-surface-200 text-center">
             <span className="font-bold text-success-700 block">5. Synthesis</span>

@@ -30,10 +30,10 @@ export default function CurriculumSidebar() {
             <h2 className="font-heading font-bold text-sm text-surface-900 uppercase tracking-wider">
               Syllabus Curriculum
             </h2>
-            <Badge variant="primary" size="sm">18 Lessons</Badge>
+            <Badge variant="primary" size="sm">18 Modules</Badge>
           </div>
           <p className="text-xs text-surface-500">
-            10 Prescribed High Court Topics
+            Instructional breakdown of 10 official topics
           </p>
         </div>
 
@@ -169,14 +169,14 @@ export default function CurriculumSidebar() {
         </div>
       </div>
 
-      {/* Sidebar Footer: Exam Discrepancy Note */}
+      {/* Sidebar Footer: Official Exam Scheme */}
       <div className="p-3.5 m-3 rounded-xl bg-gradient-to-br from-surface-100 to-surface-50 border border-surface-200 text-xs space-y-1.5">
         <div className="flex items-center gap-1.5 font-bold text-surface-800">
           <Sparkles size={14} className="text-primary-600" />
-          <span>Official Discrepancy Rule</span>
+          <span>Official Exam Structure</span>
         </div>
         <p className="text-[11px] text-surface-600 leading-relaxed">
-          In case of language translation doubt, the High Court mandates that the English version is authentic.
+          100 MCQs / 100 Marks (Part-A: 80 Computer, Part-B: 20 GK & English combined). 2-hour duration, no negative marking.
         </p>
       </div>
     </aside>

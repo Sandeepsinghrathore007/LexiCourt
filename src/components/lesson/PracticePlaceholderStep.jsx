@@ -1,5 +1,5 @@
-import { Award, Clock, ArrowRight, ShieldCheck, CheckCircle2, AlertCircle } from 'lucide-react'
-import { Card, Badge, Button, Callout } from '../common'
+import { Clock } from 'lucide-react'
+import { Card, Badge, Callout } from '../common'
 
 export default function PracticePlaceholderStep({ step }) {
   return (

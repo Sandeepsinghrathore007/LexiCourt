@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Sparkles, Check, ArrowRight } from 'lucide-react'
+import { Sparkles, Check } from 'lucide-react'
 import { Badge, Card } from '../../common'
 
 const TIMES = ['Present', 'Past', 'Future']
@@ -8,8 +8,8 @@ const ASPECTS = ['Simple', 'Continuous', 'Perfect', 'Perfect Continuous']
 const MATRIX_DATA = {
   'Present-Simple': {
     tense: 'Simple Present',
-    formula: 'S + V₁ / V_s/es',
-    aux: 'do / does',
+    formula: 'S + V₁ / V_s/es (Aff) | S + do/does not + V₁',
+    aux: 'do / does (neg/int only)',
     example: 'The bench convenes daily at 10:30 AM.',
     markers: 'daily, always, usually, often, every week',
     color: 'border-primary-400 bg-primary-50/70',
@@ -40,8 +40,8 @@ const MATRIX_DATA = {
   },
   'Past-Simple': {
     tense: 'Simple Past',
-    formula: 'S + V₂ (Affirmative) | did not + V₁',
-    aux: 'did',
+    formula: 'S + V₂ (Aff) | S + did not + V₁',
+    aux: 'did (neg/int only)',
     example: 'The court issued the summon yesterday.',
     markers: 'yesterday, ago, last year, in 2021',
     color: 'border-amber-400 bg-amber-50/70',
@@ -219,7 +219,7 @@ export default function TenseMatrix() {
               </p>
             </div>
             <div>
-              <span className="font-bold text-surface-700 block mb-1">Deterministic Signal Markers:</span>
+              <span className="font-bold text-surface-700 block mb-1">Contextual Time Markers:</span>
               <p className="p-2.5 rounded-lg bg-white border border-surface-200 text-surface-600">
                 {activeData.markers}
               </p>
