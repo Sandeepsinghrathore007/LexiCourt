@@ -1,0 +1,112 @@
+{
+  "id": "L01",
+  "title": "Tenses Architecture & Time Markers",
+  "shortTitle": "Tenses Architecture",
+  "topicId": "T01",
+  "topicTitle": "Tenses/Sequences of Tenses",
+  "part": "1 of 3",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Foundational",
+  "targetScore": "100% Structural Accuracy",
+  "description": "Master all 12 tense structures (3 Times × 4 Aspects), auxiliary verb rules, affirmative/negative/interrogative patterns, and deterministic time markers.",
+  "learningObjectives": [
+    "Deconstruct the dual-axis tense matrix (Time × Aspect)",
+    "Master structural formulas and auxiliary verbs for all 12 tenses",
+    "Identify deterministic time markers that signal correct tense choice",
+    "Disambiguate Simple Past vs Present Perfect and other confusing pairs",
+    "Construct positive, negative, and interrogative sentences accurately"
+  ],
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Learning Objectives",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Understand why tenses are the foundation of English grammar and how the 12 tenses map to the High Court exam."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "12 Tenses In-Depth Theory",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "Comprehensive conceptual analysis of the 3 Times and 4 Aspects with complete verb inflection paradigms."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "3×4 Tense Matrix & Timelines",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Interactive SVG timeline graphs and comparative matrix mapping temporal relationships visually."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "Formulas & Auxiliary Quick Reference",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Compact structural formula cheat sheets and auxiliary verb concord lookup cards."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "Step-by-Step Derivation Logic",
+      "durationMin": 10,
+      "type": "worked-examples",
+      "summary": "15 annotated sentences breaking down time marker detection, aspect matching, and verb formation."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "Confusing Tense Pairs & Traps",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "Deconstruction of classic exam traps (Simple Past vs Present Perfect, state vs dynamic verbs)."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Questions with Instant Explanations",
+      "durationMin": 15,
+      "type": "guided-practice",
+      "summary": "Low-stakes interactive MCQs with immediate feedback, rule links, and option elimination rationales."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "20 Questions with Summary Review",
+      "durationMin": 20,
+      "type": "independent-practice",
+      "summary": "Exam-style question set without mid-test interruptions, concluding with detailed diagnostic results."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15 Questions Timed Simulation (12 Mins)",
+      "durationMin": 12,
+      "type": "mastery-assessment",
+      "summary": "Strict timed certification exam (target: ≥80% accuracy) required to earn official lesson mastery."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Review & Error Bank",
+      "subtitle": "Mistake Remediation & Retakes",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Customized review deck of missed questions with targeted re-practice to ensure 100% retention."
+    }
+  ]
+}

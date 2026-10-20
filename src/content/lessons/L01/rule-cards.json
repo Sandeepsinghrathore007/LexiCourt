@@ -1,0 +1,194 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Simple Present (Present Indefinite)",
+    "time": "Present",
+    "aspect": "Simple",
+    "formula": "Subject + V₁ / V_s/es + Object",
+    "auxiliary": "do / does (in negative & interrogative)",
+    "usage": "Habitual actions, universal/scientific truths, permanent facts, scheduled future routines.",
+    "patterns": {
+      "affirmative": "The High Court issues notices on Mondays.",
+      "negative": "The High Court does not issue notices on Sundays.",
+      "interrogative": "Does the High Court issue notices on Mondays?"
+    },
+    "timeMarkers": ["always", "usually", "often", "daily", "every day", "seldom", "rarely", "regularly", "never"],
+    "keyTip": "Use V_s/es ONLY with 3rd-person singular subjects (He, She, It, Court, Committee)."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Present Continuous (Progressive)",
+    "time": "Present",
+    "aspect": "Continuous",
+    "formula": "Subject + is/am/are + V_ing + Object",
+    "auxiliary": "is (singular) / am (I) / are (plural)",
+    "usage": "Actions actively taking place right at the moment of speaking, or temporary ongoing situations.",
+    "patterns": {
+      "affirmative": "The system assistant is configuring the server right now.",
+      "negative": "The system assistant is not configuring the server at present.",
+      "interrogative": "Is the system assistant configuring the server right now?"
+    },
+    "timeMarkers": ["now", "right now", "at present", "at this moment", "currently", "nowadays", "these days"],
+    "keyTip": "Avoid using continuous aspect with stative verbs (know, believe, understand, belong, possess)."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Present Perfect",
+    "time": "Present",
+    "aspect": "Perfect",
+    "formula": "Subject + has/have + V₃ + Object",
+    "auxiliary": "has (singular) / have (plural & I/you)",
+    "usage": "Completed past action with direct present relevance, or unspecified past life experience.",
+    "patterns": {
+      "affirmative": "The registrar has verified the electronic documents.",
+      "negative": "The registrar has not verified the electronic documents yet.",
+      "interrogative": "Has the registrar verified the electronic documents yet?"
+    },
+    "timeMarkers": ["already", "just", "yet", "recently", "lately", "so far", "ever", "never", "up to now", "since/for"],
+    "keyTip": "FATAL EXAM TRAP: NEVER pair Present Perfect with definite past time markers (yesterday, ago, in 2021)."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Present Perfect Continuous",
+    "time": "Present",
+    "aspect": "Perfect Continuous",
+    "formula": "Subject + has/have + been + V_ing + Object + since/for + Time",
+    "auxiliary": "has been / have been",
+    "usage": "Action that began at a point in the past and continues without interruption into the present moment.",
+    "patterns": {
+      "affirmative": "The IT department has been testing the software for three hours.",
+      "negative": "The IT department has not been testing the software since morning.",
+      "interrogative": "Has the IT department been testing the software for three hours?"
+    },
+    "timeMarkers": ["since + starting point", "for + duration", "all morning", "how long"],
+    "keyTip": "'Since' marks a point in time (since 2020, since 9 AM); 'For' marks duration (for 4 years, for 2 hours)."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Simple Past (Past Indefinite)",
+    "time": "Past",
+    "aspect": "Simple",
+    "formula": "Subject + V₂ + Object (Affirmative) | Subject + did not + V₁ + Object (Negative)",
+    "auxiliary": "did (in negative & interrogative; base V₁ follows did)",
+    "usage": "Completed action that took place at a definite, finished point or period in the past.",
+    "patterns": {
+      "affirmative": "The bench pronounced the verdict yesterday.",
+      "negative": "The bench did not pronounce the verdict yesterday.",
+      "interrogative": "Did the bench pronounce the verdict yesterday?"
+    },
+    "timeMarkers": ["yesterday", "ago", "last night", "last year", "in 2018", "the other day", "once upon a time"],
+    "keyTip": "CRUCIAL: 'Did' absorbs pastness! Always use base form V₁ after 'did' (e.g., 'did not see', NEVER 'did not saw')."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Past Continuous (Progressive)",
+    "time": "Past",
+    "aspect": "Continuous",
+    "formula": "Subject + was/were + V_ing + Object",
+    "auxiliary": "was (singular & I) / were (plural & you)",
+    "usage": "Action ongoing at a specific moment in the past, or continuous background to a sudden past event.",
+    "patterns": {
+      "affirmative": "The clerk was updating the database when the power failed.",
+      "negative": "The clerk was not updating the database at that time.",
+      "interrogative": "Was the clerk updating the database when the power failed?"
+    },
+    "timeMarkers": ["at that moment", "at 4 PM yesterday", "while", "when + Simple Past clause"],
+    "keyTip": "'While' typically introduces the continuous action; 'When' introduces the interrupting Simple Past action."
+  },
+  {
+    "id": "RC-07",
+    "tense": "Past Perfect",
+    "time": "Past",
+    "aspect": "Perfect",
+    "formula": "Subject + had + V₃ + Object",
+    "auxiliary": "had (invariable for all subjects)",
+    "usage": "The 'Past of the Past' — an action completed prior to another definite past action or past time boundary.",
+    "patterns": {
+      "affirmative": "The witness had left the courtroom before the judge arrived.",
+      "negative": "The witness had not left the courtroom before the judge arrived.",
+      "interrogative": "Had the witness left the courtroom before the judge arrived?"
+    },
+    "timeMarkers": ["before", "after", "by the time", "already (in past context)", "until then"],
+    "keyTip": "Earlier Past Action = Past Perfect (had + V₃); Later Past Action = Simple Past (V₂)."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Past Perfect Continuous",
+    "time": "Past",
+    "aspect": "Perfect Continuous",
+    "formula": "Subject + had + been + V_ing + Object + since/for + Time",
+    "auxiliary": "had been (invariable)",
+    "usage": "Ongoing action that had been occurring for a duration prior to a specific point of intervention in the past.",
+    "patterns": {
+      "affirmative": "They had been troubleshooting the network for two hours before finding the severed cable.",
+      "negative": "They had not been monitoring the servers since morning.",
+      "interrogative": "Had they been troubleshooting the network for two hours before finding the bug?"
+    },
+    "timeMarkers": ["for + duration + before", "since + point + when"],
+    "keyTip": "Emphasizes duration leading directly up to another past event."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Simple Future (Future Indefinite)",
+    "time": "Future",
+    "aspect": "Simple",
+    "formula": "Subject + will/shall + V₁ + Object",
+    "auxiliary": "will (all subjects) / shall (traditionally 1st-person I/we in formal English)",
+    "usage": "Spontaneous decisions, predictions, promises, or future scheduled occurrences.",
+    "patterns": {
+      "affirmative": "The committee will release the notification tomorrow.",
+      "negative": "The committee will not release the notification tomorrow.",
+      "interrogative": "Will the committee release the notification tomorrow?"
+    },
+    "timeMarkers": ["tomorrow", "next week", "next month", "soon", "shortly", "in the future"],
+    "keyTip": "In legal/official documents, 'shall' denotes mandatory obligation rather than simple futurity."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Future Continuous (Progressive)",
+    "time": "Future",
+    "aspect": "Continuous",
+    "formula": "Subject + will/shall + be + V_ing + Object",
+    "auxiliary": "will be / shall be",
+    "usage": "Action that will be actively in progress at a specific temporal point in the future.",
+    "patterns": {
+      "affirmative": "The candidates will be writing their exam at 10 AM tomorrow.",
+      "negative": "The candidates will not be writing their exam at that hour.",
+      "interrogative": "Will the candidates be writing their exam at 10 AM tomorrow?"
+    },
+    "timeMarkers": ["at this time tomorrow", "at 10 AM next Monday", "during the coming week"],
+    "keyTip": "Future Continuous cannot be transformed into passive voice in standard English."
+  },
+  {
+    "id": "RC-11",
+    "tense": "Future Perfect",
+    "time": "Future",
+    "aspect": "Perfect",
+    "formula": "Subject + will/shall + have + V₃ + Object + by + Time",
+    "auxiliary": "will have / shall have",
+    "usage": "Action that will be completely finished before or by a specified deadline in the future.",
+    "patterns": {
+      "affirmative": "The administration will have digitized all records by the end of this year.",
+      "negative": "The administration will not have digitized all records by then.",
+      "interrogative": "Will the administration have digitized all records by the end of this year?"
+    },
+    "timeMarkers": ["by tomorrow", "by next week", "by the time + Simple Present clause", "by 2028"],
+    "keyTip": "Whenever you see 'by + future time', Future Perfect ('will have + V₃') is almost always mandatory."
+  },
+  {
+    "id": "RC-12",
+    "tense": "Future Perfect Continuous",
+    "time": "Future",
+    "aspect": "Perfect Continuous",
+    "formula": "Subject + will/shall + have + been + V_ing + for + Duration + by + Time",
+    "auxiliary": "will have been / shall have been",
+    "usage": "Action that will have been continuously occurring for an ongoing duration up to a specified future landmark.",
+    "patterns": {
+      "affirmative": "By next July, he will have been serving as System Assistant for five years.",
+      "negative": "By next July, he will not have been serving here for that long.",
+      "interrogative": "Will he have been serving for five years by next July?"
+    },
+    "timeMarkers": ["by + future time ... for + duration"],
+    "keyTip": "Combines a completion deadline ('by...') with an ongoing duration measurement ('for...')."
+  }
+]

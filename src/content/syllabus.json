@@ -1,0 +1,289 @@
+{
+  "examInfo": {
+    "title": "Rajasthan High Court System Assistant Examination",
+    "section": "Part-B: General Knowledge & English (20 Marks)",
+    "englishWeightage": "10 Marks (10 MCQs)",
+    "ruleDiscrepancy": "In case of language ambiguity, English version prevails",
+    "negativeMarking": false,
+    "targetScore": "10/10"
+  },
+  "topics": [
+    {
+      "id": "T01",
+      "number": 1,
+      "title": "Tenses/Sequences of Tenses",
+      "category": "Core Grammar Architecture",
+      "officialSource": "Official Syllabus PDF, Page 2-3",
+      "lessons": [
+        {
+          "id": "L01",
+          "title": "Tenses Architecture & Time Markers",
+          "part": "1 of 3",
+          "status": "active",
+          "estimatedMinutes": 90,
+          "difficulty": "Foundational",
+          "description": "Master all 12 tense structures (3 Times × 4 Aspects), auxiliary verb rules, affirmative/negative/interrogative patterns, and deterministic time markers.",
+          "learningObjectives": [
+            "Deconstruct the dual-axis tense matrix (Time × Aspect)",
+            "Master structural formulas and auxiliary verbs for all 12 tenses",
+            "Identify deterministic time markers that signal correct tense choice",
+            "Disambiguate Simple Past vs Present Perfect and other confusing pairs",
+            "Construct positive, negative, and interrogative sentences accurately"
+          ],
+          "stepsCount": 10
+        },
+        {
+          "id": "L02",
+          "title": "Sequence of Tenses & Tense Harmony",
+          "part": "2 of 3",
+          "status": "locked",
+          "estimatedMinutes": 90,
+          "difficulty": "Advanced",
+          "description": "Rules governing tense agreement between main and subordinate clauses, past tense harmony, and universal truth exceptions.",
+          "stepsCount": 10
+        },
+        {
+          "id": "L03",
+          "title": "Conditional Sentences & Future Time Clauses",
+          "part": "3 of 3",
+          "status": "locked",
+          "estimatedMinutes": 105,
+          "difficulty": "Advanced",
+          "description": "Types 0, 1, 2, 3 conditionals, inverted conditionals (Had I..., Were he...), and temporal conjunction constraints.",
+          "stepsCount": 10
+        }
+      ]
+    },
+    {
+      "id": "T02",
+      "number": 2,
+      "title": "Voice: Active & Passive",
+      "category": "Structural Syntax Manipulation",
+      "officialSource": "Official Syllabus PDF, Page 2-3",
+      "lessons": [
+        {
+          "id": "L04",
+          "title": "Active & Passive Voice Fundamentals",
+          "part": "1 of 2",
+          "status": "locked",
+          "estimatedMinutes": 90,
+          "difficulty": "Intermediate",
+          "description": "Core active-to-passive conversions across tenses, auxiliary expansion (be + V3), and untransformable tenses.",
+          "stepsCount": 10
+        },
+        {
+          "id": "L05",
+          "title": "Advanced Voice: Imperatives, Modals & Prepositional Verbs",
+          "part": "2 of 2",
+          "status": "locked",
+          "estimatedMinutes": 90,
+          "difficulty": "Advanced",
+          "description": "Imperative passives (Let + obj + be + V3), modals (modal + be + V3), and retained fixed prepositions in passive voice.",
+          "stepsCount": 10
+        }
+      ]
+    },
+    {
+      "id": "T03",
+      "number": 3,
+      "title": "Narration: Direct and Indirect",
+      "category": "Structural Syntax Manipulation",
+      "officialSource": "Official Syllabus PDF, Page 2-3",
+      "lessons": [
+        {
+          "id": "L06",
+          "title": "Direct & Indirect Speech Fundamentals",
+          "part": "1 of 2",
+          "status": "locked",
+          "estimatedMinutes": 90,
+          "difficulty": "Intermediate",
+          "description": "Reporting verbs, backshift of tenses, pronoun reference shifts (SON rule), and adverbial time/place adjustments.",
+          "stepsCount": 10
+        },
+        {
+          "id": "L07",
+          "title": "Advanced Narration: Interrogatives, Imperatives & Exclamatory",
+          "part": "2 of 2",
+          "status": "locked",
+          "estimatedMinutes": 90,
+          "difficulty": "Advanced",
+          "description": "Yes/No (if/whether) and Wh- questions, question inversion removal, imperative commands/requests, and exclamations.",
+          "stepsCount": 10
+        }
+      ]
+    },
+    {
+      "id": "T04",
+      "number": 4,
+      "title": "Transformation of Sentences",
+      "category": "Structural Transformations",
+      "officialSource": "Official Syllabus PDF, Page 2-3",
+      "lessons": [
+        {
+          "id": "L08",
+          "title": "Sentence Transformations: Polarity & Types",
+          "part": "1 of 2",
+          "status": "locked",
+          "estimatedMinutes": 90,
+          "difficulty": "Intermediate",
+          "description": "Assertive to Negative without meaning change, Interrogative transformations, and Exclamatory conversions.",
+          "stepsCount": 10
+        },
+        {
+          "id": "L09",
+          "title": "Degrees of Comparison & Clause Transformations",
+          "part": "2 of 2",
+          "status": "locked",
+          "estimatedMinutes": 90,
+          "difficulty": "Advanced",
+          "description": "Positive, Comparative ('any other' + singular noun), Superlative degrees, and 'Too...to' to 'So...that' conversions.",
+          "stepsCount": 10
+        }
+      ]
+    },
+    {
+      "id": "T05",
+      "number": 5,
+      "title": "Use of Articles, Determiners and Prepositions",
+      "category": "Elevated Safe-Zone Rules",
+      "officialSource": "Official Syllabus PDF, Page 2-3",
+      "lessons": [
+        {
+          "id": "L10",
+          "title": "Articles: A/An Phonetics, The & Zero Article Omission",
+          "part": "1 of 3",
+          "status": "locked",
+          "estimatedMinutes": 90,
+          "difficulty": "Intermediate",
+          "description": "Vocalic sound rules for A/An, definite article The in legal contexts, omission of articles and particularization exceptions.",
+          "stepsCount": 10
+        },
+        {
+          "id": "L11",
+          "title": "Determiners & Quantifiers: Little vs Few Architecture",
+          "part": "2 of 3",
+          "status": "locked",
+          "estimatedMinutes": 90,
+          "difficulty": "Intermediate",
+          "description": "Countable vs uncountable quantifiers (Little/A little/The little vs Few/A few/The few), Each/Every distinctions.",
+          "stepsCount": 10
+        },
+        {
+          "id": "L12",
+          "title": "Prepositions: Spatio-Temporal & Administrative Fixed Prepositions",
+          "part": "3 of 3",
+          "status": "locked",
+          "estimatedMinutes": 90,
+          "difficulty": "Advanced",
+          "description": "In/At/On hierarchies, transitive verbs taking no preposition, and 50+ high-frequency administrative fixed prepositions.",
+          "stepsCount": 10
+        }
+      ]
+    },
+    {
+      "id": "T06",
+      "number": 6,
+      "title": "Correction of Sentences",
+      "category": "Error Detection & Synthesis",
+      "officialSource": "Official Syllabus PDF, Page 2-3",
+      "lessons": [
+        {
+          "id": "L13",
+          "title": "Subject-Verb Agreement & Error Architecture",
+          "part": "1 of 2",
+          "status": "locked",
+          "estimatedMinutes": 90,
+          "difficulty": "Advanced",
+          "description": "Proximity rule (Either/or), First-subject rule (as well as), distributive pronouns ('One of the' + plural noun + singular verb), collective nouns.",
+          "stepsCount": 10
+        },
+        {
+          "id": "L14",
+          "title": "Connectives, Modifiers & Words Wrongly Used Table",
+          "part": "2 of 2",
+          "status": "locked",
+          "estimatedMinutes": 90,
+          "difficulty": "Advanced",
+          "description": "Correlative conjunctions (Scarcely...when, No sooner...than, Lest...should), confusing word pairs (Affect/Effect, Judicial/Judicious).",
+          "stepsCount": 10
+        }
+      ]
+    },
+    {
+      "id": "T07",
+      "number": 7,
+      "title": "Synonyms and Antonyms",
+      "category": "High-Yield Vocabulary",
+      "officialSource": "Official Syllabus PDF, Page 3",
+      "lessons": [
+        {
+          "id": "L15",
+          "title": "High-Frequency & Legal/Administrative Synonyms & Antonyms",
+          "part": "1 of 1",
+          "status": "locked",
+          "estimatedMinutes": 75,
+          "difficulty": "Intermediate",
+          "description": "100+ high-frequency vocabulary words with legal, administrative, and competitive exam contextual sentences.",
+          "stepsCount": 10
+        }
+      ]
+    },
+    {
+      "id": "T08",
+      "number": 8,
+      "title": "One-Word Substitutions",
+      "category": "High-Yield Vocabulary",
+      "officialSource": "Official Syllabus PDF, Page 3",
+      "lessons": [
+        {
+          "id": "L16",
+          "title": "One-Word Substitutions (Root Words & Court Terms)",
+          "part": "1 of 1",
+          "status": "locked",
+          "estimatedMinutes": 75,
+          "difficulty": "Intermediate",
+          "description": "High-yield one-word substitutions with focus on legal, judicial, administrative, and morphological roots.",
+          "stepsCount": 10
+        }
+      ]
+    },
+    {
+      "id": "T09",
+      "number": 9,
+      "title": "Prefixes and Suffixes",
+      "category": "Morphological Word Formation",
+      "officialSource": "Official Syllabus PDF, Page 3",
+      "lessons": [
+        {
+          "id": "L17",
+          "title": "Prefixes & Suffixes: Morphological Word Formation",
+          "part": "1 of 1",
+          "status": "locked",
+          "estimatedMinutes": 75,
+          "difficulty": "Intermediate",
+          "description": "Affixes modifying roots, legal/administrative prefixes (Juris-, Non-, Ir-, Mal-), suffixes creating nouns, adjectives, verbs.",
+          "stepsCount": 10
+        }
+      ]
+    },
+    {
+      "id": "T10",
+      "number": 10,
+      "title": "Idioms & Phrases",
+      "category": "High-Yield Vocabulary",
+      "officialSource": "Official Syllabus PDF, Page 3",
+      "lessons": [
+        {
+          "id": "L18",
+          "title": "Idioms & Phrases in Administrative & Judicial Contexts",
+          "part": "1 of 1",
+          "status": "locked",
+          "estimatedMinutes": 75,
+          "difficulty": "Intermediate",
+          "description": "50+ recurring idioms in High Court and Rajasthan exams (At the eleventh hour, Null and void, In black and white).",
+          "stepsCount": 10
+        }
+      ]
+    }
+  ]
+}
