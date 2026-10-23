@@ -8,4 +8,8 @@ export default defineConfig({
     react(),
   ],
   base: './',
+  build: {
+    outDir: 'docs',
+    emptyOutDir: false,
+  },
 })
