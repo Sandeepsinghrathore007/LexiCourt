@@ -1,4 +1,4 @@
-import { BrowserRouter } from 'react-router-dom'
+import { HashRouter } from 'react-router-dom'
 import { ThemeProvider } from './context/ThemeProvider'
 import { FontSizeProvider } from './context/FontSizeProvider'
 import { ProgressProvider } from './context/ProgressProvider'
@@ -7,7 +7,7 @@ import AppRoutes from './routes'
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <ThemeProvider>
         <FontSizeProvider>
           <ProgressProvider>
@@ -17,6 +17,6 @@ export default function App() {
           </ProgressProvider>
         </FontSizeProvider>
       </ThemeProvider>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
