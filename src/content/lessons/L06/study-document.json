@@ -1,0 +1,440 @@
+{
+  "id": "L06-STUDY-DOC",
+  "title": "Comprehensive Study Guide: Direct & Indirect Speech — Fundamentals, Pronouns & Tense Backshift",
+  "subtitle": "Rajasthan High Court System Assistant Exam ke liye Narration ka Complete Reference",
+  "overview": "Narration (Direct aur Indirect Speech) English grammar ka wo pivotal topic hai jahan hum kisi person ke bole gaye shabdon ko report karte hain. Rajasthan High Court System Assistant exam mein reporting verbs ke patterns ('said' vs 'told'), speaker aur listener ke hisaab se pronoun shifting, reporting verb past hone par tense backshift, universal truths aur continuous facts ke exceptions, aur time/place expressions ke contextual changes par standard MCQs puche jaate hain. Is comprehensive study guide mein aap in sabhi concepts ki underlying grammar logic ko simple Roman Hinglish mein step-by-step master karenge.",
+  "sections": [
+    {
+      "id": "sec-direct-vs-indirect",
+      "number": 1,
+      "title": "A. Direct Speech and Indirect Speech: Fundamentals & Differences",
+      "summary": "Exact words quote karna vs meaning report karna, quotation marks, aur fundamental reporting architecture.",
+      "content": "Jab hum kisi vyakti ke kahe huye shabdon ko kisi doosre person tak pahunchate hain, toh hamare paas do tareeqe hote hain: (1) Direct Speech aur (2) Indirect Speech. Direct Speech mein hum speaker ke original aur exact words ko jaisa ka taisa inverted commas (\"...\") ke andar rakhte hain. Indirect Speech (jise Reported Speech bhi kehte hain) mein hum speaker ke exact words quote karne ke bajaye unka meaning aur substance apne shabdon mein bayan karte hain, jisse quotation marks ki zaroorat khatam ho jaati hai.",
+      "dimensions": [
+        {
+          "name": "Core Comparison & Structural Distinction",
+          "description": "Direct Speech aur Indirect Speech ke beech syntax aur punctuation ka farq.",
+          "categories": [
+            {
+              "name": "Direct Speech (Quoting Exact Words)",
+              "detail": "Direct Speech mein speaker ke actual words ko quotation marks (\"...\") mein enclose kiya jata hai aur reporting verb ke baad comma lagaya jata hai.\nExample: Riya said, \"I am tired.\"\nYahan 'Riya said' reporting clause hai aur '\"I am tired.\"' reported speech hai."
+            },
+            {
+              "name": "Indirect Speech (Reporting the Essence)",
+              "detail": "Indirect Speech mein inverted commas aur comma ko hata diya jata hai. Reporting clause aur reported clause ko connect karne ke liye conjunction (jaise 'that') lagaya jata hai, aur pronouns/tenses ko reporting situation ke anusaar badal diya jata hai.\nExample: Riya said that she was tired.\nYahan koi quotation marks nahi hain, 'I' ban gaya 'she', aur 'am' backshift hokar ban gaya 'was'."
+            }
+          ]
+        },
+        {
+          "name": "Why Indirect Speech Requires Systematic Changes",
+          "description": "Context badalne par pronoun, tense aur time references kyun change hote hain.",
+          "categories": [
+            {
+              "name": "Perspective Shift (Speaker & Hearer)",
+              "detail": "Jab Riya ne kaha tha 'I', tab wo khud ke baare mein baat kar rahi thi. Jab hum kisi teesre vyakti ko batayenge, toh 'I' humare liye 'she' (Riya) ban jayegi. Agar hum 'I' hi bolenge toh lagega ki hum khud thake huye hain."
+            },
+            {
+              "name": "Temporal Distance (Time Backshift)",
+              "detail": "Riya ne jab bola tha tab present time tha. Lekin jab hum use report kar rahe hain, tab wo ghatna past ban chuki hai. Isliye 'am' ko past tense 'was' mein backshift karna natural grammar requirement hai."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Core Rule: Direct Speech = Exact words inside quotation marks. Indirect Speech = Meaning reported in the narrator's own words, quotation marks removed, conjunction 'that' added, pronouns and tenses appropriately adjusted."
+    },
+    {
+      "id": "sec-narration-components",
+      "number": 2,
+      "title": "B. Main Components of Narration: Clause Anatomy & Referent Identification",
+      "summary": "Reporting subject, reporting verb, speaker, listener, reported clause, aur referent tracking.",
+      "content": "Narration ke sentence ko mechanical tareeqe se ratne ke bajaye uske grammatical components ko pehchanna sabse zaroori skill hai. Har direct narration sentence do mukhya hisson mein divided hota hai: (1) Reporting Clause (jo quotation marks ke bahar hota hai) aur (2) Reported Clause (jo quotation marks ke andar hota hai). In dono clauses ke andar 5 critical elements hote hain jo determine karte hain ki indirect speech mein kaunsa pronoun aayega aur kaunsa tense lagega.",
+      "dimensions": [
+        {
+          "name": "Anatomy of the Reporting Clause",
+          "description": "Quotation marks ke bahar ka framework jo context set karta hai.",
+          "categories": [
+            {
+              "name": "Reporting Subject (Speaker)",
+              "detail": "Wo vyakti jo sentence bol raha hai.\nExample: 'Rohan said to Priya...' mein Rohan reporting subject (speaker) hai."
+            },
+            {
+              "name": "Reporting Verb",
+              "detail": "Wo main verb jo batati hai ki baat kaise kahi gayi (said, told, remarked, stated).\nReporting verb ka tense poore reported clause ke tense behavior ko govern karta hai."
+            },
+            {
+              "name": "Reporting Object (Listener / Addressee)",
+              "detail": "Wo vyakti jisse baat kahi ja rahi hai.\nExample: 'Rohan said to Priya...' mein Priya reporting object (listener) hai."
+            }
+          ]
+        },
+        {
+          "name": "Anatomy of the Reported Clause",
+          "description": "Quotation marks ke andar ke words jinka transformation hona hai.",
+          "categories": [
+            {
+              "name": "Reported Pronouns",
+              "detail": "Quotation ke andar aane wale pronouns (I, we, you, he, she, they, my, your). Inhe change karte waqt hamesha speaker aur listener ki identity check ki jaati hai."
+            },
+            {
+              "name": "Reported Verb & Tense",
+              "detail": "Quotation ke andar ki verb (is, write, played, will come). Iska tense reporting verb ke tense aur statement ke nature (factual vs temporary) ke hisaab se decide hota hai."
+            },
+            {
+              "name": "Time & Place Adverbials",
+              "detail": "Time aur place ke words (now, today, yesterday, here, this) jo report karte waqt context ke anusaar badalte hain."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Anatomy Checklist: Sentence dekhte hi 3 cheezein note karein: (1) Speaker kaun hai? (2) Listener kaun hai? (3) Reporting verb ka tense kya hai (Present, Past, ya Future)?"
+    },
+    {
+      "id": "sec-assertive-conversion",
+      "number": 3,
+      "title": "C. Basic Assertive Sentence Conversion: Step-by-Step Algorithm",
+      "summary": "Statements ko Indirect Speech mein convert karne ka 5-step standard pattern aur 'that' conjunction ka role.",
+      "content": "Assertive sentences (declarative statements) wo sentences hote hain jo koi fact, opinion, ya information state karte hain (jaise 'I like reading', 'He has completed the work'). Inhe Indirect Speech mein transform karne ke liye ek fixed step-by-step algorithm follow kiya jata hai. Quoted clause ko main reporting clause ka subordinate noun clause banaya jata hai jise standardly declarative conjunction 'that' se introduce kiya jata hai.",
+      "dimensions": [
+        {
+          "name": "The 5-Step Transformation Algorithm",
+          "description": "Assertive sentence ko Direct se Indirect mein convert karne ka logical sequence.",
+          "categories": [
+            {
+              "name": "Step 1: Reporting Verb ko Adjust Karein",
+              "detail": "Agar reporting verb 'said to + object' hai, toh use 'told + object' mein badlein. Agar sirf 'said' hai (bina object ke), toh use 'said' hi rehne dein."
+            },
+            {
+              "name": "Step 2: Punctuation Remove Karein & 'That' Lagayein",
+              "detail": "Comma aur inverted commas (\"...\") ko hata dein aur reported clause se pehle conjunction 'that' lagayein."
+            },
+            {
+              "name": "Step 3: Pronouns ko Adjust Karein",
+              "detail": "Reported clause ke pronouns (First Person, Second Person) ko original speaker aur listener ke hisaab se change karein."
+            },
+            {
+              "name": "Step 4: Tense Backshift Apply Karein",
+              "detail": "Agar reporting verb Past Tense mein hai aur statement koi universal fact nahi hai, toh verb ko corresponding past form mein backshift karein."
+            },
+            {
+              "name": "Step 5: Time & Place Words Adjust Karein",
+              "detail": "Agar reporting context badal chuka hai, toh time/place words (today ➔ that day, now ➔ then) ko convert karein."
+            }
+          ]
+        },
+        {
+          "name": "The Role of Conjunction 'That'",
+          "description": "Subordinate declarative clause ko link karne ka function.",
+          "categories": [
+            {
+              "name": "Formal Examination Expectation",
+              "detail": "Competitive exams (RPSC, High Court) ke standard objective questions mein assertive statements ke indirect conversion mein 'that' ka hona expected aur standard mana jata hai."
+            },
+            {
+              "name": "No Double Conjunction",
+              "detail": "Assertive sentence mein 'that' ke sath koi doosra conjunction (jaise 'as', 'because', ya 'if') bina kisi reason ke repeat na karein."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Standard Assertive Formula: Subject + said/told + (object) + that + Reported Subject + Backshifted Verb + Rest of sentence."
+    },
+    {
+      "id": "sec-reporting-verbs",
+      "number": 4,
+      "title": "D. Reporting Verbs: Say, Tell, Remark, and Related Syntax Patterns",
+      "summary": "'Said' vs 'said that' vs 'told + object', transitiveness, aur competitive exam traps.",
+      "content": "Competitive examinations mein reporting verbs ka incorrect syntax sabse frequently tested trap hota hai. Sabse common reporting verbs 'say' aur 'tell' hain, lekin dono ke grammatical complementation patterns bilkul alag hote hain. 'Say' ek intransitive verb ki tarah behave karti hai jab uske baad listener specify na ho, jabki listener specify karne ke liye preposition 'to' ki zaroorat hoti hai ('said to me'). Dusri taraf, 'tell' ek transitive verb hai jiske baad listener (person object) ka aana mandatory hota hai ('told me').",
+      "dimensions": [
+        {
+          "name": "Say vs Tell: Core Syntax Differences",
+          "description": "Syntactic rules regarding objects and prepositions.",
+          "categories": [
+            {
+              "name": "'Said' (Without Object)",
+              "detail": "Jab sentence mein listener mention na ho, toh 'said' ke baad directly 'that' lagta hai.\nCorrect: He said that he was busy.\nIncorrect: He told that he was busy. ('Tell' bina object ke assertive narration mein galat hai)."
+            },
+            {
+              "name": "'Said to' Transformed to 'Told + Object'",
+              "detail": "Direct speech mein agar 'said to + person' ho, toh indirect speech mein wo 'told + person' ban jata hai.\nDirect: He said to me, \"I am ready.\"\nCorrect Indirect: He told me that he was ready.\nFATAL TRAP: 'He told to me that...' bilkul galat hai! 'Told' ke baad preposition 'to' kabhi nahi lagta."
+            },
+            {
+              "name": "'Remarked', 'Observed', 'Stated'",
+              "detail": "Ye verbs 'said' ki tarah behave karti hain aur direct clause ko introduce karti hain.\nExample: The judge remarked that the evidence was insufficient."
+            }
+          ]
+        },
+        {
+          "name": "High Court Exam Traps on Reporting Verbs",
+          "description": "Options mein deliberately dale gaye 3 recurring distractors.",
+          "categories": [
+            {
+              "name": "Trap 1: 'Told to + Object'",
+              "detail": "Distractor options mein aksar 'He told to him' ya 'She told to me' diya jata hai. 'Told' transitive verb hai, iske baad direct object aayega, preposition 'to' kabhi nahi."
+            },
+            {
+              "name": "Trap 2: 'Said me' (Missing Preposition)",
+              "detail": "Option mein 'He said me that...' likha hona invalid hai. 'Say' direct person object nahi leti; agar listener hai toh 'told me' ya 'said to me' hona chahiye."
+            },
+            {
+              "name": "Trap 3: 'Told that' (Missing Object)",
+              "detail": "Option mein 'He told that he had finished' likha ho toh eliminate karein, kyunki standard English mein 'tell' ko listener batana padta hai ('He told us/me that...')."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Golden Rule of Reporting Verbs: Said ➔ Said that (no object). Said to + Person ➔ Told + Person + that (never write 'told to'!)."
+    },
+    {
+      "id": "sec-pronoun-rules",
+      "number": 5,
+      "title": "E. Pronoun Change Rules: Speaker, Listener, and Referent Logic",
+      "summary": "1st Person (speaker), 2nd Person (listener), 3rd Person (unchanged), traditional SON rule ki boundaries aur referent clarity.",
+      "content": "Reported speech mein pronouns ko change karna mechanical replacement nahi hota, balki ye identify karna hota hai ki actually baat kisne kahi (speaker) aur kisse kahi (listener). Traditional exam prep mein iske liye 'SON Formula' sikhaya jata hai: S = Subject ke anusaar (1st Person), O = Object ke anusaar (2nd Person), N = No change (3rd Person). Ye rule aam taur par kaam karta hai, lekin learners ko iske peeche ki communicative logic samajhni chahiye taaki complex sentences mein meaning distort na ho.",
+      "dimensions": [
+        {
+          "name": "The Three Persons & Reference Mapping",
+          "description": "Grammatical person ke anusaar pronoun shift ka framework.",
+          "categories": [
+            {
+              "name": "First Person Pronouns (I, me, my, we, us, our)",
+              "detail": "First person pronouns hamesha original speaker (reporting subject) ke hisaab se change hote hain.\nDirect: Amit said, \"I have done my duty.\"\nIndirect: Amit said that he had done his duty. ('I' aur 'my' Amit/speaker ke anusaar 'he' aur 'his' ban gaye)."
+            },
+            {
+              "name": "Second Person Pronouns (you, your, yours)",
+              "detail": "Second person pronouns hamesha listener / addressee (reporting object) ke hisaab se change hote hain.\nDirect: She said to Rohit, \"You are late.\"\nIndirect: She told Rohit that he was late. ('You' Rohit/listener ke anusaar 'he' ban gaya).\nDirect: She said to me, \"You are late.\"\nIndirect: She told me that I was late. ('You' me/listener ke anusaar 'I' ban gaya)."
+            },
+            {
+              "name": "Third Person Pronouns (he, she, it, they, him, her, them, his, their)",
+              "detail": "Third person pronouns generally unhe refer karte hain jo na bol rahe hain na sun rahe hain, isliye inme koi person change nahi hota (No Change).\nDirect: He said, \"She is writing a report.\"\nIndirect: He said that she was writing a report."
+            }
+          ]
+        },
+        {
+          "name": "Crucial Nuances in Pronoun Referent Tracking",
+          "description": "Jahan mechanical SON rule fail ho sakta hai.",
+          "categories": [
+            {
+              "name": "Implied Listener (When Object is Omitted)",
+              "detail": "Agar direct speech mein 'said, \"You are wrong\"' likha ho aur object na ho, toh listener generally context se determine hota hai (aksar 'me' assume kiya jata hai: 'He said that I was wrong')."
+            },
+            {
+              "name": "Inclusive 'We' vs Exclusive 'We'",
+              "detail": "Agar speaker poore human race ya universal group ke liye 'we' use karta hai ('We are mortal'), toh wo 'they' mein nahi badalta; 'we' hi rehta hai ('He said that we are mortal')."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Pronoun Reference Guide: 1st Person (I, we) ➔ Matches Speaker. 2nd Person (you) ➔ Matches Listener. 3rd Person (he, she, they) ➔ Remains 3rd Person."
+    },
+    {
+      "id": "sec-tense-backshift",
+      "number": 6,
+      "title": "F. Tense Backshift: Patterns with Past Reporting Verbs",
+      "summary": "Simple Present to Simple Past, Continuous, Perfect, Simple Past to Past Perfect, modals backshift, aur step-by-step table.",
+      "content": "Jab reporting verb Past Tense mein hoti hai (jaise 'said', 'told', 'stated'), toh reported speech ka tense normal conditions mein ek step peeche past mein chala jata hai. Is process ko English grammar mein 'Tense Backshift' (Sequence of Tenses) kehte hain. Iska basic reason ye hai ki speaker ne wo baat past mein boli thi, isliye reporting ke waqt wo poori situation past perspective se dekhi jaati hai.",
+      "dimensions": [
+        {
+          "name": "Complete Tense Backshift Matrix",
+          "description": "Direct Speech ka tense Indirect Speech mein kis tense mein convert hota hai.",
+          "categories": [
+            {
+              "name": "Simple Present ➔ Simple Past",
+              "detail": "V1 / V1+s/es ➔ V2 (do/does ➔ did)\nDirect: Mohan said, \"I work in the High Court registry.\"\nIndirect: Mohan said that he worked in the High Court registry."
+            },
+            {
+              "name": "Present Continuous ➔ Past Continuous",
+              "detail": "is/am/are + V4 ➔ was/were + V4\nDirect: Sunita said, \"The clerks are typing the order.\"\nIndirect: Sunita said that the clerks were typing the order."
+            },
+            {
+              "name": "Present Perfect ➔ Past Perfect",
+              "detail": "has/have + V3 ➔ had + V3\nDirect: The lawyer said, \"I have filed the rejoinder.\"\nIndirect: The lawyer said that he had filed the rejoinder."
+            },
+            {
+              "name": "Present Perfect Continuous ➔ Past Perfect Continuous",
+              "detail": "has/have been + V4 ➔ had been + V4\nDirect: He said, \"I have been researching this case since morning.\"\nIndirect: He said that he had been researching this case since morning."
+            },
+            {
+              "name": "Simple Past ➔ Past Perfect",
+              "detail": "V2 / did + V1 ➔ had + V3\nDirect: The officer said, \"The applicant submitted the affidavit yesterday.\"\nIndirect: The officer said that the applicant had submitted the affidavit the previous day.\nNote: Simple Past past se bhi pehle ki ghatna ban jati hai, isliye Past Perfect mein shift hoti hai."
+            },
+            {
+              "name": "Past Continuous ➔ Past Perfect Continuous",
+              "detail": "was/were + V4 ➔ had been + V4\nDirect: She said, \"They were verifying the documents.\"\nIndirect: She said that they had been verifying the documents."
+            },
+            {
+              "name": "Past Perfect & Past Perfect Continuous ➔ NO CHANGE",
+              "detail": "had + V3 / had been + V4 ➔ Unchanged\nPast Perfect already past ka extreme point hai, iska aur further backshift sambhav nahi hai."
+            }
+          ]
+        },
+        {
+          "name": "Modal Auxiliaries Backshift",
+          "description": "Modal verbs ka past reporting verb ke sath behavior.",
+          "categories": [
+            {
+              "name": "Will / Shall ➔ Would / Should",
+              "detail": "Direct: He said, \"The bench will announce the decision tomorrow.\"\nIndirect: He said that the bench would announce the decision the next day.\nNote: In modern narration, third person subject ke sath normally 'would' lagta hai."
+            },
+            {
+              "name": "Can ➔ Could & May ➔ Might",
+              "detail": "Direct: She said, \"I can verify the digital signature.\"\nIndirect: She said that she could verify the digital signature.\nDirect: He said, \"The petitioner may withdraw the petition.\"\nIndirect: He said that the petitioner might withdraw the petition."
+            },
+            {
+              "name": "Must ➔ Had to (Obligation) / Must (Deduction/Permanent)",
+              "detail": "Specific present obligation ke context mein 'must' aksar 'had to' mein badalta hai.\nDirect: He said, \"I must submit the response today.\"\nIndirect: He said that he had to submit the response that day.\nUniversal obligation ya logical deduction mein 'must' unchanged rehta hai ('He said that one must respect the law')."
+            },
+            {
+              "name": "Already Past Modals (Could, Would, Should, Might, Ought to)",
+              "detail": "In modals ka koi further past form nahi hota, isliye ye unchanged rehte hain.\nDirect: He said, \"You should consult senior counsel.\"\nIndirect: He said that I should consult senior counsel."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Backshift Summary: Present tenses ➔ Corresponding Past tenses. Simple Past ➔ Past Perfect. Past Continuous ➔ Past Perfect Continuous. Will ➔ Would, Can ➔ Could, May ➔ Might. Past Perfect & Past Modals ➔ No change."
+    },
+    {
+      "id": "sec-backshift-exceptions",
+      "number": 7,
+      "title": "G. When Backshift Is Unnecessary or Context-Dependent: Critical Exceptions",
+      "summary": "Universal truths, scientific facts, permanent facts, present/future reporting verbs, aur exam considerations.",
+      "content": "Rajasthan High Court aur dusre competitive exams ka ek favourite testing area hai: 'Kya reporting verb past mein hone par hamesha backshift hota hai?' Jawab hai: NAHI. Kai aisi situations hoti hain jahan reporting verb Past Tense ('said') mein hone ke bawajood reported clause ka tense Simple Present ya original form mein hi retain kiya jata hai. Agar candidate bina context dekhe mechanically verb ko past mein badalta hai, toh wo examiner ke trap mein phans jata hai.",
+      "dimensions": [
+        {
+          "name": "Universal Truths, Scientific Laws & Permanent Facts",
+          "description": "Aisi baatein jo hamesha sach rehti hain, chahe kab kahi gayi hon.",
+          "categories": [
+            {
+              "name": "Universal Truth / Scientific Law",
+              "detail": "Agar reported clause koi universal truth, scientific fact, ya geographical law بیان karta hai, toh tense bilkul change nahi hota.\nDirect: The teacher said, \"The Earth revolves around the Sun.\"\nCorrect Indirect: The teacher said that the Earth revolves around the Sun.\nIncorrect Indirect: The teacher said that the Earth revolved around the Sun. ('Revolved' likhne ka matlab hoga ki dharti ne ab ghoomna band kar diya hai!)."
+            },
+            {
+              "name": "Proverbs & Idiomatic Truths",
+              "detail": "Kahaavatein aur moral maxims hamesha Simple Present mein rehti hain.\nDirect: My father said, \"Honesty is the best policy.\"\nCorrect Indirect: My father said that honesty is the best policy."
+            },
+            {
+              "name": "Habitual Actions & Permanent States",
+              "detail": "Aisi aadat ya routine jo abhi bhi valid hai.\nDirect: He said, \"I take a brisk walk every morning.\"\nIndirect: He said that he takes a brisk walk every morning (agar habit abhi bhi continuing hai)."
+            }
+          ]
+        },
+        {
+          "name": "Present or Future Reporting Verbs (NO BACKSHIFT)",
+          "description": "Jab reporting verb past mein nahi hoti.",
+          "categories": [
+            {
+              "name": "Reporting Verb in Present Tense (says, has said)",
+              "detail": "Jab reporting verb Simple Present ('says') ya Present Perfect ('has said') mein ho, toh reported clause ke tense mein koi backshift NAHI hota! Sirf pronoun changes hote hain.\nDirect: The registrar says, \"The server is functioning normally.\"\nCorrect Indirect: The registrar says that the server is functioning normally.\nFATAL TRAP: Candidate 'is' ko 'was' kar dete hain, jo bilkul galat hai kyunki reporting verb 'says' present hai."
+            },
+            {
+              "name": "Reporting Verb in Future Tense (will say)",
+              "detail": "Agar reporting verb Future Tense mein ho, tab bhi reported tense change nahi hota.\nDirect: The judge will say, \"The court requires further clarification.\"\nIndirect: The judge will say that the court requires further clarification."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Exception Rule: (1) Reporting verb Past hone par bhi Universal Truths, Scientific Facts, aur Proverbs ka tense change NAHI hota. (2) Reporting verb agar Present (says) ya Future (will say) mein ho, toh reported clause ka tense freeze rehta hai."
+    },
+    {
+      "id": "sec-time-place-expressions",
+      "number": 8,
+      "title": "H. Time and Place Expressions: Adverbial Reference Shifts & Context Rules",
+      "summary": "Today to that day, yesterday to the previous day, tomorrow to the next day, now to then, here to there, aur contextual logic.",
+      "content": "Direct speech mein bole gaye time aur place ke adverbs us samay ke speaker ke physical aur temporal context par based hote hain. Jab speech kisi doosri jagah ya doosre din report ki jaati hai, toh ye expressions listener ke perspective se badal jaate hain. Traditional competitive grammar mein iski ek standard transformation table sikhayi jaati hai, lekin ye yaad rakhna zaroori hai ki ye changes mechanical nahi hain—ye reporting ke actual time aur location par depend karte hain.",
+      "dimensions": [
+        {
+          "name": "Standard Adverbial Transformation Matrix",
+          "description": "Direct se Indirect mein time aur place words ka conventional shift.",
+          "categories": [
+            {
+              "name": "Time Expressions (Days & Relative Chronology)",
+              "detail": "• Today ➔ That day\n• Yesterday ➔ The previous day / The day before\n• Tomorrow ➔ The next day / The following day\n• Tonight ➔ That night\n• Last night ➔ The previous night / The night before\n• Next week ➔ The following week\n• A year ago ➔ A year before / The previous year"
+            },
+            {
+              "name": "Proximity to Distance Expressions (Place & Demonstratives)",
+              "detail": "• Now ➔ Then\n• Here ➔ There\n• This ➔ That\n• These ➔ Those\n• Ago ➔ Before\n• Thus ➔ So"
+            }
+          ]
+        },
+        {
+          "name": "When Adverbial Shifts are Context-Dependent",
+          "description": "Situations jahan words change nahi hote.",
+          "categories": [
+            {
+              "name": "Reported on the Same Day",
+              "detail": "Agar sentence subah bola gaya aur dopahar ya sham ko usi din report kiya ja raha ho, toh 'today' ko 'that day' mein badalna natural nahi hota ('He said this morning that he will come today'). Lekin formal exam questions mein standard convention 'that day' assume karti hai jab tak specific same-day context na diya ho."
+            },
+            {
+              "name": "Reported in the Same Place",
+              "detail": "Agar speaker aur reporter dono usi jagah khade hain jahan ki baat ho rahi hai, toh 'here' ko 'there' nahi kiya jata ('He said he would meet me here')."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Adverbial Guide: Conventional examination questions mein: today ➔ that day, yesterday ➔ the previous day, tomorrow ➔ the next/following day, now ➔ then, this ➔ that, here ➔ there."
+    },
+    {
+      "id": "sec-narration-pitfalls",
+      "number": 9,
+      "title": "I. Common Narration Traps: 9 Critical Competitive Exam Distractors",
+      "summary": "Incorrect pronoun selection, told to me trap, unnecessary backshift, failure to backshift Simple Past, double that, aur meaning distortion.",
+      "content": "Competitive examinations ke multiple-choice options randomly design nahi kiye jaate. Exam setters deliberately 9 recurring distractor patterns ka use karte hain taaki hasty candidates ko trick kiya ja sake. Har trap ko identify karke eliminate karne ki practice se score 100% accurate banaya ja sakta hai.",
+      "dimensions": [
+        {
+          "name": "Reporting Structure & Verb Traps",
+          "description": "Reporting verbs aur conjunctions ke syntax errors.",
+          "categories": [
+            {
+              "name": "Trap 1: 'Told to me' Blunder",
+              "detail": "Incorrect: He told to me that he was tired.\nCorrect: He told me that he was tired. / He said to me that he was tired.\nReason: 'Told' transitive verb hai, iske baad preposition 'to' lagana fatal error hai."
+            },
+            {
+              "name": "Trap 2: 'Said me' Omission",
+              "detail": "Incorrect: She said me that she had passed.\nCorrect: She told me that she had passed.\nReason: 'Say' directly person object nahi leti; agar listener hai toh 'told + object' lagayein."
+            },
+            {
+              "name": "Trap 3: 'Said that' with listener object",
+              "detail": "Incorrect: He said him that he would help.\nCorrect: He told him that he would help."
+            }
+          ]
+        },
+        {
+          "name": "Tense & Logic Traps",
+          "description": "Tense backshift aur exceptions ke distractor patterns.",
+          "categories": [
+            {
+              "name": "Trap 4: Unnecessary Backshift in Universal Truths",
+              "detail": "Incorrect: The guru said that truth always triumphed.\nCorrect: The guru said that truth always triumphs.\nReason: Universal eternal truths aur proverbs past reporting verb ke sath bhi Simple Present mein rehte hain."
+            },
+            {
+              "name": "Trap 5: Backshifting when Reporting Verb is Present ('Says')",
+              "detail": "Incorrect: The clerk says that the judge was in the chamber.\nCorrect: The clerk says that the judge is in the chamber.\nReason: Reporting verb 'says' present tense mein hai, isliye reported verb 'is' freeze rahegi."
+            },
+            {
+              "name": "Trap 6: Failure to Backshift Simple Past (V2 ➔ Had + V3)",
+              "detail": "Incorrect: He said, \"I wrote the letter.\" ➔ He said that he wrote the letter.\nCorrect: He said that he had written the letter.\nReason: Simple Past standardly Past Perfect mein backshift hota hai."
+            }
+          ]
+        },
+        {
+          "name": "Pronoun & Meaning Traps",
+          "description": "Pronouns aur time shifts se meaning distort hona.",
+          "categories": [
+            {
+              "name": "Trap 7: Confusing Speaker with Listener in Pronouns",
+              "detail": "Direct: She said to him, \"I appreciate your effort.\"\nIncorrect: She told him that he appreciated her effort. (Pronouns interchange ho gaye!)\nCorrect: She told him that she appreciated his effort."
+            },
+            {
+              "name": "Trap 8: Double Conjunction / 'That' Misplacement",
+              "detail": "Incorrect: He said that because he was sick that he could not come.\nCorrect: He said that because he was sick, he could not come."
+            },
+            {
+              "name": "Trap 9: Mechanical Time Replacement without Context Check",
+              "detail": "Questions jahan options mein 'tomorrow' ko 'yesterday' bana diya jata hai ya meaningless combination set kiya jata hai."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Master Elimination Strategy: Exam question dekhte hi 3 checks karein: (1) Reporting verb 'told' ke baad 'to' toh nahi laga? (2) Reporting verb past hai ya present? (3) Pronoun ne original speaker/listener ka relation faithfully maintain kiya hai ya distort kar diya?"
+    }
+  ]
+}

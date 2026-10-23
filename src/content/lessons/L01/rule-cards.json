@@ -5,15 +5,15 @@
     "time": "Present",
     "aspect": "Simple",
     "formula": "Affirmative: S + V₁ / V_s/es + O | Negative: S + do/does not + V₁ + O",
-    "auxiliary": "None in affirmative; do / does in negative & interrogative",
-    "usage": "Habitual actions, universal/scientific truths, permanent facts, scheduled future routines.",
+    "auxiliary": "Affirmative mein koi auxiliary nahi; negative aur interrogative mein do / does",
+    "usage": "Habitual actions, universal/scientific truths, permanent facts aur scheduled future routines ke liye use hota hai.",
     "patterns": {
       "affirmative": "The High Court issues notices on Mondays.",
       "negative": "The High Court does not issue notices on Sundays.",
       "interrogative": "Does the High Court issue notices on Mondays?"
     },
     "timeMarkers": ["always", "usually", "often", "daily", "every day", "seldom", "rarely", "regularly", "never"],
-    "keyTip": "Use V_s/es ONLY with 3rd-person singular affirmative subjects. Contextual note: frequency adverbs like 'always' can take Present Continuous to express irritation/annoyance (e.g., 'He is always interrupting')."
+    "keyTip": "V_s/es sirf 3rd-person singular affirmative subjects ke saath lagayein. Contextual note: 'always' jaise frequency adverbs annoyance/irritation express karne ke liye Present Continuous ke saath bhi aa sakte hain (jaise 'He is always interrupting')."
   },
   {
     "id": "RC-02",
@@ -22,14 +22,14 @@
     "aspect": "Continuous",
     "formula": "Subject + is/am/are + V_ing + Object",
     "auxiliary": "is (singular) / am (I) / are (plural)",
-    "usage": "Actions actively taking place right at the moment of speaking, or temporary ongoing situations.",
+    "usage": "Bolne ke exact waqt par chal rahe dynamic actions ya temporary ongoing situations ke liye use hota hai.",
     "patterns": {
       "affirmative": "The system assistant is configuring the server right now.",
       "negative": "The system assistant is not configuring the server at present.",
       "interrogative": "Is the system assistant configuring the server right now?"
     },
     "timeMarkers": ["now", "right now", "at present", "at this moment", "currently", "nowadays", "these days"],
-    "keyTip": "Avoid using continuous aspect with stative verbs (know, believe, understand, belong, possess). Note that 'always' can combine with continuous aspect to indicate annoyance."
+    "keyTip": "Stative verbs (know, believe, understand, belong, possess) ke saath continuous aspect use na karein. Note: 'always' continuous ke saath aakar annoyance dikha sakta hai."
   },
   {
     "id": "RC-03",
@@ -37,15 +37,15 @@
     "time": "Present",
     "aspect": "Perfect",
     "formula": "Subject + has/have + V₃ + Object",
-    "auxiliary": "has (singular) / have (plural & I/you)",
-    "usage": "Completed past action with direct present relevance, or unspecified past life experience.",
+    "auxiliary": "has (singular) / have (plural aur I/you)",
+    "usage": "Past mein complete huye action ke liye jiska present se direct connection ho, ya unspecified past experiences ke liye.",
     "patterns": {
       "affirmative": "The registrar has verified the electronic documents.",
       "negative": "The registrar has not verified the electronic documents yet.",
       "interrogative": "Has the registrar verified the electronic documents yet?"
     },
     "timeMarkers": ["already", "just", "yet", "recently", "lately", "so far", "ever", "never", "up to now", "since/for"],
-    "keyTip": "FATAL EXAM TRAP: NEVER pair Present Perfect with definite past time markers (yesterday, ago, in 2021)."
+    "keyTip": "CRITICAL EXAM TRAP: Present Perfect ke saath definite past time markers (yesterday, ago, in 2021) KABHI use nahi hote."
   },
   {
     "id": "RC-04",
@@ -54,14 +54,14 @@
     "aspect": "Perfect Continuous",
     "formula": "Subject + has/have + been + V_ing + Object + since/for + Time",
     "auxiliary": "has been / have been",
-    "usage": "Action that began at a point in the past and continues without interruption into the present moment.",
+    "usage": "Aise action ke liye jo past ke kisi point par start hua aur bina ruke abhi present moment tak chal raha hai.",
     "patterns": {
       "affirmative": "The IT department has been testing the software for three hours.",
       "negative": "The IT department has not been testing the software since morning.",
       "interrogative": "Has the IT department been testing the software for three hours?"
     },
     "timeMarkers": ["since + starting point", "for + duration", "all morning", "how long"],
-    "keyTip": "'Since' marks a starting point; 'for' marks duration. Contextual distinction: a completed period takes Simple Past ('He worked in Jaipur for three years'), while an ongoing period extending to the present uses Present Perfect or Perfect Continuous ('He has worked here for three years')."
+    "keyTip": "'Since' starting point batata hai; 'for' duration batata hai. Contextual difference: complete past period ke liye Simple Past lagta hai ('He worked in Jaipur for three years'), jabki present tak chalne wale period ke liye Present Perfect ya Perfect Continuous ('He has worked here for three years')."
   },
   {
     "id": "RC-05",
@@ -69,15 +69,15 @@
     "time": "Past",
     "aspect": "Simple",
     "formula": "Affirmative: S + V₂ + O | Negative: S + did not + V₁ + O",
-    "auxiliary": "None in affirmative; did in negative & interrogative",
-    "usage": "Completed action that took place at a definite, finished point or period in the past.",
+    "auxiliary": "Affirmative mein koi auxiliary nahi; negative aur interrogative mein did",
+    "usage": "Aisa complete action jo past ke kisi definite aur finished point ya period par hua tha.",
     "patterns": {
       "affirmative": "The bench pronounced the verdict yesterday.",
       "negative": "The bench did not pronounce the verdict yesterday.",
       "interrogative": "Did the bench pronounce the verdict yesterday?"
     },
     "timeMarkers": ["yesterday", "ago", "last night", "last year", "in 2018", "the other day", "once upon a time"],
-    "keyTip": "In affirmative clauses, V₂ is the past lexical verb form (no auxiliary). In negative and interrogative clauses, 'did' is the auxiliary and takes lexical base V₁ ('did not see', never 'did not saw'). If an action was in progress at a past point ('at 4 PM yesterday'), use Past Continuous."
+    "keyTip": "Affirmative clauses mein V₂ lexical verb form hoti hai (koi auxiliary nahi). Negative aur interrogative clauses mein auxiliary 'did' lagti hai jiske saath hamesha base verb V₁ aati hai ('did not see', 'did not saw' galat hai). Past ke specific moment par chal rahe action ke liye ('at 4 PM yesterday') Past Continuous use karein."
   },
   {
     "id": "RC-06",
@@ -85,15 +85,15 @@
     "time": "Past",
     "aspect": "Continuous",
     "formula": "Subject + was/were + V_ing + Object",
-    "auxiliary": "was (singular & I) / were (plural & you)",
-    "usage": "Action ongoing at a specific moment in the past, or continuous background to a past reference time.",
+    "auxiliary": "was (singular aur I) / were (plural aur you)",
+    "usage": "Past ke kisi specific moment par chal rahe ongoing action ke liye, ya past context mein continuous background activity ke liye.",
     "patterns": {
       "affirmative": "The clerk was updating the database at 4 PM yesterday.",
       "negative": "The clerk was not updating the database at that time.",
       "interrogative": "Was the clerk updating the database at 4 PM yesterday?"
     },
     "timeMarkers": ["at that moment", "at 4 PM yesterday", "at that time", "during that hour"],
-    "keyTip": "Specifies an action in progress at a specific past moment. Note: 'yesterday' alone typically takes Simple Past, but a specific moment in progress ('at 4 PM yesterday') takes Past Continuous."
+    "keyTip": "Past ke kisi specific time par chal rahe action ko dikhata hai. Note: akele 'yesterday' ke saath Simple Past aata hai, lekin specific moment in progress ('at 4 PM yesterday') ke saath Past Continuous lagta hai."
   },
   {
     "id": "RC-07",
@@ -101,15 +101,15 @@
     "time": "Past",
     "aspect": "Perfect",
     "formula": "Subject + had + V₃ + Object",
-    "auxiliary": "had (invariable for all subjects)",
-    "usage": "An action completed prior to a specific past reference point or boundary.",
+    "auxiliary": "had (sabhi subjects ke liye invariable)",
+    "usage": "Past ke kisi reference point ya boundary se pehle complete ho chuke action ke liye use hota hai.",
     "patterns": {
       "affirmative": "The witness had left the courtroom by 11 AM.",
       "negative": "The witness had not left the courtroom by 11 AM.",
       "interrogative": "Had the witness left the courtroom by 11 AM?"
     },
     "timeMarkers": ["by + past time", "already (in past context)", "until then", "before [past time reference]"],
-    "keyTip": "Earlier Past Action = Past Perfect (had + V₃) relative to a past reference point. Advanced cross-clause sequence of tenses between two past actions is deferred to Lesson 02."
+    "keyTip": "Pehle complete hua past action = Past Perfect (had + V₃). Do past actions ke beech multi-clause Sequence of Tenses ke advanced rules Lesson 02 mein aayenge."
   },
   {
     "id": "RC-08",
@@ -117,15 +117,15 @@
     "time": "Past",
     "aspect": "Perfect Continuous",
     "formula": "Subject + had + been + V_ing + Object + since/for + Time",
-    "auxiliary": "had been (invariable)",
-    "usage": "Ongoing action that had been occurring for a duration prior to a specific reference point in the past.",
+    "auxiliary": "had been (sabhi subjects ke liye invariable)",
+    "usage": "Aise ongoing action ke liye jo past ke kisi specific reference point se pehle kuch duration tak lagatar chalta raha tha.",
     "patterns": {
       "affirmative": "They had been troubleshooting the network for two hours before noon.",
       "negative": "They had not been monitoring the servers since morning.",
       "interrogative": "Had they been troubleshooting the network for two hours before noon?"
     },
     "timeMarkers": ["for + duration + before [past time]", "since + point (past context)"],
-    "keyTip": "Emphasizes duration leading directly up to a past reference point. Multi-clause sequence of tenses is developed in Lesson 02."
+    "keyTip": "Past reference point se theek pehle tak accumulate hui duration ko highlight karta hai. Multi-clause sequence of tenses Lesson 02 mein cover hoga."
   },
   {
     "id": "RC-09",
@@ -133,15 +133,15 @@
     "time": "Future",
     "aspect": "Simple",
     "formula": "Subject + will/shall + V₁ + Object",
-    "auxiliary": "will (all subjects) / shall (traditionally 1st-person I/we in formal English)",
-    "usage": "Spontaneous decisions, predictions, promises, or future scheduled occurrences.",
+    "auxiliary": "will (sabhi subjects ke liye) / shall (formal English mein 1st-person I/we ke saath)",
+    "usage": "Future ke spontaneous decisions, predictions, promises ya scheduled events ke liye use hota hai.",
     "patterns": {
       "affirmative": "The committee will release the notification tomorrow.",
       "negative": "The committee will not release the notification tomorrow.",
       "interrogative": "Will the committee release the notification tomorrow?"
     },
     "timeMarkers": ["tomorrow", "next week", "next month", "soon", "shortly", "in the future"],
-    "keyTip": "In legal/official documents, 'shall' denotes mandatory obligation rather than simple futurity."
+    "keyTip": "Legal aur official documents mein 'shall' simple future ki jagah mandatory obligation (zaroori niyam) ko express karta hai."
   },
   {
     "id": "RC-10",
@@ -150,14 +150,14 @@
     "aspect": "Continuous",
     "formula": "Subject + will/shall + be + V_ing + Object",
     "auxiliary": "will be / shall be",
-    "usage": "Action that will be actively in progress at a specific temporal point in the future.",
+    "usage": "Future ke kisi specific temporal point par actively chal rahe action ke liye use hota hai.",
     "patterns": {
       "affirmative": "The candidates will be writing their exam at 10 AM tomorrow.",
       "negative": "The candidates will not be writing their exam at that hour.",
       "interrogative": "Will the candidates be writing their exam at 10 AM tomorrow?"
     },
     "timeMarkers": ["at this time tomorrow", "at 10 AM next Monday", "during the coming week"],
-    "keyTip": "Future Continuous cannot be transformed into passive voice in standard English."
+    "keyTip": "Standard English mein Future Continuous tense ka passive voice conversion nahi hota."
   },
   {
     "id": "RC-11",
@@ -166,14 +166,14 @@
     "aspect": "Perfect",
     "formula": "Subject + will/shall + have + V₃ + Object + by + Time",
     "auxiliary": "will have / shall have",
-    "usage": "Action that will be completely finished before or by a specified deadline in the future.",
+    "usage": "Aise action ke liye jo future ke kisi specific deadline ya time se pehle pura complete ho chuka hoga.",
     "patterns": {
       "affirmative": "The administration will have digitized all records by the end of this year.",
       "negative": "The administration will not have digitized all records by then.",
       "interrogative": "Will the administration have digitized all records by the end of this year?"
     },
     "timeMarkers": ["by tomorrow", "by next week", "by the time + Simple Present clause", "by 2028"],
-    "keyTip": "Whenever you see 'by + future time', Future Perfect ('will have + V₃') is the standard completion form."
+    "keyTip": "Jab bhi sentence mein 'by + future time' aaye, wahan completion ke liye Future Perfect ('will have + V₃') standard form hai."
   },
   {
     "id": "RC-12",
@@ -182,13 +182,13 @@
     "aspect": "Perfect Continuous",
     "formula": "Subject + will/shall + have + been + V_ing + for + Duration + by + Time",
     "auxiliary": "will have been / shall have been",
-    "usage": "Action that will have been continuously occurring for an ongoing duration up to a specified future landmark.",
+    "usage": "Aise action ke liye jo future ke kisi point tak lagatar ek duration ke dauran chalta rahega.",
     "patterns": {
       "affirmative": "By next July, he will have been serving as System Assistant for five years.",
       "negative": "By next July, he will not have been serving here for that long.",
       "interrogative": "Will he have been serving for five years by next July?"
     },
     "timeMarkers": ["by + future time ... for + duration"],
-    "keyTip": "Combines a completion deadline ('by...') with an ongoing duration measurement ('for...')."
+    "keyTip": "Ye future completion deadline ('by...') aur ongoing duration measurement ('for...') ko combine karta hai."
   }
 ]

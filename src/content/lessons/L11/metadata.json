@@ -1,0 +1,139 @@
+{
+  "id": "L11",
+  "title": "Prepositions — Time, Place, Movement & Common Usage",
+  "shortTitle": "Prepositions: Time, Place, Movement & Usage",
+  "topicId": "T05",
+  "topicTitle": "Use of Articles, Determiners and Prepositions",
+  "part": "2 of 3",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Intermediate",
+  "targetScore": "100% Contextual Accuracy",
+  "description": "Prepositions ke functional roles, Time aur Place ke In/On/At hierarchies, dynamic movement vectors (to, towards, into, onto), temporal boundaries (by vs until, since vs for), relational choices (between vs among), aur high-frequency zero preposition omission rules ko master karein.",
+  "learningObjectives": [
+    "Prepositions ke role aur prepositional phrase structures ko sentence mein accurately identify karein",
+    "Prepositional phrases aur unke governing nouns/pronouns ke beech syntactic relationship ko decode karein",
+    "Time contexts mein general periods, specific days, aur exact clock points ke liye In, On, aur At ka correct selection karein",
+    "Spatial dimensions mein 3D enclosure (in), 2D surface (on), aur 1D point (at) ke rules apply karein",
+    "Movement aur direction prepositions (to, towards, into, onto, through, across, along) ke directional vectors ko visualize karein",
+    "Static position (in, on) aur dynamic entry/surface movement (into, onto) ke contrast ko flawlessly distinguish karein",
+    "Deadlines ('by') aur continuing actions up to a point ('until') ke temporal differences ko accurately apply karein",
+    "Starting point ('since') aur duration ('for') ke correct tense concord aur past time distinctions ko master karein",
+    "Two-entity comparisons, multiple distinct individuals, aur group distributions mein 'between' vs 'among' ko differentiate karein",
+    "High-frequency transitive verbs (enter, discuss, order, attack, reach, resemble, marry) jahan preposition strictly omit hota hai unhe identify karein",
+    "Contextual meaning ke hisaab se nuanced preposition choices explain karein",
+    "Rajasthan High Court exams ke recurring preposition traps aur distractor patterns ko eliminate karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Foundational theory: Prepositions as syntactic connectors, prepositional phrases, prepositional objects",
+      "Prepositions of Time: In (years, months, seasons, parts of day), On (days, dates, specific mornings), At (clock times, night, noon, midnight, weekend)",
+      "Prepositions of Place: In (enclosed spaces, cities, countries), On (surfaces, floors, streets), At (specific points, addresses with numbers, events)",
+      "Relative positions: Above vs Over, Below vs Under, Behind vs In front of, Beside vs Besides, Near",
+      "Prepositions of Movement: To vs Towards, Into vs Onto, Through vs Across, Along vs Past, Out of, From",
+      "State vs Movement Contrasts: in vs into, on vs onto",
+      "Temporal boundary contrasts: By (deadline) vs Until (duration), Since (point in time) vs For (period of time)",
+      "Relational distributions: Between (two entities, or multiple distinct named entities) vs Among (group/mass of 3+)",
+      "Zero Preposition / Omission: Transitive verbs taking no preposition (discuss, enter, order, attack, reach, resemble, marry, resign, accompany, sign, approach)",
+      "Common examination traps: Redundant prepositions ('discuss about', 'order for'), wrong time markers, confused directional vectors"
+    ],
+    "excluded": [
+      "Article usage and A/An phonetics (covered in Lesson 10)",
+      "Determiners & Quantifiers: Little/Few, Some/Any (covered in Lesson 12)",
+      "Subject-Verb Agreement non-preposition concord (covered in Lesson 13)",
+      "Phrasal verbs idiomatic nuances not tested under core prepositions (covered in Lesson 18)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Learning Objectives",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Prepositions ke core principles, exam weightage, time-place-movement hierarchy, aur zero-preposition traps ko samjhein."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Prepositions Complete Theory & Comparative Rules",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "Time-Place In/On/At pyramids, movement vectors, by vs until, since vs for, between vs among, aur zero-preposition verbs par comprehensive guide."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Interactive Spatial Models & Directional Simulators",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Time specificity pyramid, 3D spatial navigator, movement vector simulator, timeline boundaries comparator, aur zero-preposition inspector."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "10 Precision Preposition Formulas",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Time In/On/At, Place In/On/At, Into/Onto vectors, To vs Towards, By vs Until, Since vs For, Between vs Among, Above vs Over, Beside vs Besides, aur Zero Preposition cards."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Exam Derivations",
+      "durationMin": 15,
+      "type": "worked-examples",
+      "summary": "Time, place, movement, duration, boundary, aur omission error questions ka step-by-step cognitive derivation algorithm with annotated Roman Hinglish reasoning."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "6 Critical Preposition Distractors",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "Redundant 'discuss about', 'enter into' physical trap, 'by' vs 'until' deadline confusion, 'between' with 3+ distinct entities, 'since' with past tense, aur 'beside' vs 'besides' breakdown."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Scaffolded Questions with Hints",
+      "durationMin": 15,
+      "type": "guided-practice",
+      "summary": "Immediate feedback aur contextual hints ke saath 12 multi-dimensional preposition practice items."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "20 Exam-Grade Practice Questions",
+      "durationMin": 20,
+      "type": "independent-practice",
+      "summary": "Full syllabus coverage wale 20 realistic competitive questions with detailed diagnostic explanations."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15 Timed Certification Questions",
+      "durationMin": 12,
+      "type": "mastery-assessment",
+      "summary": "12-minute timed exam simulation with 80% passing threshold (12/15) to achieve official module mastery."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Error Review & Remediation",
+      "subtitle": "Personalized Mistake Bank & Diagnostics",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Practice aur assessment ke sabhi incorrect answers ka comprehensive review, weak area diagnostics, aur one-click retry engine."
+    }
+  ]
+}

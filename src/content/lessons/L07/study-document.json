@@ -1,0 +1,408 @@
+{
+  "id": "L07-STUDY-DOC",
+  "title": "Comprehensive Study Guide: Narration — Interrogative, Imperative, Exclamatory & Optative Sentences",
+  "subtitle": "Rajasthan High Court System Assistant Exam ke liye Advanced Narration Transformations ka Complete Reference",
+  "overview": "Direct aur Indirect Speech ka ye second part exam-hall ke sabse tricky transformations cover karta hai. Assertive statements mein sirf 'that' lagakar tenses aur pronouns backshift karna aasan hota hai, lekin jab direct sentence question, command, request, exclamation, ya prayer hota hai, tab reporting verbs, conjunctions, aur sentence syntax completely change ho jate hain. Is study guide mein aap Interrogative (Yes/No aur Wh-questions mein inversion remove karna), Imperative ('to + V1' aur negative 'not to + V1' / 'forbade'), Exclamatory ('exclaimed with joy/sorrow/wonder'), aur Optative ('prayed/wished that... might') sentences ki exact grammar logic Roman Hinglish mein step-by-step master karenge.",
+  "sections": [
+    {
+      "id": "sec-prereq-recap",
+      "number": 1,
+      "title": "A. Prerequisite Recap: Essential Narration Fundamentals",
+      "summary": "Lesson 06 ke core mechanics (clause anatomy, pronoun shifts, tense backshift, aur adverbial adjustments) ka concise revision.",
+      "content": "Advanced sentence types ko report karne se pehle Lesson 06 ke fundamental rules clear hona zaroori hai. Yaad rakhein ki Direct Speech speaker ke exact words hote hain (jo quotation marks ke andar hote hain), jabki Indirect Speech speaker ke meaning ko reporter ke perspective se convey karta hai. Sentence ke do hisse hote hain: (1) Reporting Clause (jaise 'He said to me') aur (2) Reported Clause (jo inverted commas ke andar hota hai).",
+      "dimensions": [
+        {
+          "name": "Foundational Pillars (Quick Review)",
+          "description": "Rules jo har type ke reported sentence par baseline ki tarah apply hote hain.",
+          "categories": [
+            {
+              "name": "Pronoun Reference Shifts",
+              "detail": "Reported clause ka First Person (I, we, my) reporting subject ke hisaab se badalta hai. Second Person (you, your) reporting object (listener) ke hisaab se badalta hai. Third Person (he, she, they, it) mein generally koi person-shift nahi hota."
+            },
+            {
+              "name": "Tense Backshift Baseline",
+              "detail": "Agar reporting verb Past Tense mein hai (jaise 'said', 'asked', 'ordered'), toh reported speech ka present tense corresponding past tense mein backshift hota hai (Simple Present ➔ Simple Past, Present Continuous ➔ Past Continuous, Simple Past ➔ Past Perfect). Present ya future reporting verb hone par backshift nahi hota."
+            },
+            {
+              "name": "Time & Place Adverbial Adjustments",
+              "detail": "Speaker ke time aur place references relative hote hain: 'today' ➔ 'that day', 'yesterday' ➔ 'the previous day', 'tomorrow' ➔ 'the next day', 'now' ➔ 'then', 'here' ➔ 'there', 'this' ➔ 'that'."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Takeaway: Pronoun aur tense shifts har sentence type mein kaam karte hain, lekin reporting verbs aur connecting structures (conjunctions vs infinitives) sentence ke communicative purpose ke hisaab se completely change honge."
+    },
+    {
+      "id": "sec-interrogative-foundation",
+      "number": 2,
+      "title": "B. Interrogative Sentences: Foundation & Statement Word Order",
+      "summary": "Direct questions vs reported questions, auxiliary inversion ka removal, aur question mark ka drop.",
+      "content": "Interrogative sentence ka basic nature question poochna hota hai. Direct Speech mein question hamesha inverted word order follow karta hai (Auxiliary Verb + Subject + Main Verb...?), jaise: 'Are you ready?' ya 'Where do you live?'. Lekin Indirect Speech mein hum kisi se dobara question nahi pooch rahe hote, balki kisi ko bata rahe hote hain ki kya poocha gaya tha. Isliye Indirect Speech mein sentence interrogative nahi rehta, balki assertive (declarative statement) ban jata hai.",
+      "dimensions": [
+        {
+          "name": "Two Structural Transformations",
+          "description": "Direct question se indirect statement banne ke syntactic rules.",
+          "categories": [
+            {
+              "name": "Inversion Removal (Auxiliary + Subject ➔ Subject + Verb)",
+              "detail": "Direct question mein auxiliary verb subject se pehle hoti hai. Indirect question mein subject pehle aayega aur verb baad mein.\nDirect: He said, \"Are you coming?\"\nIndirect: He asked if I was coming. (NOT: *if was I coming).\nDirect: She said, \"Where do you work?\"\nIndirect: She asked where I worked. (Do/does auxiliary assertive mein drop ho jati hai)."
+            },
+            {
+              "name": "Punctuation Shift (? ➔ .)",
+              "detail": "Kyunki reported clause ab statement ban chuka hai, end mein question mark (?) kabhi nahi lagta. Hamesha full stop (.) lagta hai. Exam mein options mein end mein question mark dekar options banaye jaate hain jo hamesha galat hote hain."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Golden Rule: Direct Question = [Auxiliary + Subject + Main Verb...?] ➔ Indirect Question = [Reporting Verb + Connective + Subject + Verb... .] (No auxiliary inversion, no question mark!)."
+    },
+    {
+      "id": "sec-yes-no-questions",
+      "number": 3,
+      "title": "C. Yes/No Questions: The If / Whether Connective",
+      "summary": "Auxiliary verbs se start hone wale questions, 'if' vs 'whether' selection, aur tense/pronoun alignment.",
+      "content": "Yes/No questions wo questions hote hain jinka answer 'Yes' ya 'No' mein diya ja sakta hai. Ye questions hamesha auxiliary verbs (is, am, are, was, were, do, does, did, has, have, had, will, shall, can, may) se shuru hote hain. Direct Speech mein Yes/No question ko Indirect Speech mein convert karte waqt quotation marks hatakar connective 'if' ya 'whether' lagaya jata hai. Yahan declarative conjunction 'that' KABHI use nahi hota ('that if' ya 'that whether' lagana strict grammatical error hai).",
+      "dimensions": [
+        {
+          "name": "When to Use 'If' vs 'Whether'",
+          "description": "Don't treat if and whether as blindly identical in every context.",
+          "categories": [
+            {
+              "name": "Standard Interchangeability",
+              "detail": "Normal Yes/No questions mein 'if' aur 'whether' dono freely interchangeable hain.\nDirect: Rahul said to me, \"Are you going to the High Court?\"\nIndirect: Rahul asked me if I was going to the High Court. (OR: Rahul asked me whether I was going to the High Court)."
+            },
+            {
+              "name": "Mandatory 'Whether' with 'Or Not'",
+              "detail": "Jab sentence mein condition ya choice ke turant baad 'or not' directly connect ho, tab 'whether' prefer kiya jata hai, 'if' avoid kiya jata hai.\nCorrect: He asked me whether or not I would accept the offer.\nAwkward/Incorrect: *He asked me if or not I would accept the offer."
+            },
+            {
+              "name": "Choice Between Definite Alternatives",
+              "detail": "Jab sentence mein explicit alternative choice di gayi ho ('A or B'), tab formal English aur competitive exams mein 'whether' ko strongly prefer kiya jata hai.\nDirect: The judge said, \"Do you want a bail or a trial?\"\nIndirect: The judge enquired whether he wanted a bail or a trial."
+            }
+          ]
+        },
+        {
+          "name": "Step-by-Step Conversion Example",
+          "description": "Auxiliary 'do/does/did' ke removal ka special mechanism.",
+          "categories": [
+            {
+              "name": "Do/Does + V1 ➔ V2 (Simple Past)",
+              "detail": "Direct: She said to him, \"Do you know the accused?\"\nStep 1: 'said to' ➔ 'asked'\nStep 2: Connective ➔ 'if' / 'whether'\nStep 3: Subject 'you' (listener 'him') ➔ 'he'\nStep 4: 'Do know' affirmative past mein banega 'knew' (V2)\nIndirect: She asked him if he knew the accused. (NOT: *if did he know)."
+            },
+            {
+              "name": "Did + V1 ➔ Had + V3 (Past Perfect)",
+              "detail": "Direct: The inspector said to the witness, \"Did you see the car?\"\nIndirect: The inspector asked the witness if he had seen the car. (Simple Past backshifts to Past Perfect; 'did see' ➔ 'had seen')."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Pattern: Subject + asked / enquired of + object + if / whether + Subject + Verb (backshifted) + ... ."
+    },
+    {
+      "id": "sec-wh-questions",
+      "number": 4,
+      "title": "D. Wh-Questions: Retaining Question Words Without That",
+      "summary": "What, Why, Where, When, Who, Whom, Whose, Which, How ke reporting rules aur word-order realignment.",
+      "content": "Wh-questions wo questions hote hain jo interrogative question words se shuru hote hain: What, Why, Where, When, Who, Whom, Whose, Which, How. In questions ko indirect speech mein convert karte waqt sabse important rule ye hai ki hum koi naya conjunction (jaise 'that', 'if', ya 'whether') bilkul nahi jodte. Wahi original Wh-word reporting clause aur reported statement ke beech connective / conjunction ka kaam karta hai. Uske baad turant subject aayega aur phir verb aayegi.",
+      "dimensions": [
+        {
+          "name": "Wh-Words Inventory & Inversion Elimination",
+          "description": "Har question word ke sath word-order ka behavior.",
+          "categories": [
+            {
+              "name": "Where / When / Why (Adverbial Questions)",
+              "detail": "Direct: The clerk said to the lawyer, \"Where did you submit the petition?\"\nIndirect: The clerk asked the lawyer where he had submitted the petition.\nAnalysis: 'Where' retain hua, 'did submit' Past Perfect 'had submitted' bana, aur subject 'he' auxiliary se pehle aaya."
+            },
+            {
+              "name": "What / Which / Who (Nominal Questions)",
+              "detail": "Direct: The officer said, \"What are you doing here?\"\nIndirect: The officer asked what I was doing there.\nDirect: The teacher said to Mohan, \"Who helped you in this task?\"\nIndirect: The teacher asked Mohan who had helped him in that task."
+            },
+            {
+              "name": "How (Manner / Degree Questions)",
+              "detail": "Direct: She said to me, \"How can you solve this dispute?\"\nIndirect: She asked me how I could solve that dispute.\nAnalysis: 'can' backshift hokar 'could' bana, aur subject 'I' pehle aaya."
+            }
+          ]
+        },
+        {
+          "name": "The Double Conjunction Fatal Trap (*that why / *that what)",
+          "description": "High Court exam setters ka sabse popular distractor pattern.",
+          "categories": [
+            {
+              "name": "Never Prepend 'That' to a Wh-word",
+              "detail": "Exam mein aksar options hote hain: 'He asked that where I lived' ya 'She enquired that why was he late'. Ye 100% grammatically wrong hain. 'That' aur Wh-word ek sath relative-reported clause mein co-occur nahi kar sakte."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Pattern: Subject + asked / enquired of + object + Wh-Word + Subject + Verb (backshifted) + ... . (NO 'that', NO 'if'!)."
+    },
+    {
+      "id": "sec-question-reporting-verbs",
+      "number": 5,
+      "title": "E. Reporting Verbs for Questions: Asked, Enquired of, and Wanted to Know",
+      "summary": "Question-specific reporting verbs ki syntactic requirements aur prepositional constraints.",
+      "content": "Interrogative sentences mein reporting verb 'said' ya 'said to' ko context ke according badla jata hai. Sabse common verb 'asked' hai, lekin formal context, legal investigations, ya exam questions mein 'enquired of', 'demanded of', 'wanted to know', aur 'wondered' ka use hota hai. Yahan prepositional syntax dhyan se dekhna hota hai kyunki missing preposition direct mark deduction karwata hai.",
+      "dimensions": [
+        {
+          "name": "Reporting Verbs Syntax Comparison",
+          "description": "Transitive vs prepositional reporting verb structures.",
+          "categories": [
+            {
+              "name": "Asked (Direct Object Required / No Preposition)",
+              "detail": "'Asked' directly listener object leta hai bina kisi preposition ke.\nCorrect: He asked me where I was going.\nIncorrect: *He asked to me... OR *He asked of me..."
+            },
+            {
+              "name": "Enquired of (Preposition 'Of' Mandatory with Object)",
+              "detail": "Agar reporting verb 'enquired' ke baad sunne wala (object) mention hai, toh preposition 'of' lagana mandatory hai.\nCorrect: He enquired of me whether I was ready.\nIncorrect: *He enquired me whether I was ready. (A classic exam error!). Note: Agar koi object nahi hai, toh 'He enquired if...' bilkul sahi hai."
+            },
+            {
+              "name": "Wanted to Know (No Direct Personal Object)",
+              "detail": "'Wanted to know' ke baad direct personal pronoun nahi aata, balki seedha reported clause aata hai.\nCorrect: She wanted to know what my designation was.\nIncorrect: *She wanted to know me what my designation was."
+            },
+            {
+              "name": "Demanded of (Formal Interrogation)",
+              "detail": "Jab authoritative inquiry ho toh 'demanded of + object' lagta hai.\nDirect: The magistrate said to the accused, \"Why did you violate the order?\"\nIndirect: The magistrate demanded of the accused why he had violated the order."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Key Rule: 'asked + object' (no preposition), BUT 'enquired of + object' (must have 'of'). Don't confuse them!"
+    },
+    {
+      "id": "sec-imperative-foundation",
+      "number": 6,
+      "title": "F. Imperative Sentences: Foundation & The 'To + V1' Formula",
+      "summary": "Commands, requests, advice, instructions ka underlying nature aur non-finite infinitive transformation.",
+      "content": "Imperative sentences wo hote hain jinme direct subject 'You' generally hidden (understood) hota hai aur sentence seedha base verb (V1) se shuru hota hai. Inka purpose kisi ko kuch karne ka order dena, request karna, advice dena, ya instruct karna hota hai (jaise: 'Stand up', 'Please sit down', 'Take this medicine'). Indirect speech mein imperative sentences ko report karte waqt hum tense backshift ka standard table follow nahi karte! Balki reported verb ko non-finite Infinitive ('to + V1') mein convert kar dete hain.",
+      "dimensions": [
+        {
+          "name": "The Core Imperative Mechanism",
+          "description": "Finitive verb se Infinitive clause mein transition.",
+          "categories": [
+            {
+              "name": "The 'To + V1' Connector",
+              "detail": "Assertive sentences mein conjunction 'that' lagta hai, lekin standard imperative sentences mein 'that' nahi lagta. Base verb ke aage preposition particle 'to' judkar full infinitive ban jata hai.\nDirect: The doctor said to the patient, \"Take this medicine daily.\"\nIndirect: The doctor advised the patient to take that medicine daily."
+            },
+            {
+              "name": "Dropping Polite Vocabulary",
+              "detail": "Jab hum reporting verb 'requested' use karte hain, toh direct sentence mein maujood polite shabdon ('please', 'kindly') ko indirect speech mein drop kar diya jata hai. Unhe retain karna redundant error hota hai.\nDirect: He said to me, \"Please lend me your pen.\"\nIndirect: He requested me to lend him his pen. (NOT: *to please lend him)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Core Pattern: Subject + Contextual Reporting Verb + Listener Object + to + V1 + Rest of the clause."
+    },
+    {
+      "id": "sec-imperative-verbs",
+      "number": 7,
+      "title": "G. Commands, Requests, and Advice: Selecting the Right Reporting Verb",
+      "summary": "Communicative purpose ke hisaab se ordered, requested, advised, instructed, warned ka accurate choice.",
+      "content": "Imperative sentences mein reporting verb 'said to' ko sentence ke tone aur intention ke hisaab se specific verb mein badalna hota hai. Exam mein options aksar reporting verb ke nuance par set kiye jaate hain—jaise police officer ke command ke liye 'requested' likh dena galat hoga, aur beggar ki appeal ke liye 'ordered' likh dena inappropriate hoga.",
+      "dimensions": [
+        {
+          "name": "Functional Reporting Verb Categories",
+          "description": "Intention-based reporting verb selection guide.",
+          "categories": [
+            {
+              "name": "Commands & Orders (ordered, commanded, directed)",
+              "detail": "Senior officer to junior, judge to court clerk, master to servant, military commander to soldiers.\nDirect: The Judge said to the witness, \"Speak the truth.\"\nIndirect: The Judge ordered the witness to speak the truth."
+            },
+            {
+              "name": "Requests & Petitions (requested, begged, implored, entreated)",
+              "detail": "Subordinates to authority, polite requests with please/kindly, urgent emotional appeals.\nDirect: The clerk said to the officer, \"Kindly grant me casual leave.\"\nIndirect: The clerk requested the officer to grant him casual leave."
+            },
+            {
+              "name": "Advice & Guidance (advised, urged, exhorted)",
+              "detail": "Doctor to patient, teacher to student on morals/study habits, friend giving beneficial counsel.\nDirect: The teacher said to the students, \"Revise your syllabus before the exam.\"\nIndirect: The teacher advised the students to revise their syllabus before the exam."
+            },
+            {
+              "name": "Instructions & Directions (instructed, directed, guided)",
+              "detail": "Technical guidelines, exam hall instructions, legal procedural steps.\nDirect: The invigilator said, \"Fill your roll number in the OMR sheet.\"\nIndirect: The invigilator instructed the candidates to fill their roll number in the OMR sheet."
+            },
+            {
+              "name": "Warnings (warned, cautioned)",
+              "detail": "Consequences of danger, cautioning against risks.\nDirect: The guard said to the visitor, \"Do not touch the electrical panel.\"\nIndirect: The guard warned the visitor not to touch the electrical panel."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Rule of Context: Sentence ka speaker aur listener ka status identify karein. Hierarchical authority ➔ ordered; Politeness/Please ➔ requested; Welfare/Counsel ➔ advised; Technical steps ➔ instructed."
+    },
+    {
+      "id": "sec-negative-imperatives",
+      "number": 8,
+      "title": "H. Negative Imperatives: 'Not to + V1' vs The 'Forbade' Prohibition Rule",
+      "summary": "Negative commands ki reporting, 'not' ki exact placement, aur 'forbade' ke sath double negative se bachna.",
+      "content": "Negative imperatives wo hote hain jo kisi kaam ko karne se mana karte hain, aur direct speech mein 'Do not + V1' ya 'Don't + V1' ya 'Never + V1' se start hote hain (jaise: 'Do not run', 'Don't waste time'). Negative imperatives ko report karne ke do established examination patterns hote hain, aur dono ke rules strictly follow karne hote hain.",
+      "dimensions": [
+        {
+          "name": "The Two Negative Transformation Methods",
+          "description": "Standard negative infinitive vs negative reporting verb.",
+          "categories": [
+            {
+              "name": "Method 1: Standard Verb + 'Not to + V1'",
+              "detail": "Reporting verb (told, ordered, advised, warned) ke baad object aayega, phir 'not to + V1' aayega.\nDirect: The teacher said to the boy, \"Do not make a noise in the library.\"\nIndirect: The teacher told the boy not to make a noise in the library.\nPlacement Note: Exam English mein 'not to + V1' standard mana jata hai, split infinitive '*to not make' avoid karein."
+            },
+            {
+              "name": "Method 2: 'Forbade / Prohibited' (The Zero-Negative Rule)",
+              "detail": "Verb 'forbade' (Past tense of forbid) ka khud ka meaning hota hai 'mana kiya' (prohibited). Kyunki ye already negative verb hai, iske sath dubara 'not' lagana strict grammatical error (Double Negative) hai!\nDirect: Father said to Mohan, \"Do not smoke.\"\nCorrect: Father forbade Mohan to smoke. (Meaning: Father ne Mohan ko smoke karne se mana kiya).\nWRONG: *Father forbade Mohan not to smoke. (Double negative se meaning opposite ho jayega!)."
+            },
+            {
+              "name": "Prohibited + from + V-ing (Alternative Construction)",
+              "detail": "Agar verb 'prohibited' ya 'prevented' use ho, toh prepostional pattern 'from + V-ing' lagta hai.\nExample: The guard prohibited the visitors from taking photographs inside the court."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Critical Exam Trap: 'Forbade + object + to + V1' (NO 'not' allowed!). But 'Ordered/Told + object + NOT to + V1' (must include 'not')."
+    },
+    {
+      "id": "sec-suggestions-proposals",
+      "number": 9,
+      "title": "I. Suggestions and Advice: The 'Let's' Constructions",
+      "summary": "'Let us' / 'Let's' se banne wale proposals, 'suggested that we/they should' formula, aur gerundial reporting.",
+      "content": "Jab imperative sentence 'Let us' ya short mein 'Let's' se shuru hota hai, toh wo command ya request nahi hota, balki mutual proposal ya suggestion hota hai (jaise: 'Let us start the meeting', 'Let's have lunch'). In sentences ko report karne ke liye reporting verb 'proposed' ya 'suggested' lagayi jaati hai, aur connective clause mein modal auxiliary 'should' use hota hai.",
+      "dimensions": [
+        {
+          "name": "Let's Transformation Patterns",
+          "description": "Proposal clause structure aur pronoun adjustment.",
+          "categories": [
+            {
+              "name": "Pattern 1: Suggested / Proposed to + that + we/they should + V1",
+              "detail": "Agar reporting verb ke sath listener object hai, toh preposition 'to' lagta hai: 'suggested to him that...'\nDirect: Suresh said to his colleagues, \"Let us examine the file carefully.\"\nIndirect: Suresh suggested to his colleagues that they should examine the file carefully.\nPronoun Logic: Agar speaker khud us group ka hissa bana rehta hai toh 'we should'; agar third parties hain toh 'they should'."
+            },
+            {
+              "name": "Pattern 2: Suggested + Gerund (V-ing)",
+              "detail": "Direct proposal ko concise form mein gerund ke sath report kiya ja sakta hai.\nDirect: Rohan said, \"Let's hire an expert counsel.\"\nIndirect: Rohan suggested hiring an expert counsel."
+            },
+            {
+              "name": "'Let' as Permission (Not a Proposal)",
+              "detail": "Dhyan rahe ki har 'Let' proposal nahi hota! Agar sentence 'Let me go' ya 'Let him speak' hai, toh ye request ya permission hai, suggestion nahi!\nDirect: The boy said to the peon, \"Let me enter the chamber.\"\nIndirect: The boy requested the peon to let him enter the chamber. (OR: ...to allow him to enter)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Formula: 'Let us' ➔ Subject + suggested/proposed (to + object) + that + they/we should + V1."
+    },
+    {
+      "id": "sec-exclamatory-sentences",
+      "number": 10,
+      "title": "J. Exclamatory Sentences: Converting Emotion to Reported Discourse",
+      "summary": "Joy, sorrow, wonder, surprise, applause ki reporting, interjections ka drop, aur 'very/great' assertive conversion.",
+      "content": "Exclamatory sentences wo hote hain jo speaker ke sudden strong emotions ya feelings express karte hain—jaise joy (khushi), sorrow (dukh), wonder/surprise (hairani), admiration (taareef), contempt (ghrina), ya regret (afsos). In sentences ke end mein exclamation mark (!) hota hai aur aksar interjections (jaise 'Hurrah!', 'Alas!', 'Bravo!', 'Oh!', 'Wow!') ya 'What a...!' / 'How...!' se shuru hote hain. Indirect speech mein exclamation mark hat jata hai aur conjunction 'that' ke sath descriptive clause banta hai.",
+      "dimensions": [
+        {
+          "name": "Interjection to Reporting Verb Mapping",
+          "description": "Kaunsa interjection kis reporting phrase mein convert hota hai.",
+          "categories": [
+            {
+              "name": "Hurrah! / Ha! ➔ Exclaimed with joy / delight",
+              "detail": "Direct: The players said, \"Hurrah! We have won the championship!\"\nIndirect: The players exclaimed with joy that they had won the championship."
+            },
+            {
+              "name": "Alas! / Ah! ➔ Exclaimed with sorrow / grief",
+              "detail": "Direct: The man said, \"Alas! I am completely ruined!\"\nIndirect: The man exclaimed with sorrow that he was completely ruined."
+            },
+            {
+              "name": "Bravo! ➔ Applauded / Praised + object + saying that...",
+              "detail": "Direct: The teacher said to Rohan, \"Bravo! You have scored full marks!\"\nIndirect: The teacher applauded Rohan, saying that he had scored full marks."
+            },
+            {
+              "name": "What a...! / How...! ➔ Exclaimed with wonder / surprise / admiration",
+              "detail": "Jab 'What a' ya 'How' aata hai, toh assertive sentence mein adjective se pehle 'very' aur noun se pehle 'great' lagaya jata hai.\nDirect: She said, \"What a beautiful garden it is!\"\nIndirect: She exclaimed with admiration that it was a very beautiful garden.\nDirect: He said, \"What a fool I am!\"\nIndirect: He exclaimed with regret that he was a great fool."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Pattern: Subject + exclaimed with [joy / sorrow / wonder / regret] + that + Subject + Verb (backshifted) + very/great + ... ."
+    },
+    {
+      "id": "sec-optative-sentences",
+      "number": 11,
+      "title": "K. Optative Sentences: Wishes, Prayers, Blessings, and Greetings",
+      "summary": "May se banne wale wishes/prayers, 'wished/prayed that... might' formula, aur greetings/farewells (bade/wished).",
+      "content": "Optative sentences wo hote hain jo kisi ke liye wish (shubhkamna), prayer (prarthna), blessing (aashirvaad), ya curse (shraap) express karte hain. Ye sentences typically auxiliary 'May' se shuru hote hain aur exclamation mark (!) par end hote hain (jaise: 'May God bless you!', 'May you succeed!'). Indirect speech mein reporting verb 'wished', 'prayed', 'blessed', ya 'cursed' banta hai, aur 'May' backshift hokar 'might' ban jata hai jo subject ke baad aata hai.",
+      "dimensions": [
+        {
+          "name": "Optative Transformation Categories",
+          "description": "Prayers, wishes, aur greetings ke specific patterns.",
+          "categories": [
+            {
+              "name": "Prayers with God ➔ Prayed that God might + V1",
+              "detail": "Jab sentence mein Almighty God se prayer ho, toh reporting verb 'prayed' lagti hai.\nDirect: The old saint said to the traveller, \"May God grant you peace!\"\nIndirect: The old saint prayed that God might grant the traveller peace. (Note: 'God' subject ban gaya, 'might' uske baad aaya)."
+            },
+            {
+              "name": "General Wishes & Blessings ➔ Wished that + Subject + might + V1",
+              "detail": "Direct: The grandmother said to me, \"May you live a long and healthy life!\"\nIndirect: The grandmother wished that I might live a long and healthy life."
+            },
+            {
+              "name": "Farewells & Goodbyes ➔ Bade + Object + farewell / good night",
+              "detail": "Alvida kehne ke liye verb 'bid' ki past form 'bade' use hoti hai.\nDirect: Anand said, \"Good night, friends!\"\nIndirect: Anand bade his friends good night.\nDirect: The soldier said, \"Farewell, my motherland!\"\nIndirect: The soldier bade farewell to his motherland."
+            },
+            {
+              "name": "Greetings ➔ Wished + Object + good morning",
+              "detail": "Direct: The clerk said, \"Good morning, sir!\"\nIndirect: The clerk wished his officer good morning. (NO 'that' needed here!)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Optative Prayer Pattern: Subject + prayed / wished + that + Subject + might + V1 + ... . (May ➔ might shifts AFTER the subject)."
+    },
+    {
+      "id": "sec-narration-traps",
+      "number": 12,
+      "title": "L. Common Narration Traps: 10 Critical Exam Distractors",
+      "summary": "Inversion errors, double conjunctions, forbidden negatives, preposition drops, and punctuation mistakes.",
+      "content": "Rajasthan High Court aur doosre state exams ke multiple-choice questions mein examiners standard traps set karte hain. In 10 critical traps ko samajhkar aap distractor options ko 5 seconds mein eliminate kar sakte hain.",
+      "dimensions": [
+        {
+          "name": "The 10 High-Frequency Narration Traps",
+          "description": "Incorrect vs Correct comparison with precise Roman Hinglish rationale.",
+          "categories": [
+            {
+              "name": "Trap 1: Question Word Order Retained in Indirect Speech",
+              "detail": "INCORRECT: *He asked me where was I working.\nCORRECT: He asked me where I was working.\nLogic: Indirect question assertion ban jata hai, isliye Subject 'I' auxiliary 'was' se pehle aayega."
+            },
+            {
+              "name": "Trap 2: The Double Conjunction (*that if / *that why)",
+              "detail": "INCORRECT: *The officer enquired that why I was late.\nCORRECT: The officer enquired why I was late.\nLogic: 'That' aur Wh-word ya 'if' ek sath kabhi nahi aate."
+            },
+            {
+              "name": "Trap 3: Double Negative with 'Forbade'",
+              "detail": "INCORRECT: *The judge forbade the counsel not to argue loudly.\nCORRECT: The judge forbade the counsel to argue loudly.\nLogic: 'Forbade' already negative hai, dobara 'not' lagana double negative blunder hai."
+            },
+            {
+              "name": "Trap 4: Missing Preposition 'Of' with 'Enquired'",
+              "detail": "INCORRECT: *The clerk enquired me whether the file was ready.\nCORRECT: The clerk enquired of me whether the file was ready.\nLogic: 'Enquired' listener object ke sath mandatory preposition 'of' leta hai."
+            },
+            {
+              "name": "Trap 5: Retaining Polite Words in Reported Requests",
+              "detail": "INCORRECT: *She requested him to please verify her credentials.\nCORRECT: She requested him to verify her credentials.\nLogic: 'Requested' verb aane ke baad 'please' ya 'kindly' redundant ho jata hai."
+            },
+            {
+              "name": "Trap 6: Question Mark at the End of Reported Speech",
+              "detail": "INCORRECT: *The peon asked who was knocking at the door?\nCORRECT: The peon asked who was knocking at the door.\nLogic: Reported speech statement hoti hai, question mark (?) strictly prohibited hai."
+            },
+            {
+              "name": "Trap 7: Retaining 'May' instead of 'Might' in Past Optatives",
+              "detail": "INCORRECT: *The priest prayed that God may bless the child.\nCORRECT: The priest prayed that God might bless the child.\nLogic: Past reporting verb ('prayed') ke sath modal 'may' backshift hokar 'might' banega."
+            },
+            {
+              "name": "Trap 8: Wrong Emotion for Interjection",
+              "detail": "INCORRECT: *He exclaimed with joy that his friend had met with an accident.\nCORRECT: He exclaimed with sorrow/grief that his friend had met with an accident.\nLogic: Accident sorrow express karta hai, context ke anusaar emotion match karna mandatory hai."
+            },
+            {
+              "name": "Trap 9: Inappropriate Reporting Verb for Clear Hierarchy",
+              "detail": "INCORRECT: *The general requested the soldiers to fire at the enemy.\nCORRECT: The general ordered/commanded the soldiers to fire at the enemy.\nLogic: Military context strictly 'commanded' ya 'ordered' demand karta hai."
+            },
+            {
+              "name": "Trap 10: Misinterpreting 'Let' Permission as Suggestion",
+              "detail": "INCORRECT: *He suggested that he should go home when he said 'Let me go home'.\nCORRECT: He requested them to let him go home.\nLogic: 'Let me' personal permission hoti hai, 'Let us' mutual suggestion hota hai."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Master Tip: Exam question dekhte hi 3 checks karein: (1) Inversion to nahi hai? (2) Conjunction double to nahi hai? (3) Negative do baar to nahi hai? 80% distractors inhi 3 filters se reject ho jaate hain!"
+    }
+  ]
+}

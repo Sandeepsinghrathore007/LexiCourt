@@ -1,9 +1,9 @@
 const variants = {
-  primary: 'bg-primary-100 text-primary-700 border-primary-200',
-  secondary: 'bg-secondary-100 text-secondary-700 border-secondary-200',
-  success: 'bg-success-100 text-success-700 border-success-200',
-  error: 'bg-error-100 text-error-700 border-error-200',
-  neutral: 'bg-surface-100 text-surface-600 border-surface-200',
+  primary: 'bg-primary-100 text-primary-700 border-primary-200 dark:bg-primary-950 dark:text-primary-200 dark:border-primary-500/40',
+  secondary: 'bg-secondary-100 text-secondary-700 border-secondary-200 dark:bg-secondary-950 dark:text-secondary-200 dark:border-secondary-500/40',
+  success: 'bg-success-100 text-success-700 border-success-200 dark:bg-success-950 dark:text-success-200 dark:border-success-500/40',
+  error: 'bg-error-100 text-error-700 border-error-200 dark:bg-error-950 dark:text-error-200 dark:border-error-500/40',
+  neutral: 'bg-surface-100 text-surface-600 border-surface-200 dark:bg-surface-800 dark:text-surface-100 dark:border-surface-600',
 }
 
 const sizes = {

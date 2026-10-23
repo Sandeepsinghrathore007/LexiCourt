@@ -1,0 +1,1974 @@
+[
+  {
+    "id": "IDM-001",
+    "idiom": "Hit the jackpot",
+    "category": "Success, Failure & Achievement",
+    "definition": "To achieve sudden, tremendous success or gain a large amount of money or advantage.",
+    "hinglishExplanation": "Achanak bahut badi kamyabi, fayda ya dhan prapt karna.",
+    "example": "With his revolutionary legal software, the young developer hit the jackpot.",
+    "contextNote": "Aksar unanticipated ya dramatic success ke liye use hota hai.",
+    "confusedWith": "Strike gold",
+    "keyDistinction": "Dono similar hain, lekin 'hit the jackpot' lottery ya windfall sense mein zyada use hota hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "success",
+      "windfall",
+      "achievement"
+    ]
+  },
+  {
+    "id": "IDM-002",
+    "idiom": "Make it",
+    "category": "Success, Failure & Achievement",
+    "definition": "To succeed in reaching a goal, career height, or surviving a difficult ordeal.",
+    "hinglishExplanation": "Kisi mushkil target ko achieve karna ya life mein safalta hasil karna.",
+    "example": "After years of rigorous preparation, Sheela finally made it into the judicial academy.",
+    "contextNote": "Context decide karta hai ki yeh career success hai ya survival.",
+    "confusedWith": "Make do",
+    "keyDistinction": "'Make it' safalta darshata hai; 'make do' kisi tarah kaam chalane ko kehte hain.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "career",
+      "success",
+      "milestone"
+    ]
+  },
+  {
+    "id": "IDM-003",
+    "idiom": "Get off the ground",
+    "category": "Success, Failure & Achievement",
+    "definition": "To make a successful beginning; to start developing or functioning smoothly.",
+    "hinglishExplanation": "Kisi project ya scheme ka successfully shuru hona aur aage badhna.",
+    "example": "The e-filing modernization project took months to get off the ground due to technical glitches.",
+    "contextNote": "Early operational stage ke liye use hota hai.",
+    "confusedWith": "Hit the ground running",
+    "keyDistinction": "'Get off the ground' shuru hone ke bare mein hai; 'hit the ground running' bina kisi delay ke fast pace par kaam karne ko kehte hain.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "launch",
+      "progress",
+      "beginning"
+    ]
+  },
+  {
+    "id": "IDM-004",
+    "idiom": "Go places",
+    "category": "Success, Failure & Achievement",
+    "definition": "To exhibit great talent and promise, destined to achieve high career success.",
+    "hinglishExplanation": "Bahut tarakki karna ya aage chal kar bada naam kamana.",
+    "example": "Given his analytical acumen and diligence, everyone knew the junior clerk would go places.",
+    "contextNote": "Future potential aur promising career trajectory describe karta hai.",
+    "confusedWith": "Go through the motions",
+    "keyDistinction": "'Go places' bright future ke liye hai; 'go through the motions' bina interest ke formal duty poori karne ke liye hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "ambition",
+      "talent",
+      "career"
+    ]
+  },
+  {
+    "id": "IDM-005",
+    "idiom": "Come out on top",
+    "category": "Success, Failure & Achievement",
+    "definition": "To emerge victorious in a competition, dispute, or challenging struggle.",
+    "hinglishExplanation": "Kisi kadi takkar, vivad ya competition mein aakhri vijeta ban kar ubharna.",
+    "example": "Despite aggressive opposition, the defense counsel came out on top in the appellate bench hearing.",
+    "contextNote": "Competitive ya contested situations mein victory emphasize karta hai.",
+    "confusedWith": "Over the top",
+    "keyDistinction": "'Come out on top' jeetne ke liye hai; 'over the top' excessive ya natkiya vyavhar ke liye hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "victory",
+      "competition",
+      "struggle"
+    ]
+  },
+  {
+    "id": "IDM-006",
+    "idiom": "Miss the mark",
+    "category": "Success, Failure & Achievement",
+    "definition": "To fail to achieve the intended result, accurate target, or expected standard.",
+    "hinglishExplanation": "Apne lakshya ya sahi anuman se chuk jana; umeed ke mutabiq parinaam na milna.",
+    "example": "The initial budget estimate missed the mark by nearly twenty percent.",
+    "contextNote": "Target, estimation ya policy outcome ke failure ko denote karta hai.",
+    "confusedWith": "Make one's mark",
+    "keyDistinction": "'Miss the mark' target chukna hai; 'make one's mark' apni pehchan banana hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "failure",
+      "inaccuracy",
+      "attempt"
+    ]
+  },
+  {
+    "id": "IDM-007",
+    "idiom": "Fall flat",
+    "category": "Success, Failure & Achievement",
+    "definition": "To fail completely to produce the intended effect, laugh, or positive impression.",
+    "hinglishExplanation": "Poori tarah be-asar ya asafal hona; koi asar na chhodna.",
+    "example": "The administrative officer's attempt at humor fell flat during the solemn committee briefing.",
+    "contextNote": "Jokes, speeches, presentations ya strategies ke complete failure par lagta hai.",
+    "confusedWith": "Fall through",
+    "keyDistinction": "'Fall flat' kisi prabhav ya speech ke asafal hone ke liye hai; 'fall through' kisi plan ya deal ke cancel hone ke liye hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "failure",
+      "impression",
+      "speech"
+    ]
+  },
+  {
+    "id": "IDM-008",
+    "idiom": "Back to square one",
+    "category": "Success, Failure & Achievement",
+    "definition": "Having to start all over again from the beginning after a complete failure.",
+    "hinglishExplanation": "Kisi plan ke fail hone ke baad dobara shuruat par pahunch jana.",
+    "example": "When the database migration crashed without a backup, the IT team was back to square one.",
+    "contextNote": "Wasted effort aur complete reset ki situation.",
+    "confusedWith": "Start with a clean slate",
+    "keyDistinction": "'Back to square one' failure ke karan majbooran reset hai; 'clean slate' naye sire se fresh start lena hota hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "reset",
+      "frustration",
+      "restart"
+    ]
+  },
+  {
+    "id": "IDM-009",
+    "idiom": "Draw a blank",
+    "category": "Success, Failure & Achievement",
+    "definition": "To fail to get an answer, recall information, or achieve any constructive result.",
+    "hinglishExplanation": "Kuch bhi yaad na aana ya talaash karne par koi nateeja na milna.",
+    "example": "I tried to recall the precedent file number during the hearing, but I drew a blank.",
+    "contextNote": "Mental block ya investigation mein zero output ke liye use hota hai.",
+    "confusedWith": "Draw the line",
+    "keyDistinction": "'Draw a blank' yaad na aana hai; 'draw the line' kisi boundary ya seema ko tay karna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "memory",
+      "investigation",
+      "failure"
+    ]
+  },
+  {
+    "id": "IDM-010",
+    "idiom": "Come up short",
+    "category": "Success, Failure & Achievement",
+    "definition": "To fail to reach the required standard, quota, or expected goal.",
+    "hinglishExplanation": "Zaroorat ya target se thoda peeche reh jana; kami reh jana.",
+    "example": "The revenue recovery drive came up short of its quarterly target by several lakhs.",
+    "contextNote": "Measurable goals ya targets mein kami rehne ko darshata hai.",
+    "confusedWith": "Short on cash",
+    "keyDistinction": "'Come up short' kisi bhi target ke peeche rehne par lagta hai, sirf paise ke liye nahi.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "deficit",
+      "target",
+      "shortfall"
+    ]
+  },
+  {
+    "id": "IDM-011",
+    "idiom": "Rise to the occasion",
+    "category": "Success, Failure & Achievement",
+    "definition": "To show that you can deal successfully with an unexpectedly difficult situation or crisis.",
+    "hinglishExplanation": "Kisi kathin chunauti ya achanak aayi mushkil ka datkar muqabla karna aur safal hona.",
+    "example": "When the senior clerk fell ill on the inspection day, the assistant rose to the occasion flawlessly.",
+    "contextNote": "High pressure ya crisis situations mein exceptional competence dikhana.",
+    "confusedWith": "On the rise",
+    "keyDistinction": "'Rise to the occasion' action/performance hai; 'on the rise' aam taur par statistical increase hota hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "crisis",
+      "courage",
+      "achievement"
+    ]
+  },
+  {
+    "id": "IDM-012",
+    "idiom": "Get the ball rolling",
+    "category": "Success, Failure & Achievement",
+    "definition": "To initiate an activity, project, or process to ensure ongoing momentum.",
+    "hinglishExplanation": "Kisi process ya project ki shuruat karna taaki kaam aage badh sake.",
+    "example": "Let us schedule a preliminary audit meeting to get the ball rolling on digitization.",
+    "contextNote": "Action start karne aur momentum create karne ke context mein.",
+    "confusedWith": "Keep the ball rolling",
+    "keyDistinction": "'Get the ball rolling' shuruat karna hai; 'keep the ball rolling' chal rahe kaam ko continue rakhna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "initiation",
+      "action",
+      "momentum"
+    ]
+  },
+  {
+    "id": "IDM-013",
+    "idiom": "Pull it off",
+    "category": "Success, Failure & Achievement",
+    "definition": "To succeed in doing something difficult, improbable, or unexpected.",
+    "hinglishExplanation": "Kisi behad mushkil ya namumkin se lagne wale kaam ko safal bana lena.",
+    "example": "Despite stiff procedural hurdles, the young advocate managed to pull off an acquittal.",
+    "contextNote": "Unexpected success against the odds.",
+    "confusedWith": "Pull through",
+    "keyDistinction": "'Pull it off' task accomplish karna hai; 'pull through' bimari ya crisis se bbach nikalna hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "accomplishment",
+      "triumph",
+      "difficulty"
+    ]
+  },
+  {
+    "id": "IDM-014",
+    "idiom": "Be on the right track",
+    "category": "Success, Failure & Achievement",
+    "definition": "Proceeding in a way that is likely to lead to the correct answer, solution, or success.",
+    "hinglishExplanation": "Sahi raste ya sahi direction mein aage badhna.",
+    "example": "The investigator's line of inquiry proved that he was on the right track from day one.",
+    "contextNote": "Progress towards a correct solution.",
+    "confusedWith": "Lose track",
+    "keyDistinction": "'On the right track' sahi raste par hona hai; 'lose track' khayal na rehna ya rasta bhatak jana hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "progress",
+      "direction",
+      "method"
+    ]
+  },
+  {
+    "id": "IDM-015",
+    "idiom": "Learn the hard way",
+    "category": "Success, Failure & Achievement",
+    "definition": "To discover what is correct through personal painful experiences or mistakes rather than advice.",
+    "hinglishExplanation": "Apni galtiyon ya kadvay anubhavon se sabak seekhna.",
+    "example": "Having missed the tender submission deadline, the firm learned the hard way about punctuality.",
+    "contextNote": "Painful realization after an oversight.",
+    "confusedWith": "In the worst way",
+    "keyDistinction": "'Learn the hard way' experience se seekhna hai; 'in the worst way' kisi cheez ki tivra ichha ke liye bolte hain.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "experience",
+      "mistake",
+      "lesson"
+    ]
+  },
+  {
+    "id": "IDM-016",
+    "idiom": "Burn the midnight oil",
+    "category": "Effort, Work & Determination",
+    "definition": "To work, study, or read late into the night.",
+    "hinglishExplanation": "Raat bhar der tak jaagkar kadi mehnat ya padhai karna.",
+    "example": "Aspirants must burn the midnight oil to cover the entire competitive syllabus thoroughly.",
+    "contextNote": "Late-night dedicated work/study ko denote karta hai.",
+    "confusedWith": "Work against the clock",
+    "keyDistinction": "'Burn the midnight oil' der raat tak kaam karne ke liye hai; 'work against the clock' deadline pressure mein tezi se kaam karne ke liye hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "study",
+      "hard-work",
+      "night"
+    ]
+  },
+  {
+    "id": "IDM-017",
+    "idiom": "Go the extra mile",
+    "category": "Effort, Work & Determination",
+    "definition": "To make a special effort that goes beyond what is strictly required or expected.",
+    "hinglishExplanation": "Apni zimmewari se aage badhkar zaroorat se zyada mehnat ya madad karna.",
+    "example": "The dedicated court clerk always went the extra mile to assist litigants with complex forms.",
+    "contextNote": "Exceptional diligence aur customer/service orientation.",
+    "confusedWith": "A mile a minute",
+    "keyDistinction": "'Go the extra mile' extra effort dalna hai; 'a mile a minute' bohot tez speed par bolne ya chalne ke liye hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "diligence",
+      "service",
+      "extra-effort"
+    ]
+  },
+  {
+    "id": "IDM-018",
+    "idiom": "Leave no stone unturned",
+    "category": "Effort, Work & Determination",
+    "definition": "To do everything possible and explore every avenue in order to achieve a goal.",
+    "hinglishExplanation": "Koi kasar na chhodna; har sambhav rasta apnana.",
+    "example": "The special investigation team left no stone unturned to locate the absconding witness.",
+    "contextNote": "Thorough investigation ya exhaustive effort.",
+    "confusedWith": "Stone's throw away",
+    "keyDistinction": "'Leave no stone unturned' poori koshish karna hai; 'stone's throw' nazdeeki distance ke liye hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "exhaustive",
+      "investigation",
+      "effort"
+    ]
+  },
+  {
+    "id": "IDM-019",
+    "idiom": "Keep at it",
+    "category": "Effort, Work & Determination",
+    "definition": "To continue doing something with persistence and determination despite difficulties.",
+    "hinglishExplanation": "Mushkilon ke bawajood kisi kaam mein lagataar lage rehna.",
+    "example": "Mastering complex English grammar is tough, but if you keep at it, results will follow.",
+    "contextNote": "Perseverance aur continuous dedication.",
+    "confusedWith": "Keep off",
+    "keyDistinction": "'Keep at it' lagataar koshish karna hai; 'keep off' kisi cheez se door rehna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "persistence",
+      "continuity",
+      "effort"
+    ]
+  },
+  {
+    "id": "IDM-020",
+    "idiom": "Put one's best foot forward",
+    "category": "Effort, Work & Determination",
+    "definition": "To try one's hardest and make the most positive personal impression possible.",
+    "hinglishExplanation": "Apna best performance dena aur accha impression banane ki poori koshish karna.",
+    "example": "During the oral interview, each candidate was determined to put their best foot forward.",
+    "contextNote": "Interviews, presentations ya first encounters mein best effort.",
+    "confusedWith": "Put one's foot down",
+    "keyDistinction": "'Put best foot forward' best impression dena hai; 'put one's foot down' kisi baat par sakhti se mana karna hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "impression",
+      "interview",
+      "performance"
+    ]
+  },
+  {
+    "id": "IDM-021",
+    "idiom": "Pull one's weight",
+    "category": "Effort, Work & Determination",
+    "definition": "To do one's full and fair share of work in a joint activity or collective group.",
+    "hinglishExplanation": "Group ya team mein apne hisse ka poora kaam zimmedari se karna.",
+    "example": "In a collaborative judicial audit, every officer must pull their weight to meet the deadline.",
+    "contextNote": "Fair distribution of team responsibility.",
+    "confusedWith": "Throw one's weight around",
+    "keyDistinction": "'Pull one's weight' apna hissa imaandari se karna hai; 'throw weight around' authority ka ghamand dikhana hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "teamwork",
+      "fairness",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "IDM-022",
+    "idiom": "Get down to business",
+    "category": "Effort, Work & Determination",
+    "definition": "To stop chatting or delaying and begin dealing with the serious, practical work at hand.",
+    "hinglishExplanation": "Idhar-udhar ki baatein chhod kar seedhe mudde ya ahem kaam par aana.",
+    "example": "After brief introductions, the administrative committee got down to business.",
+    "contextNote": "Meeting ya session mein serious phase ka start.",
+    "confusedWith": "Mind one's own business",
+    "keyDistinction": "'Get down to business' kaam shuru karna hai; 'mind own business' doosron ke mamle mein taang na adana hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "focus",
+      "productivity",
+      "meeting"
+    ]
+  },
+  {
+    "id": "IDM-023",
+    "idiom": "Be snowed under",
+    "category": "Effort, Work & Determination",
+    "definition": "To be overwhelmed with an excessive amount of work, pending files, or obligations.",
+    "hinglishExplanation": "Kaam ke bojh ke neeche dab jana; bohot zyada pending work hona.",
+    "example": "Following the district restructuring, the registry staff was snowed under with pending petitions.",
+    "contextNote": "Heavy workload aur time constraint ki situation.",
+    "confusedWith": "Under the weather",
+    "keyDistinction": "'Snowed under' kaam ke bojh ke liye hai; 'under the weather' thoda beemar mehsoos karne ke liye hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "overwhelmed",
+      "workload",
+      "pressure"
+    ]
+  },
+  {
+    "id": "IDM-024",
+    "idiom": "Work against the clock",
+    "category": "Effort, Work & Determination",
+    "definition": "To work extremely fast in order to finish something before an imminent deadline.",
+    "hinglishExplanation": "Deadline pass hone ke karan samay ke khilaf tezi se kaam karna.",
+    "example": "The technical maintenance crew worked against the clock to restore the court network by morning.",
+    "contextNote": "Urgency aur imminent deadline ka pressure.",
+    "confusedWith": "Burn the midnight oil",
+    "keyDistinction": "'Against the clock' speed aur strict deadline par focus karta hai; 'midnight oil' der raat tak padhne/kaam karne par.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "deadline",
+      "speed",
+      "urgency"
+    ]
+  },
+  {
+    "id": "IDM-025",
+    "idiom": "Go back to the drawing board",
+    "category": "Effort, Work & Determination",
+    "definition": "To start designing or planning a project anew because the previous attempt failed.",
+    "hinglishExplanation": "Kisi plan ke fail hone par dobara naye sire se strategy banana.",
+    "example": "When the benchmark algorithm proved inadequate, the engineering team had to go back to the drawing board.",
+    "contextNote": "Redesigning a strategy or mechanism.",
+    "confusedWith": "Across the board",
+    "keyDistinction": "'Back to the drawing board' redesigning/replanning hai; 'across the board' sabhi par barabar lagu hone ke liye hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "planning",
+      "strategy",
+      "iteration"
+    ]
+  },
+  {
+    "id": "IDM-026",
+    "idiom": "Bite the bullet",
+    "category": "Effort, Work & Determination",
+    "definition": "To force oneself to face an unpleasant situation or undergo a painful ordeal with fortitude.",
+    "hinglishExplanation": "Kisi aprasann ya mushkil kaam ko himmat ke saath jhelne ya swikar karne ka faisla karna.",
+    "example": "The administration decided to bite the bullet and shut down the obsolete server cluster.",
+    "contextNote": "Inevitable unpleasant task ko bina shikayat face karna.",
+    "confusedWith": "Dodge a bullet",
+    "keyDistinction": "'Bite the bullet' mushkili ko sehna hai; 'dodge a bullet' kisi bade khatre se baal-baal bachna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "courage",
+      "acceptance",
+      "endurance"
+    ]
+  },
+  {
+    "id": "IDM-027",
+    "idiom": "Keep one's nose to the grindstone",
+    "category": "Effort, Work & Determination",
+    "definition": "To work intensely and continuously without taking breaks or getting distracted.",
+    "hinglishExplanation": "Bina ruke lagataar kadi mehnat karte rehna.",
+    "example": "For six straight months, he kept his nose to the grindstone to clear the competitive examination.",
+    "contextNote": "Relentless, disciplined labor over an extended period.",
+    "confusedWith": "Turn up one's nose",
+    "keyDistinction": "'Nose to grindstone' continuous hard work hai; 'turn up nose' kisi cheez ko heya drishti se reject karna hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "discipline",
+      "hard-work",
+      "dedication"
+    ]
+  },
+  {
+    "id": "IDM-028",
+    "idiom": "Give it one's best shot",
+    "category": "Effort, Work & Determination",
+    "definition": "To put forward one's maximum possible effort and ability in an undertaking.",
+    "hinglishExplanation": "Kisi kaam mein apni poori taqat aur koshish jhonk dena.",
+    "example": "Even though the test was exceptionally tough, Ravi was determined to give it his best shot.",
+    "contextNote": "Best personal effort irrespective of outcome.",
+    "confusedWith": "A long shot",
+    "keyDistinction": "'Give best shot' maximum effort hai; 'long shot' kam sambhavna wale chance ke liye use hota hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "effort",
+      "dedication",
+      "attempt"
+    ]
+  },
+  {
+    "id": "IDM-029",
+    "idiom": "On the home stretch",
+    "category": "Effort, Work & Determination",
+    "definition": "In the final, concluding stage of a long task, journey, or arduous project.",
+    "hinglishExplanation": "Kisi lambe safar ya project ke aakhri padav ya antim charan par hona.",
+    "example": "With ninety percent of the files cataloged, the team felt they were finally on the home stretch.",
+    "contextNote": "Final phase of an effort before completion.",
+    "confusedWith": "Stretch the truth",
+    "keyDistinction": "'Home stretch' final stage hai; 'stretch the truth' baat ko badha-chadhakar jhooth bolna hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "completion",
+      "final-stage",
+      "progress"
+    ]
+  },
+  {
+    "id": "IDM-030",
+    "idiom": "Cut corners",
+    "category": "Effort, Work & Determination",
+    "definition": "To do something quickly or cheaply in an improper way by ignoring established standards.",
+    "hinglishExplanation": "Paisa ya samay bachane ke liye galat tareeqe apnana ya quality se samjhauta karna.",
+    "example": "Never cut corners while verifying official court records, as an oversight can result in contempt.",
+    "contextNote": "Negative connotation: taking risky or unethical shortcuts.",
+    "confusedWith": "Cut short",
+    "keyDistinction": "'Cut corners' quality se compromise karke shortcut lena hai; 'cut short' kisi cheez ko waqt se pehle terminate karna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "shortcut",
+      "negligence",
+      "quality"
+    ]
+  },
+  {
+    "id": "IDM-031",
+    "idiom": "Spill the beans",
+    "category": "Secrets, Communication & Information",
+    "definition": "To disclose secret or confidential information prematurely or indiscreetly.",
+    "hinglishExplanation": "Khabar ya raaz ko galti se ya samay se pehle ujagar kar dena.",
+    "example": "The clerk accidentally spilled the beans about the confidential transfer list before the official gazette.",
+    "contextNote": "Inadvertent or careless disclosure of private information.",
+    "confusedWith": "Hear through the grapevine",
+    "keyDistinction": "'Spill the beans' raaz disclose karna hai; 'hear through grapevine' afwah ya anaupcharik sutron se sunna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "disclosure",
+      "secret",
+      "carelessness"
+    ]
+  },
+  {
+    "id": "IDM-032",
+    "idiom": "Let the cat out of the bag",
+    "category": "Secrets, Communication & Information",
+    "definition": "To reveal a secret carelessly or by mistake.",
+    "hinglishExplanation": "Kisi chhipayi hui baat ko anjaane mein sabke samne zaahir kar dena.",
+    "example": "Her younger brother let the cat out of the bag about the surprise retirement celebration.",
+    "contextNote": "Accidental revelation of a concealed surprise or plan.",
+    "confusedWith": "Spill the beans",
+    "keyDistinction": "Dono similar hain; 'let the cat out of the bag' aksar surprise reveal karne ke context mein zyada dikhta hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "secret",
+      "reveal",
+      "surprise"
+    ]
+  },
+  {
+    "id": "IDM-033",
+    "idiom": "Keep under wraps",
+    "category": "Secrets, Communication & Information",
+    "definition": "To keep something secret, confidential, or protected from public disclosure.",
+    "hinglishExplanation": "Kisi jaankari ya plan ko gupt rakhna aur public mein na aane dena.",
+    "example": "The high-level judicial inquiry report was kept strictly under wraps until tabled before the assembly.",
+    "contextNote": "Deliberate secrecy and confidentiality.",
+    "confusedWith": "Wrap one's head around",
+    "keyDistinction": "'Keep under wraps' secrecy maintain karna hai; 'wrap head around' kisi complex concept ko samajhna hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "confidentiality",
+      "secrecy",
+      "protection"
+    ]
+  },
+  {
+    "id": "IDM-034",
+    "idiom": "Beat around the bush",
+    "category": "Secrets, Communication & Information",
+    "definition": "To discuss a matter without coming directly to the central, important point.",
+    "hinglishExplanation": "Mukhya baat ko chhodkar idhar-udhar ki gol-mol baatein karna.",
+    "example": "The witness was warned by the magistrate not to beat around the bush and answer the direct question.",
+    "contextNote": "Indirectness, evasion, or reluctance to speak bluntly.",
+    "confusedWith": "Get straight to the point",
+    "keyDistinction": "'Beat around the bush' aur 'get straight to the point' exact antonymous communicative behaviors hain.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "evasion",
+      "indirect",
+      "communication"
+    ]
+  },
+  {
+    "id": "IDM-035",
+    "idiom": "Get straight to the point",
+    "category": "Secrets, Communication & Information",
+    "definition": "To address the most essential topic immediately without preamble or digression.",
+    "hinglishExplanation": "Seedhe mukhya mudde par aana bina kisi faltu baatcheet ke.",
+    "example": "Due to limited bench time, the presiding judge requested counsel to get straight to the point.",
+    "contextNote": "Directness and communicative efficiency.",
+    "confusedWith": "Miss the point",
+    "keyDistinction": "'Get straight to point' direct baat karna hai; 'miss the point' asal baat ko samajh na pana hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "directness",
+      "efficiency",
+      "focus"
+    ]
+  },
+  {
+    "id": "IDM-036",
+    "idiom": "Read between the lines",
+    "category": "Secrets, Communication & Information",
+    "definition": "To perceive an implied or unstated meaning that is not directly expressed in words.",
+    "hinglishExplanation": "Chhipe huye arth ya ankahe bhaav ko samajhna.",
+    "example": "If you read between the lines of the official circular, subtle policy revisions are evident.",
+    "contextNote": "Inferring hidden meanings from formal texts or statements.",
+    "confusedWith": "Cross the line",
+    "keyDistinction": "'Read between the lines' hidden meaning infer karna hai; 'cross the line' maryada ya boundary todna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "inference",
+      "subtext",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "IDM-037",
+    "idiom": "Hear it through the grapevine",
+    "category": "Secrets, Communication & Information",
+    "definition": "To hear news or information through informal rumors, gossip, or unofficial channels.",
+    "hinglishExplanation": "Afwahon ya anaupcharik baatchit ke zariye koi khabar sunna.",
+    "example": "I heard it through the grapevine that the promotion examinations will be held in November.",
+    "contextNote": "Unofficial, informal gossip networks.",
+    "confusedWith": "Word of mouth",
+    "keyDistinction": "'Grapevine' unverified gossip ya rumor ko emphasize karta hai; 'word of mouth' natural oral recommendations ke liye hota hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "rumor",
+      "informal",
+      "channels"
+    ]
+  },
+  {
+    "id": "IDM-038",
+    "idiom": "Keep someone in the loop",
+    "category": "Secrets, Communication & Information",
+    "definition": "To keep someone informed about developments and decisions concerning a matter.",
+    "hinglishExplanation": "Kisi vyakti ko lagataar updates aur taaza jaankari se avagat rakhna.",
+    "example": "Please ensure that the registrar is kept in the loop regarding all courtroom technology upgrades.",
+    "contextNote": "Administrative workflow and continuous communication.",
+    "confusedWith": "In the dark",
+    "keyDistinction": "'In the loop' informed rehna hai; 'in the dark' kisi jaankari se anjaan rehna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "updates",
+      "coordination",
+      "information"
+    ]
+  },
+  {
+    "id": "IDM-039",
+    "idiom": "Get the wrong end of the stick",
+    "category": "Secrets, Communication & Information",
+    "definition": "To completely misunderstand or misinterpret a situation, explanation, or fact.",
+    "hinglishExplanation": "Kisi baat ya situation ka poori tarah ulta ya galat matlab nikaal lena.",
+    "example": "The auditor got the wrong end of the stick and thought funds were missing when they were simply reallocated.",
+    "contextNote": "Complete factual misunderstanding.",
+    "confusedWith": "Get the upper hand",
+    "keyDistinction": "'Wrong end of stick' galatfehmi hai; 'upper hand' advantage hasil karne ke liye hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "misunderstanding",
+      "error",
+      "interpretation"
+    ]
+  },
+  {
+    "id": "IDM-040",
+    "idiom": "Put words in someone's mouth",
+    "category": "Secrets, Communication & Information",
+    "definition": "To falsely assert that someone has said something that they did not actually say.",
+    "hinglishExplanation": "Kisi vyakti par aisi baat thopna jo usne asal mein nahi kahi ho.",
+    "example": "The witness protested that the cross-examiner was putting words in her mouth.",
+    "contextNote": "Distorting another speaker's statement.",
+    "confusedWith": "Take the words out of mouth",
+    "keyDistinction": "'Put words in mouth' galat claim karna hai ki usne yeh kaha; 'take words out of mouth' vahi bolna jo doosra soch raha tha.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "misrepresentation",
+      "distortion",
+      "speech"
+    ]
+  },
+  {
+    "id": "IDM-041",
+    "idiom": "Speak one's mind",
+    "category": "Secrets, Communication & Information",
+    "definition": "To express one's opinions, feelings, or thoughts frankly and without fear.",
+    "hinglishExplanation": "Bina kisi jhijhak ke saaf aur spasht roop se apni baat rakhna.",
+    "example": "The senior advocate was respected because he always spoke his mind with impeccable honesty.",
+    "contextNote": "Candidness and moral courage.",
+    "confusedWith": "Lose one's mind",
+    "keyDistinction": "'Speak mind' khulkar bolna hai; 'lose mind' pagal ya be-kaabu ho jana hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "candor",
+      "honesty",
+      "expression"
+    ]
+  },
+  {
+    "id": "IDM-042",
+    "idiom": "Have a change of heart",
+    "category": "Secrets, Communication & Information",
+    "definition": "To reverse one's previous opinion, plan, decision, or emotional stance.",
+    "hinglishExplanation": "Apna faisla, vichar ya bhavna poori tarah badal lena.",
+    "example": "Initially opposed to the settlement, the complainant had a change of heart after counseling.",
+    "contextNote": "Internal reconsideration leading to a modified position.",
+    "confusedWith": "At heart",
+    "keyDistinction": "'Change of heart' decision/attitude ka badalna hai; 'at heart' mool swabhav ko kehte hain.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "reconsideration",
+      "change",
+      "attitude"
+    ]
+  },
+  {
+    "id": "IDM-043",
+    "idiom": "At the tip of one's tongue",
+    "category": "Secrets, Communication & Information",
+    "definition": "Almost recalled and about to be spoken, but not quite remembered at that exact moment.",
+    "hinglishExplanation": "Baat ya naam dimaag mein hona lekin thik us waqt zuban par na aana.",
+    "example": "The statute citation was on the tip of my tongue, but I had to check the legal digest.",
+    "contextNote": "Transient retrieval failure of memory.",
+    "confusedWith": "Slip of the tongue",
+    "keyDistinction": "'Tip of tongue' yaad na aane ki sthiti hai; 'slip of tongue' bolte waqt anjaane mein galti se galat bol jana hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "memory",
+      "recall",
+      "speech"
+    ]
+  },
+  {
+    "id": "IDM-044",
+    "idiom": "Word of mouth",
+    "category": "Secrets, Communication & Information",
+    "definition": "Communication passing informally from person to person through oral conversation.",
+    "hinglishExplanation": "Ek vyakti se doosre vyakti tak aam baatchit ke madhyam se jaankari ka phailna.",
+    "example": "The reputation of the coaching academy spread primarily through word of mouth among successful candidates.",
+    "contextNote": "Organic, personal communication channel.",
+    "confusedWith": "Hearsay",
+    "keyDistinction": "'Word of mouth' aam communication ya recommendation hai; 'hearsay' legal context mein unadmissible afwah/secondary evidence hota hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "informal",
+      "communication",
+      "reputation"
+    ]
+  },
+  {
+    "id": "IDM-045",
+    "idiom": "Clear the air",
+    "category": "Secrets, Communication & Information",
+    "definition": "To defuse hidden tension, suspicion, or misunderstanding by open and honest discussion.",
+    "hinglishExplanation": "Khulkar baatchit karke aapsi galatfehmi, tanaav ya shaq ko door karna.",
+    "example": "A frank discussion between the union leaders and administration helped clear the air.",
+    "contextNote": "Resolving lingering interpersonal tension.",
+    "confusedWith": "Walk on air",
+    "keyDistinction": "'Clear the air' misunderstandings suljhana hai; 'walk on air' behad khush mehsoos karna hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "reconciliation",
+      "transparency",
+      "resolution"
+    ]
+  },
+  {
+    "id": "IDM-046",
+    "idiom": "Lose one's temper",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "To suddenly become intensely angry and fail to control one's emotional outburst.",
+    "hinglishExplanation": "Achanak gusse par kaabu kho dena aur krodhit ho jana.",
+    "example": "The presiding officer remained composed and never lost his temper even under severe provocation.",
+    "contextNote": "Loss of self-control due to anger.",
+    "confusedWith": "Keep one's cool",
+    "keyDistinction": "Dono exact antonymous emotional behaviors represent karte hain.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "anger",
+      "outburst",
+      "temper"
+    ]
+  },
+  {
+    "id": "IDM-047",
+    "idiom": "Keep one's cool",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "To remain calm, composed, and controlled in a difficult or provocative situation.",
+    "hinglishExplanation": "Mushkil ya tanaavpoorn sthiti mein bhi shaant aur sanyamit bane rehna.",
+    "example": "Despite aggressive questioning by the panel, the candidate kept her cool throughout.",
+    "contextNote": "Equanimity under stressful conditions.",
+    "confusedWith": "Cold feet",
+    "keyDistinction": "'Keep cool' calmness aur composure hai; 'cold feet' dar ya ghabrahat ke karan peechhe hatna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "calm",
+      "composure",
+      "control"
+    ]
+  },
+  {
+    "id": "IDM-048",
+    "idiom": "Down in the dumps",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "Feeling unusually depressed, gloomy, or unhappy.",
+    "hinglishExplanation": "Udaas, niraash ya be-jaan mehsoos karna.",
+    "example": "After failing the preliminary exam by one mark, Ramesh was down in the dumps for weeks.",
+    "contextNote": "Temporary state of mild dejection or sorrow.",
+    "confusedWith": "Down to earth",
+    "keyDistinction": "'Down in dumps' udaasi hai; 'down to earth' vyavaharik aur vinamra vyakti ke liye use hota hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "sadness",
+      "depression",
+      "emotion"
+    ]
+  },
+  {
+    "id": "IDM-049",
+    "idiom": "On cloud nine",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "Extremely happy, ecstatic, and joyful.",
+    "hinglishExplanation": "Atyadhik khush hona; khushi ka thikana na rehna.",
+    "example": "When she received her official appointment letter from the High Court, she was on cloud nine.",
+    "contextNote": "Peak joy, celebration, and delight.",
+    "confusedWith": "Head in the clouds",
+    "keyDistinction": "'On cloud nine' bohot khush hona hai; 'head in clouds' avyavaharik ya daydreaming karne wale ke liye hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "joy",
+      "happiness",
+      "celebration"
+    ]
+  },
+  {
+    "id": "IDM-050",
+    "idiom": "Butterflies in one's stomach",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "A nervous, fluttery feeling in the stomach before an important event or performance.",
+    "hinglishExplanation": "Kisi ahem event ya pariksha se pehle ghabrahat ya bechaini mehsoos hona.",
+    "example": "Standing outside the interview chamber, Suresh felt butterflies in his stomach.",
+    "contextNote": "Anticipatory anxiety before a significant test or presentation.",
+    "confusedWith": "Gut feeling",
+    "keyDistinction": "'Butterflies in stomach' nervous tension hai; 'gut feeling' aantarik aabhas ya intuition hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "anxiety",
+      "nervousness",
+      "interview"
+    ]
+  },
+  {
+    "id": "IDM-051",
+    "idiom": "Get cold feet",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "To suddenly lose courage and become too fearful to proceed with a planned action.",
+    "hinglishExplanation": "Achanak dar jana aur aage badhne ki himmat kho dena.",
+    "example": "The whistleblower got cold feet at the last minute and refused to sign the affidavit.",
+    "contextNote": "Last-minute loss of nerve or hesitation.",
+    "confusedWith": "Keep one's cool",
+    "keyDistinction": "'Cold feet' dar se pichhe hatna hai; 'keep cool' calmness banaye rakhna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "fear",
+      "hesitation",
+      "withdrawal"
+    ]
+  },
+  {
+    "id": "IDM-052",
+    "idiom": "A blessing in disguise",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "An apparent misfortune or disappointment that ultimately brings unexpected benefits.",
+    "hinglishExplanation": "Shuruat mein musibat lagne wali aisi ghatna jo aage chal kar faydemand sabit ho.",
+    "example": "Failing the initial exam was a blessing in disguise, as it forced him to prepare far more rigorously for the judicial cadre.",
+    "contextNote": "Silver lining behind an initial setback.",
+    "confusedWith": "Wolf in sheep's clothing",
+    "keyDistinction": "'Blessing in disguise' bura jo accha nikle; 'wolf in sheep's clothing' dhokhebaz vyakti jo shareef bane.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "misfortune",
+      "optimism",
+      "perspective"
+    ]
+  },
+  {
+    "id": "IDM-053",
+    "idiom": "Add fuel to the fire",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "To aggravate an already tense, angry, or contentious situation.",
+    "hinglishExplanation": "Bhadke huye gusse ya tanaav ko aur zyada badhana; aag mein ghee daalna.",
+    "example": "His arrogant remark only added fuel to the fire during the union negotiation.",
+    "contextNote": "Escalating a conflict or emotional crisis.",
+    "confusedWith": "Clear the air",
+    "keyDistinction": "'Add fuel to fire' tanaav badhana hai; 'clear the air' tanaav ko door karna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "escalation",
+      "conflict",
+      "provocation"
+    ]
+  },
+  {
+    "id": "IDM-054",
+    "idiom": "Make a mountain out of a molehill",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "To treat a trifling, minor matter as a catastrophic or serious problem.",
+    "hinglishExplanation": "Chhoti si baat ka batangar banana; rai ka pahad banana.",
+    "example": "It was merely a typographical error on the cover sheet; don't make a mountain out of a molehill.",
+    "contextNote": "Overreaction to trivial defects.",
+    "confusedWith": "Storm in a teacup",
+    "keyDistinction": "Dono similar hain; 'mountain out of molehill' vyakti ke overreaction ko denote karta hai, 'storm in teacup' event/commotion ko.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "exaggeration",
+      "overreaction",
+      "trivial"
+    ]
+  },
+  {
+    "id": "IDM-055",
+    "idiom": "Have a chip on one's shoulder",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "To harbour a persistent grudge, sense of grievance, or combative belligerence.",
+    "hinglishExplanation": "Har waqt gusse mein rehna ya purani ranjish ke karan chid-chida vyavhar karna.",
+    "example": "Ever since he was passed over for promotion, he has had a chip on his shoulder.",
+    "contextNote": "Defensive, resentful, and aggressive attitude.",
+    "confusedWith": "Wear one's heart on sleeve",
+    "keyDistinction": "'Chip on shoulder' gussa aur ranjish hai; 'heart on sleeve' bhavnaon ko khule aam dikhana hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "resentment",
+      "grudge",
+      "attitude"
+    ]
+  },
+  {
+    "id": "IDM-056",
+    "idiom": "Wear one's heart on one's sleeve",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "To display one's true emotions openly and candidly rather than concealing them.",
+    "hinglishExplanation": "Apni bhavnaon ko bina chhupaye khule aam dikhana.",
+    "example": "A judicial officer must remain impassive; you cannot wear your heart on your sleeve on the bench.",
+    "contextNote": "Transparent vulnerability or unmasked emotionalism.",
+    "confusedWith": "Chip on shoulder",
+    "keyDistinction": "'Heart on sleeve' open emotional expression hai; 'chip on shoulder' chipa hua gussa/grudge hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "vulnerability",
+      "emotion",
+      "transparency"
+    ]
+  },
+  {
+    "id": "IDM-057",
+    "idiom": "Be over the moon",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "To be extremely delighted, overjoyed, and thrilled.",
+    "hinglishExplanation": "Bohot zyada prashann aur uttsahit hona.",
+    "example": "The entire village was over the moon when their local girl cracked the administrative service.",
+    "contextNote": "High celebration and ecstatic happiness.",
+    "confusedWith": "Once in a blue moon",
+    "keyDistinction": "'Over the moon' khushi ki sthiti hai; 'once in a blue moon' durlabh frequency (rarely) ke liye hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "ecstasy",
+      "joy",
+      "celebration"
+    ]
+  },
+  {
+    "id": "IDM-058",
+    "idiom": "Keep one's chin up",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "To remain cheerful, optimistic, and courageous in the face of misfortune or adversity.",
+    "hinglishExplanation": "Bure waqt mein bhi hosla aur himmat banaye rakhna.",
+    "example": "Keep your chin up; you have another attempt at the exam next year.",
+    "contextNote": "Encouragement during disappointing circumstances.",
+    "confusedWith": "Turn up one's nose",
+    "keyDistinction": "'Keep chin up' himmat rakhna hai; 'turn up nose' heya drishti dikhana hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "courage",
+      "resilience",
+      "optimism"
+    ]
+  },
+  {
+    "id": "IDM-059",
+    "idiom": "Get on someone's nerves",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "To persistently irritate, annoy, or provoke someone.",
+    "hinglishExplanation": "Kisi ko lagataar pareshan ya irritate karte rehna.",
+    "example": "The constant flickering of the old monitor was really getting on the clerk's nerves.",
+    "contextNote": "Gradual building of irritation.",
+    "confusedWith": "Drive someone up the wall",
+    "keyDistinction": "Dono annoyance darshate hain; 'drive up wall' extreme frustration ke liye hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "irritation",
+      "annoyance",
+      "provocation"
+    ]
+  },
+  {
+    "id": "IDM-060",
+    "idiom": "A bitter pill to swallow",
+    "category": "Emotions, Behaviour & Personality",
+    "definition": "An unpleasant or humiliating truth, event, or condition that must be accepted.",
+    "hinglishExplanation": "Aisi kadvi sacchayi ya apriy sthiti jise majbooran swikar karna pade.",
+    "example": "The loss of the senior standing in the roster was a bitter pill for the applicant to swallow.",
+    "contextNote": "Painful acceptance of reality.",
+    "confusedWith": "Sugarcoat",
+    "keyDistinction": "'Bitter pill' kadvi sacchayi hai; 'sugarcoat' kadvi baat ko meethi karke pesh karna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "acceptance",
+      "reality",
+      "disappointment"
+    ]
+  },
+  {
+    "id": "IDM-061",
+    "idiom": "Cost an arm and a leg",
+    "category": "Money, Value & Resources",
+    "definition": "To be exorbitantly expensive or cost a prohibitive amount of money.",
+    "hinglishExplanation": "Bahut zyada mehanga hona; bohot badi keemat chukana.",
+    "example": "Importing proprietary server hardware for the district court costs an arm and a leg.",
+    "contextNote": "High purchase cost.",
+    "confusedWith": "Live from hand to mouth",
+    "keyDistinction": "'Cost arm and leg' expensive item ke liye hai; 'live from hand to mouth' aamdan ki kami/garibi ke liye hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "expensive",
+      "cost",
+      "luxury"
+    ]
+  },
+  {
+    "id": "IDM-062",
+    "idiom": "Break the bank",
+    "category": "Money, Value & Resources",
+    "definition": "To cost more money than one can afford or completely deplete one's financial reserves.",
+    "hinglishExplanation": "Budget se bahar hona ya poori bachat khatam kar dena.",
+    "example": "Purchasing good study books will help your career without breaking the bank.",
+    "contextNote": "Affordability and budget constraints (often used in negative: won't break the bank).",
+    "confusedWith": "Make ends meet",
+    "keyDistinction": "'Break the bank' budget exhaust hona hai; 'make ends meet' basic survival expenses cover karna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "budget",
+      "affordability",
+      "expense"
+    ]
+  },
+  {
+    "id": "IDM-063",
+    "idiom": "Make ends meet",
+    "category": "Money, Value & Resources",
+    "definition": "To earn just enough income to cover basic living expenses.",
+    "hinglishExplanation": "Itni aamdani hona jisse guzaara chal sake; kharche poore karna.",
+    "example": "On a meager stipend, the young apprentice struggled to make ends meet in the capital city.",
+    "contextNote": "Financial hardship and subsistence living.",
+    "confusedWith": "Live from hand to mouth",
+    "keyDistinction": "'Make ends meet' basic kharche manage karna hai; 'hand to mouth' bilkul saving na hona aur agle din ki chinta rehna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "subsistence",
+      "income",
+      "budget"
+    ]
+  },
+  {
+    "id": "IDM-064",
+    "idiom": "Live from hand to mouth",
+    "category": "Money, Value & Resources",
+    "definition": "To have only just enough money to survive day to day without any savings for the future.",
+    "hinglishExplanation": "Roz kamana aur roz khana; bhavishya ke liye koi bachat na hona.",
+    "example": "Before securing regular government employment, his family had lived from hand to mouth for years.",
+    "contextNote": "Acute poverty and absence of financial cushion.",
+    "confusedWith": "On a shoestring",
+    "keyDistinction": "'Hand to mouth' personal poverty ke liye hai; 'on a shoestring' tight budget par venture chalane ke liye hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "poverty",
+      "savings",
+      "survival"
+    ]
+  },
+  {
+    "id": "IDM-065",
+    "idiom": "Save for a rainy day",
+    "category": "Money, Value & Resources",
+    "definition": "To reserve money or resources for an unforeseen emergency or future hardship.",
+    "hinglishExplanation": "Mushkil waqt ya aapatkal ke liye bachat karke rakhna.",
+    "example": "Prudent civil servants always save for a rainy day by investing in provident funds.",
+    "contextNote": "Financial foresight and emergency planning.",
+    "confusedWith": "Rain on someone's parade",
+    "keyDistinction": "'Save for rainy day' bachat karna hai; 'rain on parade' kisi ki khushi ya plan ko kharab karna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "savings",
+      "prudence",
+      "emergency"
+    ]
+  },
+  {
+    "id": "IDM-066",
+    "idiom": "Worth one's weight in gold",
+    "category": "Money, Value & Resources",
+    "definition": "Extremely valuable, immensely helpful, or of irreplaceable utility.",
+    "hinglishExplanation": "Bahut zyada kimti, anmol ya faydemand hona.",
+    "example": "An experienced stenographer who knows procedural drafting is worth their weight in gold.",
+    "contextNote": "High functional or personal value.",
+    "confusedWith": "Golden handshake",
+    "keyDistinction": "'Worth weight in gold' anmol hone ke liye hai; 'golden handshake' retirement ke waqt badi severance package ke liye hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "value",
+      "utility",
+      "excellence"
+    ]
+  },
+  {
+    "id": "IDM-067",
+    "idiom": "Money doesn't grow on trees",
+    "category": "Money, Value & Resources",
+    "definition": "Money is not easily acquired and must be earned through hard work; it is finite.",
+    "hinglishExplanation": "Paisa ped par nahi ugta; paise ki qadr karni chahiye.",
+    "example": "Turn off the lights when leaving the library; money doesn't grow on trees.",
+    "contextNote": "Warning against reckless expenditure.",
+    "confusedWith": "Bring home the bacon",
+    "keyDistinction": "Yeh caution/proverbial idiom hai financial waste ke khilaf.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "caution",
+      "finiteness",
+      "economy"
+    ]
+  },
+  {
+    "id": "IDM-068",
+    "idiom": "Tighten one's belt",
+    "category": "Money, Value & Resources",
+    "definition": "To cut back on spending and live on a reduced budget during financial hardship.",
+    "hinglishExplanation": "Kharche kam karna aur sanyam se rehna; tangi ke waqt budget ghatana.",
+    "example": "With inflation rising and revenues constrained, the department had to tighten its belt.",
+    "contextNote": "Austerity and spending cuts.",
+    "confusedWith": "Below the belt",
+    "keyDistinction": "'Tighten belt' kharche ghatana hai; 'below the belt' anuchit ya anaitik vaar karne ke liye hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "austerity",
+      "spending",
+      "discipline"
+    ]
+  },
+  {
+    "id": "IDM-069",
+    "idiom": "Bring home the bacon",
+    "category": "Money, Value & Resources",
+    "definition": "To earn the livelihood that supports one's family or to achieve material success.",
+    "hinglishExplanation": "Pariwar ke liye rozi-roti kamana ya kamyabi hasil karna.",
+    "example": "As the primary earner, she worked diligently to bring home the bacon for her aging parents.",
+    "contextNote": "Breadwinning responsibility.",
+    "confusedWith": "Save one's bacon",
+    "keyDistinction": "'Bring home bacon' aamdani kamana hai; 'save one's bacon' mushkil se jaan ya izzat bachana hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "livelihood",
+      "income",
+      "family"
+    ]
+  },
+  {
+    "id": "IDM-070",
+    "idiom": "Pay through the nose",
+    "category": "Money, Value & Resources",
+    "definition": "To pay far more for something than its reasonable or fair market value.",
+    "hinglishExplanation": "Kisi cheez ke liye hadd se zyada keemat chukana; loot jana.",
+    "example": "Late filers often pay through the nose in late fees and penalties.",
+    "contextNote": "Excessive, unreasonable payment.",
+    "confusedWith": "Cost an arm and a leg",
+    "keyDistinction": "'Cost arm and leg' item ki high cost batata hai; 'pay through nose' buyer dwara excessive payment karne ke act ko emphasize karta hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "overpayment",
+      "penalty",
+      "expense"
+    ]
+  },
+  {
+    "id": "IDM-071",
+    "idiom": "On a shoestring",
+    "category": "Money, Value & Resources",
+    "definition": "Operating with a very small or severely restricted budget.",
+    "hinglishExplanation": "Bohot kam budget ya seemit sansadhanon ke sahare kaam chalana.",
+    "example": "The legal aid clinic operated on a shoestring budget but delivered justice to hundreds.",
+    "contextNote": "Lean, tight operating conditions.",
+    "confusedWith": "Live from hand to mouth",
+    "keyDistinction": "'On a shoestring' budget/venture ke liye hai; 'hand to mouth' household personal survival ke liye hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "budget",
+      "lean",
+      "economy"
+    ]
+  },
+  {
+    "id": "IDM-072",
+    "idiom": "A penny saved is a penny earned",
+    "category": "Money, Value & Resources",
+    "definition": "Saving money that you have is as valuable as earning additional money.",
+    "hinglishExplanation": "Bachaya hua paisa kamaye huye paise ke barabar hota hai.",
+    "example": "By avoiding unnecessary printouts, the office saved thousands; truly, a penny saved is a penny earned.",
+    "contextNote": "Conventional wisdom emphasizing frugality.",
+    "confusedWith": "Penny-wise and pound-foolish",
+    "keyDistinction": "'Penny saved' bachat ki prashansa hai; 'penny-wise' choti bachat karke bada nuksan karne ki aalochna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "frugality",
+      "proverb",
+      "prudence"
+    ]
+  },
+  {
+    "id": "IDM-073",
+    "idiom": "Once in a blue moon",
+    "category": "Time & Frequency",
+    "definition": "Occurring very rarely, infrequently, or on exceptional occasions.",
+    "hinglishExplanation": "Kabhi-kabaar; bohot hi durlabh maukon par hona (Eid ka chaand).",
+    "example": "The chief justice visits the subordinate court library once in a blue moon.",
+    "contextNote": "Extremely low frequency.",
+    "confusedWith": "Over the moon",
+    "keyDistinction": "'Once in blue moon' frequency (rare) hai; 'over the moon' khushi ki state hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "rarity",
+      "frequency",
+      "time"
+    ]
+  },
+  {
+    "id": "IDM-074",
+    "idiom": "In the nick of time",
+    "category": "Time & Frequency",
+    "definition": "At the very last possible moment, just before it is too late.",
+    "hinglishExplanation": "Aen waqt par; theek antim kshan par pahunch jana.",
+    "example": "The stay order petition was submitted in the nick of time before demolition commenced.",
+    "contextNote": "Last moment arrival or prevention of a crisis.",
+    "confusedWith": "At the eleventh hour",
+    "keyDistinction": "Dono similar hain; 'nick of time' rescue ya prevention par focus karta hai, 'eleventh hour' decision/action par.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "timing",
+      "deadline",
+      "urgency"
+    ]
+  },
+  {
+    "id": "IDM-075",
+    "idiom": "Around the clock",
+    "category": "Time & Frequency",
+    "definition": "All day and all night without stopping; continuously twenty-four hours a day.",
+    "hinglishExplanation": "Din-raat bina ruke lagataar; 24 ghante.",
+    "example": "Technicians worked around the clock to restore the High Court network connectivity.",
+    "contextNote": "Continuous round-the-clock labor.",
+    "confusedWith": "Against the clock",
+    "keyDistinction": "'Around the clock' 24 ghante continuity hai; 'against the clock' deadline beat karne ki race hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "continuous",
+      "24-hours",
+      "labor"
+    ]
+  },
+  {
+    "id": "IDM-076",
+    "idiom": "At the eleventh hour",
+    "category": "Time & Frequency",
+    "definition": "At the latest possible time or final moment before an event occurs.",
+    "hinglishExplanation": "Aakhri pal mein; antim moment par koi faisla ya badlav karna.",
+    "example": "The government amended the notification at the eleventh hour, granting relief to candidates.",
+    "contextNote": "Last-minute intervention or modification.",
+    "confusedWith": "In the nick of time",
+    "keyDistinction": "'Eleventh hour' aksar late decisions ke liye use hota hai; 'nick of time' critical rescue/entry ke liye.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "timing",
+      "last-minute",
+      "decision"
+    ]
+  },
+  {
+    "id": "IDM-077",
+    "idiom": "Time flies",
+    "category": "Time & Frequency",
+    "definition": "Time appears to pass astonishingly fast and quickly.",
+    "hinglishExplanation": "Waqt ka pata hi na chalna; samay bohot tezi se beetna.",
+    "example": "When you are engrossed in drafting, time flies without notice.",
+    "contextNote": "Perception of rapid temporal passage.",
+    "confusedWith": "Behind the times",
+    "keyDistinction": "'Time flies' waqt ka tezi se nikalna hai; 'behind times' purane jamane ka hona hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "speed",
+      "time",
+      "perception"
+    ]
+  },
+  {
+    "id": "IDM-078",
+    "idiom": "Ahead of one's time",
+    "category": "Time & Frequency",
+    "definition": "Having progressive ideas or technologies that are far more advanced than contemporary society.",
+    "hinglishExplanation": "Apne samay se aage hona; bohot aadhunik ya pragatisheel hona.",
+    "example": "The reformer's proposals on digital courtrooms in the 1980s were well ahead of their time.",
+    "contextNote": "Visionary thinking that exceeds contemporary norms.",
+    "confusedWith": "Behind the times",
+    "keyDistinction": "Dono exact temporal opposites hain: advanced visionary vs obsolete backward.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "visionary",
+      "advanced",
+      "progress"
+    ]
+  },
+  {
+    "id": "IDM-079",
+    "idiom": "In no time",
+    "category": "Time & Frequency",
+    "definition": "Almost instantaneously; very quickly and with minimal delay.",
+    "hinglishExplanation": "Palak jhapakte hi; bohot hi kam samay mein.",
+    "example": "With the new automated indexing system, the record room clerk located files in no time.",
+    "contextNote": "Rapid execution speed.",
+    "confusedWith": "Nick of time",
+    "keyDistinction": "'In no time' speed (very quickly) darshata hai; 'nick of time' last moment arrival darshata hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "speed",
+      "rapidity",
+      "efficiency"
+    ]
+  },
+  {
+    "id": "IDM-080",
+    "idiom": "Behind the times",
+    "category": "Time & Frequency",
+    "definition": "Old-fashioned, out-of-date, and failing to conform to contemporary standards.",
+    "hinglishExplanation": "Purane jamane ka; samay ke sath na chalne wala.",
+    "example": "Relying purely on manual registers makes the record division look behind the times.",
+    "contextNote": "Outdated methods or thinking.",
+    "confusedWith": "Ahead of one's time",
+    "keyDistinction": "Opposite of ahead of one's time.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "obsolete",
+      "outdated",
+      "archaic"
+    ]
+  },
+  {
+    "id": "IDM-081",
+    "idiom": "Call it a day",
+    "category": "Time & Frequency",
+    "definition": "To stop working on something for the rest of the day or temporarily cease an activity.",
+    "hinglishExplanation": "Aaj ke liye kaam band karna ya chhutti lena.",
+    "example": "After indexing five hundred case files, the exhausted team decided to call it a day.",
+    "contextNote": "Ending the day's work session.",
+    "confusedWith": "Call it quits",
+    "keyDistinction": "'Call it a day' aaj ka kaam khatam karna hai; 'call it quits' kisi relationship ya project ko permanently band karna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "conclusion",
+      "work",
+      "rest"
+    ]
+  },
+  {
+    "id": "IDM-082",
+    "idiom": "Kill time",
+    "category": "Time & Frequency",
+    "definition": "To do something purely to pass the time while waiting for something else to happen.",
+    "hinglishExplanation": "Waqt kaatna ya intezar karte waqt samay bitana.",
+    "example": "While waiting for the bench to assemble, counsel read legal journals to kill time.",
+    "contextNote": "Occupying idle waiting time.",
+    "confusedWith": "Time flies",
+    "keyDistinction": "'Kill time' waqt pass karne ka conscious effort hai; 'time flies' waqt ka tezi se nikalna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "waiting",
+      "idle",
+      "delay"
+    ]
+  },
+  {
+    "id": "IDM-083",
+    "idiom": "In the long run",
+    "category": "Time & Frequency",
+    "definition": "Over an extended period of time; ultimately in the final analysis.",
+    "hinglishExplanation": "Aage chal kar; lambe samay mein; aakhirkar.",
+    "example": "Investing in computerized courtroom infrastructure will save enormous public money in the long run.",
+    "contextNote": "Long-term future perspective.",
+    "confusedWith": "In the short term",
+    "keyDistinction": "'Long run' extended future outcomes ke liye hai; 'short term' tatkalik parinam ke liye hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "future",
+      "perspective",
+      "outcome"
+    ]
+  },
+  {
+    "id": "IDM-084",
+    "idiom": "At the drop of a hat",
+    "category": "Time & Frequency",
+    "definition": "Willingly and immediately, without any hesitation or prior planning.",
+    "hinglishExplanation": "Bina kisi hichkichahat ke turant; achanak bina deri kiye.",
+    "example": "The dedicated staff was willing to work overtime at the drop of a hat during emergency sessions.",
+    "contextNote": "Instant readiness without delay.",
+    "confusedWith": "Once in a blue moon",
+    "keyDistinction": "'At drop of a hat' instant willingness hai; 'once in blue moon' rare occurrence hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "readiness",
+      "instant",
+      "spontaneous"
+    ]
+  },
+  {
+    "id": "IDM-085",
+    "idiom": "See eye to eye",
+    "category": "Relationships, Cooperation & Conflict",
+    "definition": "To be in full agreement with someone on a matter.",
+    "hinglishExplanation": "Kisi baat par poori tarah sehmat hona; ek jaisi rai rakhna.",
+    "example": "The prosecution and defense did not see eye to eye on the admissibility of the electronic logs.",
+    "contextNote": "Mutual consensus or agreement.",
+    "confusedWith": "Turn a blind eye",
+    "keyDistinction": "'See eye to eye' sehmat hona hai; 'turn blind eye' kisi galti ko jaanbujhkar ignore karna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "agreement",
+      "consensus",
+      "harmony"
+    ]
+  },
+  {
+    "id": "IDM-086",
+    "idiom": "Bury the hatchet",
+    "category": "Relationships, Cooperation & Conflict",
+    "definition": "To end a longstanding dispute, quarrel, or conflict and make peace.",
+    "hinglishExplanation": "Purani dushmani ya jhagda bhula kar aapsi sulah kar lena.",
+    "example": "After years of bitter litigation, the two business partners decided to bury the hatchet and settle out of court.",
+    "contextNote": "Reconciliation after an ongoing conflict.",
+    "confusedWith": "See eye to eye",
+    "keyDistinction": "'Bury the hatchet' dushmani khatam karke sulah karna hai; 'see eye to eye' kisi point par aam rai hona hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "reconciliation",
+      "peace",
+      "dispute"
+    ]
+  },
+  {
+    "id": "IDM-087",
+    "idiom": "Break the ice",
+    "category": "Relationships, Cooperation & Conflict",
+    "definition": "To do or say something that relieves social awkwardness or tension among strangers.",
+    "hinglishExplanation": "Naye logon ke beech shuruati jhijhak ya khamoshi ko todna.",
+    "example": "The chairperson shared a humorous anecdote to break the ice at the start of the inter-departmental meet.",
+    "contextNote": "Overcoming initial social inhibition.",
+    "confusedWith": "Bury the hatchet",
+    "keyDistinction": "'Break the ice' strangers ke beech awkwardness khatam karna hai; 'bury the hatchet' dushmano ke beech sulah karwana hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "social",
+      "comfort",
+      "introduction"
+    ]
+  },
+  {
+    "id": "IDM-088",
+    "idiom": "Extend an olive branch",
+    "category": "Relationships, Cooperation & Conflict",
+    "definition": "To make an offer of peace, reconciliation, or conciliation to an adversary.",
+    "hinglishExplanation": "Shanti ya dosti ka prastav aage badhana; dushmani mitane ki pehel karna.",
+    "example": "The management extended an olive branch to the striking employees by offering mediation talks.",
+    "contextNote": "Initiating peace or negotiation overtures.",
+    "confusedWith": "Wave a white flag",
+    "keyDistinction": "'Extend olive branch' dosti/sulah ka prastav hai; 'white flag' surrender ya haar maan lene ka prateek hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "peace",
+      "conciliation",
+      "negotiation"
+    ]
+  },
+  {
+    "id": "IDM-089",
+    "idiom": "A shoulder to cry on",
+    "category": "Relationships, Cooperation & Conflict",
+    "definition": "Someone who offers sympathetic listening, emotional support, and comfort during distress.",
+    "hinglishExplanation": "Aisa vyakti jo dukh ke waqt sahara bane aur dukh sun kar himmat de.",
+    "example": "During her difficult family crisis, her colleague proved to be a reliable shoulder to cry on.",
+    "contextNote": "Emotional support and empathy.",
+    "confusedWith": "Cold shoulder",
+    "keyDistinction": "'Shoulder to cry on' empathy aur sahara hai; 'cold shoulder' jaanbujhkar ignore karna aur upeksha karna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "empathy",
+      "comfort",
+      "support"
+    ]
+  },
+  {
+    "id": "IDM-090",
+    "idiom": "Give someone the cold shoulder",
+    "category": "Relationships, Cooperation & Conflict",
+    "definition": "To deliberately ignore, dismiss, or treat someone in an unfriendly, aloof manner.",
+    "hinglishExplanation": "Kisi vyakti ko jaanbujhkar nazarandaz karna ya rukhapan dikhana.",
+    "example": "After voting against the resolution, the council member was given the cold shoulder by his faction.",
+    "contextNote": "Deliberate social ostracism or rebuff.",
+    "confusedWith": "Cold feet",
+    "keyDistinction": "'Cold shoulder' kisi doosre ko ignore karna hai; 'cold feet' khud dar kar peechhe hatna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "rejection",
+      "aloof",
+      "ignore"
+    ]
+  },
+  {
+    "id": "IDM-091",
+    "idiom": "Through thick and thin",
+    "category": "Relationships, Cooperation & Conflict",
+    "definition": "Under all circumstances, supporting someone through good times as well as severe hardships.",
+    "hinglishExplanation": "Har acche aur bure waqt mein sath nibhana; sukh-dukh mein sath rehna.",
+    "example": "True friends stand by each other through thick and thin.",
+    "contextNote": "Unwavering loyalty and steadfast commitment.",
+    "confusedWith": "Skin and bone",
+    "keyDistinction": "'Thick and thin' loyalty through hardships hai; 'skin and bone' bohot kamzor vyakti ke physical state ke liye hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "loyalty",
+      "steadfast",
+      "support"
+    ]
+  },
+  {
+    "id": "IDM-092",
+    "idiom": "Know someone inside out",
+    "category": "Relationships, Cooperation & Conflict",
+    "definition": "To know someone or something thoroughly, intimately, and completely.",
+    "hinglishExplanation": "Kisi vyakti ya vishay ko ragon-rag se poori tarah janna.",
+    "example": "Having worked together for two decades, the senior partners knew each other inside out.",
+    "contextNote": "Deep familiarity and comprehensive understanding.",
+    "confusedWith": "Upside down",
+    "keyDistinction": "'Inside out' deep knowledge/familiarity hai; 'upside down' ulta hone ke liye hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "familiarity",
+      "knowledge",
+      "intimacy"
+    ]
+  },
+  {
+    "id": "IDM-093",
+    "idiom": "At loggerheads",
+    "category": "Relationships, Cooperation & Conflict",
+    "definition": "In stubborn, persistent dispute, disagreement, or confrontation with someone.",
+    "hinglishExplanation": "Kisi ke sath aapas mein kadi tanaav, jhagde ya asahamati mein hona.",
+    "example": "The bar association and the administrative committee are at loggerheads over courtroom allocation.",
+    "contextNote": "Entrenched, contentious dispute.",
+    "confusedWith": "See eye to eye",
+    "keyDistinction": "Antonym of see eye to eye.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "dispute",
+      "confrontation",
+      "conflict"
+    ]
+  },
+  {
+    "id": "IDM-094",
+    "idiom": "Two peas in a pod",
+    "category": "Relationships, Cooperation & Conflict",
+    "definition": "Two people who are remarkably similar in appearance, tastes, character, or habits.",
+    "hinglishExplanation": "Do log jo aapas mein bilkul ek jaise dikhte ya sochte hon; ek thaili ke chatte-batte.",
+    "example": "The twin sisters both chose law and share the exact same study habits—they are like two peas in a pod.",
+    "contextNote": "Extreme resemblance or compatibility.",
+    "confusedWith": "Birds of a feather",
+    "keyDistinction": "Dono similarity darshate hain; 'two peas in a pod' close binary pair ke liye zyada natural hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "similarity",
+      "affinity",
+      "resemblance"
+    ]
+  },
+  {
+    "id": "IDM-095",
+    "idiom": "Lend a hand",
+    "category": "Relationships, Cooperation & Conflict",
+    "definition": "To help or assist someone with an activity or difficult burden.",
+    "hinglishExplanation": "Kisi ki madad karna ya hath batana.",
+    "example": "Whenever a junior clerk struggles with formatting, the senior superintendent lends a hand.",
+    "contextNote": "Practical, supportive assistance.",
+    "confusedWith": "Wash one's hands of",
+    "keyDistinction": "'Lend a hand' madad karna hai; 'wash hands of' kisi mamle se apna palla jhad lena hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "help",
+      "assistance",
+      "support"
+    ]
+  },
+  {
+    "id": "IDM-096",
+    "idiom": "Pull together",
+    "category": "Relationships, Cooperation & Conflict",
+    "definition": "To cooperate and work harmoniously as an integrated group toward a common objective.",
+    "hinglishExplanation": "Ek sath milkar aapas mein sahyog karna aur kaam poora karna.",
+    "example": "If the division pulls together, we can complete the pending audit before the high court vacation.",
+    "contextNote": "Cooperative collective effort.",
+    "confusedWith": "Pull apart",
+    "keyDistinction": "'Pull together' sahyog karna hai; 'pull apart' alag-alag karna ya todna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "cooperation",
+      "teamwork",
+      "unity"
+    ]
+  },
+  {
+    "id": "IDM-097",
+    "idiom": "Jump the gun",
+    "category": "Decisions, Risk & Consequences",
+    "definition": "To act prematurely before the proper, authorized, or appropriate time.",
+    "hinglishExplanation": "Waqt se pehle jaldbazi mein koi kadam utha lena.",
+    "example": "The press jumped the gun by announcing the verdict before the bench had formally signed the judgment.",
+    "contextNote": "Premature, hasty action.",
+    "confusedWith": "Bite the bullet",
+    "keyDistinction": "'Jump the gun' samay se pehle jaldbazi karna hai; 'bite the bullet' mushkil kaam ko endure karna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "premature",
+      "haste",
+      "timing"
+    ]
+  },
+  {
+    "id": "IDM-098",
+    "idiom": "Play it by ear",
+    "category": "Decisions, Risk & Consequences",
+    "definition": "To proceed spontaneously and decide what to do according to circumstances as they develop, without a fixed plan.",
+    "hinglishExplanation": "Pehle se plan na karke halat ke mutabiq mauke par faisla lena.",
+    "example": "We don't know the exact questioning style of the committee, so we will have to play it by ear.",
+    "contextNote": "Improvisation and flexibility.",
+    "confusedWith": "Turn a deaf ear",
+    "keyDistinction": "'Play by ear' flexibly decide karna hai; 'turn deaf ear' jaanbujhkar sunne se inkar karna hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "improvisation",
+      "flexibility",
+      "decision"
+    ]
+  },
+  {
+    "id": "IDM-099",
+    "idiom": "Take the plunge",
+    "category": "Decisions, Risk & Consequences",
+    "definition": "To commit oneself resolutely to a decisive, bold, and risky course of action after hesitation.",
+    "hinglishExplanation": "Kafi soch-vichar ke baad aakhirkar koi bada aur risk-bhara kadam utha lena.",
+    "example": "After years in a private firm, Ajay took the plunge and began full-time preparation for the judicial service.",
+    "contextNote": "Decisive commitment to a major venture.",
+    "confusedWith": "Jump the gun",
+    "keyDistinction": "'Take the plunge' deliberate calculated bold commitment hai; 'jump the gun' bina soche samjhe waqt se pehle kadam uthana hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "courage",
+      "decision",
+      "risk"
+    ]
+  },
+  {
+    "id": "IDM-100",
+    "idiom": "Be in two minds",
+    "category": "Decisions, Risk & Consequences",
+    "definition": "To be indecisive, hesitant, or unable to choose between competing alternatives.",
+    "hinglishExplanation": "Duvidha mein hona; faisla na kar pana.",
+    "example": "The judge was in two minds about granting bail given the contradictory evidentiary submissions.",
+    "contextNote": "Dilemma and hesitation.",
+    "confusedWith": "Speak one's mind",
+    "keyDistinction": "'In two minds' duvidha hai; 'speak one's mind' khulkar apni baat rakhna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "indecision",
+      "dilemma",
+      "hesitation"
+    ]
+  },
+  {
+    "id": "IDM-101",
+    "idiom": "Sit on the fence",
+    "category": "Decisions, Risk & Consequences",
+    "definition": "To delay making a decision or refuse to take sides in a dispute or controversy.",
+    "hinglishExplanation": "Kisi paksh ka sath na lena aur faisla lene mein der karna; tatasth rehna.",
+    "example": "On this vital administrative reform, the department head cannot sit on the fence any longer.",
+    "contextNote": "Neutrality or evasion of commitment.",
+    "confusedWith": "Cross that bridge",
+    "keyDistinction": "'Sit on fence' side lene se bachna hai; 'cross bridge' samay aane par problem deal karna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "neutrality",
+      "indecision",
+      "evasion"
+    ]
+  },
+  {
+    "id": "IDM-102",
+    "idiom": "The ball is in your court",
+    "category": "Decisions, Risk & Consequences",
+    "definition": "It is now your responsibility or turn to take action, make a move, or decide.",
+    "hinglishExplanation": "Ab agla kadam uthane ya faisla lene ki baari aapki hai.",
+    "example": "We have submitted the formal settlement draft; now the ball is in their court.",
+    "contextNote": "Transfer of agency/initiative to the other party.",
+    "confusedWith": "Drop the ball",
+    "keyDistinction": "'Ball in court' agla kadam uthane ki responsibility hai; 'drop the ball' galti karke mauka gava dena hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "responsibility",
+      "decision",
+      "initiative"
+    ]
+  },
+  {
+    "id": "IDM-103",
+    "idiom": "A double-edged sword",
+    "category": "Decisions, Risk & Consequences",
+    "definition": "A policy, decision, or tool that has both favourable benefits and severe potential hazards.",
+    "hinglishExplanation": "Dodhāri talwar; aisi cheez jiska fayda bhi ho aur bara nuksan bhi ho sakta ho.",
+    "example": "Strict biometric attendance is a double-edged sword: it enforces discipline but harms morale.",
+    "contextNote": "Dual nature of an option involving intrinsic risk.",
+    "confusedWith": "Back to square one",
+    "keyDistinction": "Dual consequence vs starting over.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "risk",
+      "trade-off",
+      "consequence"
+    ]
+  },
+  {
+    "id": "IDM-104",
+    "idiom": "Open a can of worms",
+    "category": "Decisions, Risk & Consequences",
+    "definition": "To attempt to deal with a matter and inadvertently uncover a complex web of unforeseen problems.",
+    "hinglishExplanation": "Kisi aisi samasya ko chhedna jisse naye aur jatil vivad khade ho jayein.",
+    "example": "Auditing that dormant project opened a can of worms regarding past financial irregularities.",
+    "contextNote": "Unintended release of complicated liabilities.",
+    "confusedWith": "Pandora's box",
+    "keyDistinction": "Dono similar hain; dono unforeseen cascading problems ke liye use hote hain.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "complications",
+      "investigation",
+      "unforeseen"
+    ]
+  },
+  {
+    "id": "IDM-105",
+    "idiom": "Face the music",
+    "category": "Decisions, Risk & Consequences",
+    "definition": "To confront and accept the unpleasant consequences or criticism of one's actions.",
+    "hinglishExplanation": "Apni galti ka parinam ya daant-phatkār swikar karna; anjaam bhugatna.",
+    "example": "Having fabricated the dispatch register, the errant clerk had to face the music before the vigilance committee.",
+    "contextNote": "Accountability and enduring disciplinary retribution.",
+    "confusedWith": "Music to one's ears",
+    "keyDistinction": "'Face the music' anjaam bhugatna hai; 'music to ears' khushi dene wali khabar sunna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "accountability",
+      "punishment",
+      "consequences"
+    ]
+  },
+  {
+    "id": "IDM-106",
+    "idiom": "Put all one's eggs in one basket",
+    "category": "Decisions, Risk & Consequences",
+    "definition": "To risk all of one's resources or hopes on a single venture or course of action.",
+    "hinglishExplanation": "Apna sab kuch kisi ek hi plan ya risk par laga dena.",
+    "example": "Never put all your eggs in one basket; prepare for both clerical and judicial stream exams.",
+    "contextNote": "Prudential diversification advice.",
+    "confusedWith": "Nest egg",
+    "keyDistinction": "'Put eggs in basket' concentration of risk hai; 'nest egg' emergency ke liye jod kar rakha hua fund hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "risk",
+      "diversification",
+      "prudence"
+    ]
+  },
+  {
+    "id": "IDM-107",
+    "idiom": "Turn a blind eye",
+    "category": "Honesty, Mistakes & Judgment",
+    "definition": "To deliberately pretend not to notice misconduct, rule violations, or an unpleasant reality.",
+    "hinglishExplanation": "Jaanbujhkar kisi galti ya aniyamitata ko dekh kar bhi andekha karna.",
+    "example": "The supervisory officer was suspended for turning a blind eye to procedural lapses.",
+    "contextNote": "Willful blindness to malfeasance.",
+    "confusedWith": "See eye to eye",
+    "keyDistinction": "'Turn blind eye' ignore karna hai; 'see eye to eye' sehmat hona hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "negligence",
+      "deliberate",
+      "misconduct"
+    ]
+  },
+  {
+    "id": "IDM-108",
+    "idiom": "Call a spade a spade",
+    "category": "Honesty, Mistakes & Judgment",
+    "definition": "To speak frankly, bluntly, and directly about something, even if it is unpleasant.",
+    "hinglishExplanation": "Bina kisi laag-lapet ke sach ko sach aur jhooth ko jhooth bolna.",
+    "example": "In administrative reviews, the chief auditor preferred to call a spade a spade.",
+    "contextNote": "Unyielding blunt honesty.",
+    "confusedWith": "Beat around the bush",
+    "keyDistinction": "Antonym of beat around the bush.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "honesty",
+      "candor",
+      "directness"
+    ]
+  },
+  {
+    "id": "IDM-109",
+    "idiom": "Tip of the iceberg",
+    "category": "Honesty, Mistakes & Judgment",
+    "definition": "A small, visible part of a much larger and more complicated hidden problem.",
+    "hinglishExplanation": "Badi samasya ka sirf chhota sa dikhne wala hissa.",
+    "example": "The initial audit shortage of ten thousand rupees was merely the tip of the iceberg.",
+    "contextNote": "Disproportionate latent magnitude.",
+    "confusedWith": "Drop in the ocean",
+    "keyDistinction": "'Tip of iceberg' chipe huye bade problem ka sanket hai; 'drop in ocean' kisi bade total ke samne insignificant amount hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "magnitude",
+      "latent",
+      "problem"
+    ]
+  },
+  {
+    "id": "IDM-110",
+    "idiom": "Let sleeping dogs lie",
+    "category": "Honesty, Mistakes & Judgment",
+    "definition": "To avoid re-opening an old dispute or dormant issue that could cause fresh trouble.",
+    "hinglishExplanation": "Gade murde na ukhadna; purane shaant mamle ko dobara chhed kar musibat na badhana.",
+    "example": "The matter was resolved amicably last year, so it is best to let sleeping dogs lie.",
+    "contextNote": "Avoiding unnecessary provocation of past controversies.",
+    "confusedWith": "Bark up the wrong tree",
+    "keyDistinction": "'Let sleeping dogs lie' purana vivad na chhedna hai; 'bark up wrong tree' galat direction mein talaash karna hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "peace",
+      "prudence",
+      "discretion"
+    ]
+  },
+  {
+    "id": "IDM-111",
+    "idiom": "Jump to conclusions",
+    "category": "Honesty, Mistakes & Judgment",
+    "definition": "To form an opinion or judgment hastily before having all the pertinent facts.",
+    "hinglishExplanation": "Bina poore tathya jaane jaldbazi mein nateeja nikal lena.",
+    "example": "Do not jump to conclusions about the missing record before the inquiry officer inspects the vault.",
+    "contextNote": "Premature judgment without sufficient evidence.",
+    "confusedWith": "Jump the gun",
+    "keyDistinction": "'Jump to conclusions' mental judgment hasty hona hai; 'jump the gun' physical action waqt se pehle lena hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "judgment",
+      "premature",
+      "evidence"
+    ]
+  },
+  {
+    "id": "IDM-112",
+    "idiom": "Put one's foot in one's mouth",
+    "category": "Honesty, Mistakes & Judgment",
+    "definition": "To inadvertently say something tactless, embarrassing, or offensive.",
+    "hinglishExplanation": "Anjaane mein aisi baat bol dena jisse sharmindgi ho ya doosre ko bura lage.",
+    "example": "I really put my foot in my mouth when I criticized the report in front of its author.",
+    "contextNote": "Social faux pas or blunder in conversation.",
+    "confusedWith": "Put one's foot down",
+    "keyDistinction": "'Foot in mouth' embarrassing remark bolna hai; 'foot down' firmly mana karna hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "embarrassment",
+      "blunder",
+      "speech"
+    ]
+  },
+  {
+    "id": "IDM-113",
+    "idiom": "The pot calling the kettle black",
+    "category": "Honesty, Mistakes & Judgment",
+    "definition": "A situation where someone accuses another of a fault that they themselves possess.",
+    "hinglishExplanation": "Ulta chor kotwal ko daante; khud vahi kami hote huye doosre par ilzam lagana.",
+    "example": "For the chronic latecomer to criticize my punctuality is truly the pot calling the kettle black.",
+    "contextNote": "Hypocritical criticism.",
+    "confusedWith": "Two wrongs don't make a right",
+    "keyDistinction": "'Pot calling kettle black' hypocrisy dikhata hai; 'two wrongs' badla lene ki galat soch ko roka jata hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "hypocrisy",
+      "criticism",
+      "judgment"
+    ]
+  },
+  {
+    "id": "IDM-114",
+    "idiom": "By the book",
+    "category": "Honesty, Mistakes & Judgment",
+    "definition": "Strictly following all established official rules, laws, and regulations.",
+    "hinglishExplanation": "Niyamon ka kaddai se palan karte huye kaam karna.",
+    "example": "The registrar conducted the recruitment process strictly by the book to avoid legal challenges.",
+    "contextNote": "Rigid procedural compliance.",
+    "confusedWith": "In someone's good books",
+    "keyDistinction": "'By the book' rules follow karna hai; 'in good books' kisi ki nazar mein pasandeeda hona hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "compliance",
+      "regulations",
+      "rules"
+    ]
+  },
+  {
+    "id": "IDM-115",
+    "idiom": "Bite off more than one can chew",
+    "category": "Honesty, Mistakes & Judgment",
+    "definition": "To undertake a task or commitment that is far too large or complex for one's capabilities.",
+    "hinglishExplanation": "Apni aukaat ya kshamata se zyada kaam apne sar le lena.",
+    "example": "By volunteering to manage three district audits simultaneously, the junior officer bit off more than he could chew.",
+    "contextNote": "Overcommitment beyond personal capacity.",
+    "confusedWith": "Bite the bullet",
+    "keyDistinction": "'Bite off more than chew' overcommitment hai; 'bite the bullet' unpleasant situation ko endure karna hai.",
+    "difficulty": "Foundation",
+    "conceptTags": [
+      "overcommitment",
+      "judgment",
+      "capacity"
+    ]
+  },
+  {
+    "id": "IDM-116",
+    "idiom": "The writing is on the wall",
+    "category": "Honesty, Mistakes & Judgment",
+    "definition": "Clear, undeniable indications that imminent failure, disaster, or downfall is going to happen.",
+    "hinglishExplanation": "Spasht sanket hona ki bura anjaam ya downfall aane hi wala hai.",
+    "example": "With multiple adverse judicial remarks, the writing was on the wall for the compromised agency.",
+    "contextNote": "Portent of impending disaster.",
+    "confusedWith": "Read between the lines",
+    "keyDistinction": "'Writing on wall' obvious disaster ka warning sign hai; 'read between lines' subtle hidden meaning infer karna hai.",
+    "difficulty": "Intermediate",
+    "conceptTags": [
+      "forewarning",
+      "downfall",
+      "omen"
+    ]
+  }
+]

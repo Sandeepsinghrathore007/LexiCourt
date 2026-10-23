@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "Retaining Question Auxiliary Inversion in Reported Speech",
+    "category": "Interrogative Word-Order Error",
+    "frequency": "Extremely High (Number One Error in Question Narration MCQs)",
+    "explanation": "Direct speech mein question auxiliary inversion follow karta hai ('Where are you going?', 'Why did he resign?'). Candidates jab indirect speech banate hain toh Wh-word lagane ke baad bhi auxiliary ko subject se pehle hi rakh dete hain ('He asked where was I going'). Indirect speech kisi ko dobara question nahi poochti, balki statement convey karti hai. Isliye subject pehle aayega aur auxiliary verb baad mein aayegi ('where I was going').",
+    "incorrectExample": "Direct: The judge said to the witness, \"Where were you standing during the incident?\" ➔ Indirect: The judge asked the witness where was he standing during the incident.",
+    "correctExample": "Direct: The judge said to the witness, \"Where were you standing during the incident?\" ➔ Indirect: The judge asked the witness where he was standing during the incident.",
+    "trapRule": "Inversion Elimination Rule: Indirect question statement ban jata hai. Wh-word ya if/whether ke turant baad Subject aayega, auxiliary verb subject ke baad shift hogi (Wh-word + Subject + Verb)."
+  },
+  {
+    "id": "PIT-02",
+    "title": "The Double Conjunction Catastrophe (*that if / *that why)",
+    "category": "Connective Redundancy Blunder",
+    "frequency": "Extremely High (Examiners' Favorite Distractor Option)",
+    "explanation": "Candidates assertive sentences mein 'that' lagane ke aadi hote hain. Interrogative sentences aane par wo reporting verb ke baad 'that' bhi laga dete hain aur 'if' ya Wh-word bhi ('He asked that if I was ready', 'She enquired that why was he absent'). 'That' declarative conjunction hai, jabki 'if' ya Wh-word interrogative connective hai. Dono conjunctions ek sath kabhi co-occur nahi kar sakte.",
+    "incorrectExample": "Direct: The officer said to me, \"Why are you late today?\" ➔ Indirect: The officer asked me that why I was late that day.",
+    "correctExample": "Direct: The officer said to me, \"Why are you late today?\" ➔ Indirect: The officer asked me why I was late that day.",
+    "trapRule": "Single Connective Rule: Wh-questions mein ONLY Wh-word connective banega (NO 'that'). Yes/No questions mein ONLY 'if' ya 'whether' lagta hai (NO 'that'). 'That why' ya 'that if' dekhte hi strike out karein."
+  },
+  {
+    "id": "PIT-03",
+    "title": "The Double Negative Trap with 'Forbade'",
+    "category": "Prohibition Redundancy Trap",
+    "frequency": "Very High (Classic Negative Imperative Trap in High Court Papers)",
+    "explanation": "Verb 'forbid' (Past: 'forbade') ka khud ka arth hota hai 'mana kiya' (prohibited). Kyunki ye inherently negative verb hai, iske baad aane wale subordinate infinitive clause mein dobara 'not' lagana double negative blunder create karta hai. Agar aap likhte hain 'The teacher forbade the boy not to run', toh iska literal meaning ban jata hai ki teacher ne ladke ko na daudne se mana kiya (yaani daudne ko kaha!). 'Forbade' ke sath hamesha POSITIVE infinitive ('to run') lagta hai.",
+    "incorrectExample": "Direct: The police officer said to the crowd, \"Do not cross the court barricade.\" ➔ Indirect: The police officer forbade the crowd not to cross the court barricade.",
+    "correctExample": "Direct: The police officer said to the crowd, \"Do not cross the court barricade.\" ➔ Indirect: The police officer forbade the crowd to cross the court barricade.",
+    "trapRule": "Forbade Zero-Negative Rule: 'Forbade + Object + to + V1' (bilkul 'not' nahi aayega). Agar 'not' retain rakhna hai toh 'ordered/told + object + NOT to + V1' use karein."
+  },
+  {
+    "id": "PIT-04",
+    "title": "Dropping Preposition 'Of' with Reporting Verb 'Enquired'",
+    "category": "Reporting Verb Preposition Discord",
+    "frequency": "High (Subtle Technical Distractor in Competitive Tests)",
+    "explanation": "Verb 'ask' transitive verb hai jo listener object ko directly bina preposition ke leti hai ('He asked me'). Lekin formal verb 'enquire' (ya 'inquire') intransitive nature follow karti hai aur listener object se pehle preposition 'of' demand karti hai ('He enquired of me'). Exam options mein jaan-boojhkar 'He enquired me if...' likha hota hai jo grammatical point of view se bilkul galat hai.",
+    "incorrectExample": "Direct: The clerk said to the lawyer, \"Is the affidavit attested?\" ➔ Indirect: The clerk enquired the lawyer whether the affidavit was attested.",
+    "correctExample": "Direct: The clerk said to the lawyer, \"Is the affidavit attested?\" ➔ Indirect: The clerk enquired of the lawyer whether the affidavit was attested.",
+    "trapRule": "Preposition Concord Rule: 'Asked + Object' (no preposition), LEKIN 'Enquired + OF + Object'. Agar object ke aage 'of' missing hai, toh wo option discard karein."
+  },
+  {
+    "id": "PIT-05",
+    "title": "Retaining Polite Words ('Please' / 'Kindly') in Reported Requests",
+    "category": "Redundant Politeness Retention",
+    "frequency": "High (Common in Request Transformation Questions)",
+    "explanation": "Direct speech mein polite request express karne ke liye 'Please' ya 'Kindly' shabdon ka prayog hota hai ('Please help me', 'Kindly grant leave'). Jab hum reporting verb 'requested' use karte hain, toh request ka poora bhav (meaning) us verb mein assimilate ho jata hai. Indirect speech mein 'please' ya 'kindly' ko dobara likhna tautological redundancy (fuzool repetition) hoti hai.",
+    "incorrectExample": "Direct: The assistant said to the registrar, \"Kindly inspect the digital signature log.\" ➔ Indirect: The assistant requested the registrar to kindly inspect the digital signature log.",
+    "correctExample": "Direct: The assistant said to the registrar, \"Kindly inspect the digital signature log.\" ➔ Indirect: The assistant requested the registrar to inspect the digital signature log.",
+    "trapRule": "Polite Drop Rule: Reporting verb 'requested' lagne ke baad direct speech ke 'please' aur 'kindly' ko 100% drop kar dein. 'To please + V1' dekh kar turant option reject karein."
+  },
+  {
+    "id": "PIT-06",
+    "title": "Retaining Question Mark (?) or Inverting Optative 'Might'",
+    "category": "Punctuation & Modal Inversion Blunder",
+    "frequency": "Very High (End-of-Sentence Punctuation & Optative Syntax Trap)",
+    "explanation": "Is trap ke do dangerous variants hote hain: (1) Indirect question ke aakhiri mein question mark (?) chhod dena. Indirect sentence assertive hota hai, isliye question mark strict error hai. (2) Optative sentences mein 'May' ko backshift karke subject se pehle hi chhod dena ('prayed that might God bless...'). Indirect optative statement order follow karta hai jisme subject ('God') pehle aayega aur modal ('might') baad mein aayega.",
+    "incorrectExample": "Direct: The mother said to the child, \"May God grant you success!\" ➔ Indirect: The mother prayed that might God grant the child success?",
+    "correctExample": "Direct: The mother said to the child, \"May God grant you success!\" ➔ Indirect: The mother prayed that God might grant the child success.",
+    "trapRule": "Punctuation & Optative Rule: Indirect sentences hamesha Full Stop (.) par end hote hain (NO ? or !). Aur optative mein 'that + Subject + might + V1' aayega, inverted modal nahi."
+  }
+]

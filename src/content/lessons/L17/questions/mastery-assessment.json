@@ -1,0 +1,306 @@
+{
+  "lessonId": "L17",
+  "stage": "mastery-assessment",
+  "questions": [
+    {
+      "id": "L17-MA-001",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "People by Behaviour: Self-Centered vs Boastful",
+      "conceptTags": ["personality", "egoist", "egotist"],
+      "question": "Which of the following words correctly describes a person who excessively talks about himself and his own importance?",
+      "options": [
+        { "id": "A", "text": "Egoist" },
+        { "id": "B", "text": "Egotist" },
+        { "id": "C", "text": "Altruist" },
+        { "id": "D", "text": "Extrovert" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-01 ke anusaar, jo vyakti hamesha apni hi baatein aur apni hi tareef karta rehta hai use 'Egotist' kehte hain (T stands for Talk). 'Egoist' apne faayde aur swarth ke liye act karta hai.",
+      "ruleReference": "Rule RC-01: Definition vs Synonym Precision Rule."
+    },
+    {
+      "id": "L17-MA-002",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Beliefs: Existence of God",
+      "conceptTags": ["beliefs", "theology", "agnostic", "theist"],
+      "question": "What is the term for a person who asserts that nothing is known or knowable about whether God exists?",
+      "options": [
+        { "id": "A", "text": "Atheist" },
+        { "id": "B", "text": "Agnostic" },
+        { "id": "C", "text": "Monotheist" },
+        { "id": "D", "text": "Deist" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Greek root 'a-' (without) + 'gnosis' (knowledge) se 'Agnostic' banta hai. Ye vyakti kehta hai ki Ishwar ke astitva ka gyan manav buddhi se pare hai. Atheist belief ko reject karta hai.",
+      "ruleReference": "Rule RC-01: Definition vs Synonym Precision Rule."
+    },
+    {
+      "id": "L17-MA-003",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Dispute Resolution: Adjudication vs Compromise",
+      "conceptTags": ["legal", "dispute-resolution", "arbitrator", "mediator"],
+      "question": "In judicial dispute resolution, an independent person chosen to settle a dispute whose decision is legally binding on all parties is called:",
+      "options": [
+        { "id": "A", "text": "a mediator" },
+        { "id": "B", "text": "an arbitrator" },
+        { "id": "C", "text": "an ombudsman" },
+        { "id": "D", "text": "a conciliator" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-05 ke anusaar, Arbitrator ka faisla legally binding (Arbitral Award) hota hai. Mediator ya Conciliator sirf aapsi baat-cheet se samjhauta karwate hain bina binding ruling ke.",
+      "ruleReference": "Rule RC-05: Dispute Resolution Roles: Arbitrator vs Mediator."
+    },
+    {
+      "id": "L17-MA-004",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Enclosures: Birds vs Bees",
+      "conceptTags": ["places", "aviary", "apiary"],
+      "question": "Identify the word that designates a facility specifically built for keeping birds:",
+      "options": [
+        { "id": "A", "text": "Apiary" },
+        { "id": "B", "text": "Aviary" },
+        { "id": "C", "text": "Aquarium" },
+        { "id": "D", "text": "Terrarium" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-03 ke anusaar, Latin root 'avis' (bird) se 'Aviary' banta hai. 'Apis' (bee) se 'Apiary' banta hai.",
+      "ruleReference": "Rule RC-03: Spatial Enclosure Law: Place vs Occupant vs Activity."
+    },
+    {
+      "id": "L17-MA-005",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Memorial Writings: Inscription vs Praise vs Verse",
+      "conceptTags": ["literature", "epitaph", "eulogy", "elegy"],
+      "question": "A formal speech or written tribute delivered to praise a person highly, usually shortly following their death, is called:",
+      "options": [
+        { "id": "A", "text": "an epitaph" },
+        { "id": "B", "text": "an elegy" },
+        { "id": "C", "text": "a eulogy" },
+        { "id": "D", "text": "an epilogue" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rule RC-06 ke anusaar, formal speech of high praise ko 'Eulogy' kehte hain. Qabr ke patthar par khode gaye text ko 'Epitaph' aur shok-kavita ko 'Elegy' kehte hain.",
+      "ruleReference": "Rule RC-06: Literary & Memorial Triad: Epitaph vs Eulogy vs Elegy."
+    },
+    {
+      "id": "L17-MA-006",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Time Intervals: Frequency Mathematics",
+      "conceptTags": ["time", "biennial", "biannual"],
+      "question": "An administrative conference that takes place once every two years is correctly referred to as:",
+      "options": [
+        { "id": "A", "text": "a biannual conference" },
+        { "id": "B", "text": "a biennial conference" },
+        { "id": "C", "text": "a triennial conference" },
+        { "id": "D", "text": "a perennial conference" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-07 ke anusaar, 2 saal mein 1 baar hone wali ghatna ko 'Biennial' kehte hain. Saal mein do baar hone wali ghatna ko 'Biannual' kehte hain.",
+      "ruleReference": "Rule RC-07: Time & Frequency Calculation: Annual vs Biannual vs Biennial."
+    },
+    {
+      "id": "L17-MA-007",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Migration: Point of Departure",
+      "conceptTags": ["migration", "emigrant", "immigrant"],
+      "question": "A person who permanently leaves their home country to reside in another country is known as:",
+      "options": [
+        { "id": "A", "text": "an immigrant" },
+        { "id": "B", "text": "an emigrant" },
+        { "id": "C", "text": "an expatriate" },
+        { "id": "D", "text": "a nomad" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-09 ke anusaar, apna desh chhodne wala 'Emigrant' (Exit) hota hai. Doosre desh se aakar basne wala 'Immigrant' (In-coming) hota hai.",
+      "ruleReference": "Rule RC-09: Migration Directional Vectors: Immigrant vs Emigrant vs Refugee."
+    },
+    {
+      "id": "L17-MA-008",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Legal Terminology: Verdict of Not Guilty",
+      "conceptTags": ["legal", "court", "acquit", "convict"],
+      "question": "Select the correct term for formally freeing an accused person from a criminal charge by a judicial finding of not guilty:",
+      "options": [
+        { "id": "A", "text": "absolve" },
+        { "id": "B", "text": "acquit" },
+        { "id": "C", "text": "convict" },
+        { "id": "D", "text": "reprimand" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-10 ke anusaar, courtroom trial mein nirdosh paakar bari karna 'Acquit' kahlata hai. Absolve general moral guilt se release ko kehte hain.",
+      "ruleReference": "Rule RC-10: Judicial Verdicts & Culpability: Acquit vs Absolve vs Convict."
+    },
+    {
+      "id": "L17-MA-009",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Phonetic Traps: Impending Events",
+      "conceptTags": ["lookalikes", "imminent", "immanent"],
+      "question": "The defense counsel warned that a contempt proceeding was ________ if the officer failed to file the compliance affidavit by afternoon.",
+      "options": [
+        { "id": "A", "text": "eminent" },
+        { "id": "B", "text": "imminent" },
+        { "id": "C", "text": "immanent" },
+        { "id": "D", "text": "emanating" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-13 ke anusaar, jo ghatna bohot jald hone wali ho (impending / about to happen) use 'Imminent' kehte hain.",
+      "ruleReference": "Rule RC-13: Phonetic Lookalike Trap: Imminent vs Immanent vs Eminent."
+    },
+    {
+      "id": "L17-MA-010",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Government: Rule by the Wealthy",
+      "conceptTags": ["government", "plutocracy", "aristocracy"],
+      "question": "A form of government or social system where political governance is dominated by the wealthy is called:",
+      "options": [
+        { "id": "A", "text": "Aristocracy" },
+        { "id": "B", "text": "Theocracy" },
+        { "id": "C", "text": "Plutocracy" },
+        { "id": "D", "text": "Autocracy" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Greek root 'ploutos' (wealth) se 'Plutocracy' (dhanik-tantra) banta hai. Aristocracy noble birth par aadharit hoti hai.",
+      "ruleReference": "Rule RC-04: Morphological Root Word Decoding."
+    },
+    {
+      "id": "L17-MA-011",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "easy",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Problem Manipulation: Reducing Severity",
+      "conceptTags": ["actions", "mitigate", "exacerbate"],
+      "question": "Which verb means to make a bad situation, problem, or pain less severe or intense?",
+      "options": [
+        { "id": "A", "text": "Exacerbate" },
+        { "id": "B", "text": "Aggravate" },
+        { "id": "C", "text": "Mitigate" },
+        { "id": "D", "text": "Prolong" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rule RC-12 ke anusaar, kisi dard ya sankat ki tivrata ko kam karne ko 'Mitigate' kehte hain. Exacerbate aur Aggravate sthiti ko worse banate hain.",
+      "ruleReference": "Rule RC-12: Severity Modulation: Mitigate vs Ameliorate vs Exacerbate."
+    },
+    {
+      "id": "L17-MA-012",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Relinquishing Royal Power",
+      "conceptTags": ["actions", "abdicate", "monarchy"],
+      "question": "To formally give up one's monarchical throne or supreme royal position is to:",
+      "options": [
+        { "id": "A", "text": "renounce" },
+        { "id": "B", "text": "abdicate" },
+        { "id": "C", "text": "annul" },
+        { "id": "D", "text": "delegate" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-11 ke anusaar, rajgaddi ya throne chhodne ke liye specific word 'Abdicate' hota hai. Aam rights ya claims chhodne ke liye 'Renounce' hota hai.",
+      "ruleReference": "Rule RC-11: Relinquishing Authority: Abdicate vs Renounce."
+    },
+    {
+      "id": "L17-MA-013",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Legal Oppression vs Trial",
+      "conceptTags": ["legal", "prosecute", "persecute"],
+      "question": "Select the correct word to fill in the blank:\n\"The state government engaged a special counsel to ________ the perpetrators of the financial embezzlement.\"",
+      "options": [
+        { "id": "A", "text": "persecute" },
+        { "id": "B", "text": "prosecute" },
+        { "id": "C", "text": "perceive" },
+        { "id": "D", "text": "parole" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Court mein kanooni karyawahi chalane ke liye 'Prosecute' sahi word hai. 'Persecute' kisi par julm ya atyachar karna hota hai.",
+      "ruleReference": "Rule RC-01: Definition vs Synonym Precision Rule."
+    },
+    {
+      "id": "L17-MA-014",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Life Writing Authorship",
+      "conceptTags": ["writing", "biography", "autobiography"],
+      "question": "A comprehensive book detailing the life and judicial decisions of Chief Justice Khanna written by a legal historian is:",
+      "options": [
+        { "id": "A", "text": "an autobiography" },
+        { "id": "B", "text": "a biography" },
+        { "id": "C", "text": "a monograph" },
+        { "id": "D", "text": "a bibliography" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kyunki pustak kisi doosre vyakti (legal historian) dwara likhi gayi hai, isliye ye 'Biography' hai. Agar Justice Khanna khud likhte toh 'Autobiography' kahlati.",
+      "ruleReference": "Rule RC-01: Definition vs Synonym Precision Rule."
+    },
+    {
+      "id": "L17-MA-015",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Part-of-Speech Concord",
+      "conceptTags": ["grammar", "agent-noun", "part-of-speech"],
+      "question": "Select the option that correctly satisfies both the meaning and the required part of speech for:\n\"A person who shows selfless concern for the welfare and happiness of others.\"",
+      "options": [
+        { "id": "A", "text": "Altruistic" },
+        { "id": "B", "text": "Altruism" },
+        { "id": "C", "text": "Altruist" },
+        { "id": "D", "text": "Altruistically" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rule RC-02 ke anusaar, 'A person who...' ek agent noun demand karta hai. 'Altruist' noun hai jo person ko represent karta hai. 'Altruistic' adjective hai aur 'Altruism' abstract noun.",
+      "ruleReference": "Rule RC-02: Person vs Quality / Condition Grammatical Concord."
+    }
+  ]
+}

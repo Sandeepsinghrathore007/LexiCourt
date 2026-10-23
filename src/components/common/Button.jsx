@@ -1,12 +1,12 @@
 import { forwardRef } from 'react'
 
 const variants = {
-  primary: 'bg-primary-600 text-white hover:bg-primary-700 active:bg-primary-800 shadow-sm',
-  secondary: 'bg-surface-100 text-surface-700 hover:bg-surface-200 active:bg-surface-300 border border-surface-300',
-  success: 'bg-success-600 text-white hover:bg-success-700 active:bg-success-800 shadow-sm',
-  error: 'bg-error-600 text-white hover:bg-error-700 active:bg-error-800 shadow-sm',
-  ghost: 'text-surface-600 hover:bg-surface-100 active:bg-surface-200',
-  link: 'text-primary-600 hover:text-primary-700 underline-offset-4 hover:underline',
+  primary: 'bg-primary-600 text-white hover:bg-primary-700 active:bg-primary-800 shadow-sm dark:bg-primary-600 dark:hover:bg-primary-500',
+  secondary: 'bg-surface-100 text-surface-700 hover:bg-surface-200 active:bg-surface-300 border border-surface-300 dark:bg-surface-800 dark:text-surface-100 dark:border-surface-600 dark:hover:bg-surface-700 dark:hover:border-surface-500',
+  success: 'bg-success-600 text-white hover:bg-success-700 active:bg-success-800 shadow-sm dark:bg-success-600 dark:hover:bg-success-500',
+  error: 'bg-error-600 text-white hover:bg-error-700 active:bg-error-800 shadow-sm dark:bg-error-600 dark:hover:bg-error-500',
+  ghost: 'text-surface-600 hover:bg-surface-100 active:bg-surface-200 dark:text-surface-200 dark:hover:bg-surface-800 dark:hover:text-surface-50',
+  link: 'text-primary-600 hover:text-primary-700 underline-offset-4 hover:underline dark:text-primary-300 dark:hover:text-primary-200',
 }
 
 const sizes = {

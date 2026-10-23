@@ -171,14 +171,14 @@ export default function AuxiliaryFlowchart() {
   }
 
   return (
-    <Card variant="default" padding="lg" className="space-y-6 select-none border-surface-200">
+    <Card variant="default" padding="lg" className="space-y-6 select-none border-surface-200 dark:border-surface-800">
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
         <div>
-          <h3 className="font-heading font-bold text-base text-surface-900 flex items-center gap-2">
-            <GitCommit size={18} className="text-primary-600" />
+          <h3 className="font-heading font-bold text-base text-surface-900 dark:text-surface-50 flex items-center gap-2">
+            <GitCommit size={18} className="text-primary-600 dark:text-primary-400" />
             <span>Auxiliary Verb Concord Decision Tree</span>
           </h3>
-          <p className="text-xs text-surface-500">
+          <p className="text-xs text-surface-500 dark:text-surface-400">
             Interactive procedural algorithm to eliminate auxiliary concord errors in competitive exams.
           </p>
         </div>
@@ -188,8 +188,8 @@ export default function AuxiliaryFlowchart() {
       {/* 3 Step Wizard Filter */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
         {/* Step 1: Time */}
-        <div className="p-3.5 rounded-xl bg-surface-50 border border-surface-200 space-y-2">
-          <span className="text-[11px] font-bold uppercase tracking-wider text-surface-500 block">
+        <div className="p-3.5 rounded-xl bg-surface-50 dark:bg-surface-800/60 border border-surface-200 dark:border-surface-700 space-y-2">
+          <span className="text-[0.6875rem] font-bold uppercase tracking-wider text-surface-500 dark:text-surface-400 block">
             Step 1: Time Dimension
           </span>
           <div className="flex flex-col gap-1.5">
@@ -208,8 +208,8 @@ export default function AuxiliaryFlowchart() {
         </div>
 
         {/* Step 2: Aspect */}
-        <div className="p-3.5 rounded-xl bg-surface-50 border border-surface-200 space-y-2">
-          <span className="text-[11px] font-bold uppercase tracking-wider text-surface-500 block">
+        <div className="p-3.5 rounded-xl bg-surface-50 dark:bg-surface-800/60 border border-surface-200 dark:border-surface-700 space-y-2">
+          <span className="text-[0.6875rem] font-bold uppercase tracking-wider text-surface-500 dark:text-surface-400 block">
             Step 2: Grammatical Aspect
           </span>
           <div className="flex flex-col gap-1.5">
@@ -228,8 +228,8 @@ export default function AuxiliaryFlowchart() {
         </div>
 
         {/* Step 3: Subject Person / Number */}
-        <div className="p-3.5 rounded-xl bg-surface-50 border border-surface-200 space-y-2">
-          <span className="text-[11px] font-bold uppercase tracking-wider text-surface-500 block">
+        <div className="p-3.5 rounded-xl bg-surface-50 dark:bg-surface-800/60 border border-surface-200 dark:border-surface-700 space-y-2">
+          <span className="text-[0.6875rem] font-bold uppercase tracking-wider text-surface-500 dark:text-surface-400 block">
             Step 3: Subject Concord
           </span>
           <div className="flex flex-col gap-1.5">
@@ -249,7 +249,7 @@ export default function AuxiliaryFlowchart() {
       </div>
 
       {/* Decision Output Box */}
-      <div className="p-5 rounded-xl bg-gradient-to-r from-primary-900 via-primary-800 to-indigo-950 text-white shadow-md space-y-4">
+      <div className="p-5 rounded-xl bg-gradient-to-r from-primary-900 via-primary-800 to-primary-950 dark:from-surface-900 dark:via-surface-850 dark:to-surface-900 text-white shadow-sm border border-transparent dark:border-surface-700 space-y-4">
         <div className="flex items-center justify-between text-xs text-primary-200 border-b border-primary-700/60 pb-2">
           <span className="flex items-center gap-1.5 font-mono">
             {time} <ArrowRight size={12} /> {aspect} <ArrowRight size={12} /> {selectedSubject}
@@ -260,7 +260,7 @@ export default function AuxiliaryFlowchart() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div className="space-y-2">
             <div>
-              <span className="text-[11px] uppercase tracking-wider text-primary-300 block font-semibold">
+              <span className="text-[0.6875rem] uppercase tracking-wider text-primary-300 block font-semibold">
                 Auxiliary Verb:
               </span>
               <p className="font-mono text-sm font-bold text-amber-300">
@@ -268,7 +268,7 @@ export default function AuxiliaryFlowchart() {
               </p>
             </div>
             <div>
-              <span className="text-[11px] uppercase tracking-wider text-primary-300 block font-semibold">
+              <span className="text-[0.6875rem] uppercase tracking-wider text-primary-300 block font-semibold">
                 Lexical Verb Form:
               </span>
               <p className="font-mono text-sm font-bold text-white">
@@ -276,7 +276,7 @@ export default function AuxiliaryFlowchart() {
               </p>
             </div>
             <div>
-              <span className="text-[11px] uppercase tracking-wider text-primary-300 block font-semibold">
+              <span className="text-[0.6875rem] uppercase tracking-wider text-primary-300 block font-semibold">
                 Structural Formula:
               </span>
               <p className="font-mono text-xs text-primary-100 bg-primary-950/50 p-1.5 rounded border border-primary-700/40">
@@ -286,7 +286,7 @@ export default function AuxiliaryFlowchart() {
           </div>
 
           <div className="bg-primary-950/60 p-3.5 rounded-lg border border-primary-700/50 flex flex-col justify-center">
-            <span className="text-[10px] text-primary-300 block font-semibold uppercase tracking-wider mb-1">
+            <span className="text-[0.625rem] text-primary-300 block font-semibold uppercase tracking-wider mb-1">
               Exam Pattern Example:
             </span>
             <p className="text-xs text-white font-medium italic leading-relaxed">

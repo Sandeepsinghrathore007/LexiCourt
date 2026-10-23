@@ -1,0 +1,212 @@
+[
+  {
+    "id": "WE-01",
+    "sentence": "Direct: The clerk said to the candidate, \"Are you ready for the skill test?\"",
+    "correctAnswer": "The clerk asked the candidate if he was ready for the skill test.",
+    "tense": "Yes/No Question with 'Be' Verb Auxiliary",
+    "steps": {
+      "step1_marker": "Sentence Type & Intent: Direct sentence Yes/No question hai jo auxiliary 'Are' se shuru ho raha hai aur confirmation pooch raha hai.",
+      "step2_time": "Reporting Verb & Connective: Reporting verb 'said to' ko question ke anusaar 'asked' mein badla, quotation marks hataye aur connective 'if' (ya 'whether') lagaya.",
+      "step3_aspect": "Pronoun Reference Shift: 2nd person pronoun 'you' listener 'the candidate' (singular) ke anusaar badal kar 'he' ban gaya.",
+      "step4_inflection": "Inversion Removal & Backshift: Auxiliary 'are' backshift hokar 'was' ban gayi aur inverted order hatakar subject 'he' ke baad aayi ('he was ready', NOT '*was he ready'). End ka question mark drop ho gaya.",
+      "step5_synthesis": "Final Synthesis: 'The clerk asked the candidate if he was ready for the skill test.'"
+    },
+    "trapWarning": "EXAM TRAP: Options mein aksar 'asked that if...' (double conjunction) ya 'if was he ready' (inversion retained) diya jata hai. Dono ko instantly eliminate karein."
+  },
+  {
+    "id": "WE-02",
+    "sentence": "Direct: The magistrate said to the witness, \"Do you know the accused personally?\"",
+    "correctAnswer": "The magistrate asked the witness if he knew the accused personally.",
+    "tense": "Yes/No Question with 'Do/Does' Auxiliary",
+    "steps": {
+      "step1_marker": "Sentence Type & Intent: Auxiliary 'Do' se start hone wala interrogative sentence jo personal knowledge verify kar raha hai.",
+      "step2_time": "Reporting Verb & Connective: 'said to' ➔ 'asked the witness', aur question clause ko link karne ke liye connective 'if' lagaya.",
+      "step3_aspect": "Pronoun Reference Shift: 'you' listener 'the witness' ke anusaar 'he' ban gaya.",
+      "step4_inflection": "Auxiliary Removal & Past Inflection: Affirmative statement mein auxiliary 'do' drop ho jati hai aur main verb 'know' Simple Past form 'knew' (V2) mein badal jati hai.",
+      "step5_synthesis": "Final Synthesis: 'The magistrate asked the witness if he knew the accused personally.'"
+    },
+    "trapWarning": "FATAL 'DID KNOW' DISTRACTOR: Examiner aksar 'if he did know the accused' option deta hai. Normal affirmative reported clause mein 'did' nahi lagta, seedha V2 'knew' aata hai."
+  },
+  {
+    "id": "WE-03",
+    "sentence": "Direct: The police officer said to the guard, \"Did you lock the court record room?\"",
+    "correctAnswer": "The police officer asked the guard whether he had locked the court record room.",
+    "tense": "Yes/No Question with 'Did' Auxiliary (Simple Past ➔ Past Perfect)",
+    "steps": {
+      "step1_marker": "Sentence Type & Tense: Question auxiliary 'Did' se shuru ho raha hai, jo Simple Past tense indicate karta hai.",
+      "step2_time": "Reporting Verb & Connective: 'said to' ➔ 'asked the guard', connective 'whether' lagaya.",
+      "step3_aspect": "Pronoun Reference Shift: 'you' listener 'the guard' ke anusaar 'he' ban gaya.",
+      "step4_inflection": "Tense Backshift: Simple Past ('did lock') backshift hokar Past Perfect ('had locked') ban gaya, aur subject 'he' auxiliary se pehle aaya.",
+      "step5_synthesis": "Final Synthesis: 'The police officer asked the guard whether he had locked the court record room.'"
+    },
+    "trapWarning": "TENSE RETENTION TRAP: Option mein agar 'whether he locked...' likha ho, toh wo Simple Past se Past Perfect mein backshift karne mein fail ho gaya hai. 'Had locked' wala option hi correct hai."
+  },
+  {
+    "id": "WE-04",
+    "sentence": "Direct: The judge said to the advocate, \"Will you accept this compromise or not?\"",
+    "correctAnswer": "The judge asked the advocate whether or not he would accept that compromise.",
+    "tense": "Interrogative with Explicit 'Or Not' Choice (Mandatory Whether)",
+    "steps": {
+      "step1_marker": "Sentence Type & Structure: Interrogative sentence jisme explicit choice 'or not' directly judi huyi hai.",
+      "step2_time": "Reporting Verb & Connective: 'said to' ➔ 'asked the advocate'. 'Or not' aane ke karan connective 'whether' lagaya ('if' avoid kiya).",
+      "step3_aspect": "Pronoun Reference Shift: 'you' listener 'the advocate' ke anusaar 'he' ban gaya. Time/place demonstrative 'this' ➔ 'that'.",
+      "step4_inflection": "Modal Backshift & Syntax: Modal 'will' backshift hokar 'would' ban gaya: 'whether or not he would accept that compromise'.",
+      "step5_synthesis": "Final Synthesis: 'The judge asked the advocate whether or not he would accept that compromise.'"
+    },
+    "trapWarning": "IF OR NOT TRAP: Option mein 'asked if or not he would accept...' standard examination English mein unacceptable maana jata hai. 'Whether or not' clean rule hai."
+  },
+  {
+    "id": "WE-05",
+    "sentence": "Direct: The inspector said to the clerk, \"Where did you submit the original case dairy?\"",
+    "correctAnswer": "The inspector asked the clerk where he had submitted the original case dairy.",
+    "tense": "Wh-Question (Where) with Simple Past ➔ Past Perfect",
+    "steps": {
+      "step1_marker": "Sentence Type & Intent: Wh-interrogative sentence starting with 'Where', inquiring about location in past time.",
+      "step2_time": "Reporting Verb & Connective: 'said to' ➔ 'asked the clerk'. Original question word 'where' hi connective banega (NO 'that' / NO 'if').",
+      "step3_aspect": "Pronoun Reference Shift: 'you' listener 'the clerk' ke anusaar 'he' ban gaya.",
+      "step4_inflection": "Inversion Removal & Backshift: Simple Past ('did submit') backshift hokar Past Perfect ('had submitted') bana, aur subject 'he' auxiliary se pehle aaya: 'where he had submitted'.",
+      "step5_synthesis": "Final Synthesis: 'The inspector asked the clerk where he had submitted the original case dairy.'"
+    },
+    "trapWarning": "INVERSION TRAP: Distractor option: 'where had he submitted...' (inversion retained). Yaad rakhein: reported question statement hota hai, isliye 'where he had submitted' aayega."
+  },
+  {
+    "id": "WE-06",
+    "sentence": "Direct: The senior counsel said to the junior, \"Why are you arguing without reading the precedent?\"",
+    "correctAnswer": "The senior counsel asked the junior why he was arguing without reading the precedent.",
+    "tense": "Wh-Question (Why) with Present Continuous ➔ Past Continuous",
+    "steps": {
+      "step1_marker": "Sentence Type & Intent: Wh-question expressing reason/cause in Present Continuous aspect.",
+      "step2_time": "Reporting Verb & Connective: 'said to' ➔ 'asked the junior', 'why' connective bana.",
+      "step3_aspect": "Pronoun Reference Shift: 'you' junior (singular) ke anusaar 'he' ban gaya.",
+      "step4_inflection": "Tense Backshift: Present Continuous ('are arguing') backshift hokar Past Continuous ('was arguing') bana, subject 'he' pehle aaya.",
+      "step5_synthesis": "Final Synthesis: 'The senior counsel asked the junior why he was arguing without reading the precedent.'"
+    },
+    "trapWarning": "DOUBLE CONJUNCTION ALERT: Distractor mein 'asked the junior that why was he arguing...' hoga. 'That' aur inverted order dono galat hain."
+  },
+  {
+    "id": "WE-07",
+    "sentence": "Direct: The registrar said, \"Who broke the seal of this confidential envelope?\"",
+    "correctAnswer": "The registrar enquired who had broken the seal of that confidential envelope.",
+    "tense": "Wh-Question (Who) with Simple Past Subject Question",
+    "steps": {
+      "step1_marker": "Sentence Type & Structure: 'Who' subject-question hai jisme 'Who' khud grammatical subject ka kaam kar raha hai.",
+      "step2_time": "Reporting Verb & Connective: Formal context ke anusaar 'enquired' lagaya, 'who' connective bana.",
+      "step3_aspect": "Adverbial Shift: Demonstrative 'this confidential envelope' ➔ 'that confidential envelope'.",
+      "step4_inflection": "Tense Backshift: Simple Past verb 'broke' backshift hokar Past Perfect 'had broken' ban gayi.",
+      "step5_synthesis": "Final Synthesis: 'The registrar enquired who had broken the seal of that confidential envelope.'"
+    },
+    "trapWarning": "SUBJECT QUESTION SYNTAX: 'Who' wale question mein do/did nahi hota jab 'Who' subject ho. Iska indirect seedha 'who had broken' banega."
+  },
+  {
+    "id": "WE-08",
+    "sentence": "Direct: Rohan said to the official, \"When will the typing test results be announced?\"",
+    "correctAnswer": "Rohan enquired of the official when the typing test results would be announced.",
+    "tense": "Wh-Question with Formal 'Enquired of' Reporting Verb",
+    "steps": {
+      "step1_marker": "Sentence Type & Intent: Official enquiry regarding future examination schedule.",
+      "step2_time": "Reporting Verb & Preposition: 'said to + object' ko formal inquiry ke anusaar 'enquired of the official' mein convert kiya (preposition 'of' mandatory hai).",
+      "step3_aspect": "Connective: 'when' connective retain hua, koi extra 'that' nahi joda.",
+      "step4_inflection": "Word Order & Modal Backshift: Subject 'the typing test results' pehle aaya, aur modal 'will' backshift hokar 'would' ban gaya.",
+      "step5_synthesis": "Final Synthesis: 'Rohan enquired of the official when the typing test results would be announced.'"
+    },
+    "trapWarning": "MISSING 'OF' TRAP: Option mein 'Rohan enquired the official...' hoga. 'Enquired' listener object ke sath 'of' ke bina kabhi nahi aata."
+  },
+  {
+    "id": "WE-09",
+    "sentence": "Direct: The judge said to the court orderly, \"Call the petitioner immediately.\"",
+    "correctAnswer": "The judge ordered the court orderly to call the petitioner immediately.",
+    "tense": "Imperative Command (Order) with 'To + V1'",
+    "steps": {
+      "step1_marker": "Sentence Type & Hierarchy: Imperative sentence starting with base verb 'Call'. Speaker judge hai aur listener orderly hai (strict hierarchical command).",
+      "step2_time": "Reporting Verb: 'said to' ko context ke anusaar 'ordered' mein convert kiya.",
+      "step3_aspect": "Listener Object: 'the court orderly' reporting verb ka direct object bana.",
+      "step4_inflection": "Infinitive Construction: Imperative verb 'Call' ke aage 'to' lagakar non-finite infinitive 'to call' banaya. Tense backshift nahi hua.",
+      "step5_synthesis": "Final Synthesis: 'The judge ordered the court orderly to call the petitioner immediately.'"
+    },
+    "trapWarning": "THAT CLAUSE DISTRACTOR: Examiner option deta hai: 'The judge ordered that the orderly should call...'. Direct exam grammar mein 'ordered + object + to + V1' sabse standard aur concise format hai."
+  },
+  {
+    "id": "WE-10",
+    "sentence": "Direct: The litigant said to the clerk, \"Please provide me an attested copy of the decree.\"",
+    "correctAnswer": "The litigant requested the clerk to provide him an attested copy of the decree.",
+    "tense": "Imperative Request with 'Please' Elimination",
+    "steps": {
+      "step1_marker": "Sentence Type & Politeness: Imperative request jisme polite marker 'Please' maujood hai.",
+      "step2_time": "Reporting Verb: 'Please' ke karan 'said to' ko 'requested' mein convert kiya.",
+      "step3_aspect": "Polite Word Drop: 'Please' ko completely drop kar diya gaya (retain karna redundant error hai).",
+      "step4_inflection": "Pronoun & Infinitive: 1st person object 'me' litigant ke anusaar 'him' bana; verb 'provide' ban gayi 'to provide'.",
+      "step5_synthesis": "Final Synthesis: 'The litigant requested the clerk to provide him an attested copy of the decree.'"
+    },
+    "trapWarning": "REDUNDANCY TRAP: Option: '...requested the clerk to please provide him...'. 'Requested' ke baad 'please' lagana strict grammatical redundancy hai."
+  },
+  {
+    "id": "WE-11",
+    "sentence": "Direct: The senior assistant said to the trainee, \"Do not disclose the examination question bank.\"",
+    "correctAnswer": "The senior assistant instructed the trainee not to disclose the examination question bank.",
+    "tense": "Negative Imperative with 'Not to + V1'",
+    "steps": {
+      "step1_marker": "Sentence Type: Negative imperative command starting with 'Do not'.",
+      "step2_time": "Reporting Verb: Procedural instruction hone ke karan 'instructed' (ya 'told') choose kiya.",
+      "step3_aspect": "Negative Infinitive Syntax: 'Do not + V1' ko convert karne ke liye 'not to + V1' ('not to disclose') banaya.",
+      "step4_inflection": "Word Order Placement: 'not' particle 'to' se pehle aayega ('not to disclose', NOT '*to not disclose').",
+      "step5_synthesis": "Final Synthesis: 'The senior assistant instructed the trainee not to disclose the examination question bank.'"
+    },
+    "trapWarning": "SPLIT INFINITIVE TRAP: Formal examination English mein 'to not disclose' ke bajaye strictly 'not to disclose' standard mana jata hai."
+  },
+  {
+    "id": "WE-12",
+    "sentence": "Direct: The magistrate said to the counsel, \"Do not raise irrelevant arguments.\"",
+    "correctAnswer": "The magistrate forbade the counsel to raise irrelevant arguments.",
+    "tense": "Negative Imperative with 'Forbade' (Zero-Negative Rule)",
+    "steps": {
+      "step1_marker": "Sentence Type: Negative imperative order by a judicial authority.",
+      "step2_time": "Reporting Verb Selection: Negative command ke liye inherently negative verb 'forbade' choose ki gayi.",
+      "step3_aspect": "Object Integration: 'forbade the counsel'.",
+      "step4_inflection": "Zero-Negative Infinitive: Kyunki 'forbade' ka matlab hi 'mana kiya' hai, iske baad aane wala infinitive POSITIVE ('to raise') hoga. 'Not' drop ho jayega.",
+      "step5_synthesis": "Final Synthesis: 'The magistrate forbade the counsel to raise irrelevant arguments.'"
+    },
+    "trapWarning": "DOUBLE NEGATIVE BLUNDER: 'The magistrate forbade the counsel NOT to raise...' exam ka sabse bada trap hai. 'Forbade' ke sath 'not' aate hi option reject karein."
+  },
+  {
+    "id": "WE-13",
+    "sentence": "Direct: Suresh said to his team, \"Let's analyze the new service rules together.\"",
+    "correctAnswer": "Suresh suggested to his team that they should analyze the new service rules together.",
+    "tense": "Imperative Proposal with 'Let's' (Should + V1 Construction)",
+    "steps": {
+      "step1_marker": "Sentence Type: Proposal / mutual suggestion starting with 'Let's'.",
+      "step2_time": "Reporting Verb: 'said to' ➔ 'suggested to his team' (suggest ke baad preposition 'to' retain rehta hai).",
+      "step3_aspect": "Conjunction & Pronoun: Conjunction 'that' lagaya. Suresh aur team ke liye 3rd person plural subject 'they' bana.",
+      "step4_inflection": "Modal Syntax: Proposal clause mein modal auxiliary 'should' jud gaya: 'they should analyze'.",
+      "step5_synthesis": "Final Synthesis: 'Suresh suggested to his team that they should analyze the new service rules together.'"
+    },
+    "trapWarning": "SUGGEST TO TRAP: Assertive reporting verb 'tell' ke sath 'to' nahi lagta (told me), lekin 'suggested' ke sath listener aane par 'to' lagta hai: 'suggested to his team'."
+  },
+  {
+    "id": "WE-14",
+    "sentence": "Direct: The clerk said, \"Alas! The critical backup hard drive has crashed!\"",
+    "correctAnswer": "The clerk exclaimed with sorrow that the critical backup hard drive had crashed.",
+    "tense": "Exclamatory Sentence with 'Alas!' (Sorrow / Grief)",
+    "steps": {
+      "step1_marker": "Sentence Type & Emotion: Exclamatory sentence expressing grief/distress marked by interjection 'Alas!' and exclamation mark (!).",
+      "step2_time": "Reporting Phrase: 'said' + 'Alas!' transform hokar 'exclaimed with sorrow' ban gaya.",
+      "step3_aspect": "Interjection Elimination: 'Alas!' drop ho gaya aur declarative conjunction 'that' lagaya.",
+      "step4_inflection": "Tense Backshift: Present Perfect verb 'has crashed' backshift hokar Past Perfect 'had crashed' ban gayi. Exclamation mark full stop ban gaya.",
+      "step5_synthesis": "Final Synthesis: 'The clerk exclaimed with sorrow that the critical backup hard drive had crashed.'"
+    },
+    "trapWarning": "EMOTION MISMATCH: Option mein 'exclaimed with joy that the hard drive had crashed' likha ho sakta hai. Contextually sorrow match karna zaroori hai."
+  },
+  {
+    "id": "WE-15",
+    "sentence": "Direct: The elderly litigant said to the judge, \"May God bless you with wisdom and health!\"",
+    "correctAnswer": "The elderly litigant prayed that God might bless the judge with wisdom and health.",
+    "tense": "Optative Sentence with 'May God...' (Prayer Formula)",
+    "steps": {
+      "step1_marker": "Sentence Type & Intent: Optative sentence expressing solemn prayer to Almighty God starting with 'May God...'.",
+      "step2_time": "Reporting Verb: God se prarthna hone ke karan reporting verb 'prayed' lagaya.",
+      "step3_aspect": "Conjunction & Subject: Conjunction 'that' lagaya, aur divine entity 'God' reported clause ka subject bana.",
+      "step4_inflection": "Modal Shift & Placement: Modal 'May' backshift hokar 'might' bana aur subject 'God' ke BAAD shift hua ('God might bless'). 2nd person 'you' judge ke anusaar 'the judge' (ya 'him') bana.",
+      "step5_synthesis": "Final Synthesis: 'The elderly litigant prayed that God might bless the judge with wisdom and health.'"
+    },
+    "trapWarning": "INVERTED MIGHT TRAP: Option: 'prayed that might God bless...'. Indirect optative statement order follow karta hai: Subject ('God') pehle aayega, modal ('might') baad mein."
+  }
+]

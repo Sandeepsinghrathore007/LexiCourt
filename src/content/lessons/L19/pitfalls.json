@@ -1,0 +1,200 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "Word-for-Word Literal Translation Trap",
+    "category": "Semantic Misconception",
+    "frequency": "High Court Recurring Trap (Very High)",
+    "description": "Candidates idiom ke individual shabdon ka literal Hindi translation dhoondhte hain aur physical action wale option ko tick kar dete hain.",
+    "incorrectExample": "*\"The clerk spilled the beans\" -> Interpreting as 'Dropping food grains or vegetables on the floor'.",
+    "correctExample": "\"The clerk spilled the beans\" = Disclosed confidential information prematurely.",
+    "whyWrong": "Idiom non-compositional hota hai; uske shabdon ka physical dictionary meaning idiom ke metaphorical meaning se poori tarah alag hota hai.",
+    "ruleAnchor": "Rule RC-01: Literal vs Figurative Meaning Filter."
+  },
+  {
+    "id": "PIT-02",
+    "title": "Single-Word Synonym Attraction Trap",
+    "category": "Cognitive Heuristic Failure",
+    "frequency": "Examiner Favorite Trap (Very High)",
+    "description": "Option mein idiom ke kisi ek word ka synonym dekh kar candidate use sahi samajh baithta hai, bina poore phrase ke figurative sense ko samjhe.",
+    "incorrectExample": "*\"Burn the midnight oil\" -> Selecting 'Combustion of kerosene or fossil fuel at night'.",
+    "correctExample": "\"Burn the midnight oil\" = Working or studying late into the night.",
+    "whyWrong": "'Oil' ya 'burn' ka physical synonym dekh kar tick karna trap hai. Idiom poora milkar 'late night study' convey karta hai.",
+    "ruleAnchor": "Rule RC-01: Literal vs Figurative Meaning Filter."
+  },
+  {
+    "id": "PIT-03",
+    "title": "Ignoring Sentence Context Clues",
+    "category": "Contextual Blindness",
+    "frequency": "Competitive Exam Trap (High)",
+    "description": "Sentence ke surrounding clauses aur tone ko nazarandaz karke seedhe idiom ka generic definition lagana chahte hain chahe context contradict kare.",
+    "incorrectExample": "*\"Despite intense hostility, the candidate kept his cool\" -> Choosing 'Felt physically cold'.",
+    "correctExample": "\"Kept his cool\" = Maintained emotional composure and self-control.",
+    "whyWrong": "'Despite intense hostility' ek clear emotional context clue hai jo prove karta hai ki yahan psychological composure ki baat ho rahi hai.",
+    "ruleAnchor": "Rule RC-02: Sentence Context Isolation Protocol."
+  },
+  {
+    "id": "PIT-04",
+    "title": "Confusing Lookalike Idioms: 'Break the ice' vs 'Bury the hatchet'",
+    "category": "Pair Disambiguation Failure",
+    "frequency": "High Court Frequent Distractor (High)",
+    "description": "Dono idioms shanti ya baatcheet se jude hain, lekin unke target participants bilkul alag hain.",
+    "incorrectExample": "*\"The long-standing warring factions broke the ice\" -> Confusing strangers with bitter adversaries.",
+    "correctExample": "\"Warring factions buried the hatchet\" (Peace after feud); \"Strangers broke the ice\" (Social awkwardness removed).",
+    "whyWrong": "'Break the ice' strangers ke beech initial awkwardness todta hai; 'bury the hatchet' dushmano ke beech purani ladai khatam karta hai.",
+    "ruleAnchor": "Rule RC-03: Distinguishing Confusing Lookalike Idioms."
+  },
+  {
+    "id": "PIT-05",
+    "title": "Disclosure vs Rumour: 'Spill the beans' vs 'Hear through grapevine'",
+    "category": "Communication Channel Confusion",
+    "frequency": "Examiner Trap (High)",
+    "description": "Candidates secret batane (active disclosure) aur afwah sunne (passive gossip reception) ko interchange kar dete hain.",
+    "incorrectExample": "*Saying an auditor 'heard through grapevine' when he was the confidential whistleblower who confessed.",
+    "correctExample": "Insider reveals = 'Spilled the beans'; Outsider receives gossip = 'Heard through the grapevine'.",
+    "whyWrong": "'Spill the beans' insider ka act hai; 'grapevine' informal third-party rumors ko receive karne ka channel hai.",
+    "ruleAnchor": "Rule RC-12: Disclosure vs Rumour Disambiguation."
+  },
+  {
+    "id": "PIT-06",
+    "title": "Working Late vs Working Under Pressure: 'Midnight oil' vs 'Against the clock'",
+    "category": "Temporal Dimension Confusion",
+    "frequency": "Standard Exam Trap (Medium-High)",
+    "description": "Dono expressions mehnat darshate hain, lekin unke core constraints (night hours vs imminent deadline) alag hote hain.",
+    "incorrectExample": "*Describing a race against a 5 PM deadline as 'burning the midnight oil' during broad daylight.",
+    "correctExample": "Broad daylight race against a 5 PM deadline = 'Working against the clock'; Studying till 3 AM = 'Burning the midnight oil'.",
+    "whyWrong": "'Midnight oil' der raat ke ghanton par focus karta hai; 'against the clock' deadline beat karne ki tezi par.",
+    "ruleAnchor": "Rule RC-10: Time & Frequency Boundary Precision."
+  },
+  {
+    "id": "PIT-07",
+    "title": "Premature Action vs Calculated Risk: 'Jump the gun' vs 'Take the plunge'",
+    "category": "Decision Semantics",
+    "frequency": "Examiner Trap (High)",
+    "description": "Bina soche waqt se pehle galat kadam uthana (jump gun) aur soch-samajh kar bada faisla lena (take plunge) alag-alag hain.",
+    "incorrectExample": "*Praising an entrepreneur for 'jumping the gun' when they took a well-planned bold risk.",
+    "correctExample": "Well-planned bold commitment = 'Took the plunge'; Acting hastily before permission = 'Jumped the gun'.",
+    "whyWrong": "'Jump the gun' negative blunder hai (premature mistake); 'take the plunge' deliberate courage hai.",
+    "ruleAnchor": "Rule RC-03: Distinguishing Confusing Lookalike Idioms."
+  },
+  {
+    "id": "PIT-08",
+    "title": "Financial Hardship vs Expensive Price: 'Hand to mouth' vs 'Arm and a leg'",
+    "category": "Financial Domain Confusion",
+    "frequency": "Competitive Exam Trap (High)",
+    "description": "Vastu ki unchi keemat aur vyakti ki garibi ke beech grammar aur context mismatch create karna.",
+    "incorrectExample": "*\"The high-speed network server lives from hand to mouth.\"",
+    "correctExample": "\"The high-speed server costs an arm and a leg\"; \"The impoverished laborer lives from hand to mouth.\"",
+    "whyWrong": "Commodity 'costs an arm and a leg'; insaan ya pariwar 'lives from hand to mouth'. Dono ke subjects interchange nahi ho sakte.",
+    "ruleAnchor": "Rule RC-11: Financial & Resource Context Precision."
+  },
+  {
+    "id": "PIT-09",
+    "title": "Reconciliation vs Mere Agreement: 'Bury the hatchet' vs 'See eye to eye'",
+    "category": "Interpersonal Semantics",
+    "frequency": "Examiner Favorite Trap (High)",
+    "description": "Dushmani ke baad shanti sthapit karna aur kisi aam mudde par sahmat hona dono alag-alag situations hain.",
+    "incorrectExample": "*Using 'buried the hatchet' when colleagues simply agreed on tomorrow's lunch venue.",
+    "correctExample": "\"They see eye to eye on the lunch venue\"; \"After years of bitter litigation, the brothers buried the hatchet.\"",
+    "whyWrong": "'Bury the hatchet' ke liye purana hostility/feud hona mandatory prerequisite hai.",
+    "ruleAnchor": "Rule RC-13: Reconciliation vs Simple Agreement."
+  },
+  {
+    "id": "PIT-10",
+    "title": "Fixed Expression Distortion: Changing Articles or Nouns",
+    "category": "Structural Distortion Error",
+    "frequency": "Sentence Correction Trap (Very High)",
+    "description": "Sentence correction questions mein examiner idiom ke article ya plural noun ko alter kar deta hai.",
+    "incorrectExample": "*\"To put it in the nutshell...\" or *\"He spilled the bean.\"",
+    "correctExample": "\"To put it in a nutshell...\" (article 'a'); \"He spilled the beans\" (plural 'beans').",
+    "whyWrong": "Idiom ke articles ('a' vs 'the') aur noun numbers (singular vs plural) historically frozen hote hain.",
+    "ruleAnchor": "Rule RC-04: Fixed Phraseology & Non-Substitution Law."
+  },
+  {
+    "id": "PIT-11",
+    "title": "Possessive Form Discord in 'One's' Idioms",
+    "category": "Grammatical Concord Error",
+    "frequency": "Sentence Correction Trap (Very High)",
+    "description": "Template form 'one's' ko subject ke pronoun se match na karna aur ungrammatical sentence banana.",
+    "incorrectExample": "*\"The judge lost one's temper during the proceedings.\"",
+    "correctExample": "\"The judge lost his (or her) temper during the proceedings.\"",
+    "whyWrong": "'One's' sirf tab rehta hai jab subject khud indefinite pronoun 'one' ho ('One must keep one's word'). Otherwise subject se agree karega.",
+    "ruleAnchor": "Rule RC-05: Subject-Possessive Concord Rule in Idioms."
+  },
+  {
+    "id": "PIT-12",
+    "title": "Treating Idioms and Proverbs as Identical Categories",
+    "category": "Genre Misclassification",
+    "frequency": "High Court Grammar Paper (High)",
+    "description": "Candidates proverbs (kahawat) aur idioms (muhavare) ke syntactic aur functional difference ko bhool jate hain.",
+    "incorrectExample": "*Classifying 'A stitch in time saves nine' as a verbal idiom.",
+    "correctExample": "\"A stitch in time saves nine\" = Proverb (independent sentence of wisdom); \"Bite the bullet\" = Idiom (phrase).",
+    "whyWrong": "Proverb poora independent moral sentence hota hai; idiom sentence ka ek phrase constituent hota hai.",
+    "ruleAnchor": "Rule RC-06: Idiom vs Proverb Structural Demarcation."
+  },
+  {
+    "id": "PIT-13",
+    "title": "Confusing Phrasal Verbs with Full Idioms",
+    "category": "Grammar Boundary Error",
+    "frequency": "Standard Exam Trap (Medium)",
+    "description": "Verb + Particle combination (phrasal verb) ko full idiomatic phrase ke sath confuse kar dena.",
+    "incorrectExample": "*Treating 'call off' as a multi-word noun idiom.",
+    "correctExample": "\"Call off\" = Phrasal Verb (verb + particle = cancel); \"In black and white\" = Idiom (adverbial phrase = in writing).",
+    "whyWrong": "Phrasal verbs strictly verb syntax follow karte hain; idioms nouns, adjectives aur prepositional clauses encompass karte hain.",
+    "ruleAnchor": "Rule RC-07: Idiom vs Phrasal Verb Grammatical Boundary."
+  },
+  {
+    "id": "PIT-14",
+    "title": "Emotional Tone Contradiction in Sentence Completion",
+    "category": "Logical Valence Contradiction",
+    "frequency": "Sentence Completion Trap (High)",
+    "description": "Sentence negative setback describe kar raha hai, lekin candidate positive celebration idiom insert kar deta hai.",
+    "incorrectExample": "*\"After receiving the termination notice, Mohan was on cloud nine.\"",
+    "correctExample": "\"After receiving the termination notice, Mohan was down in the dumps.\"",
+    "whyWrong": "Sentence ki logical polarity negative hai, isliye positive emotion ('on cloud nine') severe logical contradiction banata hai.",
+    "ruleAnchor": "Rule RC-08: Idiom Sentence Completion Strategy."
+  },
+  {
+    "id": "PIT-15",
+    "title": "Over-interpreting Literal Sentences as Idiomatic",
+    "category": "Over-Complication Error",
+    "frequency": "Reading Comprehension Trap (Medium)",
+    "description": "Sentence sach mein physical event describe kar raha hai, par candidate zabardasti metaphorical meaning impose kar deta hai.",
+    "incorrectExample": "*Interpreting \"The gardener pulled up the weeds\" as an idiom about removing corrupt employees.",
+    "correctExample": "When the context is a physical garden, the words are literal; do not force an idiom where none exists.",
+    "whyWrong": "Agar sentence ka literal physical meaning poori tarah fit aur logical hai, toh zabardasti metaphorical meaning nahi lagaya jata.",
+    "ruleAnchor": "Rule RC-01: Literal vs Figurative Meaning Filter."
+  },
+  {
+    "id": "PIT-16",
+    "title": "Misinterpreting 'Bite the bullet' as Aggressive Rather Than Enduring",
+    "category": "Semantic Nuance Error",
+    "frequency": "Examiner Trap (High)",
+    "description": "'Bullet' shabd dekh kar candidate sochta hai ki yeh violent attack ya aggression ke liye hai.",
+    "incorrectExample": "*Interpreting 'Bite the bullet' as 'Opening fire on enemies' or 'Displaying aggressive anger'.",
+    "correctExample": "\"Bite the bullet\" = Forcing oneself to endure an inevitable, painful, or unpleasant task with courage.",
+    "whyWrong": "Historical root anesthesia ke bina bullet chabane se hai; iska sense pain ko stoically jhelna hai, kisi par attack karna nahi.",
+    "ruleAnchor": "Rule RC-01: Literal vs Figurative Meaning Filter."
+  },
+  {
+    "id": "PIT-17",
+    "title": "Misinterpreting 'A blessing in disguise' as Deceitful Imposter",
+    "category": "Semantic Polarity Inversion",
+    "frequency": "High Court Vocabulary Trap (High)",
+    "description": "'Disguise' (bhesh badalna) dekh kar candidate use dhokha ('wolf in sheep's clothing') samajh baithta hai.",
+    "incorrectExample": "*Interpreting 'A blessing in disguise' as 'A treacherous enemy pretending to be a friend'.",
+    "correctExample": "\"A blessing in disguise\" = An apparent misfortune that ultimately brings wonderful unexpected advantages.",
+    "whyWrong": "Yeh positive outcome hai jo shuru mein bura lagta tha; 'wolf in sheep's clothing' negative dhokha hai.",
+    "ruleAnchor": "Rule RC-09: Emotion & Psychological Tone Alignment."
+  },
+  {
+    "id": "PIT-18",
+    "title": "Inventing Imaginary Idioms via Direct Hindi Calque",
+    "category": "L1 Negative Transfer",
+    "frequency": "Indian Competitive Exam Trap (Very High)",
+    "description": "Hindi muhavaron ka word-for-word English translation banakar sochna ki yeh valid English idiom hai.",
+    "incorrectExample": "*Translating 'Naach na jaane aangan tedha' literally into '*If you can't dance, the courtyard is crooked*'.",
+    "correctExample": "The actual English idiom is: \"A bad workman always blames his tools.\"",
+    "whyWrong": "English idioms English culture aur literature se aate hain; Hindi muhavaron ka word-to-word translation English mein nonsense hota hai.",
+    "ruleAnchor": "Rule RC-04: Fixed Phraseology & Non-Substitution Law."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Antonym Negation: Not + Opposite Word",
+    "time": "Negative Transformations",
+    "aspect": "Antonym & Quantifiers",
+    "formula": "Subject + Helping Verb + NOT + Antonym (Opposite Word) + Object/Complement",
+    "auxiliary": "not + antonym (do/does/did not, is/are/was not)",
+    "usage": "Affirmative statement ko negative mein convert karne ke liye main adjective, adverb, ya verb ke pehle 'not' lagaya jata hai aur us word ko uske antonym (vilom shabd) se replace kiya jata hai taaki original meaning 100% same rahe.",
+    "patterns": {
+      "affirmative": "Original Affirmative: \"The district judge is very wise.\"",
+      "negative": "Transformed Negative: \"The district judge is not foolish at all.\"",
+      "interrogative": "Exam Pattern: \"She always speaks gently.\" ➔ \"She does not speak harshly.\""
+    },
+    "timeMarkers": ["wise / foolish", "present / absent", "honest / dishonest", "remember / forget", "love / hate"],
+    "keyTip": "MEANING FLIP TRAP: Agar aapne sirf 'not' lagaya aur opposite word nahi lagaya ('*The judge is not wise'), toh sentence ka meaning ulta ho jayega. 'Not' ke sath antonym lagana mandatory hai."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Only / Alone: None But (Persons) & Nothing But (Things)",
+    "time": "Negative Transformations",
+    "aspect": "Antonym & Quantifiers",
+    "formula": "Persons: None but + Person + Predicate  |  Things: Subject + Verb + nothing but + Thing",
+    "auxiliary": "None but (strictly for persons) / Nothing but (strictly for things)",
+    "usage": "'Only' ya 'alone' jab kisi restricted exclusivity ko show karte hain, toh persons ke liye sentence 'None but' se shuru hota hai, aur inanimate objects ke liye 'nothing but' use hota hai. Numbers/age ke liye 'not more/less than' use hota hai.",
+    "patterns": {
+      "affirmative": "Original (Person): \"Only the senior advocate can argue this constitutional writ.\"",
+      "negative": "Transformed (Person): \"None but the senior advocate can argue this constitutional writ.\"",
+      "interrogative": "Original (Thing): \"He ate only fruits.\" ➔ Transformed: \"He ate nothing but fruits.\""
+    },
+    "timeMarkers": ["only", "alone", "none but", "nothing but", "not more than", "not less than"],
+    "keyTip": "CATEGORY DISTINCTION: 'None but' sirf humans/persons ke liye valid hai. 'He wants only money' ko '*None but money' likhna fatal blunder hai; correct transformation hai 'He wants nothing but money'."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Temporal Inversion: As Soon As ➔ No Sooner ... Than",
+    "time": "Negative Transformations",
+    "aspect": "Correlative & Temporal",
+    "formula": "No sooner did + Subject + V1 + than ...  |  No sooner had + Subject + V3 + than ...",
+    "auxiliary": "No sooner did... than / No sooner had... than (Strict Inversion)",
+    "usage": "Jaise hi koi action turant dusre action ko trigger karti hai ('As soon as...'), us affirmative sentence ko negative adverb 'No sooner' se invert kiya jata hai. Conjunction hamesha 'than' aayega.",
+    "patterns": {
+      "affirmative": "Original Affirmative: \"As soon as the bell rang, the court proceedings started.\"",
+      "negative": "Transformed (did): \"No sooner did the bell ring than the court proceedings started.\"",
+      "interrogative": "Transformed (had): \"No sooner had the bell rung than the court proceedings started.\""
+    },
+    "timeMarkers": ["as soon as", "no sooner...than", "did + V1", "had + V3"],
+    "keyTip": "THE 'THAN' VS 'WHEN' BLUNDER: 'No sooner' ke second clause mein examiner 90% times '*when' ya '*then' likhkar distractor banata hai. Sirf 'than' (T-H-A-N) wala option hi correct hota hai."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Universal Affirmatives: Every / All ➔ There is no ... without",
+    "time": "Negative Transformations",
+    "aspect": "Antonym & Quantifiers",
+    "formula": "There is no + Noun + without + Noun  |  There is no + Noun + who does not + V1",
+    "auxiliary": "There is no... without / There is no... who does not / but + V",
+    "usage": "Universal claims jisme 'Every' ya 'All' laga ho, unhe negative existential statement 'There is no... without' ya relative clause 'There is no... who does not' se transform kiya jata hai.",
+    "patterns": {
+      "affirmative": "Original Affirmative: \"Every mother loves her child passionately.\"",
+      "negative": "Transformed Relative: \"There is no mother who does not love her child passionately.\"",
+      "interrogative": "Transformed Without: \"Every rose has a thorn.\" ➔ \"There is no rose without a thorn.\""
+    },
+    "timeMarkers": ["every", "all", "everyone", "there is no...without", "there is no...who does not"],
+    "keyTip": "DOUBLE NEGATIVE BALANCE: 'There is no mother' (negative) ke aage 'who does NOT love' (negative) lagne se dono negatives cancel hokar wahi affirmative truth convey karte hain."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Intensive Inability: Too ... To ➔ So ... That ... Cannot/Could Not",
+    "time": "Negative Transformations",
+    "aspect": "Correlative & Temporal",
+    "formula": "Subject + Verb + so + Adjective + that + Subject + cannot / could not + V1",
+    "auxiliary": "Present: cannot + V1  |  Past: could not + V1",
+    "usage": "Sentence mein 'too...to' structure excessive degree indicate karta hai jo action ko impossible bana deta hai. Negative clause mein 'so...that' ke baad present tense mein 'cannot' aur past tense mein 'could not' lagta hai.",
+    "patterns": {
+      "affirmative": "Original Affirmative: \"The witness was too terrified to speak before the bench.\"",
+      "negative": "Transformed Past: \"The witness was so terrified that he could not speak before the bench.\"",
+      "interrogative": "Original Present: \"He is too proud to admit his mistake.\" ➔ \"He is so proud that he cannot admit his mistake.\""
+    },
+    "timeMarkers": ["too...to", "so...that", "cannot", "could not"],
+    "keyTip": "TENSE CONCORD DISCORD: Agar main verb 'was/were' (Past) hai, toh 'that' clause mein 'could not' aayega ('*cannot' lagana tense discord blunder hai)."
+  },
+  {
+    "id": "RC-06",
+    "tense": "The Golden Polarity Law: Affirmative ➔ Negative Interrogative",
+    "time": "Interrogative Transformations",
+    "aspect": "Polarity & Inversion",
+    "formula": "Auxiliary Verb + Subject + NOT + Main Verb + Object?  |  Auxiliary-n't + Subject + ...?",
+    "auxiliary": "Auxiliary Inversion with Polarity Reversal",
+    "usage": "Assertive statement ko question mein badalte waqt meaning preserve karne ke liye polarity reverse karna zaroori hai. Positive statement negative question banta hai, aur negative statement positive question banta hai.",
+    "patterns": {
+      "affirmative": "Original Positive Statement: \"Honesty is the best policy in public service.\"",
+      "negative": "Transformed Interrogative: \"Is honesty not the best policy in public service?\"",
+      "interrogative": "Negative Statement to Positive Question: \"A corrupt person cannot be trusted.\" ➔ \"Can a corrupt person be trusted?\""
+    },
+    "timeMarkers": ["is / isn't", "was / wasn't", "can / can't", "will / won't", "should / shouldn't"],
+    "keyTip": "POLARITY PRESERVATION: 'He is great' ko '*Is he great?' likhna transformation nahi hai (doubt create karta hai). Correct transformation hai 'Is he not great?' (assertion confirm karta hai)."
+  },
+  {
+    "id": "RC-07",
+    "tense": "Dummy Auxiliary Inversion: Do / Does / Did Supply",
+    "time": "Interrogative Transformations",
+    "aspect": "Polarity & Inversion",
+    "formula": "Present V1: Do + S + not + V1?  |  Present V5: Does + S + not + V1?  |  Past V2: Did + S + not + V1?",
+    "auxiliary": "Do / Does / Did + Subject + NOT + V1",
+    "usage": "Jab affirmative assertive sentence mein koi helping verb (is, was, can, will) na ho, tab Simple Present mein 'do/does' aur Simple Past mein 'did' ko subject se pehle lagakar negative question banate hain.",
+    "patterns": {
+      "affirmative": "Original Present: \"The sun rises in the east every morning.\"",
+      "negative": "Transformed Interrogative: \"Does the sun not rise in the east every morning?\"",
+      "interrogative": "Original Past: \"The magistrate signed the order yesterday.\" ➔ \"Did the magistrate not sign the order yesterday?\""
+    },
+    "timeMarkers": ["do + V1", "does + V1", "did + V1", "yesterday", "every day"],
+    "keyTip": "BASE VERB V1 REQUIREMENT: 'Did' lagne ke baad main verb hamesha base form V1 mein aati hai ('Did the magistrate not SIGN...', NOT '*Did...not signed')."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Rhetorical Quantifier Equivalence: Everyone vs No One",
+    "time": "Interrogative Transformations",
+    "aspect": "Polarity & Inversion",
+    "formula": "Everyone + V ➔ Who does not + V1?  |  No one + can + V ➔ Who can + V? / Can anyone + V?",
+    "auxiliary": "Who does not / Who / Can anyone / Ever",
+    "usage": "Universal quantifier 'Everyone' affirmative proposition hota hai, isliye uska rhetorical question negative ('Who does not...') banta hai. 'No one / Nobody' negative proposition hota hai, isliye question positive ('Who / Can anyone...') banta hai.",
+    "patterns": {
+      "affirmative": "Original Affirmative: \"Everyone wishes to live an honorable and peaceful life.\"",
+      "negative": "Transformed Rhetorical: \"Who does not wish to live an honorable and peaceful life?\"",
+      "interrogative": "Original Negative: \"No one can challenge the Supreme Court ruling.\" ➔ \"Who can challenge the Supreme Court ruling?\""
+    },
+    "timeMarkers": ["everyone ➔ who does not", "no one ➔ who / can anyone", "never ➔ can anyone ever", "nothing ➔ is anything"],
+    "keyTip": "SYMMETRY RULE: 'Nobody likes war' ➔ 'Who likes war?' (NO 'not' in question). Agar question mein bhi 'not' laga diya (*'Who doesn't like war?'), toh meaning ulta hokar 'everyone likes war' ban jayega."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Exclamatory Intensifier Matching: Very vs Great / Terrible",
+    "time": "Exclamatory Transformations",
+    "aspect": "Intensifiers & Wishes",
+    "formula": "With Adjective: Subject + Verb + very / extremely + Adjective  |  With Noun: Subject + Verb + a great / terrible + Noun",
+    "auxiliary": "very / extremely (for adjectives) vs great / terrible / wonderful (for qualifying nouns)",
+    "usage": "Exclamatory sentences ('What a...', 'How...') ko assertive mein convert karte waqt emotional exclamation mark (!) full stop (.) mein badalta hai, aur uski jagah appropriate intensifier word lagta hai.",
+    "patterns": {
+      "affirmative": "Original Exclamatory (Adjective): \"How melodious the singer's voice was!\"",
+      "negative": "Transformed Assertive: \"The singer's voice was very melodious.\"",
+      "interrogative": "Original Exclamatory (Noun): \"What a fool he is!\" ➔ Transformed: \"He is a great fool.\""
+    },
+    "timeMarkers": ["what a + noun", "how + adjective", "very", "great", "extremely", "terrible"],
+    "keyTip": "THE NOUN INTENSIFIER DISTRACTOR: Nouns ke aage 'very' nahi lagta ('*a very fool', '*a very tragedy' are errors). Abstract ya magnitude nouns ke aage 'great' ya 'terrible' lagta hai."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Wish & Interjection Equivalents: If Only / O That ➔ I Wish",
+    "time": "Exclamatory Transformations",
+    "aspect": "Intensifiers & Wishes",
+    "formula": "If only / O that + Subject + were/had ➔ I wish / earnestly desire that + Subject + were/had",
+    "auxiliary": "I wish that / It is a matter of great joy / sorrow that",
+    "usage": "Unreal wishes aur regrets ('If only...', 'O that I were...') ko assertive structure 'I wish that...' se express kiya jata hai. Emotional interjections 'Hurrah!' aur 'Alas!' ko 'It is a matter of joy/sorrow that...' mein convert kiya jata hai.",
+    "patterns": {
+      "affirmative": "Original Wish: \"If only I had studied harder for the High Court exam!\"",
+      "negative": "Transformed Assertive: \"I earnestly wish that I had studied harder for the High Court exam.\"",
+      "interrogative": "Original Interjection: \"Alas! Our leader has passed away.\" ➔ \"It is a matter of great sorrow that our leader has passed away.\""
+    },
+    "timeMarkers": ["if only", "o that", "alas!", "hurrah!", "i wish", "matter of great sorrow/joy"],
+    "keyTip": "SUBJUNCTIVE WERE RETENTION: Wish clause mein unreal past subjunctive 'were' retain rehta hai: 'O that I were a bird!' ➔ 'I wish that I were a bird' (NOT '*I wish that I was a bird' in formal exam English)."
+  }
+]

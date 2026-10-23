@@ -1,0 +1,270 @@
+{
+  "lessonId": "L16",
+  "stage": "guided-practice",
+  "questions": [
+    {
+      "id": "L16-GP-001",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "easy",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Part-of-Speech Concord in Synonyms",
+      "conceptTags": ["synonyms", "part-of-speech-concord", "adjectives"],
+      "question": "Choose the most appropriate SYNONYM for the word 'PRUDENT':",
+      "options": [
+        { "id": "A", "text": "Prudence" },
+        { "id": "B", "text": "Judicious" },
+        { "id": "C", "text": "Rash" },
+        { "id": "D", "text": "Cautiously" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-01 ke mutabiq, target word 'Prudent' ek ADJECTIVE hai (meaning: wise, showing good judgment). Option B ('Judicious') bhi Adjective hai jo same meaning express karta hai. Option A ('Prudence') Noun hai aur Option D ('Cautiously') Adverb hai, isliye POS mismatch ke kaaran eliminate ho jate hain. Option C ('Rash') iska antonym hai.",
+      "ruleReference": "Rule RC-01: The Same Part-of-Speech Concord Law",
+      "hint": "Check karein ki 'Prudent' kis grammatical class se belong karta hai. Noun ya Adverb options ko turant hata dein.",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-GP-002",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "easy",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Contextual Polysemy Sense Freezing",
+      "conceptTags": ["polysemy", "context-inference", "sound-judgment"],
+      "question": "In the sentence: \"The division bench delivered a SOUND judgment on the constitutional dispute.\", what is the exact SYNONYM of 'SOUND'?",
+      "options": [
+        { "id": "A", "text": "Audible" },
+        { "id": "B", "text": "Valid" },
+        { "id": "C", "text": "Noisy" },
+        { "id": "D", "text": "Fragile" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-02 ke anusaar, 'SOUND' ek polysemic word hai. Judicial decisions ke context mein 'sound' ka matlab acoustic noise ya hearing nahi hota, balki 'legally valid, robust aur well-reasoned' hota hai. Isliye Option B ('Valid') hi sahi synonym hai. Option A aur C secondary literal sense ke distractor traps hain.",
+      "ruleReference": "Rule RC-02: Contextual Sense Freezing in Polysemy",
+      "hint": "Sentence mein judgment ki baat ho rahi hai. Judgment kaan se sunne wala shor nahi hota, balki tarkik aur kanooni roop se thos hota hai.",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-GP-003",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "False Friends: Disinterested vs Uninterested",
+      "conceptTags": ["false-friends", "antonyms", "disinterested"],
+      "question": "What is the true ANTONYM of 'DISINTERESTED' when used in reference to an arbitrator?",
+      "options": [
+        { "id": "A", "text": "Uninterested" },
+        { "id": "B", "text": "Bored" },
+        { "id": "C", "text": "Biased" },
+        { "id": "D", "text": "Impartial" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rule RC-09 ke tehat, 'Disinterested' ka matlab 'impartial ya neutral' (nishpaksh) hota hai, na ki 'bored'. Iska exact polar opposite 'Biased' (Option C) ya 'Prejudiced' hoga. Option D ('Impartial') iska synonym hai, aur Option A ('Uninterested') common vocabulary confusion trap hai.",
+      "ruleReference": "Rule RC-09: Negative Prefix False Friends Neutralizer",
+      "hint": "Disinterested hone ka matlab hai ki vyakti ka koi niji faayda nahi hai (neutral hai). Neutral ka opposite kya hoga?",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-GP-004",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Pseudo-Negative Prefix Trap: Invaluable",
+      "conceptTags": ["prefixes", "antonyms", "invaluable"],
+      "question": "Select the correct ANTONYM of the word 'INVALUABLE':",
+      "options": [
+        { "id": "A", "text": "Priceless" },
+        { "id": "B", "text": "Worthless" },
+        { "id": "C", "text": "Precious" },
+        { "id": "D", "text": "Costly" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-09 ke mutabiq, 'Invaluable' ka matlab 'beyond value / priceless' (itna keemti jiska mol na lagaya ja sake) hota hai. Iska opposite 'cheap' ya 'valuable' nahi, balki 'Worthless' (Option B) hota hai. Option A aur C iske synonyms hain.",
+      "ruleReference": "Rule RC-09: Negative Prefix False Friends Neutralizer",
+      "hint": "Prefix 'in-' yahan negative nahi hai balki 'beyond' signify karta hai. Agar koi cheez anmol hai, toh uska opposite bina kisi mulya ki cheez hogi.",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-GP-005",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "easy",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Gradable Scale Opposites",
+      "conceptTags": ["antonyms", "gradable-scale", "temperature"],
+      "question": "Which word represents the true polar ANTONYM of 'COLOSSAL'?",
+      "options": [
+        { "id": "A", "text": "Large" },
+        { "id": "B", "text": "Immense" },
+        { "id": "C", "text": "Tiny" },
+        { "id": "D", "text": "Medium" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rule RC-03 ke tehat, 'Colossal' ek extreme size adjective hai (meaning: gigantic/immense). Iska opposite continuum ke doosre extreme par 'Tiny' ya 'Minute' (Option C) hoga. Option B ('Immense') iska synonym hai aur Option A/D scale ke intermediate points hain.",
+      "ruleReference": "Rule RC-03: Gradable Scale Extremes vs Intermediate Degrees",
+      "hint": "Colossal ka matlab bohot vishalkay hota hai. Scale ke extreme point ka opposite extreme chhota hoga.",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-GP-006",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Judicial Vocabulary & Meaning",
+      "conceptTags": ["legal-vocabulary", "verbs", "mitigate"],
+      "question": "Choose the most appropriate SYNONYM for 'MITIGATE' in: \"The government took steps to MITIGATE public hardship.\"",
+      "options": [
+        { "id": "A", "text": "Alleviate" },
+        { "id": "B", "text": "Aggravate" },
+        { "id": "C", "text": "Militate" },
+        { "id": "D", "text": "Mitigation" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Target verb 'Mitigate' ka matlab dard, takleef ya sankat ko kam karna hota hai. Option A ('Alleviate') iska exact synonym hai. Option B ('Aggravate') iska antonym hai, Option C ('Militate') ek lookalike verb hai, aur Option D ('Mitigation') noun form hai jo POS concord todta hai.",
+      "ruleReference": "Rule RC-01 (POS Concord) & Rule RC-10 (Distractor Exclusion)",
+      "hint": "Kast ko kam karne ke liye kaunsa verb use hota hai? Noun form (-tion) ko pehle hi eliminate kar dein.",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-GP-007",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Binary Complementary Antonyms",
+      "conceptTags": ["antonyms", "complementary", "binary-opposites"],
+      "question": "Which of the following word pairs is a COMPLEMENTARY (binary) antonym pair?",
+      "options": [
+        { "id": "A", "text": "Rich — Poor" },
+        { "id": "B", "text": "Fast — Slow" },
+        { "id": "C", "text": "Valid — Void" },
+        { "id": "D", "text": "Happy — Sad" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rule RC-04 ke anusaar, complementary antonyms mutually exclusive hote hain jinme koi intermediate state nahi hoti. Koyi court order ya toh 'Valid' hoga ya 'Void' (null). A, B, aur D sabhi gradable scales hain (jaise Fast-Slow ke beech normal ya moderate speed ho sakti hai).",
+      "ruleReference": "Rule RC-04: Binary Complementary Opposition Law",
+      "hint": "Aisi jodi chunein jisme koi middle ground na ho—ek sach ho toh doosra 100% jhooth ho.",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-GP-008",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Speech Personality Trait Antonyms",
+      "conceptTags": ["personality-traits", "antonyms", "taciturn"],
+      "question": "What is the exact ANTONYM of 'TACITURN'?",
+      "options": [
+        { "id": "A", "text": "Reticent" },
+        { "id": "B", "text": "Laconic" },
+        { "id": "C", "text": "Garrulous" },
+        { "id": "D", "text": "Reserved" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'Taciturn' (Adjective) ka matlab kam bolne wala ya chup rehne wala hota hai. Option A ('Reticent'), B ('Laconic') aur D ('Reserved') teeno iske direct SYNONYMS hain. Iska polar opposite 'Garrulous' ya 'Loquacious' (Option C: bohot baatuni) hota hai.",
+      "ruleReference": "Rule RC-03 (Scale Extremes) & Rule RC-12 (Prompt Check: Antonym)",
+      "hint": "Options A, B, aur D sabhi kam bolne ke bare mein hain. Sirf ek option bohot zyada bolne ko represent karta hai.",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-GP-009",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Phonetic Prefix Assimilation Rules",
+      "conceptTags": ["morphology", "prefixes", "illogical"],
+      "question": "Which prefix correctly attaches to 'LOGICAL' to form its standard antonym?",
+      "options": [
+        { "id": "A", "text": "un-" },
+        { "id": "B", "text": "dis-" },
+        { "id": "C", "text": "il-" },
+        { "id": "D", "text": "im-" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rule RC-08 ke mutabiq, Latin negative prefix 'in-' liquid consonant 'L' ke aage assimilate hokar 'il-' ban jata hai (il- + logical = Illogical; il- + legal = Illegal). *Unlogical ya *dislogical English mein non-standard hain.",
+      "ruleReference": "Rule RC-08: Phonetic Prefix Assimilation Rules",
+      "hint": "Jab base word 'L' se start hota hai, toh Latin prefix 'in-' badalkar 'il-' ho jata hai.",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-GP-010",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Tone & Valence Nuance Discrimination",
+      "conceptTags": ["nuance", "connotation", "resolute"],
+      "question": "Which word is a positive, commendatory SYNONYM for someone who firmly sticks to their purpose, unlike the pejorative word 'stubborn'?",
+      "options": [
+        { "id": "A", "text": "Obstinate" },
+        { "id": "B", "text": "Resolute" },
+        { "id": "C", "text": "Pigheaded" },
+        { "id": "D", "text": "Mulish" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-07 ke anusaar, 'Stubborn', 'Obstinate', 'Pigheaded', aur 'Mulish' sabhi pejorative (negative) tone rakhte hain jo anavashyak ariyallpan darshate hain. Jabki 'Resolute' (Option B) ek dignified aur praise-worthy (positive) determination ko express karta hai.",
+      "ruleReference": "Rule RC-07: Tone & Connotation Polarity Concord",
+      "hint": "Tareef ke liye kaunsa word use hoga? A, C, aur D teeno burai ya aalochana ke shabd hain.",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-GP-011",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Celestial & Metaphorical Scale Extremes",
+      "conceptTags": ["metaphor", "antonyms", "zenith"],
+      "question": "What is the precise paired ANTONYM of 'ZENITH'?",
+      "options": [
+        { "id": "A", "text": "Apex" },
+        { "id": "B", "text": "Pinnacle" },
+        { "id": "C", "text": "Nadir" },
+        { "id": "D", "text": "Acme" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'Zenith' (Noun) ka matlab sarvochch shikhar ya highest point hota hai. Iska exact paired antonym 'Nadir' (Option C: lowest point ya pataal) hota hai. Options A, B, aur D teeno iske synonyms hain.",
+      "ruleReference": "Rule RC-03: Gradable Scale Extremes vs Intermediate Degrees",
+      "hint": "Apex, Pinnacle aur Acme teeno choti (top) ko bolte hain. Bottom-most point ko kya kehte hain?",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-GP-012",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "High-Frequency Judicial Vocabulary",
+      "conceptTags": ["legal-verbs", "antonyms", "vindicate"],
+      "question": "In criminal jurisprudence, what is the polar opposite (ANTONYM) of 'EXCULPATE'?",
+      "options": [
+        { "id": "A", "text": "Exonerate" },
+        { "id": "B", "text": "Absolve" },
+        { "id": "C", "text": "Incriminate" },
+        { "id": "D", "text": "Acquit" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'Exculpate' (Ex- + culpa/blame) ka matlab dosh-mukt karna ya nirdosh saabit karna hota hai. Options A ('Exonerate'), B ('Absolve'), aur D ('Acquit') iske synonyms hain. Iska polar opposite 'Incriminate' (Option C: dosh lagana ya apradh mein fasana) hota hai.",
+      "ruleReference": "Rule RC-04: Binary Complementary Opposition Law & RC-12",
+      "hint": "Exculpate ka matlab dosh se azaad karna hai. Dosh mein phansane wale verb ko identify karein.",
+      "provenance": "original"
+    }
+  ]
+}

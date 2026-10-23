@@ -1,0 +1,145 @@
+{
+  "id": "L14",
+  "title": "Degrees of Comparison: Rules, Transformations & Error Detection",
+  "shortTitle": "Degrees of Comparison & Error Detection",
+  "topicId": "T06",
+  "topicTitle": "Correction of Sentences",
+  "part": "2 of 2",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Advanced",
+  "targetScore": "100% Precision",
+  "description": "Positive, Comparative aur Superlative degrees ke grammatical rules, regular aur irregular adjective/adverb formations, comparative structures with than/as...as, double comparatives elimination, illogical comparison correction ('that of' / 'those of'), 'any other' self-exclusion, 'one of the' plural noun concord, Latin comparatives with 'to', aur High Court sentence correction traps ko systematically master karein.",
+  "learningObjectives": [
+    "Positive, Comparative, aur Superlative degrees ke core grammatical principles aur entity boundaries ko master karein",
+    "Adjectives aur adverbs ke regular (-er/-est, silent -e, CVC doubling, -y shift, more/most) inflection patterns accurately form karein",
+    "High-frequency irregular comparison forms (good/better/best, bad/worse/worst, far/farther/further, little/less/least, late/later/latter) ko flawlessly apply karein",
+    "Equality ('as...as') aur inequality ('not as/so...as', 'less...than') comparisons ko logically coordinate karein",
+    "Sentences with 'than' mein equivalent entities ko compare karein aur illogical comparisons ('that of' / 'those of' omission) ko eliminate karein",
+    "Group comparisons mein self-exclusion rule apply karein: 'than any other + singular noun' vs 'all other + plural noun'",
+    "'One of the + superlative + plural noun' ke structural formula aur subject-verb agreement concord ko master karein",
+    "Latin comparatives (senior, junior, superior, inferior, prior) aur 'prefer...to' mein 'than' ke badle 'to' ka mandatory use karein",
+    "Recurring competitive exam traps: double comparatives ('more better'), double superlatives, aur 'less' vs 'fewer' misuse ko eradicate karein",
+    "Sentence transformation mein truth value aur meaning preserve karte huye degrees interchange karein",
+    "8-step sentence correction workflow se High Court exam ke error-spotting questions solve karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Three Degrees of Comparison: Positive (base/equality), Comparative (two entities/inequality), Superlative (highest/lowest in group of 3+)",
+      "Adjective Inflection Rules: 1-syllable, silent -e, CVC consonant doubling, consonant + y to -ier/-iest, 2-syllable flexible forms, 3+ syllable more/most",
+      "Irregular Comparison Forms: good/better/best, bad/worse/worst, far/farther/further, little/less/least, much/many/more/most, late/later/latter/latest/last, old/older/elder/oldest/eldest",
+      "Comparative Degree with 'than': standard syntax, subjective vs objective pronoun cases, comparing two qualities of same entity ('more brave than wise')",
+      "Equality and Inequality: as...as (affirmative & negative), not as/so...as (strictly negative for so...as), less...than, quantity comparisons (as much as, as many as)",
+      "Superlative Degree & Group Comparisons: the + superlative + noun, one of the + superlative + plural noun, prepositions 'in' (places/institutions) vs 'of' (sets/members)",
+      "Boundary condition: exactly two items require comparative degree with 'the' ('of the two boys, he is the taller')",
+      "Adjectives vs Adverbs in Comparison: adjective modifying noun vs adverb modifying verb/adj/adv, -ly adverbs taking more/most, irregular adverbs (well, badly)",
+      "Special Comparison Expressions: prefer...to, preferable to, Latin comparatives ending in -or taking 'to', correlative parallel progression ('the more..., the more...')",
+      "Group Self-Exclusion: 'than any other + singular noun', 'than all other + plural noun', 'No other + singular noun'",
+      "Logical Equivalence & Faulty Comparisons: comparing like with like, mandatory use of 'that of' (singular) and 'those of' (plural)",
+      "Pleonasm and Redundancy: double comparatives ('more better'), double superlatives ('most fastest')",
+      "Countable vs Uncountable Quantifiers: 'fewer' (countable) vs 'less' (uncountable)",
+      "Sentence Transformations: Positive to Comparative, Comparative to Superlative, Universal group and subset group conversions with meaning preservation",
+      "8-Step Sentence Correction Algorithm for High Court competitive examinations"
+    ],
+    "excluded": [
+      "Subject-Verb Agreement non-comparison rules (covered in Lesson 13)",
+      "General Conjunctions and Connectives non-comparison rules like Scarcely...when (covered in related sentence correction modules)",
+      "Articles and Determiners countability fundamentals (covered in Lesson 10)",
+      "Spatial and Temporal Preposition hierarchies (covered in Lessons 11 and 12)",
+      "Active and Passive Voice transformations (covered in Lessons 04 and 05)",
+      "Direct and Indirect Speech tense shifts (covered in Lessons 06 and 07)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Diagnostic Prerequisite Check",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Degrees of Comparison ke core principles, competitive exam weightage, three degrees comparison hierarchy, common mistake traps, aur diagnostic prerequisite check ko samjhein."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Comprehensive Theory & Sentence Correction Guide across 11 Sections",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "The three degrees, adjective/adverb formation rules, irregular tables, than syntax, equality/inequality, group comparisons, pitfalls, special expressions, transformations, aur 8-step sentence correction algorithm par exhaustive guide."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Interactive Comparison Models & Transformation Flowcharts",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Three-degree comparison scale, adjective formation tree, irregular forms matrix, comparative structure navigator, comparison group self-exclusion visualizer, sentence transformation flow, aur faulty comparison inspector."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "12 Precision Comparison Formulas",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Entity count boundaries, regular inflections, irregular forms, equality/inequality, double comparison ban, Latin to-comparatives, prefer-to, any other self-exclusion, logical that of/those of, one of the plural concord, two qualities of same entity, aur parallel progression cards."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Exam Derivations",
+      "durationMin": 15,
+      "type": "worked-examples",
+      "summary": "Regular/irregular inflection, as...as, double comparatives, Latin comparatives, prefer-to, faulty comparisons, any other omission, one of the concord, comparative adverbs, less vs fewer, aur degree transformations with annotated Roman Hinglish derivations."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "8 Critical Comparison Distractor Traps",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "Double comparatives, omitted other self-inclusion, illogical entity mismatch ('that of' omission), Latin 'than' blunder, 'prefer...than' distortion, 'one of the' singular noun error, 'less' vs 'fewer' confusion, aur adjective/adverb discord breakdown."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Scaffolded Questions with Progressive Hints",
+      "durationMin": 15,
+      "type": "guided-practice",
+      "summary": "Degrees selection, regular/irregular forms, sentence completion, error detection, equality/inequality, and transformations with immediate Roman Hinglish cognitive feedback and rule citations."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "20 Exam-Grade Practice Questions",
+      "durationMin": 25,
+      "type": "independent-practice",
+      "summary": "Full syllabus coverage wale 20 realistic competitive questions covering degree recognition, formation, error spotting, sentence correction, sentence transformation, and distractor traps with detailed diagnostic explanations."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15 Timed Certification Questions (80% Passing Threshold)",
+      "durationMin": 12,
+      "type": "mastery-assessment",
+      "summary": "Strictly timed 12-minute exam-condition assessment simulating Rajasthan High Court System Assistant examination standards with 80% passing threshold (12/15) to achieve official module mastery."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Error Review & Revision",
+      "subtitle": "Personalized Mistake Bank, Quick Reference & Consolidated Report",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Review logged mistakes, weak subtopics, irregular forms checklist, comparison structures quick reference, mixed revision quiz, final examination checklist, and consolidated completion report."
+    }
+  ]
+}

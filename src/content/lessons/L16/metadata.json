@@ -1,0 +1,137 @@
+{
+  "id": "L16",
+  "title": "Synonyms & Antonyms: Vocabulary, Context and Exam Practice",
+  "shortTitle": "Synonyms & Antonyms",
+  "topicId": "T07",
+  "topicTitle": "Synonyms and Antonyms",
+  "part": "1 of 1",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Intermediate",
+  "targetScore": "100% Precision",
+  "description": "High-frequency vocabulary, exact vs near-synonyms, gradable aur complementary antonyms, sentence context inference, intensity aur shades of meaning, formal vs informal register, prefix clues, word-family parts of speech, polysemy traps, aur competitive exam elimination strategies ko master karein.",
+  "learningObjectives": [
+    "Synonyms aur antonyms ke precise linguistic meaning aur difference ko accurately define karein",
+    "Samajhein ki dictionary synonyms identical nahi hote aur har sentence context mein interchangeable nahi hote",
+    "Sentence ke surrounding context aur syntactic role ke hisaab se sabse appropriate synonym select karein",
+    "Direct, gradable, complementary, relational, aur context-dependent antonyms mein distinguish karein",
+    "Shades of meaning, intensity levels (annoyed vs furious), aur evaluative tone (economical vs cheap) ko pehchanein",
+    "Surrounding sentence context aur collocations ka use karke unfamiliar words ka meaning infer karein",
+    "Word families (Noun, Verb, Adjective, Adverb) ko recognize karein aur wrong grammatical roles ko eliminate karein",
+    "Common negative prefixes (un-, in-, im-, dis-, mis-) ko supporting clues ki tarah use karein aur unke limitations ko samjhein",
+    "Polysemy (multiple meanings wale words jaise sound, grave, plain, fine, sharp) ke context-specific opposites choose karein",
+    "Rajasthan High Court exams ke recurring vocabulary traps (near-synonym distractors, lookalikes, wrong intensity) ko eliminate karein",
+    "8-step exam-solving strategy apply karke vocabulary MCQs mein 100% accuracy hasil karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Exact vs Near-Synonyms: Register, intensity, connotation aur collocation constraints",
+      "Antonym Typology: Gradable (polar opposites on scale), Complementary (binary either/or), Relational (converse roles), aur Contextual",
+      "Semantic Intensity Gradients: Scales of anger, size, praise, risk, speed",
+      "Contextual Sense Freezing: Word meaning locked by sentence syntax and thematic domain",
+      "Prefix Polarity Mechanics: Phonetic rules (in-, im-, il-, ir-) aur false-friend exceptions",
+      "Word Family Concord: Matching identical part-of-speech (Noun-Noun, Verb-Verb, Adj-Adj)",
+      "Polysemy Branching: Resolving multiple senses (sound, grave, plain, sharp, fine, critical)",
+      "Rajasthan High Court Legal & Administrative Lexicon: High-frequency exam terms",
+      "5-Step Cognitive MCQ Elimination Workflow: POS -> Context Sense -> Connotation -> Intensity -> Collocation"
+    ],
+    "excluded": [
+      "Idioms and Phrasal Verbs (Reserved for Lesson 18)",
+      "Morphological Affix Conversion Tables (Reserved for Lesson 17)",
+      "Foreign Legal Maxims in Latin (Reserved for Advanced Legal English Module)",
+      "One-Word Substitutions (Reserved for Lesson 17)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Orientation",
+      "subtitle": "Overview & Diagnostic Prerequisite Check",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Synonyms aur Antonyms ke core principles, competitive exam weightage, context sensitivity, common mistake traps, aur diagnostic prerequisite check ko samjhein."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Comprehensive Theory & 60-Word Curated Vocabulary Explorer",
+      "durationMin": 25,
+      "type": "study-doc",
+      "summary": "Synonyms & Antonyms linguistics theory, 10 deep pedagogical sections, nuance matrices, prefix mechanics, polysemy, and 60 curated High Court exam vocabulary terms."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "7 Interactive Vocabulary Exploration Tools & Decision Trees",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Synonym-Antonym comparator, 4-tier intensity spectrums, context decision tree, antonym typologies guide, prefix reference map, word family grammar bridge, and polysemy context inspector."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "12 Precision Formula Cards for Context & Elimination",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Grammatical class concord, nuance gradients, binary vs gradable antonyms, prefix polarity reversal, tone and valence matching, and 8-step elimination formulas."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Cognitive Exam Derivations",
+      "durationMin": 12,
+      "type": "worked-examples",
+      "summary": "Step-by-step cognitive derivations demonstrating sentence context inference, part-of-speech filtering, distractor elimination, and verified answers."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "12 High-Frequency Exam Distractor Traps",
+      "durationMin": 8,
+      "type": "common-mistakes",
+      "summary": "Near-synonym distractors, deceptive negative prefixes, wrong part of speech options, intensity mismatches, and polysemy blind spots."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Scaffolded Questions with Real-Time Hints",
+      "durationMin": 10,
+      "type": "guided-practice",
+      "summary": "12 scaffolded MCQs with real-time hints, option-by-option Hinglish rationales, and rule linkage for progressive mastery."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "25 Exam-Grade Practice Questions",
+      "durationMin": 15,
+      "type": "independent-practice",
+      "summary": "25 exam-grade MCQs featuring exam simulation mode, question flagging, review filter, and detailed diagnostic explanations."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15 Timed Certification Questions (80% Threshold)",
+      "durationMin": 12,
+      "type": "mastery-assessment",
+      "summary": "Strictly timed 12-minute exam-condition assessment simulating Rajasthan High Court examination standards with 80% passing threshold (12/15)."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Error Review & Revision",
+      "subtitle": "Personalized Mistake Bank & Milestone Remediation",
+      "durationMin": 6,
+      "type": "error-review",
+      "summary": "Review logged mistakes, weak vocabulary subtopics, quick reference tables, milestone certification, and progression to Topic 8."
+    }
+  ]
+}

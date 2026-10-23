@@ -1,0 +1,212 @@
+[
+  {
+    "id": "WE-01",
+    "sentence": "Active: 'The court clerk prepares the daily cause list every evening.'",
+    "correctAnswer": "The daily cause list is prepared by the court clerk every evening.",
+    "tense": "Simple Present Tense Transformation",
+    "steps": {
+      "step1_marker": "S-V-O Isolation: Subject = 'The court clerk', Verb = 'prepares' (Simple Present, V_s/es), Object = 'the daily cause list' (Singular Noun).",
+      "step2_time": "Transitivity & Feasibility Check: Verb 'prepares' transitive hai (Prepares WHAT? ➔ 'the daily cause list'). Iska valid passive possible hai.",
+      "step3_aspect": "Tense Preservation & Auxiliary Selection: Tense Simple Present hai. Naya subject singular ('the daily cause list') hai, isliye auxiliary 'is' select hogi.",
+      "step4_inflection": "Verb V3 Conversion & Agent Assignment: Verb 'prepares' ka Past Participle (V3) 'prepared' banega. Original subject 'by the court clerk' bankar agent banega.",
+      "step5_synthesis": "Final Synthesis: 'The daily cause list is prepared by the court clerk every evening.'"
+    },
+    "trapWarning": "EXAM TRAP: Active ke 'prepares' ko dekhkar passive mein 'does prepared' mat lagayein. Simple Present passive ka auxiliary strictly 'is/am/are' hota hai."
+  },
+  {
+    "id": "WE-02",
+    "sentence": "Active: 'The administrative department does not accept unverified affidavits.'",
+    "correctAnswer": "Unverified affidavits are not accepted by the administrative department.",
+    "tense": "Simple Present Negative Transformation",
+    "steps": {
+      "step1_marker": "S-V-O Isolation: Subject = 'The administrative department', Verb = 'does not accept', Object = 'unverified affidavits' (Plural Noun).",
+      "step2_time": "Transitivity & Feasibility Check: 'accept' transitive verb hai (Accepts WHAT? ➔ 'unverified affidavits'). Passive possible hai.",
+      "step3_aspect": "Tense & Polarity Alignment: Simple Present Negative hai. Naya subject plural ('affidavits') hai, isliye auxiliary 'are not' aayegi ('does' hat jayega).",
+      "step4_inflection": "Verb V3 Conversion: Base verb 'accept' ka V3 form 'accepted' banega.",
+      "step5_synthesis": "Final Synthesis: 'Unverified affidavits are not accepted by the administrative department.'"
+    },
+    "trapWarning": "NUMBER CONCORD: Active subject singular tha ('department'), lekin naya subject plural ('affidavits') hai. Isliye 'is not' nahi, strictly 'are not' lagana hoga."
+  },
+  {
+    "id": "WE-03",
+    "sentence": "Active: 'The network engineers are upgrading the judicial database servers.'",
+    "correctAnswer": "The judicial database servers are being upgraded by the network engineers.",
+    "tense": "Present Continuous Tense Transformation",
+    "steps": {
+      "step1_marker": "S-V-O Isolation: Subject = 'The network engineers', Verb = 'are upgrading' (Present Continuous), Object = 'the judicial database servers' (Plural Noun).",
+      "step2_time": "Transitivity Check: 'upgrading' transitive hai (Upgrading WHAT? ➔ 'the servers').",
+      "step3_aspect": "Continuous Auxiliary Selection: Tense Present Continuous hai aur naya subject plural hai, isliye auxiliary 'are being' select hogi.",
+      "step4_inflection": "Verb V3 Conversion: Main verb 'upgrading' ka Past Participle V3 'upgraded' banega.",
+      "step5_synthesis": "Final Synthesis: 'The judicial database servers are being upgraded by the network engineers.'"
+    },
+    "trapWarning": "CRITICAL 'BEING' TRAP: Agar option mein 'are upgraded' diya ho, toh wo Simple Present ban jata hai. Continuous voice preserve karne ke liye 'being' lagana mandatory hai."
+  },
+  {
+    "id": "WE-04",
+    "sentence": "Active: 'The High Court committee has revised the recruitment guidelines.'",
+    "correctAnswer": "The recruitment guidelines have been revised by the High Court committee.",
+    "tense": "Present Perfect Tense Transformation (Number Shift)",
+    "steps": {
+      "step1_marker": "S-V-O Isolation: Subject = 'The High Court committee' (Singular Collective Noun), Verb = 'has revised', Object = 'the recruitment guidelines' (Plural Noun).",
+      "step2_time": "Transitivity Check: 'revised' transitive verb hai (Revised WHAT? ➔ 'the guidelines').",
+      "step3_aspect": "Tense & Agreement Concord: Active mein singular 'has' tha, lekin naya subject plural ('guidelines') hai. Isliye passive auxiliary 'have been' banegi.",
+      "step4_inflection": "Verb V3 Conversion: 'revised' already V3 form hai.",
+      "step5_synthesis": "Final Synthesis: 'The recruitment guidelines have been revised by the High Court committee.'"
+    },
+    "trapWarning": "AGREEMENT DISCORD: Active ke 'has' ko dekhkar option mein 'guidelines has been revised' par tick mat karna. Naye subject ('guidelines') ke according 'have been' lagega."
+  },
+  {
+    "id": "WE-05",
+    "sentence": "Active: 'The division bench pronounced the landmark ruling yesterday.'",
+    "correctAnswer": "The landmark ruling was pronounced by the division bench yesterday.",
+    "tense": "Simple Past Tense Transformation",
+    "steps": {
+      "step1_marker": "S-V-O Isolation: Subject = 'The division bench', Verb = 'pronounced' (Simple Past V2), Object = 'the landmark ruling' (Singular Noun), Time Adverb = 'yesterday'.",
+      "step2_time": "Transitivity Check: 'pronounced' transitive hai (Pronounced WHAT? ➔ 'the landmark ruling').",
+      "step3_aspect": "Tense Preservation: Simple Past tense preserve hoga. Naya subject singular hai, isliye auxiliary 'was' select hogi.",
+      "step4_inflection": "Verb V3 Conversion: 'pronounced' (V2) ka Past Participle form bhi 'pronounced' (V3) hota hai.",
+      "step5_synthesis": "Final Synthesis: 'The landmark ruling was pronounced by the division bench yesterday.'"
+    },
+    "trapWarning": "NO BACKSHIFTING: Narration ke rule ko voice mein apply mat karein. Simple Past active ko Past Perfect ('had been pronounced') nahi banaya jata; strictly 'was pronounced' banta hai."
+  },
+  {
+    "id": "WE-06",
+    "sentence": "Active: 'The police did not seize the forged stamps.'",
+    "correctAnswer": "The forged stamps were not seized by the police.",
+    "tense": "Simple Past Negative Transformation",
+    "steps": {
+      "step1_marker": "S-V-O Isolation: Subject = 'The police', Verb = 'did not seize', Object = 'the forged stamps' (Plural Noun).",
+      "step2_time": "Transitivity Check: 'seize' transitive verb hai (Seized WHAT? ➔ 'the forged stamps').",
+      "step3_aspect": "Auxiliary Selection: Active negative 'did not' passive mein plural subject ke sath 'were not' banega ('did' passive mein gayab ho jata hai).",
+      "step4_inflection": "Verb V3 Conversion: Base verb 'seize' ka V3 form 'seized' banega.",
+      "step5_synthesis": "Final Synthesis: 'The forged stamps were not seized by the police.'"
+    },
+    "trapWarning": "NO 'DID' IN PASSIVE: 'The stamps did not seized' jaisa koi option kabhi mat chunein. Passive auxiliary strictly 'was/were' hoti hai."
+  },
+  {
+    "id": "WE-07",
+    "sentence": "Active: 'The auditor was scrutinizing the annual expenditure accounts.'",
+    "correctAnswer": "The annual expenditure accounts were being scrutinized by the auditor.",
+    "tense": "Past Continuous Tense Transformation",
+    "steps": {
+      "step1_marker": "S-V-O Isolation: Subject = 'The auditor' (Singular), Verb = 'was scrutinizing' (Past Continuous), Object = 'the annual expenditure accounts' (Plural).",
+      "step2_time": "Transitivity Check: 'scrutinizing' transitive verb hai (Scrutinizing WHAT? ➔ 'the accounts').",
+      "step3_aspect": "Concord & Auxiliary Selection: Naya subject plural ('accounts') hai, isliye 'was' ki jagah 'were' aur continuous ke liye 'being' lagega ➔ 'were being'.",
+      "step4_inflection": "Verb V3 Conversion: 'scrutinizing' ka V3 form 'scrutinized' banega.",
+      "step5_synthesis": "Final Synthesis: 'The annual expenditure accounts were being scrutinized by the auditor.'"
+    },
+    "trapWarning": "DOUBLE TRAP: 1. Singular 'was' badal kar plural 'were' banega. 2. Continuous hone ki wajah se 'being' aana zaroori hai. Sahi combination 'were being scrutinized' hai."
+  },
+  {
+    "id": "WE-08",
+    "sentence": "Active: 'The security officer had locked the main archives before the inspection.'",
+    "correctAnswer": "The main archives had been locked by the security officer before the inspection.",
+    "tense": "Past Perfect Tense Transformation",
+    "steps": {
+      "step1_marker": "S-V-O Isolation: Subject = 'The security officer', Verb = 'had locked', Object = 'the main archives'.",
+      "step2_time": "Transitivity Check: 'locked' transitive hai (Locked WHAT? ➔ 'the main archives').",
+      "step3_aspect": "Auxiliary Selection: Past Perfect passive mein universal auxiliary 'had been' lagti hai.",
+      "step4_inflection": "Verb V3 Conversion: 'locked' already V3 form hai.",
+      "step5_synthesis": "Final Synthesis: 'The main archives had been locked by the security officer before the inspection.'"
+    },
+    "trapWarning": "MISSING 'BEEN': Agar option mein sirf 'had locked' reh jaye ('The archives had locked...'), toh sentence active hi reh jayega jiska matlab nikalta hai ki archives ne khud kisi ko lock kiya!"
+  },
+  {
+    "id": "WE-09",
+    "sentence": "Active: 'The recruitment authority will conduct the typing speed test next month.'",
+    "correctAnswer": "The typing speed test will be conducted by the recruitment authority next month.",
+    "tense": "Simple Future Tense Transformation",
+    "steps": {
+      "step1_marker": "S-V-O Isolation: Subject = 'The recruitment authority', Verb = 'will conduct', Object = 'the typing speed test'.",
+      "step2_time": "Transitivity Check: 'conduct' transitive verb hai (Conduct WHAT? ➔ 'the test').",
+      "step3_aspect": "Auxiliary Selection: Simple Future active 'will + V1' passive mein 'will be + V3' banta hai.",
+      "step4_inflection": "Verb V3 Conversion: Base verb 'conduct' ka V3 'conducted' banega.",
+      "step5_synthesis": "Final Synthesis: 'The typing speed test will be conducted by the recruitment authority next month.'"
+    },
+    "trapWarning": "BASE 'BE' REQUIREMENT: Modal auxiliary 'will' ke turant baad V3 nahi lagta. Beech mein base verb 'be' lagana mandatory hai: 'will be conducted'."
+  },
+  {
+    "id": "WE-10",
+    "sentence": "Active: 'The system assistant will have configured the proxy servers by 4 PM.'",
+    "correctAnswer": "The proxy servers will have been configured by the system assistant by 4 PM.",
+    "tense": "Future Perfect Tense Transformation",
+    "steps": {
+      "step1_marker": "S-V-O Isolation: Subject = 'The system assistant', Verb = 'will have configured', Object = 'the proxy servers'.",
+      "step2_time": "Transitivity Check: 'configured' transitive hai (Configured WHAT? ➔ 'the proxy servers').",
+      "step3_aspect": "Auxiliary Selection: Future Perfect passive formula: 'will have been + V3'.",
+      "step4_inflection": "Verb V3 Conversion: 'configured' V3 form hai.",
+      "step5_synthesis": "Final Synthesis: 'The proxy servers will have been configured by the system assistant by 4 PM.'"
+    },
+    "trapWarning": "NO 'HAS' AFTER MODAL: Singular object dekh kar 'will has been' mat lagana. Modal 'will' ke baad hamesha base verb 'have' aati hai."
+  },
+  {
+    "id": "WE-11",
+    "sentence": "Active: 'Did the magistrate sign the arrest warrant?'",
+    "correctAnswer": "Was the arrest warrant signed by the magistrate?",
+    "tense": "Yes/No Interrogative Simple Past Transformation",
+    "steps": {
+      "step1_marker": "Identify Question Structure: Active question 'Did' se shuru ho raha hai (Simple Past Yes/No Question). Object = 'the arrest warrant' (Singular).",
+      "step2_time": "Auxiliary Replacement: Active ka 'Did' passive banate waqt gayab ho jata hai. Singular object ke hisaab se Simple Past auxiliary 'Was' sentence ke shuruat mein aayegi.",
+      "step3_aspect": "Word Order Alignment: Formula: Aux + Object + V3 + by Subject? ➔ 'Was' + 'the arrest warrant' + 'signed' + 'by the magistrate?'",
+      "step4_inflection": "Verb V3 Conversion: 'sign' ka V3 form 'signed' banega.",
+      "step5_synthesis": "Final Synthesis: 'Was the arrest warrant signed by the magistrate?'"
+    },
+    "trapWarning": "WORD ORDER INVERSION: 'Why/Did' type questions mein assertive order mat banayein: 'The arrest warrant was signed by the magistrate?' galat interrogative syntax hai. Helping verb 'Was' aage honi chahiye."
+  },
+  {
+    "id": "WE-12",
+    "sentence": "Active: 'Why did the administrative officer reject the candidate's application?'",
+    "correctAnswer": "Why was the candidate's application rejected by the administrative officer?",
+    "tense": "Wh-Question Transformation",
+    "steps": {
+      "step1_marker": "Identify Wh-Question: Wh-word = 'Why', Auxiliary = 'did', Subject = 'the administrative officer', Verb = 'reject', Object = 'the candidate's application'.",
+      "step2_time": "Retain Wh-Word: Wh-word 'Why' sentence ke shuru mein hi retain rahega.",
+      "step3_aspect": "Auxiliary Inversion: Simple Past singular object ke liye auxiliary 'was' Wh-word ke turant baad aayegi: 'Why was...'",
+      "step4_inflection": "Object & V3 Placement: Naya subject 'the candidate's application' + V3 'rejected' + agent 'by the administrative officer'.",
+      "step5_synthesis": "Final Synthesis: 'Why was the candidate's application rejected by the administrative officer?'"
+    },
+    "trapWarning": "ASSERTIVE WORD ORDER TRAP: Distractor mein 'Why the candidate's application was rejected...' diya hoga. Question mein auxiliary 'was' subject se pehle aati hai."
+  },
+  {
+    "id": "WE-13",
+    "sentence": "Active: 'Who drafted this comprehensive arbitration petition?'",
+    "correctAnswer": "By whom was this comprehensive arbitration petition drafted?",
+    "tense": "'Who' Question Transformation (By Whom Architecture)",
+    "steps": {
+      "step1_marker": "Identify Subject: Question word 'Who' hi active sentence ka subject (doer) hai. Verb = 'drafted' (Simple Past V2), Object = 'this comprehensive arbitration petition'.",
+      "step2_time": "Convert 'Who' to 'By Whom': Subject 'Who' preposition 'by' ke sath objective case 'By whom' ban kar shuruat mein hi rehta hai.",
+      "step3_aspect": "Auxiliary Inversion: Tense Simple Past hai aur object singular hai, isliye 'By whom' ke turant baad auxiliary 'was' aayegi.",
+      "step4_inflection": "Object & V3 Placement: 'was' ke baad object 'this comprehensive arbitration petition' aur aakhri mein V3 'drafted' aayega.",
+      "step5_synthesis": "Final Synthesis: 'By whom was this comprehensive arbitration petition drafted?'"
+    },
+    "trapWarning": "AUXILIARY POSITION: 'By whom this petition was drafted?' galat hai. Question mein auxiliary hamesha subject se pehle lagti hai: 'By whom WAS this petition drafted?'"
+  },
+  {
+    "id": "WE-14",
+    "sentence": "Active: 'Someone has stolen the confidential case dairy from the desk.'",
+    "correctAnswer": "The confidential case dairy has been stolen from the desk.",
+    "tense": "Agent Omission (Indefinite Pronoun Doer)",
+    "steps": {
+      "step1_marker": "S-V-O Isolation: Subject = 'Someone' (Indefinite Pronoun), Verb = 'has stolen' (Present Perfect), Object = 'the confidential case dairy'.",
+      "step2_time": "Transitivity Check: 'stolen' transitive verb hai (Stole WHAT? ➔ 'the case dairy').",
+      "step3_aspect": "Tense & Auxiliary: Present Perfect singular object ke liye 'has been stolen' banega.",
+      "step4_inflection": "Agent Evaluation: Doer 'Someone' unknown aur vague hai. Isliye 'by someone' lagana redundant wordiness hai aur ise naturally omit kiya jata hai.",
+      "step5_synthesis": "Final Synthesis: 'The confidential case dairy has been stolen from the desk.'"
+    },
+    "trapWarning": "AGENT REDUNDANCY: Option mein agar 'by someone' likha ho aur dusre option mein omit kiya gaya ho, toh bina 'by someone' wala option standard formal English mein superior aur correct answer mana jata hai."
+  },
+  {
+    "id": "WE-15",
+    "sentence": "Active: 'The prime prosecution witness died in the district hospital yesterday.'",
+    "correctAnswer": "No Passive Transformation Possible (Intransitive Verb)",
+    "tense": "Transitive vs Intransitive Diagnostic Test",
+    "steps": {
+      "step1_marker": "Identify Verb & Arguments: Subject = 'The prime prosecution witness', Verb = 'died' (Simple Past), Prepositional Phrase = 'in the district hospital' (Place Adverb), Time Adverb = 'yesterday'.",
+      "step2_time": "Object Detection Test: Verb se 'What?' ya 'Whom?' puchhein: 'The witness died WHAT?' ➔ No Answer. 'Died WHOM?' ➔ No Answer.",
+      "step3_aspect": "Transitivity Classification: Verb 'die' purely intransitive verb hai. Iske baad koi direct object exist nahi karta.",
+      "step4_inflection": "Passive Feasibility: Chunki sentence mein koi object nahi hai, isliye naya subject banne ke liye koi noun nahi hai.",
+      "step5_synthesis": "Final Conclusion: Is sentence ka koi passive transformation possible nahi hai. 'The witness was died' kehna gross grammatical blunder hai."
+    },
+    "trapWarning": "PSEUDO-PASSIVE BLUNDER: Exam-setters 'The witness was died in the hospital' dekar trap karte hain. Intransitive verbs (die, sleep, arrive, go, laugh) ka passive voice nahi banaya ja sakta."
+  }
+]

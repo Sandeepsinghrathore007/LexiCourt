@@ -1,0 +1,212 @@
+[
+  {
+    "id": "WE-01",
+    "sentence": "The Chief Justice announced that the special registry ___ (function) on all Saturdays this month.",
+    "correctAnswer": "would function",
+    "tense": "Future-in-the-Past (Past Harmony Posterior)",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'The Chief Justice announced' (Governing verb 'announced' Simple Past V2 mein hai). Subordinate Clause = 'that the special registry ___ on all Saturdays'.",
+      "step2_time": "Temporal Alignment: Announcement ke past time se registry ka kaam aage future mein hona project kiya gaya tha.",
+      "step3_aspect": "Aspect & Modal: Past anchor se aage dekhne par future action ke liye Future-in-the-Past modal auxiliary use hota hai.",
+      "step4_inflection": "Inflection: 'will' ka backshift hokar 'would' banega + base form V1 'function'.",
+      "step5_synthesis": "Final Output: 'The Chief Justice announced that the special registry would function on all Saturdays this month.'"
+    },
+    "trapWarning": "'Will function' na likhein. Past narrative frame ('announced') mein 'will' tense harmony break karta hai, isliye iska 'would' banna zaroori hai."
+  },
+  {
+    "id": "WE-02",
+    "sentence": "Galileo demonstrated to the academy that the earth ___ (revolve) around the sun.",
+    "correctAnswer": "revolves",
+    "tense": "Universal Truth / Scientific Law Exception",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'Galileo demonstrated to the academy' (Governing verb 'demonstrated' Simple Past V2 hai). Subordinate Clause = 'that the earth ___ around the sun'.",
+      "step2_time": "Subordinate Clause Content Check: 'the earth revolves around the sun' ek immutable cosmological scientific law hai.",
+      "step3_aspect": "Aspect & Exception: Universal truths aur permanent scientific facts par past tense harmony lagu nahi hoti.",
+      "step4_inflection": "Inflection: Subordinate verb Simple Present mein hi rahega. 3rd person singular subject ('the earth') ke sath V_s/es 'revolves' lagega.",
+      "step5_synthesis": "Final Output: 'Galileo demonstrated to the academy that the earth revolves around the sun.'"
+    },
+    "trapWarning": "FATAL EXAM ERROR: 'Revolved' likhna galti hai, kyunki planets ka chakkar lagana ek ongoing physical reality hai, koi beeta hua khatam event nahi."
+  },
+  {
+    "id": "WE-03",
+    "sentence": "The judicial audit revealed that the accounts clerk ___ (embezzle) the court funds over several months.",
+    "correctAnswer": "had embezzled",
+    "tense": "Past Harmony Anterior (Past Perfect)",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'The judicial audit revealed' (Governing verb 'revealed' Simple Past V2 hai). Subordinate Clause = 'that the accounts clerk ___ the court funds'.",
+      "step2_time": "Temporal Alignment: Audit mein pata chalne se pehle hi clerk dwara paise ka embezzlement ho chuka tha (Anterior Past Event).",
+      "step3_aspect": "Aspect: Past reference point se pehle complete huye action ke liye Past Perfect lagta hai.",
+      "step4_inflection": "Inflection: Auxiliary 'had' + lexical past participle V3 'embezzled'.",
+      "step5_synthesis": "Final Output: 'The judicial audit revealed that the accounts clerk had embezzled the court funds over several months.'"
+    },
+    "trapWarning": "Simple Past 'embezzled' chronological priority nahi dikha pata. Past ke do events mein se pehle complete hone wale event ke liye Past Perfect ('had embezzled') aayega."
+  },
+  {
+    "id": "WE-04",
+    "sentence": "The applicant works overtime every evening so that he ___ (may / might) clear the documentation backlog.",
+    "correctAnswer": "may",
+    "tense": "Purpose Clause with Present Main Verb",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'The applicant works overtime every evening' (Governing verb 'works' Simple Present V_s/es hai). Subordinate Purpose Clause = 'so that he ___ clear...'.",
+      "step2_time": "Clause Type: 'So that' se shuru hone wala purpose clause.",
+      "step3_aspect": "Modal Concord Rule: Present Main Verb → 'may + V1'. Past Main Verb → 'might + V1'.",
+      "step4_inflection": "Modal Selection: Kyunki main verb 'works' present mein hai, purpose modal 'may' hoga.",
+      "step5_synthesis": "Final Output: 'The applicant works overtime every evening so that he may clear the documentation backlog.'"
+    },
+    "trapWarning": "'Might' use na karein. 'Might' past main clauses ke liye reserve hota hai (jaise 'He worked overtime so that he might clear')."
+  },
+  {
+    "id": "WE-05",
+    "sentence": "The applicant worked overtime every evening so that he ___ (may / might) clear the documentation backlog.",
+    "correctAnswer": "might",
+    "tense": "Purpose Clause with Past Main Verb",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'The applicant worked overtime every evening' (Governing verb 'worked' Simple Past V2 hai). Subordinate Purpose Clause = 'so that he ___ clear...'.",
+      "step2_time": "Clause Type: 'So that' se shuru hone wala purpose clause.",
+      "step3_aspect": "Modal Concord Rule: Past Main Verb → 'might + V1'.",
+      "step4_inflection": "Modal Selection: Governing verb 'worked' past mein hai, isliye 'may' ka backshift hokar 'might' aayega.",
+      "step5_synthesis": "Final Output: 'The applicant worked overtime every evening so that he might clear the documentation backlog.'"
+    },
+    "trapWarning": "Ye competitive exams ka top error-spotting question hai. 'Worked... so that he may' likhna ek severe modal tense error hai."
+  },
+  {
+    "id": "WE-06",
+    "sentence": "The advocate says that his client ___ (reside) in Jodhpur since childhood.",
+    "correctAnswer": "has resided",
+    "tense": "Open Sequence with Present Main Verb",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'The advocate says' (Governing verb 'says' Simple Present hai). Subordinate Clause = 'that his client ___ in Jodhpur since childhood'.",
+      "step2_time": "Principle of Open Sequence Lagu Hoti Hai: Kyunki governing verb present mein hai, subordinate clause past harmony se bound nahi hai.",
+      "step3_aspect": "Subordinate Clause Time Marker: 'Since childhood' ek aisi state batata hai jo past mein shuru hokar present tak continuous chal rahi hai, isliye Present Perfect zaroori hai.",
+      "step4_inflection": "Inflection: Subject 'his client' ke sath singular auxiliary 'has' + past participle V3 'resided' (ya 'has been residing') aayega.",
+      "step5_synthesis": "Final Output: 'The advocate says that his client has resided in Jodhpur since childhood.'"
+    },
+    "trapWarning": "'Had resided' na likhein. Main verb 'says' present frame mein hai; 'had resided' reference point ko zabardasti past mein shift kar deta hai."
+  },
+  {
+    "id": "WE-07",
+    "sentence": "The history lecturer affirmed that Emperor Ashoka ___ (renounce) war after the battle of Kalinga.",
+    "correctAnswer": "renounced",
+    "tense": "Historical Past Fact (Not a Universal Truth)",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'The history lecturer affirmed' (Governing verb 'affirmed' Simple Past V2 hai). Subordinate Clause = 'that Emperor Ashoka ___ war...'.",
+      "step2_time": "Content Check: Ashoka dwara yuddh chhodna ek historical event hai jo past ke finished time period mein hua tha.",
+      "step3_aspect": "Exception Analysis: Historical events universal truths nahi hote. Ye past mein khatam ho chuke hain aur aaj continuous nahi hain.",
+      "step4_inflection": "Inflection: Historical facts ke liye Simple Past V2 'renounced' aayega.",
+      "step5_synthesis": "Final Output: 'The history lecturer affirmed that Emperor Ashoka renounced war after the battle of Kalinga.'"
+    },
+    "trapWarning": "'Renounces' na likhein. Historical facts ko universal truths ke sath kabhi confuse na karein; historical facts hamesha Simple Past mein rehte hain."
+  },
+  {
+    "id": "WE-08",
+    "sentence": "He liked the judicial atmosphere in Jaipur better than he ___ (like) the industrial court in Bhiwadi now.",
+    "correctAnswer": "likes",
+    "tense": "Clause of Comparison Exception ('Than')",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'He liked the judicial atmosphere in Jaipur' (Simple Past). Subordinate Comparison Clause = 'than he ___ the industrial court in Bhiwadi now'.",
+      "step2_time": "Clause Type: 'Than' se introduce hone wala comparison clause.",
+      "step3_aspect": "Exemption Rule: Comparison clauses par Rule of Past Harmony lagu nahi hota. Yahan tense comparison ki factual reality ke mutabiq decide hota hai.",
+      "step4_inflection": "Subordinate Marker: Adverb 'now' explicitly present state show kar raha hai. Isliye Simple Present 'likes' aayega.",
+      "step5_synthesis": "Final Output: 'He liked the judicial atmosphere in Jaipur better than he likes the industrial court in Bhiwadi now.'"
+    },
+    "trapWarning": "Jab past preference ka comparison 'now' ke sath chal rahe present feeling se ho raha ho, toh 'than' ke baad wale verb ko zabardasti Simple Past ('liked') mein na badlein."
+  },
+  {
+    "id": "WE-09",
+    "sentence": "The bench noted that the public prosecutor ___ (present) his concluding arguments when the power failure occurred.",
+    "correctAnswer": "was presenting",
+    "tense": "Simultaneous Past Progressive Action",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'The bench noted' (Past V2). Subordinate Clause = 'that the public prosecutor ___ his concluding arguments when...'.",
+      "step2_time": "Temporal Alignment: Past mein ek ongoing continuous action chal raha tha jab doosre past event ne use interrupt kiya.",
+      "step3_aspect": "Aspect: Past mein continuous / progressive action.",
+      "step4_inflection": "Inflection: Past continuous auxiliary 'was' (singular subject) + lexical V-ing 'presenting'.",
+      "step5_synthesis": "Final Output: 'The bench noted that the public prosecutor was presenting his concluding arguments when the power failure occurred.'"
+    },
+    "trapWarning": "'Is presenting' likhne se past main verb 'noted' aur past clause 'occurred' ke sath fatal cross-clause discord ban jata hai."
+  },
+  {
+    "id": "WE-10",
+    "sentence": "The petitioner feared lest the appeal ___ (dismiss) for non-prosecution.",
+    "correctAnswer": "should be dismissed",
+    "tense": "Adverbial Clause with 'Lest' + Should",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'The petitioner feared' (Simple Past V2). Subordinate Clause = 'lest the appeal ___'.",
+      "step2_time": "Subordinating Conjunction: 'Lest' ke andar negative subjunctive force hoti hai ('kahi aisa na ho ki' ya 'in case').",
+      "step3_aspect": "Strict Grammatical Rule: Conjunction 'lest' ke baad hamesha modal auxiliary 'should' aata hai, chahe main clause ka tense kuch bhi ho.",
+      "step4_inflection": "Inflection: 'should' + passive infinitive 'be dismissed'.",
+      "step5_synthesis": "Final Output: 'The petitioner feared lest the appeal should be dismissed for non-prosecution.'"
+    },
+    "trapWarning": "EXAM TRAP: 'Lest' ke sath 'may', 'might', ya 'would' kabhi use na karein. 'Lest' hamesha 'should' leta hai aur iske sath 'not' kabhi nahi lagta kyunki negative sense 'lest' mein pehle se shamil hota hai."
+  },
+  {
+    "id": "WE-11",
+    "sentence": "The registrar confirmed that the server ___ (maintain) by certified engineers on alternate Sundays.",
+    "correctAnswer": "was maintained",
+    "tense": "Past Harmony of Reported Routine",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'The registrar confirmed' (Past V2). Subordinate Clause = 'that the server ___ by certified engineers on alternate Sundays'.",
+      "step2_time": "Temporal Alignment: Past frame ke andar report ki gayi ek routine.",
+      "step3_aspect": "Standard Exam Rule: Jab past main verb ke andar koi routine report ki jaye, toh standard exam grammar routine ko Simple Past passive mein backshift karta hai.",
+      "step4_inflection": "Inflection: 'was' + past participle V3 'maintained'.",
+      "step5_synthesis": "Final Output: 'The registrar confirmed that the server was maintained by certified engineers on alternate Sundays.'"
+    },
+    "trapWarning": "Jab tak explicitly na kaha jaye ki routine koi immutable scientific law hai (aur ye nahi hai), standard competitive exams 'is maintained' ko 'was maintained' mein backshift karne ki demand karte hain."
+  },
+  {
+    "id": "WE-12",
+    "sentence": "The physics professor reminded the candidates that iron ___ (sink) in water.",
+    "correctAnswer": "sinks",
+    "tense": "Scientific Physical Law Exception",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'The physics professor reminded the candidates' (Past V2). Subordinate Clause = 'that iron ___ in water'.",
+      "step2_time": "Subordinate Clause Content: 'Iron sinks in water' density ki ek immutable physical property hai.",
+      "step3_aspect": "Exception: Physical aur scientific truths Simple Present mein hi rehte hain.",
+      "step4_inflection": "Inflection: 3rd person singular uncountable noun 'iron' ke sath V_s/es 'sinks' aayega.",
+      "step5_synthesis": "Final Output: 'The physics professor reminded the candidates that iron sinks in water.'"
+    },
+    "trapWarning": "'Sank' na likhein. Lohe ka paani mein doobna change nahi hua hai; ye ek permanent physical reality hai."
+  },
+  {
+    "id": "WE-13",
+    "sentence": "The senior judicial clerk inquired whether the newly appointed system assistant ___ (complete) the installation before leaving the office.",
+    "correctAnswer": "had completed",
+    "tense": "Anterior Past Action with 'Before'",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'The senior judicial clerk inquired' (Simple Past V2). Subordinate Clause = 'whether the newly appointed system assistant ___ the installation before leaving...'.",
+      "step2_time": "Temporal Alignment: Office chhodne se pehle installation complete hona expected tha.",
+      "step3_aspect": "Aspect: Past reference point se pehle complete hone wale action ke liye Past Perfect zaroori hai.",
+      "step4_inflection": "Inflection: 'had' + V3 'completed'.",
+      "step5_synthesis": "Final Output: 'The senior judicial clerk inquired whether the newly appointed system assistant had completed the installation before leaving the office.'"
+    },
+    "trapWarning": "Jab doosre past action se pehle complete hona sentence ka central point ho, toh Simple Past 'completed' ke bajaye Past Perfect ('had completed') use karein."
+  },
+  {
+    "id": "WE-14",
+    "sentence": "The witness swore under oath that he ___ (not see) the accused at the crime scene that evening.",
+    "correctAnswer": "had not seen",
+    "tense": "Past Harmony Anterior Negative",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'The witness swore under oath' (Past V2). Subordinate Clause = 'that he ___ the accused at the crime scene that evening'.",
+      "step2_time": "Temporal Alignment: Crime scene par ghatna witness ke court mein gawahi dene ke moment se pehle hui thi.",
+      "step3_aspect": "Aspect: Past mein shapat lene se pehle ki kisi happening ya non-happening ke liye Past Perfect lagta hai.",
+      "step4_inflection": "Inflection: 'had' + 'not' + past participle V3 'seen'.",
+      "step5_synthesis": "Final Output: 'The witness swore under oath that he had not seen the accused at the crime scene that evening.'"
+    },
+    "trapWarning": "Formal legal contexts mein gawahi dene wale verb ('swore') se pehle ki ghatnao ke liye strictly Past Perfect ('had not seen') use hota hai."
+  },
+  {
+    "id": "WE-15",
+    "sentence": "The administrator will announce tomorrow that all shortlisted candidates ___ (receive) their hall tickets via email.",
+    "correctAnswer": "have received",
+    "tense": "Open Sequence with Future Main Verb",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Main Clause = 'The administrator will announce tomorrow' (Governing verb 'will announce' Simple Future hai). Subordinate Clause = 'that all shortlisted candidates ___ their hall tickets...'.",
+      "step2_time": "Open Sequence: Future main verbs subordinate clause ko past harmony mein restrict nahi karte.",
+      "step3_aspect": "Aspect: Candidates us waqt tak hall tickets receive kar chuke honge, isliye Present Perfect lagta hai.",
+      "step4_inflection": "Inflection: Plural subject 'candidates' ke sath auxiliary 'have' + past participle V3 'received'.",
+      "step5_synthesis": "Final Output: 'The administrator will announce tomorrow that all shortlisted candidates have received their hall tickets via email.'"
+    },
+    "trapWarning": "'Had received' na likhein. Past Perfect past event se anchor hota hai; future main verb ke sath Present Perfect ('have received') ya Future Perfect aayega."
+  }
+]

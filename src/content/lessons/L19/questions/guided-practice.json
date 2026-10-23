@@ -1,0 +1,498 @@
+{
+  "lessonId": "L19",
+  "stage": "guided-practice",
+  "questions": [
+    {
+      "id": "L19-GP-001",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "easy",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Literal vs Figurative: Core Metaphor",
+      "conceptTags": [
+        "figurative",
+        "literal-trap",
+        "spill-the-beans"
+      ],
+      "question": "Select the most appropriate meaning of the underlined idiom:\n\"During the informal department dinner, the assistant registrar accidentally spilled the beans about the upcoming promotion list.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dropped a bowl of cooked pulses on the table"
+        },
+        {
+          "id": "B",
+          "text": "Revealed confidential information indiscreetly"
+        },
+        {
+          "id": "C",
+          "text": "Refused to speak with his colleagues"
+        },
+        {
+          "id": "D",
+          "text": "Complained about the quality of the meal"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-01 ke anusaar, idiom ka meaning physical words se alag hota hai. 'Spill the beans' ka established arth confidential jankari ko samay se pehle disclose kar dena hota hai. Option A physical kitchen trap hai.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter.",
+      "hint": "Sentence mein 'confidential promotion list' par focus karein; kya yahan food girne ki baat ho rahi hai ya khabar phailne ki?",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L19",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L19-GP-002",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "easy",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Relationships: Social Awkwardness vs Reconciliation",
+      "conceptTags": [
+        "relationships",
+        "break-the-ice",
+        "strangers"
+      ],
+      "question": "Choose the correct idiom to fill the blank:\n\"At the orientation for newly inducted system assistants, the director organized a brief quiz to ________ among the candidates.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "bury the hatchet"
+        },
+        {
+          "id": "B",
+          "text": "break the ice"
+        },
+        {
+          "id": "C",
+          "text": "bite the bullet"
+        },
+        {
+          "id": "D",
+          "text": "turn a blind eye"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Naye recruits jo pehle ek-doosre ko nahi jaante, unke beech shuruati jhijhak todne ke liye 'break the ice' use hota hai. 'Bury the hatchet' dushmano ke beech sulah ke liye lagta hai, naye ajnabiyon ke liye nahi.",
+      "ruleReference": "Rule RC-03: Distinguishing Confusing Lookalike Idioms.",
+      "hint": "Target participants ko observe karein: yahan 'newly inducted assistants' (strangers) hain, koi purane dushman nahi.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L19",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L19-GP-003",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Effort: Late Night Study vs Urgency",
+      "conceptTags": [
+        "work",
+        "midnight-oil",
+        "diligence"
+      ],
+      "question": "Identify the intended meaning of 'burn the midnight oil' in this context:\n\"To clear the High Court System Assistant examination with a top rank, candidates have to burn the midnight oil for several months.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Work or study diligently late into the night"
+        },
+        {
+          "id": "B",
+          "text": "Waste precious electrical energy and fuel"
+        },
+        {
+          "id": "C",
+          "text": "Take hasty shortcuts during revision"
+        },
+        {
+          "id": "D",
+          "text": "Rely heavily on luck rather than preparation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Rule RC-10 ke mutabiq, 'burn the midnight oil' ka arth der raat tak jaag kar mehnat ya padhai karna hota hai. Option B physical oil/energy ka distractor hai aur Option C 'cut corners' ka meaning hai.",
+      "ruleReference": "Rule RC-10: Time & Frequency Boundary Precision.",
+      "hint": "Historical origin lamps mein oil burn karne se hai jab log raat ko padhte the.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L19",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L19-GP-004",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Decisions: Premature Action vs Calculated Risk",
+      "conceptTags": [
+        "decisions",
+        "jump-the-gun",
+        "haste"
+      ],
+      "question": "Select the sentence where the idiom 'jump the gun' is used correctly and naturally:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The athlete celebrated his victory while running on the track, jumping the gun with great joy."
+        },
+        {
+          "id": "B",
+          "text": "The media jumped the gun by announcing the verdict before the bench formally pronounced it."
+        },
+        {
+          "id": "C",
+          "text": "He jumped the gun by studying twelve hours every single day for the test."
+        },
+        {
+          "id": "D",
+          "text": "The security guard jumped the gun when he locked the courtroom doors after hours."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Jump the gun' ka arth hota hai nirdharit samay se pehle jaldbazi mein koi kadam uthana. Sentence B mein verdict formally pronounce hone se pehle hi announce kar dena perfect premature action ka example hai.",
+      "ruleReference": "Rule RC-02: Sentence Context Isolation Protocol.",
+      "hint": "Dekhein ki kaunse sentence mein koi kaam authorized samay se pehle jaldbazi mein kiya gaya hai.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L19",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L19-GP-005",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Money: Expense vs Income",
+      "conceptTags": [
+        "money",
+        "cost-arm-and-leg",
+        "expense"
+      ],
+      "question": "Which idiom best describes an item that is exorbitantly expensive to purchase?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Live from hand to mouth"
+        },
+        {
+          "id": "B",
+          "text": "Cost an arm and a leg"
+        },
+        {
+          "id": "C",
+          "text": "Tighten one's belt"
+        },
+        {
+          "id": "D",
+          "text": "Make ends meet"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-11 ke anusaar, vastu ki atyadhik mehangi keemat ke liye 'cost an arm and a leg' lagta hai. Options A, C, aur D vyakti ki aamdani aur kharche ke vyavhar ko describe karte hain.",
+      "ruleReference": "Rule RC-11: Financial & Resource Context Precision.",
+      "hint": "Question vastu ke purchase cost ke bare mein hai, vyakti ki personal garibi ke bare mein nahi.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L19",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L19-GP-006",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Emotions: Nervousness vs Cowardice",
+      "conceptTags": [
+        "emotions",
+        "butterflies-in-stomach",
+        "nervousness"
+      ],
+      "question": "Complete the sentence with the appropriate expression:\n\"Just before stepping into the viva voce hall, Suresh had ________.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "a chip on his shoulder"
+        },
+        {
+          "id": "B",
+          "text": "butterflies in his stomach"
+        },
+        {
+          "id": "C",
+          "text": "his head in the clouds"
+        },
+        {
+          "id": "D",
+          "text": "words in his mouth"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Interview ya viva se theek pehle aane wali swabhavik ghabrahat ya bechaini ke liye 'have butterflies in one's stomach' lagta hai. 'Chip on shoulder' gusse/grudge ke liye hota hai aur 'head in clouds' impracticality ke liye.",
+      "ruleReference": "Rule RC-09: Emotion & Psychological Tone Alignment.",
+      "hint": "Interview hall ke bahar aane wali temporary nervous sensation ko pehchanein.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L19",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L19-GP-007",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Grammatical Concord: Possessive Agreement",
+      "conceptTags": [
+        "grammar",
+        "concord",
+        "keep-one's-cool"
+      ],
+      "question": "Identify the sentence that contains a GRAMMATICAL ERROR in its idiomatic construction:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Despite the hostile interruptions, the senior advocate kept his cool."
+        },
+        {
+          "id": "B",
+          "text": "The witnesses were advised that each person should keep one's cool during the hearing."
+        },
+        {
+          "id": "C",
+          "text": "The young superintendent unfortunately lost one's temper in the staff meeting."
+        },
+        {
+          "id": "D",
+          "text": "Both parties agreed to bury the hatchet after prolonged mediation."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rule RC-05 ke mutabiq, 'lost one's temper' mein 'one's' subject se agree karega. Yahan subject 'The young superintendent' 3rd person singular hai, isliye 'lost his (ya her) temper' hona chahiye tha. 'Lost one's temper' likhna grammatical concord error hai.",
+      "ruleReference": "Rule RC-05: Subject-Possessive Concord Rule in Idioms.",
+      "hint": "Check karein ki sentence C mein 'one's' pronoun subject 'superintendent' se agree kar raha hai ya generic reh gaya hai.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L19",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L19-GP-008",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Time: Frequency vs Speed",
+      "conceptTags": [
+        "time",
+        "once-in-a-blue-moon",
+        "frequency"
+      ],
+      "question": "What does the speaker convey by using 'once in a blue moon'?\n\"Because of the remote district posting, the zonal inspector inspects our branch once in a blue moon.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very frequently and on a weekly basis"
+        },
+        {
+          "id": "B",
+          "text": "Very rarely and on exceptional occasions"
+        },
+        {
+          "id": "C",
+          "text": "Promptly at the beginning of each lunar cycle"
+        },
+        {
+          "id": "D",
+          "text": "Only during late nighttime hours"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Once in a blue moon' ka arth hota hai bohot hi kam ya durlabh avsar par (very rarely). Option C literal astronomical trap hai aur Option A direct antonym hai.",
+      "ruleReference": "Rule RC-10: Time & Frequency Boundary Precision.",
+      "hint": "Remote posting ke karan inspection lagbhag na ke barabar (rarely) hoti hogi.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L19",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L19-GP-009",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Genre: Proverb vs Idiom",
+      "conceptTags": [
+        "genre",
+        "proverb",
+        "idiom"
+      ],
+      "question": "Which of the following choices represents a PROVERB rather than an IDIOM?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Turn a blind eye"
+        },
+        {
+          "id": "B",
+          "text": "Better late than never"
+        },
+        {
+          "id": "C",
+          "text": "Cost an arm and a leg"
+        },
+        {
+          "id": "D",
+          "text": "On the home stretch"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-06 ke mutabiq, 'Better late than never' ek standalone Proverb (kahawat) hai jo traditional moral observation/guidance convey karta hai. Baki teeno (A, C, D) idioms hain jo sentences ke andar syntactic phrases bante hain.",
+      "ruleReference": "Rule RC-06: Idiom vs Proverb Structural Demarcation.",
+      "hint": "Dekhein kaunsa expression general advice ya moral observation state karta hai.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L19",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L19-GP-010",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Ethics: Willful Blindness to Misconduct",
+      "conceptTags": [
+        "ethics",
+        "turn-a-blind-eye",
+        "negligence"
+      ],
+      "question": "Select the closest meaning of the underlined phrase:\n\"The supervisory clerk was suspended after vigilance revealed he had turned a blind eye to procedural irregularities.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Suffered a serious optical condition at work"
+        },
+        {
+          "id": "B",
+          "text": "Deliberately ignored rule violations and lapses"
+        },
+        {
+          "id": "C",
+          "text": "Audited every voucher with extreme vigilance"
+        },
+        {
+          "id": "D",
+          "text": "Reported the irregularities immediately to the registrar"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Turn a blind eye' ka arth hota hai kisi galti ya rule violation ko jaanbujhkar andekha karna. Iske karan clerk ko suspend kiya gaya. Option A medical trap hai.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter.",
+      "hint": "Suspension ka reason galti ko ignore karna hi ho sakta hai.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L19",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L19-GP-011",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Communication: Indirect Evasion vs Candor",
+      "conceptTags": [
+        "communication",
+        "beat-around-the-bush",
+        "directness"
+      ],
+      "question": "Choose the correct idiom meaning:\n\"Stop beating around the bush and state your demands clearly!\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Speaking with blunt honesty"
+        },
+        {
+          "id": "B",
+          "text": "Avoiding the core subject through indirect speech"
+        },
+        {
+          "id": "C",
+          "text": "Clearing plants from the compound"
+        },
+        {
+          "id": "D",
+          "text": "Agreeing fully with opposing arguments"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Beat around the bush' ka arth mukhya baat ko chhodkar idhar-udhar ki gol-mol baatein karna hota hai. Option A iska antonym hai aur Option C literal garden distractor hai.",
+      "ruleReference": "Rule RC-02: Sentence Context Isolation Protocol.",
+      "hint": "'State your demands clearly' se pehle aane wala behavior aspasht aur indirect hoga.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L19",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L19-GP-012",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Sentence Completion: Logical Polarity Harmony",
+      "conceptTags": [
+        "completion",
+        "back-to-square-one",
+        "polarity"
+      ],
+      "question": "Fill in the blank with the most contextually logical idiom:\n\"When the main software patch failed during the final stress test, the development team was ________.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "on cloud nine"
+        },
+        {
+          "id": "B",
+          "text": "back to square one"
+        },
+        {
+          "id": "C",
+          "text": "over the moon"
+        },
+        {
+          "id": "D",
+          "text": "worth their weight in gold"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-08 ke mutabiq, patch ke fail hone par team ko dobara shuruat se kaam karna padega, isliye 'back to square one' correct hai. Options A aur C peak joy darshate hain jo failure context ko contradict karte hain.",
+      "ruleReference": "Rule RC-08: Idiom Sentence Completion Strategy.",
+      "hint": "Failure ke baad complete reset wali sthiti ko dhoondein.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L19",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    }
+  ]
+}

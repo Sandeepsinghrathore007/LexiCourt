@@ -1,0 +1,467 @@
+[
+  {
+    "id": "WE-01",
+    "title": "People & Personality: Disambiguating Optimist from Other Traits",
+    "question": "Select the correct one-word substitution for the given definition:\n\"A person who always looks on the bright side of things and expects favourable outcomes.\"",
+    "options": [
+      "A) Altruist",
+      "B) Optimist",
+      "C) Pacifist",
+      "D) Philanthropist"
+    ],
+    "correctAnswer": "B",
+    "concept": "Personality & Outlook Discrimination",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify the Core Defining Clue",
+        "description": "Definition keh rahi hai: 'looks on the bright side' aur 'expects favourable outcomes'. Ye psychological outlook/attitude ki baat kar raha hai."
+      },
+      {
+        "step": 2,
+        "name": "Analyze the Options",
+        "description": "Option A (Altruist) doosron ki selfless bhalai karta hai. Option C (Pacifist) yuddh aur hinsa ke khilaf hota hai. Option D (Philanthropist) charity mein dhan daan karta hai. Option B (Optimist) exactly favourable outcomes expect karta hai."
+      },
+      {
+        "step": 3,
+        "name": "Confirm Against Antonym",
+        "description": "Optimist ka direct opposite 'Pessimist' hota hai (who expects worst outcomes). Isliye Option B perfect match hai."
+      }
+    ],
+    "explanation": "Option B (Optimist) sahi answer hai. 'Optimist' wo vyakti hota hai jo hamesha positive parinaam ki apeksha karta hai. Altruist (selfless helper), Pacifist (peace lover), aur Philanthropist (charitable donor) ke defining clues is definition se match nahi karte."
+  },
+  {
+    "id": "WE-02",
+    "title": "Confusing Personalities: Egoist vs Egotist Distinction",
+    "question": "What is the single-word substitution for:\n\"A person who constantly talks about himself, his achievements, and his importance?\"",
+    "options": [
+      "A) Egoist",
+      "B) Egotist",
+      "C) Introvert",
+      "D) Fatalist"
+    ],
+    "correctAnswer": "B",
+    "concept": "Egoist vs Egotist Precision Rule",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Isolate the Operational Keyword",
+        "description": "Definition mein key verb hai 'constantly TALKS about himself and his achievements'."
+      },
+      {
+        "step": 2,
+        "name": "Contrast Egoist and Egotist",
+        "description": "Egoist wo vyakti hota hai jo self-centered hai aur apne faayde ke liye kaam karta hai (selfish in action). Lekin Egotist mein 'T' hota hai jo 'Talk' (dhingein haankna) ko represent karta hai."
+      },
+      {
+        "step": 3,
+        "name": "Eliminate Other Distractors",
+        "description": "Introvert kam bolne wala aur reserved hota hai; Fatalist kismat (fate) par vishwas karta hai. Dono irrelevant hain."
+      }
+    ],
+    "explanation": "Option B (Egotist) correct hai. Egotist wo ghamandi vyakti hota hai jo hamesha apni hi baatein aur apni tareef karta rehta hai (boastful talker). Egoist selfish person hota hai jo apne faayde ko pehle rakhta hai."
+  },
+  {
+    "id": "WE-03",
+    "title": "Beliefs & Divinity: Atheist vs Agnostic Precision",
+    "question": "Choose the most appropriate word for the expression:\n\"A person who believes that nothing is known or can be known about the existence or nature of God.\"",
+    "options": [
+      "A) Atheist",
+      "B) Theist",
+      "C) Agnostic",
+      "D) Fanatic"
+    ],
+    "correctAnswer": "C",
+    "concept": "Theological Knowledge vs Belief Distinction",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify the Specific Cognitive Claim",
+        "description": "Definition mein claim hai: 'nothing is known or can be known'. Ye knowledge (gnosis) ke limit hone ki baat kar raha hai, belief rejection ki nahi."
+      },
+      {
+        "step": 2,
+        "name": "Deconstruct Classical Roots",
+        "description": "Greek root 'a-' (without) + 'gnosis' (knowledge) = Agnostic (jo maanta hai ki God ke astitva ka gyan manushya ke paas nahi hai). Atheist (a- + theos) God ke astitva ko reject karta hai."
+      },
+      {
+        "step": 3,
+        "name": "Eliminate Outliers",
+        "description": "Theist God mein vishwas karta hai; Fanatic kattarpanthi hota hai."
+      }
+    ],
+    "explanation": "Option C (Agnostic) correct answer hai. Agnostic wo vyakti hai jo kehta hai ki Ishwar ke astitva ke baare mein kuch jaan paana sambhav nahi hai. Atheist Ishwar ke astitva ko maanta hi nahi hai."
+  },
+  {
+    "id": "WE-04",
+    "title": "Dispute Resolution: Arbitrator vs Mediator in Legal Terminology",
+    "question": "Identify the correct term:\n\"An independent person officially appointed to settle a dispute with a legally binding decision.\"",
+    "options": [
+      "A) Mediator",
+      "B) Arbitrator",
+      "C) Litigant",
+      "D) Advocate"
+    ],
+    "correctAnswer": "B",
+    "concept": "Judicial Authority & Binding Nature",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Locate the Mandatory Legal Keyword",
+        "description": "Question stem mein critical limiting words hain: 'officially appointed' aur 'LEGALLY BINDING decision'."
+      },
+      {
+        "step": 2,
+        "name": "Contrast Dispute Resolution Roles",
+        "description": "Mediator sirf voluntary baatcheet karwata hai, jiska faisla thopa nahi ja sakta. Lekin Arbitrator court ki tarah binding ruling (Arbitral Award) deta hai."
+      },
+      {
+        "step": 3,
+        "name": "Eliminate Irrelevant Legal Terms",
+        "description": "Litigant mukadma ladne wala paksh hota hai; Advocate wakeel hota hai jo kisi ek paksh ko represent karta hai."
+      }
+    ],
+    "explanation": "Option B (Arbitrator) sahi hai. Arbitrator ek independent person hota hai jiska faisla (award) legally binding hota hai. Mediator sirf mutual compromise karwane mein sahayata karta hai bina binding verdict diye."
+  },
+  {
+    "id": "WE-05",
+    "title": "Enclosures: Apiary vs Aviary Distinction",
+    "question": "Select the correct substitution for:\n\"A place where bees are kept and maintained in hives for producing honey.\"",
+    "options": [
+      "A) Aviary",
+      "B) Apiary",
+      "C) Aquarium",
+      "D) Archive"
+    ],
+    "correctAnswer": "B",
+    "concept": "Species Enclosure Etymology",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify the Inhabitant",
+        "description": "Definition specifically 'bees' (madhumakkhiyon) ki baat kar rahi hai."
+      },
+      {
+        "step": 2,
+        "name": "Apply Latin Stems",
+        "description": "Latin 'apis' ka matlab bee hota hai -> Apiary. Latin 'avis' ka matlab bird hota hai -> Aviary."
+      },
+      {
+        "step": 3,
+        "name": "Eliminate Non-Animal Repositories",
+        "description": "Aquarium water animals ke liye hai; Archive historical official documents ke liye hai."
+      }
+    ],
+    "explanation": "Option B (Apiary) correct hai. Apiary madhumakkhiyon (bees) ke rakhne ka sthan hota hai. Aviary pakshiyon (birds) ke liye hota hai."
+  },
+  {
+    "id": "WE-06",
+    "title": "Memorial Writings: Epitaph vs Eulogy vs Elegy",
+    "question": "Which word accurately substitutes:\n\"Words inscribed on a tombstone or monument in memory of a deceased person?\"",
+    "options": [
+      "A) Eulogy",
+      "B) Elegy",
+      "C) Epitaph",
+      "D) Epilogue"
+    ],
+    "correctAnswer": "C",
+    "concept": "Physical Inscription vs Literary Genre",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify the Physical Medium",
+        "description": "Definition keh rahi hai: 'words INSCRIBED on a tombstone or monument'. Yahan physical engraving/inscription ki baat ho rahi hai."
+      },
+      {
+        "step": 2,
+        "name": "Differentiate Memorial Terms",
+        "description": "Epitaph (Greek: epi = upon, taphos = tomb) patthar par likha lekh hota hai. Eulogy speech ya essay of praise hota hai. Elegy mournful poem hoti hai."
+      },
+      {
+        "step": 3,
+        "name": "Verify Epilogue",
+        "description": "Epilogue pustak ya play ke aakhir ka concluding section hota hai, tombstone se iska koi lena-dena nahi."
+      }
+    ],
+    "explanation": "Option C (Epitaph) accurate answer hai. Qabr ya samadhi ke patthar par khode gaye shabdon ko 'Epitaph' kehte hain. Eulogy prashansa bhashan hai aur Elegy shok-kavita hai."
+  },
+  {
+    "id": "WE-07",
+    "title": "Time Mathematics: Annual vs Biannual vs Biennial",
+    "question": "What is the correct one-word substitution for:\n\"An event that takes place once every two years?\"",
+    "options": [
+      "A) Biannual",
+      "B) Biennial",
+      "C) Perennial",
+      "D) Centenary"
+    ],
+    "correctAnswer": "B",
+    "concept": "Time Interval Frequency Mathematics",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Calculate the Specified Interval",
+        "description": "Definition keh rahi hai: 'once EVERY TWO YEARS' (2 saal mein 1 baar)."
+      },
+      {
+        "step": 2,
+        "name": "Distinguish Biannual and Biennial",
+        "description": "Biannual (or semiannual) saal mein do baar hota hai (twice a year). Biennial do saal mein ek baar hota hai (every two years)."
+      },
+      {
+        "step": 3,
+        "name": "Eliminate Other Frequencies",
+        "description": "Perennial saalon-saal lagatar rehne wala hota hai; Centenary 100 saal ka celebration hota hai."
+      }
+    ],
+    "explanation": "Option B (Biennial) sahi hai. Do saal mein ek baar hone wali ghatna ko 'Biennial' kehte hain. Saal mein do baar hone wali ghatna ko 'Biannual' kehte hain."
+  },
+  {
+    "id": "WE-08",
+    "title": "Legal Actions: Acquit vs Absolve in Courtroom Context",
+    "question": "Choose the precise word for:\n\"To formally declare a person not guilty of a criminal charge in a court of law.\"",
+    "options": [
+      "A) Absolve",
+      "B) Acquit",
+      "C) Pardon",
+      "D) Parole"
+    ],
+    "correctAnswer": "B",
+    "concept": "Formal Courtroom Verdict Precision",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify the Judicial Setting",
+        "description": "Definition specifies: 'not guilty of a criminal charge' aur 'IN A COURT OF LAW'."
+      },
+      {
+        "step": 2,
+        "name": "Contrast Acquit and Absolve",
+        "description": "Acquit formal trial ke baad court dwara doshmukt karne ka judicial verdict hai. Absolve paap ya naitik zimmedari se mukt karna hota hai."
+      },
+      {
+        "step": 3,
+        "name": "Eliminate Executive Actions",
+        "description": "Pardon governor ya president dwara di gayi maafi hoti hai; Parole saza ke dauran shartiya rihayi hoti hai."
+      }
+    ],
+    "explanation": "Option B (Acquit) correct answer hai. Adalat dwara criminal case mein nirdosh declare karna 'Acquit' kahlata hai. Absolve moral guilt ya sin se release ko kehte hain."
+  },
+  {
+    "id": "WE-09",
+    "title": "Phonetic Lookalike Trap: Imminent vs Immanent",
+    "question": "Which word correctly expresses the meaning:\n\"Likely to happen very soon, especially of something threatening or unpleasant?\"",
+    "options": [
+      "A) Eminent",
+      "B) Imminent",
+      "C) Immanent",
+      "D) Permanent"
+    ],
+    "correctAnswer": "B",
+    "concept": "Orthographic & Semantic Lookalike Disambiguation",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Analyze the Temporal Clue",
+        "description": "Definition keh rahi hai: 'likely to happen very soon' ya impending."
+      },
+      {
+        "step": 2,
+        "name": "Disambiguate the Triplets",
+        "description": "- Eminent = Famous, distinguished (e.g. eminent jurist).\n- Imminent = Impending, about to happen very soon (e.g. imminent danger).\n- Immanent = Inherent, indwelling, existing within."
+      },
+      {
+        "step": 3,
+        "name": "Select the Exact Match",
+        "description": "Sirf 'Imminent' (Option B) 'about to happen soon' ke meaning ko satisfy karta hai."
+      }
+    ],
+    "explanation": "Option B (Imminent) sahi hai. Imminent ka matlab jo bohot jald ghatit hone wala ho (about to happen). Eminent prasiddh vyakti hota hai, aur Immanent kisi cheez ke bheetar antarnihit hona hota hai."
+  },
+  {
+    "id": "WE-10",
+    "title": "Government Systems: Plutocracy vs Aristocracy",
+    "question": "Find the one-word substitution for:\n\"A form of government or state governed by the wealthy class.\"",
+    "options": [
+      "A) Aristocracy",
+      "B) Plutocracy",
+      "C) Theocracy",
+      "D) Bureaucracy"
+    ],
+    "correctAnswer": "B",
+    "concept": "Power Base Taxonomy in Political Systems",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify the Governing Class",
+        "description": "Definition shasan karne wale group ko 'the WEALTHY class' (dhanwan log) bata rahi hai."
+      },
+      {
+        "step": 2,
+        "name": "Apply Greek Morphemes",
+        "description": "Greek 'ploutos' = wealth + 'kratos' = power/rule -> Plutocracy. Aristocracy = noble/privileged birth ka shasan; Theocracy = dharmik leaders ka shasan."
+      },
+      {
+        "step": 3,
+        "name": "Eliminate Bureaucracy",
+        "description": "Bureaucracy sarkari afsaron ki prashasnik vyavastha hai, dhanikon ka shasan nahi."
+      }
+    ],
+    "explanation": "Option B (Plutocracy) sahi hai. Ameeron ya dhanwan varg ke shasan ko 'Plutocracy' kehte hain. Kulin ya noble varg ke shasan ko 'Aristocracy' kehte hain."
+  },
+  {
+    "id": "WE-11",
+    "title": "Severity Modification: Mitigate vs Exacerbate",
+    "question": "Select the word that means:\n\"To make something painful, unpleasant, or bad less severe or intense.\"",
+    "options": [
+      "A) Exacerbate",
+      "B) Mitigate",
+      "C) Aggravate",
+      "D) Curtail"
+    ],
+    "correctAnswer": "B",
+    "concept": "Valence Reduction in Verb Actions",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Determine the Direction of Severity",
+        "description": "Definition 'LESS severe or intense' (tivrata kam karna) maang rahi hai."
+      },
+      {
+        "step": 2,
+        "name": "Eliminate Antonyms",
+        "description": "Exacerbate aur Aggravate dono ka matlab samasya ko 'AUR BURA ya MORE SEVERE' banana hota hai (opposite meaning)."
+      },
+      {
+        "step": 3,
+        "name": "Verify Mitigate",
+        "description": "Mitigate ka exact meaning kasht ya saza ko kam karna (alleviate) hota hai."
+      }
+    ],
+    "explanation": "Option B (Mitigate) sahi hai. Kisi samasya ya dukh ki tivrata ko kam karne ko 'Mitigate' kehte hain. Exacerbate aur Aggravate ka matlab sthiti ko aur badtar banana hota hai."
+  },
+  {
+    "id": "WE-12",
+    "title": "Ceding Power: Abdicate vs Renounce",
+    "question": "Choose the one-word substitution for:\n\"To formally give up one's monarchical throne or supreme position of royal power.\"",
+    "options": [
+      "A) Renounce",
+      "B) Abdicate",
+      "C) Relinquish",
+      "D) Resign"
+    ],
+    "correctAnswer": "B",
+    "concept": "Monarchical Relinquishment Precision",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify the Specific Office",
+        "description": "Definition specifically 'MONARCHICAL THRONE or ROYAL POWER' (rajgaddi/singhasan) ki baat kar rahi hai."
+      },
+      {
+        "step": 2,
+        "name": "Evaluate Plausible Candidates",
+        "description": "Renounce, Relinquish, aur Resign aam posts ya claims ko chhodne ke liye aate hain. Lekin throne chhodne ke liye standard technical word 'Abdicate' hota hai."
+      },
+      {
+        "step": 3,
+        "name": "Confirm Historical Usage",
+        "description": "Kings abdicate the throne (e.g. King Edward VIII abdicated in 1936)."
+      }
+    ],
+    "explanation": "Option B (Abdicate) accurate answer hai. Singhasan ya rajgaddi ko formally chhodne ke liye 'Abdicate' word use hota hai. General rights ya claims chhodne ke liye 'Renounce' aata hai."
+  },
+  {
+    "id": "WE-13",
+    "title": "Directional Movement: Immigrant vs Emigrant",
+    "question": "What is the term for:\n\"A person who leaves their own country to settle permanently in another?\"",
+    "options": [
+      "A) Immigrant",
+      "B) Emigrant",
+      "C) Expatriate",
+      "D) Nomadic"
+    ],
+    "correctAnswer": "B",
+    "concept": "Directional Vector of Settlement",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Determine the Point of Origin and Movement",
+        "description": "Definition keh rahi hai: 'LEAVES their own country to settle in another' (apna desh chhod kar bahar ja raha hai)."
+      },
+      {
+        "step": 2,
+        "name": "Apply the In/Exit Rule",
+        "description": "E-migrant = Exit (chhodna). I-mmigrant = In-coming (naye desh mein aana)."
+      },
+      {
+        "step": 3,
+        "name": "Eliminate Expatriate",
+        "description": "Expatriate videsh mein reh raha vyakti hota hai (not necessarily permanently leaving with emigration formalities)."
+      }
+    ],
+    "explanation": "Option B (Emigrant) sahi answer hai. Apna desh chhod kar bahar basne wale ko 'Emigrant' (Exit) kehte hain. Doosre desh se aakar basne wale ko 'Immigrant' (In-coming) kehte hain."
+  },
+  {
+    "id": "WE-14",
+    "title": "Biological Classifications: Herbivore, Carnivore & Omnivore",
+    "question": "Identify the word that means:\n\"An organism that naturally feeds on both plant and animal matter.\"",
+    "options": [
+      "A) Herbivore",
+      "B) Carnivore",
+      "C) Omnivore",
+      "D) Insectivore"
+    ],
+    "correctAnswer": "C",
+    "concept": "Dietary Taxonomy in Animal Science",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify the Diet Range",
+        "description": "Definition specifies: feeds on 'BOTH plant and animal matter'."
+      },
+      {
+        "step": 2,
+        "name": "Deconstruct Stems",
+        "description": "- Omni- = all/both + -vore = eater -> Omnivore.\n- Herba- = plant + -vore = Herbivore (only plants).\n- Carnis- = flesh + -vore = Carnivore (only flesh)."
+      },
+      {
+        "step": 3,
+        "name": "Verify Match",
+        "description": "Omnivore exactly dono plant aur meat consume karne wale jeev ko denote karta hai."
+      }
+    ],
+    "explanation": "Option C (Omnivore) correct answer hai. Jo jeev paudhe aur maans dono khate hain unhe 'Omnivore' kehte hain. Sirf paudhe khane wale ko 'Herbivore' aur sirf maans khane wale ko 'Carnivore' kehte hain."
+  },
+  {
+    "id": "WE-15",
+    "title": "Grammatical Part-of-Speech Matching in Sentence Completion",
+    "question": "Fill in the blank with the correct substitution:\n\"His handwriting was so cramped and messy that the petition was deemed completely ________ by the registry.\"",
+    "options": [
+      "A) illegible",
+      "B) eligible",
+      "C) illiterate",
+      "D) illegibility"
+    ],
+    "correctAnswer": "A",
+    "concept": "Contextual Semantic and Syntactic Concord",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Analyze the Context Clues",
+        "description": "Sentence mein clues hain: 'handwriting was cramped and messy' aur 'deemed completely [blank] by the registry'."
+      },
+      {
+        "step": 2,
+        "name": "Check Part of Speech",
+        "description": "'was deemed completely [Adjective]'. Blank mein Adjective aana chahiye. 'Illegibility' noun hai, isliye eliminate karein."
+      },
+      {
+        "step": 3,
+        "name": "Disambiguate Illegible vs Eligible vs Illiterate",
+        "description": "Illegible = jise padha na ja sake (unreadable). Eligible = yogyata rakhne wala (qualified). Illiterate = uneducated. Cramped handwriting padhi nahi ja sakti, isliye 'illegible' right choice hai."
+      }
+    ],
+    "explanation": "Option A (illegible) accurate answer hai. 'Illegible' ka matlab hota hai apathaniya (not clear enough to be read). Eligible (qualified) aur Illiterate (anpadh) context ke sath match nahi karte."
+  }
+]

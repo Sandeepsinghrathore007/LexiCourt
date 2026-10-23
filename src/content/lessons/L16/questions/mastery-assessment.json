@@ -1,0 +1,324 @@
+{
+  "lessonId": "L16",
+  "stage": "mastery-assessment",
+  "allottedMinutes": 12,
+  "passingScore": 12,
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": "L16-MA-001",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Sentence Context & Tone Match",
+      "conceptTags": ["sentence-context", "synonyms", "prudent"],
+      "question": "The administrative auditor reported that it was ______ for the department to verify physical assets before releasing funds.",
+      "options": [
+        { "id": "A", "text": "prudence" },
+        { "id": "B", "text": "prudent" },
+        { "id": "C", "text": "prudently" },
+        { "id": "D", "text": "imprudence" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sentence structure: 'it was [adjective] for the department to verify...' demands an ADJECTIVE. 'Prudent' (Option B) is the correct grammatical form. Option A is a noun, Option C is an adverb, and Option D is a negative noun.",
+      "ruleReference": "Rule RC-01: Same Part-of-Speech Concord Law",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-MA-002",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Arbitration & Impartiality",
+      "conceptTags": ["antonyms", "false-friends", "disinterested"],
+      "question": "Choose the most accurate ANTONYM of 'DISINTERESTED' as used in judicial arbitration:",
+      "options": [
+        { "id": "A", "text": "Uninterested" },
+        { "id": "B", "text": "Prejudiced" },
+        { "id": "C", "text": "Equitable" },
+        { "id": "D", "text": "Indifferent" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Disinterested' ka arth nishpaksh ya impartial hota hai. Iska opposite pakshpaati ya 'Prejudiced' (Option B) ya 'Biased' hoga. Option A ('Uninterested') ruchi na lene ka distractor trap hai. Option C ('Equitable') iska synonym hai.",
+      "ruleReference": "Rule RC-09: Negative Prefix False Friends Neutralizer",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-MA-003",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Priceless Value Antonyms",
+      "conceptTags": ["antonyms", "prefixes", "invaluable"],
+      "question": "What is the true ANTONYM of 'INVALUABLE' in competitive English?",
+      "options": [
+        { "id": "A", "text": "Priceless" },
+        { "id": "B", "text": "Valueless" },
+        { "id": "C", "text": "Precious" },
+        { "id": "D", "text": "Inestimable" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Invaluable' ka arth anmol ya bohot keemti hota hai. Iska opposite bina kisi keemat ka yani 'Valueless' (Option B) ya 'Worthless' hoga. Options A, C, aur D iske synonyms hain.",
+      "ruleReference": "Rule RC-09: Negative Prefix False Friends Neutralizer",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-MA-004",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "easy",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Flammability Synonyms",
+      "conceptTags": ["prefixes", "synonyms", "inflammable"],
+      "question": "Which of the following words is a SYNONYM of 'INFLAMMABLE'?",
+      "options": [
+        { "id": "A", "text": "Combustible" },
+        { "id": "B", "text": "Fireproof" },
+        { "id": "C", "text": "Incombustible" },
+        { "id": "D", "text": "Damp" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "'INFLAMMABLE' ka matlab aag pakadne wala hota hai (flammable/combustible). Option A ('Combustible') iska true synonym hai. Options B aur C iske antonyms hain.",
+      "ruleReference": "Rule RC-09: Negative Prefix False Friends Neutralizer",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-MA-005",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Verbal Severity Reduction",
+      "conceptTags": ["verbs", "synonyms", "mitigate"],
+      "question": "In the phrase \"measures to MITIGATE economic hardship\", the word 'MITIGATE' is closest in meaning to:",
+      "options": [
+        { "id": "A", "text": "Alleviate" },
+        { "id": "B", "text": "Aggravate" },
+        { "id": "C", "text": "Militate" },
+        { "id": "D", "text": "Exacerbate" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "'MITIGATE' (Verb) ka arth kast ya gambhirta ko kam karna (alleviate, assuage) hota hai. Option A ('Alleviate') sahi synonym hai. Options B aur D iske antonyms hain.",
+      "ruleReference": "Rule RC-01: Same Part-of-Speech Concord",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-MA-006",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Speech Personality Traits",
+      "conceptTags": ["antonyms", "adjectives", "taciturn"],
+      "question": "What is the exact ANTONYM of the adjective 'TACITURN'?",
+      "options": [
+        { "id": "A", "text": "Reticent" },
+        { "id": "B", "text": "Garrulous" },
+        { "id": "C", "text": "Laconic" },
+        { "id": "D", "text": "Reserved" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'TACITURN' ka matlab kam bolne wala hota hai. Iska opposite bohot zyada bolne wala yani 'Garrulous' ya 'Loquacious' (Option B) hota hai. Options A, C, aur D iske synonyms hain.",
+      "ruleReference": "Rule RC-03: Gradable Scale Extremes",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-MA-007",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Frankness & Sincerity Nouns",
+      "conceptTags": ["nouns", "synonyms", "candor"],
+      "question": "Choose the most appropriate SYNONYM of the noun 'CANDOR':",
+      "options": [
+        { "id": "A", "text": "Deceit" },
+        { "id": "B", "text": "Forthrightness" },
+        { "id": "C", "text": "Candidly" },
+        { "id": "D", "text": "Guile" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'CANDOR' ek Noun hai jiska arth khulapan aur imaandari (frankness, forthrightness) hota hai. Option B ('Forthrightness') Noun form mein exact synonym hai. Option C Adverb hai; Options A aur D antonyms hain.",
+      "ruleReference": "Rule RC-01: Same Part-of-Speech Concord Law",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-MA-008",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Criminal Blame & Absolution",
+      "conceptTags": ["antonyms", "legal-verbs", "exonerate"],
+      "question": "In judicial proceedings, what is the polar opposite (ANTONYM) of 'EXONERATE'?",
+      "options": [
+        { "id": "A", "text": "Absolve" },
+        { "id": "B", "text": "Acquit" },
+        { "id": "C", "text": "Incriminate" },
+        { "id": "D", "text": "Vindicate" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'EXONERATE' ka matlab ilzaam se mukt karna hota hai. Iska opposite kisi ko jurm mein phansana ya aaropi thehrana yani 'Incriminate' (Option C) hota hai. Options A, B, aur D synonyms hain.",
+      "ruleReference": "Rule RC-04: Binary Complementary Opposition Law",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-MA-009",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Harmful Destruction",
+      "conceptTags": ["synonyms", "adjectives", "pernicious"],
+      "question": "Choose the closest SYNONYM for 'PERNICIOUS':",
+      "options": [
+        { "id": "A", "text": "Deleterious" },
+        { "id": "B", "text": "Wholesome" },
+        { "id": "C", "text": "Innocuous" },
+        { "id": "D", "text": "Salubrious" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "'PERNICIOUS' ka arth ghatak aur vinashkari (deleterious, harmful) hota hai. Option A ('Deleterious') iska synonym hai. Options B, C, aur D iske positive antonyms hain.",
+      "ruleReference": "Rule RC-07: Tone & Connotation Polarity Concord",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-MA-010",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "easy",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Phonetic Assimilation Rules",
+      "conceptTags": ["prefixes", "morphology", "responsible"],
+      "question": "Which prefix correctly forms the standard negative antonym of 'RESPONSIBLE'?",
+      "options": [
+        { "id": "A", "text": "un-" },
+        { "id": "B", "text": "ir-" },
+        { "id": "C", "text": "dis-" },
+        { "id": "D", "text": "in-" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-08 ke mutabiq, initial 'R' ke aage Latin prefix 'in-' assimilate hokar 'ir-' ban jata hai (ir- + responsible = Irresponsible). Option B is standard.",
+      "ruleReference": "Rule RC-08: Phonetic Prefix Assimilation Rules",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-MA-011",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Apex vs Lowest Point",
+      "conceptTags": ["antonyms", "nouns", "zenith"],
+      "question": "What is the precise paired ANTONYM of 'ZENITH'?",
+      "options": [
+        { "id": "A", "text": "Pinnacle" },
+        { "id": "B", "text": "Nadir" },
+        { "id": "C", "text": "Summit" },
+        { "id": "D", "text": "Acme" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'ZENITH' ka arth sarvochch shikhar hota hai. Iska opposite sabse nichla bindu yani 'Nadir' (Option B) hota hai. Options A, C, aur D iske synonyms hain.",
+      "ruleReference": "Rule RC-03: Gradable Scale Extremes",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-MA-012",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Pervasive Presence",
+      "conceptTags": ["synonyms", "adjectives", "ubiquitous"],
+      "question": "Choose the most accurate SYNONYM of 'UBIQUITOUS':",
+      "options": [
+        { "id": "A", "text": "Omnipresent" },
+        { "id": "B", "text": "Scarce" },
+        { "id": "C", "text": "Infrequent" },
+        { "id": "D", "text": "Isolated" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "'UBIQUITOUS' ka arth har jagah paaya jaane wala hota hai. Option A ('Omnipresent') iska exact synonym hai. Options B, C, aur D iske antonyms hain.",
+      "ruleReference": "Rule RC-06: Semantic Intensity Hierarchy",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-MA-013",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Wavering & Indecision",
+      "conceptTags": ["verbs", "synonyms", "vacillate"],
+      "question": "Identify the word that is an accurate SYNONYM of 'VACILLATE':",
+      "options": [
+        { "id": "A", "text": "Waver" },
+        { "id": "B", "text": "Resolve" },
+        { "id": "C", "text": "Vacate" },
+        { "id": "D", "text": "Firm" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "'VACILLATE' (Verb) ka arth faisla lene mein hichkichana ya dulamul hona hota hai. Option A ('Waver') iska synonym hai. Option B iska antonym hai aur Option C ek unrelated lookalike verb hai.",
+      "ruleReference": "Rule RC-01: Same Part-of-Speech Concord",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-MA-014",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Idealism vs Realism",
+      "conceptTags": ["antonyms", "adjectives", "quixotic"],
+      "question": "What is the classic competitive examination ANTONYM of 'QUIXOTIC'?",
+      "options": [
+        { "id": "A", "text": "Utopian" },
+        { "id": "B", "text": "Pragmatic" },
+        { "id": "C", "text": "Visionary" },
+        { "id": "D", "text": "Chimerical" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'QUIXOTIC' ka arth a-vyavaharik aur kalpanik aadarshvadi hota hai. Iska opposite vyavaharik aur real-world approach wala yani 'Pragmatic' (Option B) hota hai. Options A, C, aur D iske synonyms hain.",
+      "ruleReference": "Rule RC-03: Gradable Scale Extremes",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-MA-015",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Judicial Document Authenticity",
+      "conceptTags": ["legal-vocabulary", "antonyms", "genuine"],
+      "question": "In the analysis of disputed affidavits, what is the polar ANTONYM of 'GENUINE'?",
+      "options": [
+        { "id": "A", "text": "Authentic" },
+        { "id": "B", "text": "Spurious" },
+        { "id": "C", "text": "Bona fide" },
+        { "id": "D", "text": "Veritable" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'GENUINE' ka arth asli aur pramanik hota hai. Nakli, banavati ya farzi dastavez ke liye 'Spurious' (Option B) ya 'Counterfeit' iska exact polar antonym hai. Options A, C, aur D iske synonyms hain.",
+      "ruleReference": "Rule RC-11: Collocational Compatibility & Register Law",
+      "provenance": "original"
+    }
+  ]
+}

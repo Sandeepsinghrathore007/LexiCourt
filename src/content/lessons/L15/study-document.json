@@ -1,0 +1,211 @@
+{
+  "id": "L15-STUDY-DOC",
+  "lessonId": "L15",
+  "title": "Connectives & Commonly Confused Words: Meaning, Usage and Error Detection",
+  "subtitle": "Complete Architectural Guide to Conjunction Syntax, Correlative Parallelism, Punctuation Mechanics, and Word Discrimination",
+  "overview": "Rajasthan High Court System Assistant examination ke Part-B English section mein Correction of Sentences ke andar Connectives (Conjunctions) aur Words Wrongly Used / Commonly Confused Words se high-frequency questions aate hain. Sentence mein do clauses ko logically connect karna, coordinating aur subordinating conjunctions ke comma rules, correlative conjunctions ki strict grammatical parallelism, inverted negative connectives (Hardly...when, No sooner...than), run-on aur comma splice elimination, aur orthographically ya semantically confusing word pairs (affect/effect, principal/principle, complement/compliment, lie/lay, fewer/less) par examiners ke recurring distractor traps set hote hain. Is comprehensive guide mein in sabhi topics ko deeply master karein.",
+  "sections": [
+    {
+      "id": "sec-connective-foundations",
+      "number": 1,
+      "title": "Connectives Foundations: Logical Relationships and Cohesion",
+      "summary": "Connectives sentences aur clauses ke beech logical bridges ka kaam karte hain.",
+      "content": "Connectives wo grammatical markers hote hain jo words, phrases, ya independent aur dependent clauses ko aapas mein jodte hain aur unke beech ka logical relationship establish karte hain. Without correct connectives, writing choppy, incoherent aur logically ambiguous ho jaati hai.\n\nConnectives ke 10 Core Logical Relationships:\n1. Addition: Extra information add karna (and, furthermore, moreover, besides, in addition to).\n2. Contrast: Direct opposition ya difference dikhana (but, yet, however, whereas, while, on the contrary).\n3. Concession: Unexpected contrast ya counter-expectation dikhana (although, though, even though, despite, in spite of, nevertheless).\n4. Cause / Reason: Action ke peeche ka reason batana (because, since, as, for, owing to, due to).\n5. Result / Consequence: Action ka outcome ya consequence batana (so, therefore, consequently, as a result, hence, thus).\n6. Purpose: Action ka goal ya objective batana (so that, in order that, in order to, lest).\n7. Condition: Contingency ya prerequisite batana (if, unless, provided that, as long as, in case).\n8. Time / Sequence: Chronological order ya duration batana (when, while, after, before, since, until, as soon as, hardly...when, no sooner...than).\n9. Choice / Alternatives: Alternatives ya mutually exclusive options dikhana (or, either...or, neither...nor, whether...or, rather than).\n10. Similarity / Comparison: Samanta dikhana (similarly, likewise, just as...so).\n\nExam Trap Alert: High Court exam mein galat logical relationship wala connective daal kar trap set kiya jata hai—jaise cause batane ke liye contrast connective ('*He failed although he did not study' incorrect hai; correct: 'because he did not study').",
+      "dimensions": [
+        {
+          "name": "Connective Categories",
+          "description": "Functional logical relationships.",
+          "categories": [
+            { "name": "Coordinating (FANBOYS)", "detail": "Connects grammatically equal units: For, And, Nor, But, Or, Yet, So." },
+            { "name": "Subordinating", "detail": "Connects dependent clause to independent clause: Although, Because, Since, If, Unless, When." },
+            { "name": "Correlative", "detail": "Paired conjunctions requiring identical structural balance: Either...or, Neither...nor, Not only...but also." },
+            { "name": "Conjunctive Adverbs", "detail": "Transition adverbs linking independent sentences: However, Therefore, Furthermore, Consequently." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-coordinating-conjunctions",
+      "number": 2,
+      "title": "Coordinating Conjunctions (FANBOYS) and Comma Rules",
+      "summary": "FANBOYS sirf grammatically equal units ko jodte hain.",
+      "content": "Coordinating conjunctions English mein exactly 7 hote hain, jise mnemonic FANBOYS se yaad rakha jata hai: For, And, Nor, But, Or, Yet, So.\n\n1. Meaning aur Function:\n- For: Cause / Reason batata hai (formal/literary equivalent of 'because'). Example: 'He took an umbrella, for the sky was overcast.'\n- And: Non-contrasting addition dikhata hai. Example: 'The clerk verified the files, and the registrar signed them.'\n- Nor: Negative alternative dikhata hai (inversion demand karta hai). Example: 'He did not attend the hearing, nor did he send an advocate.'\n- But: Direct contrast dikhata hai. Example: 'The argument was persuasive, but the judge remained unconvinced.'\n- Or: Alternatives ya choices dikhata hai. Example: 'You must pay the fine, or you will face imprisonment.'\n- Yet: Unexpected contrast ya concession dikhata hai (similar to 'nevertheless'). Example: 'The statute was complex, yet the bench interpreted it swiftly.'\n- So: Result ya consequence dikhata hai. Example: 'The court was closed, so the filing was postponed.'\n\n2. Mandatory Punctuation Rule for Independent Clauses:\nJab FANBOYS do INDEPENDENT CLAUSES (poore sentences jinka apna subject aur finite verb ho) ko jodte hain, toh coordinating conjunction se theek pehle COMMA lagana MANDATORY hai:\n- Correct: [Independent Clause 1] , [FANBOYS] [Independent Clause 2].\n- Example: 'The advocate filed the petition, but the registrar raised an objection.'\n\n3. Zero Comma Rule for Compound Predicates / Words:\nJab coordinating conjunction sirf do words ya compound verbs (same subject) ko jodta hai, toh comma lagana PROHIBITED hai:\n- Incorrect: *'The advocate filed the petition, and argued the case.'\n- Correct: 'The advocate filed the petition and argued the case.' (Single subject 'The advocate' has two verbs: 'filed' and 'argued').",
+      "dimensions": [
+        {
+          "name": "Punctuation Concord",
+          "description": "Rules for comma placement with FANBOYS.",
+          "categories": [
+            { "name": "Two Independent Clauses", "detail": "Comma is MANDATORY before FANBOYS: 'Clause 1, and Clause 2.'" },
+            { "name": "Compound Verb (Same Subject)", "detail": "Comma is STRICTLY PROHIBITED: 'Subject verb1 and verb2.'" },
+            { "name": "Compound Noun / Adjective", "detail": "Zero comma between two items: 'books and pens' (not *'books, and pens')." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-subordinating-conjunctions",
+      "number": 3,
+      "title": "Subordinating Conjunctions and The Zero Double-Conjunction Law",
+      "summary": "Subordinate clauses aur main clauses ke beech double conjunction lagana prohibited hai.",
+      "content": "Subordinating conjunctions ek dependent (subordinate) clause ko main (independent) clause ke sath jodte hain. Subordinate clause akele stand-alone complete thought express nahi kar sakta.\n\n1. Common Subordinating Conjunctions:\n- Concession / Contrast: Although, though, even though, whereas, while.\n- Cause / Reason: Because, since, as, seeing that.\n- Condition: If, unless, provided that, as long as.\n- Time: When, whenever, while, as soon as, before, after, until, since.\n- Purpose: So that, in order that, lest (+ should).\n\n2. Comma Positioning Rule:\n- Initial Subordinate Clause: Agar sentence Subordinate Clause se shuru hota hai, toh subordinate clause ke end par COMMA lagana MANDATORY hai:\n  Structure: [Subordinating Conjunction + Clause] , [Main Clause].\n  Example: 'Although the evidence was circumstantial, the magistrate issued a summons.'\n- Terminal Subordinate Clause: Agar Main Clause pehle aata hai aur Subordinate Clause baad mein, toh generally comma NAHI lagta:\n  Structure: [Main Clause] [Subordinating Conjunction + Clause].\n  Example: 'The magistrate issued a summons although the evidence was circumstantial.'\n\n3. The Zero Double-Conjunction Law (Golden Rule):\nHigh Court examination ka sabse dangerous distractor trap hai: Ek hi complex sentence mein do connectives (Subordinating Conjunction + Coordinating Conjunction) ek sath laga dena!\n- Rule: Agar sentence 'Although' ya 'Though' se shuru ho, toh main clause se pehle 'yet' ya 'but' lagana STRICTLY PROHIBITED hai (sirf comma lagayein).\n  Incorrect: *'Although he worked hard, but he failed.'\n  Correct: 'Although he worked hard, he failed.' (Or: 'He worked hard, but he failed.')\n- Rule: Agar sentence 'Because' ya 'Since' ya 'As' se shuru ho, toh main clause se pehle 'therefore' ya 'so' lagana STRICTLY PROHIBITED hai.\n  Incorrect: *'Because he was ill, so he did not attend court.'\n  Correct: 'Because he was ill, he did not attend court.' (Or: 'He was ill, so he did not attend court.').",
+      "dimensions": [
+        {
+          "name": "Elimination of Double Conjunctions",
+          "description": "Never use two conflicting connectives together.",
+          "categories": [
+            { "name": "Although ... But Trap", "detail": "Use EITHER 'Although...' OR '..., but...'. Never both." },
+            { "name": "Because ... Therefore Trap", "detail": "Use EITHER 'Because...' OR '..., so/therefore...'. Never both." },
+            { "name": "As / Since ... So Trap", "detail": "Use EITHER 'As...' OR '..., so...'. Never both." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-conjunction-vs-preposition",
+      "number": 4,
+      "title": "Conjunctions vs Prepositions: Clause-Takers vs Noun-Phrase Takers",
+      "summary": "Conjunction ke baad Subject + Finite Verb aata hai; Preposition ke baad Noun Phrase ya Gerund.",
+      "content": "English grammar mein kai words lagbhag same meaning convey karte hain lekin unka grammatical role alag hota hai. Conjunctions clauses ko jodte hain jabki Prepositions noun phrases ko jodte hain.\n\n1. 'Although / Even though' (Conjunction) vs 'Despite / In spite of' (Preposition):\n- Although / Even though / Though: Inke baad poora CLAUSE (Subject + Finite Verb) aana chahiye.\n  Formula: Although + Subject + Verb.\n  Example: 'Although the rain was heavy, the proceeding continued.'\n- Despite / In spite of: Ye prepositions hain. Inke baad sirf NOUN PHRASE ya GERUND (-ing) aana chahiye, finite verb clause nahi!\n  Formula: Despite / In spite of + Noun Phrase / Gerund.\n  Example: 'Despite the heavy rain, the proceeding continued.'\n  Example: 'In spite of being tired, the judge finished the hearing.'\n- Fatal Distractor Trap 1: '*Despite of' KABHI nahi hota! 'Despite' ke sath 'of' lagana prohibited hai. 'In spite of' mein 'of' mandatory hai.\n- Fatal Distractor Trap 2: '*Despite the rain was heavy' incorrect hai kyunki 'was heavy' clause hai.\n\n2. 'Because' (Conjunction) vs 'Because of / Owing to / Due to' (Preposition):\n- Because: Demands a full clause (Subject + Verb).\n  Example: 'The trial was adjourned because the witness was absent.'\n- Because of / Owing to: Demands a noun phrase (no finite verb).\n  Example: 'The trial was adjourned because of the absence of the witness.'\n\n3. 'While' (Conjunction) vs 'During' (Preposition):\n- While + Clause (Subject + Verb) OR While + Gerund:\n  Example: 'While the judge was speaking, the courtroom was silent.'\n- During + Noun Phrase (Time Period):\n  Example: 'During the trial, the courtroom was silent.' (NOT: *'During the judge was speaking').",
+      "dimensions": [
+        {
+          "name": "Structural Comparison",
+          "description": "Syntactic requirements.",
+          "categories": [
+            { "name": "Clause-Taking Conjunction", "detail": "Takes [Subject + Verb]: Although, Because, While, As." },
+            { "name": "Noun-Taking Preposition", "detail": "Takes [Noun Phrase / V-ing]: Despite, In spite of, Because of, Owing to, During." },
+            { "name": "The 'Despite of' Trap", "detail": "Never write *'despite of'; write either 'despite' or 'in spite of'." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-correlative-parallelism",
+      "number": 5,
+      "title": "Correlative Conjunctions and Strict Grammatical Parallelism",
+      "summary": "Correlative conjunctions paired hote hain aur dono arms par identical grammatical structure demand karte hain.",
+      "content": "Correlative conjunctions wo pairs hote hain jo sentence ke do elements ko jodte hain. Inka cardinal law hai: Strict Structural Parallelism.\n\n1. High-Frequency Correlative Pairs:\n- Either ... or (Choice between two)\n- Neither ... nor (Negative choice between two)\n- Not only ... but also (Cumulative addition)\n- Both ... and (Joint inclusion)\n- Whether ... or (Alternative / Condition)\n- Rather ... than (Preference)\n\n2. The Parallelism Law:\nCorrelative conjunction ke first part ke baad jo grammatical category (Noun, Verb, Adjective, Prepositional Phrase) aati hai, exact wahi category second part ke baad aani chahiye!\n- Pattern 1 (Verbs): Subject + [Conjunction 1 + Verb 1] + [Conjunction 2 + Verb 2].\n  Incorrect: *'He not only wrote the judgment but also he signed it.' (After 'not only' is verb 'wrote'; after 'but also' is clause 'he signed').\n  Correct: 'He not only wrote the judgment but also signed it.' (Both follow with finite verbs).\n- Pattern 2 (Nouns / Objects): Subject + Verb + [Conjunction 1 + Noun 1] + [Conjunction 2 + Noun 2].\n  Incorrect: *'The court found him not only guilty of theft but also of murder.'\n  Correct: 'The court found him guilty of not only theft but also murder.' (Both follow with nouns 'theft' and 'murder').\n- Pattern 3 (Adjectives): Subject + Verb + [Conjunction 1 + Adj 1] + [Conjunction 2 + Adj 2].\n  Correct: 'The advocate was both articulate and persuasive.'\n\n3. Correlative Split Concord / Subject-Verb Proximity Rule:\nJab correlative conjunctions do subjects ko jodte hain, toh main verb NEAREST (second) subject ke number aur person ke according agree karti hai:\n- 'Neither the registrar nor the clerks were present.' ('were' agrees with plural 'clerks').\n- 'Neither the clerks nor the registrar was present.' ('was' agrees with singular 'registrar').\n- Exception for 'Both...and': 'Both...and' hamesha strictly PLURAL verb leta hai ('Both the judge and the advocate are present').",
+      "dimensions": [
+        {
+          "name": "Parallelism Verification Protocol",
+          "description": "How to verify correlative parallelism.",
+          "categories": [
+            { "name": "Step 1: Locate Second Element", "detail": "Identify the word class immediately following 'or', 'nor', or 'but also'." },
+            { "name": "Step 2: Check First Element", "detail": "Ensure the same word class immediately follows 'either', 'neither', or 'not only'." },
+            { "name": "Step 3: Reposition if Mismatched", "detail": "Shift the first conjunction so both arms govern identical parts of speech." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-inversion-connectives",
+      "number": 6,
+      "title": "Inversion Connectives: Negative & Restrictive Adverbial Structures",
+      "summary": "Hardly...when aur No sooner...than negative inversion aur fixed partner pairs demand karte hain.",
+      "content": "English mein jab koi restrictive ya negative connective sentence ke start mein aata hai, toh wo SUBJECT-AUXILIARY INVERSION (Auxiliary + Subject + Main Verb) trigger karta hai. Sath hi inke fixed partner pairs hote hain jinhe examiner mismatch karta hai.\n\n1. 'Hardly / Scarcely / Barely ... WHEN':\n- Fixed Partner: 'Hardly', 'Scarcely', aur 'Barely' ke sath strictly 'WHEN' ya 'BEFORE' lagta hai. Inke sath 'THAN' ya 'THEN' lagana FATAL ERROR hai!\n- Inversion Syntax (Past Perfect): Hardly + had + Subject + V3 + ... + when + Subject + V2.\n  Example: 'Hardly had the judge entered the courtroom when the advocates stood up.'\n- Inversion Syntax (Simple Past): Hardly + did + Subject + V1 + ... + when + Subject + V2.\n  Example: 'Hardly did the bell ring when the session commenced.'\n- Distractor Trap: *'Hardly had he entered than the session commenced.' (INCORRECT: 'than' cannot pair with 'hardly').\n\n2. 'No sooner ... THAN':\n- Fixed Partner: 'No sooner' comparative form hai, isliye iske sath strictly 'THAN' lagta hai. Iske sath 'WHEN' ya 'THEN' lagana FATAL ERROR hai!\n- Inversion Syntax (Past Perfect): No sooner + had + Subject + V3 + ... + than + Subject + V2.\n  Example: 'No sooner had the registrar received the file than he dispatched the notice.'\n- Inversion Syntax (Simple Past): No sooner + did + Subject + V1 + ... + than + Subject + V2.\n  Example: 'No sooner did the magistrate sign the order than the police executed it.'\n- Distractor Trap 1: *'No sooner had he arrived when...' (INCORRECT: 'when' is wrong).\n- Distractor Trap 2: *'No sooner had he arrived then...' (INCORRECT: 'then' with 'e' is wrong; must be 'than' with 'a').\n\n3. 'Lest ... SHOULD':\n- 'Lest' ka matlab hota hai 'taaki aisa na ho' (for fear that / in case).\n- Fixed Partner: 'Lest' clause mein auxiliary verb strictly 'SHOULD' aati hai (ya subjunctive base form V1).\n- Negative Prohibited: 'Lest' khud ek negative connective hai, isliye iske clause ke andar 'NOT' lagana strictly prohibited hai.\n  Incorrect: *'Walk carefully lest you should not fall.'\n  Correct: 'Walk carefully lest you should fall.'",
+      "dimensions": [
+        {
+          "name": "Fixed Inversion Formulas",
+          "description": "Essential connective pairings.",
+          "categories": [
+            { "name": "Hardly / Scarcely / Barely", "detail": "Hardly + had + S + V3 ... WHEN + S + V2 (Never 'than')." },
+            { "name": "No Sooner", "detail": "No sooner + had + S + V3 ... THAN + S + V2 (Never 'when', never 'then')." },
+            { "name": "Lest", "detail": "Lest + Subject + SHOULD + V1 (Never use 'not', never 'would/will')." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-relative-pronouns",
+      "number": 7,
+      "title": "Relative Pronouns & Clauses: Restrictive vs Non-Restrictive Syntax",
+      "summary": "That restrictive clause ke liye no comma; Which non-restrictive clause ke liye comma.",
+      "content": "Relative pronouns (who, whom, whose, which, that) noun ke baad aakar uske baare mein extra ya defining information provide karte hain aur clauses ko connect karte hain.\n\n1. Restrictive ('That') vs Non-Restrictive ('Which') Clauses:\n- Restrictive Clause (Essential Information): Ye clause noun ki identity define karta hai. Agar ise hata diya jaye toh sentence ka core meaning badal jata hai. Iske liye 'THAT' use hota hai aur iske pehle COMMA NAHI lagta.\n  Example: 'The petition that was filed on Monday has been accepted.' (Specifically identifies which petition).\n- Non-Restrictive Clause (Extra / Parenthetical Information): Ye clause already identified noun ke baare mein additional bonus detail deta hai. Agar ise hata bhi diya jaye, toh bhi noun ki identity intact rehti hai. Iske liye 'WHICH' use hota hai aur ise COMMAS ke beech enclose kiya jata hai.\n  Example: 'The Supreme Court verdict, which was delivered yesterday, settled the constitutional issue.'\n\n2. 'Who' vs 'Whom' for Persons:\n- Who (Subject Pronoun): Jab relative pronoun clause ke andar action perform karta hai (subject hota hai).\n  Heuristic Test: Replace with 'He/She/They'. If 'He' fits, use 'Who'.\n  Example: 'The advocate who argued the appeal was felicitated.' ('He argued the appeal' ➔ Who).\n- Whom (Object Pronoun): Jab relative pronoun verb ya preposition ka object hota hai.\n  Heuristic Test: Replace with 'Him/Her/Them'. If 'Him' fits, use 'Whom'.\n  Example: 'The officer whom the committee interviewed answered brilliantly.' ('The committee interviewed him' ➔ Whom).\n- Preposition + Whom: Preposition ke theek baad hamesha 'whom' aayega, 'who' nahi ('To whom it may concern', 'The witness with whom he spoke').\n\n3. 'Whose' (Possessive):\n- Persons aur objects dono ke possession ke liye use ho sakta hai: 'The lawyer whose arguments were cogent won the case.'",
+      "dimensions": [
+        {
+          "name": "Relative Pronoun Rules",
+          "description": "Selection criteria.",
+          "categories": [
+            { "name": "That (Restrictive)", "detail": "Essential identity defining; NO COMMAS allowed." },
+            { "name": "Which (Non-Restrictive)", "detail": "Non-essential extra detail; COMMAS MANDATORY." },
+            { "name": "Who vs Whom", "detail": "Subject role = Who (he); Object role = Whom (him)." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-sentence-boundaries-punctuation",
+      "number": 8,
+      "title": "Sentence Boundary Punctuation: Comma Splices, Semicolons & Conjunctive Adverbs",
+      "summary": "Do independent clauses ko sirf comma se jodna fatal error hai.",
+      "content": "Sentence boundary errors competitive exams ke correction of sentences topic mein sabse zyada frequent hote hain.\n\n1. The Comma Splice Error:\nJab do Independent Clauses ko sirf ek comma (,) se jod diya jata hai bina coordinating conjunction ke, toh use 'Comma Splice' kehte hain. Ye standard formal English mein FATAL SYNTACTIC ERROR hai.\n- Incorrect: *'The judge read the dossier, the advocate presented his defense.'\n\n2. The 4 Valid Cures for a Comma Splice:\n- Cure 1: Comma + FANBOYS: 'The judge read the dossier, and the advocate presented his defense.'\n- Cure 2: Semicolon (;): 'The judge read the dossier; the advocate presented his defense.'\n- Cure 3: Period / Full Stop (.): 'The judge read the dossier. The advocate presented his defense.'\n- Cure 4: Subordinating Conjunction: 'While the judge read the dossier, the advocate presented his defense.'\n\n3. Conjunctive Adverbs (However, Therefore, Furthermore, Nevertheless, Consequently):\nConjunctive adverbs conjunctions nahi hote; ye adverbs hote hain jo do independent sentences ke beech transitional meaning dikhate hain. Inhe kabhi bhi do independent clauses ke beech sirf comma ke sath NAHI lagaya ja sakta!\n- Incorrect: *'The evidence was weak, however, the jury convicted him.' (Fatal Comma Splice!)\n- Correct: 'The evidence was weak; however, the jury convicted him.' (Semicolon before 'however', comma after).\n- Correct: 'The evidence was weak. However, the jury convicted him.' (Full stop before 'However', comma after).",
+      "dimensions": [
+        {
+          "name": "Punctuation Diagnostic Matrix",
+          "description": "Permissible ways to link two independent clauses.",
+          "categories": [
+            { "name": "Comma Splice (Illegal)", "detail": "[Clause 1] , [Clause 2] ➔ INCORRECT." },
+            { "name": "Coordinating Fix", "detail": "[Clause 1] , [FANBOYS] [Clause 2] ➔ CORRECT." },
+            { "name": "Semicolon Fix", "detail": "[Clause 1] ; [Clause 2] ➔ CORRECT." },
+            { "name": "Conjunctive Adverb Fix", "detail": "[Clause 1] ; [however,] [Clause 2] ➔ CORRECT." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-commonly-confused-words-part1",
+      "number": 9,
+      "title": "Commonly Confused Words (Part 1): Homophones & Orthographic Pairs",
+      "summary": "Affect vs Effect, Principal vs Principle, Complement vs Compliment.",
+      "content": "High Court exam ke Part-B mein 'Words Wrongly Used' ke questions aise word pairs se banaye jaate hain jo sound mein similar hote hain (homophones ya near-homophones) lekin unki spelling, part of speech, aur meaning bilkul alag hoti hai.\n\n1. Affect vs Effect:\n- Affect (Verb): Asar daalna / To influence or produce change. Example: 'The new judgment will directly affect court proceedings.'\n- Effect (Noun): Parinaam / The result, outcome, or consequence. Example: 'The ruling had an immediate effect on administrative policies.'\n- Exception Note: Rarely, 'effect' verb ban sakta hai meaning 'to bring about / to execute' ('to effect a change'), aur 'affect' psychology mein noun ban sakta hai (emotional state), lekin standard exam mein 99% 'affect = verb' aur 'effect = noun' hota hai.\n\n2. Principal vs Principle:\n- Principal (Noun & Adjective): Noun = School/college head, or initial sum of money (mool-dhan). Adjective = Main / most important (mukhya). Example: 'The principal argument of the defense was accepted.'\n- Principle (Noun ONLY): Siddhant / A fundamental moral rule, law, or doctrine. Example: 'The Constitution is based on the principle of equality.'\n- Memory Hook: 'The PrinciPAL is your PAL (person); a princiPLE is a ruLE (both end in -le).'\n\n3. Complement vs Compliment:\n- Complement (with 'e'): Poorak / Completing or making perfect. Example: 'Her sharp intellect complements his courtroom advocacy.'\n- Compliment (with 'i'): Tareef / Praise, polite commendation. Example: 'The senior judge gave a generous compliment to the young lawyer.'\n- Memory Hook: 'ComplIment has an 'I' — *I* like to receive compliments!'\n\n4. Stationary vs Stationery:\n- Stationary (with 'a'): Sthir / Not moving, fixed in one place. Example: 'The vehicle remained stationary at the signal.'\n- Stationery (with 'e'): Likhne ki samagri / Writing materials (paper, pens, envelopes). Example: 'The high court ordered new office stationery.'\n- Memory Hook: 'StationEry with 'E' is for Envelopes and lEtters.'\n\n5. Advice vs Advise / Practice vs Practise:\n- Advice / Practice (with 'c'): Noun (Salah / Abhyas). Example: 'He gave sound legal advice.' 'His legal practice is booming.'\n- Advise / Practise (with 's'): Verb (Salah dena / Abhyas karna). Example: 'The senior advocate advised the client.' 'He practises law daily.'\n\n6. Council vs Counsel:\n- Council (Noun): Samiti / An administrative, legislative, or advisory body (e.g., 'Bar Council of India').\n- Counsel (Noun & Verb): Noun = Legal advisor / advocate ('The court heard learned counsel'). Verb = To give professional guidance ('He counselled the appellant').\n\n7. Eminent vs Imminent:\n- Eminent (Adj): Prasiddh / Famous, distinguished, highly respected. Example: 'An eminent jurist was appointed to the tribunal.'\n- Imminent (Adj): Aasanna / About to happen very soon (often of danger or decisions). Example: 'The announcement of the verdict is imminent.'",
+      "dimensions": [
+        {
+          "name": "High-Frequency Confused Pairs",
+          "description": "Core pairs and disambiguation.",
+          "categories": [
+            { "name": "Affect / Effect", "detail": "Affect = Verb (to influence); Effect = Noun (outcome/result)." },
+            { "name": "Principal / Principle", "detail": "Principal = Head/Main/Capital; Principle = Moral rule/doctrine." },
+            { "name": "Complement / Compliment", "detail": "Complement = To complete/enhance; Compliment = Praise." },
+            { "name": "Stationary / Stationery", "detail": "Stationary = Motionless; Stationery = Writing paper/pens." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-commonly-confused-words-part2",
+      "number": 10,
+      "title": "Commonly Confused Words (Part 2): Confusing Verbs & Semantic Traps",
+      "summary": "Lie vs Lay, Rise vs Raise, Fewer vs Less, Beside vs Besides.",
+      "content": "Is section mein aisi verbs aur diction pairs hain jahan transitivity (direct object requirement) aur countability ke basis par examiner options design karta hai.\n\n1. Lie vs Lay (The Classic Transitivity Trap):\n- Lie (Intransitive - NO Object): Letna ya vishram karna / To recline or be situated.\n  Forms: Base = Lie | Past = Lay | Past Participle = Lain | Present Participle = Lying.\n  Example: 'The witness decided to lie down.' 'Yesterday, the file lay on the desk.' 'It has lain there for days.'\n- Lay (Transitive - REQUIRES Direct Object): Rakhna ya bichhana / To put or place something down.\n  Forms: Base = Lay | Past = Laid | Past Participle = Laid | Present Participle = Laying.\n  Example: 'The clerk must lay the documents (object) before the bench.' 'He laid the file on the table yesterday.'\n- Fatal Trap: 'Lie' ka Past Tense 'Lay' hota hai, jo 'Lay' ke Present Tense se spellings mein match karta hai!\n\n2. Rise vs Raise:\n- Rise (Intransitive - NO Object): Uthna / To move upward on one's own.\n  Forms: Rise | Rose | Risen. Example: 'The sun rises.' 'The temperature rose.' 'The court will rise at 4 PM.'\n- Raise (Transitive - REQUIRES Direct Object): Uthana / To lift or increase something.\n  Forms: Raise | Raised | Raised. Example: 'The advocate raised an objection (object).' 'The government raised the fees.'\n\n3. Fewer vs Less (Countability Concord):\n- Fewer: Plural Countable Nouns ke sath use hota hai (jinki counting ho sake: cases, files, judges, books).\n  Example: 'There were fewer appeals filed this session than last year.' (NOT: *'less appeals').\n- Less: Uncountable Nouns ke sath use hota hai (mass, degree, quantity: time, money, evidence, sugar).\n  Example: 'The advocate needed less time to conclude his arguments.'\n\n4. Beside vs Besides (Prepositional Precision):\n- Beside (Preposition of Place): Ke bagal mein / Next to, at the side of.\n  Example: 'The junior advocate sat beside the senior counsel.'\n- Besides (Preposition & Adverb): Ke alawa / In addition to, moreover.\n  Example: 'Besides the legal fee, the client paid the stamp duty.'\n\n5. Farther vs Further:\n- Farther: Physical distance ke liye ('The high court bench is farther than the district court').\n- Further: Metaphorical / figurative extension ya additional degree ('Until further notice, the order is stayed').\n\n6. Elicit vs Illicit:\n- Elicit (Verb): Prapt karna / To draw forth or evoke facts/response. Example: 'The cross-examination elicited the truth.'\n- Illicit (Adjective): Gair-kanooni / Illegal or unlawful. Example: 'The police seized illicit substances.'",
+      "dimensions": [
+        {
+          "name": "Verb & Quantity Distinction",
+          "description": "Grammatical constraints.",
+          "categories": [
+            { "name": "Lie vs Lay", "detail": "Lie = Recline (no object); Lay = Place something (needs direct object)." },
+            { "name": "Rise vs Raise", "detail": "Rise = Go up on own; Raise = Lift something (needs direct object)." },
+            { "name": "Fewer vs Less", "detail": "Fewer + Plural countable nouns; Less + Uncountable nouns." },
+            { "name": "Beside vs Besides", "detail": "Beside = Next to; Besides = In addition to." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-error-detection-workflow",
+      "number": 11,
+      "title": "The 8-Step Connective & Word Error Detection Protocol",
+      "summary": "High Court exam MCQs ko bina guesswork 100% accuracy se solve karne ka algorithm.",
+      "content": "Rajasthan High Court System Assistant examination ke Correction of Sentences aur error spotting MCQs ko solve karte waqt is 8-step systematic protocol ko execute karein:\n\nStep 1: Clause Anatomy Scan\nSentence mein finite verbs aur independent clauses ko count karein. Agar do independent clauses hain, toh check karein ki wo comma splice se toh connect nahi hain? (Comma alone = Error; Comma + FANBOYS = Valid; Semicolon = Valid).\n\nStep 2: Logical Connective Concord Check\nClauses ke beech ka logical relationship identify karein: Kya addition hai, contrast hai, cause hai, ya consequence? Check karein ki contrast ke liye cause connective (ya vice-versa) toh nahi laga diya gaya.\n\nStep 3: Double Conjunction Scan\nSentence ke starting ko dekhein. Agar sentence 'Although/Though' se shuru hai, toh main clause mein 'yet/but' eliminate karein. Agar 'Because/Since/As' se shuru hai, toh main clause mein 'so/therefore' eliminate karein.\n\nStep 4: Conjunction vs Preposition Verification\nCheck karein ki connective ke baad finite verb clause hai ya noun phrase. Agar clause hai toh 'Although/Because' lagega; agar sirf noun phrase hai toh 'Despite/Because of' lagega. Verify karein ki '*despite of' toh nahi likha.\n\nStep 5: Correlative Pair & Parallelism Audit\nCorrelative pairs (either...or, neither...nor, not only...but also) ki balance check karein. Conjunction 2 ke baad aane wali grammatical category ko dekhein aur ensure karein ki Conjunction 1 ke baad exactly wahi category ho.\n\nStep 6: Inversion & Partner Marker Check\nNegative adverbials (Hardly, Scarcely, No sooner) start mein aane par auxiliary inversion (had/did + subject) check karein. Hardly/Scarcely ke sath strictly 'when' aur No sooner ke sath strictly 'than' check karein. 'Lest' ke sath strictly 'should' (no 'not') check karein.\n\nStep 7: Relative Pronoun & Punctuation Check\nRestrictive defining clause hai toh 'that' (no comma); non-restrictive extra detail hai toh 'which' (with commas). Person subject hai toh 'who'; person object hai toh 'whom'.\n\nStep 8: Confused Words & Homophone Discrimination\nSentence mein aane wale key words ko scan karein: Affect (verb) vs Effect (noun), Principal (head/main) vs Principle (rule), Complement (complete) vs Compliment (praise), Stationary (fixed) vs Stationery (paper), Lie (intransitive) vs Lay (transitive), Fewer (countable) vs Less (uncountable). Context ke hisab se exact word verify karein.",
+      "dimensions": [
+        {
+          "name": "Execution Steps",
+          "description": "Diagnostic workflow summary.",
+          "categories": [
+            { "name": "Steps 1–3: Clause & Conjunction", "detail": "Scan clause boundaries, logical relationship, and eliminate double connectives." },
+            { "name": "Steps 4–6: Structure & Inversion", "detail": "Verify conjunction vs preposition, correlative parallelism, and negative inversion." },
+            { "name": "Steps 7–8: Relative & Word-Choice", "detail": "Verify relative pronouns and eliminate commonly confused homophones." }
+          ]
+        }
+      ]
+    }
+  ]
+}

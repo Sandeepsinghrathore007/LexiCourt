@@ -1,0 +1,212 @@
+[
+  {
+    "id": "WE-01",
+    "sentence": "Fill in the blank: \"The special hearing was scheduled ___ Monday morning.\"",
+    "correctAnswer": "on",
+    "tense": "Prepositions of Time: Specific Day + Part of Day",
+    "steps": {
+      "step1_marker": "Time Expression Analysis: Sentence mein time phrase 'Monday morning' diya gaya hai. Yahan general part of day ('morning') ke sath specific day ('Monday') juda hua hai.",
+      "step2_time": "Rule Identification: General rule kehta hai 'in the morning', lekin jab kisi part of day ke sath named day ya date jud jati hai, toh hierarchy shift hokar 'ON' par chali jati hai.",
+      "step3_aspect": "Distractor Elimination: 'In' eliminated kyunki specific day maujood hai; 'At' eliminated kyunki exact clock time nahi hai; 'By' eliminated kyunki deadline nahi, event ka scheduled time bataya ja raha hai.",
+      "step4_inflection": "Syntactic Synthesis: Sahi formula 'ON + Named Day + Part of Day' apply hoga: 'on Monday morning'.",
+      "step5_synthesis": "Final Output: \"The special hearing was scheduled on Monday morning.\""
+    },
+    "trapWarning": "THE 'MORNING' TRAP: Candidates 'morning' dekhte hi jaldbazi mein 'in' laga dete hain (*in Monday morning). Yaad rakhein: Day ka naam judte hi 'ON' dominant ban jata hai."
+  },
+  {
+    "id": "WE-02",
+    "sentence": "Spot the error: \"The senior advocate / lives at Jaipur / in Court Colony. / No error\"",
+    "correctAnswer": "lives in Jaipur / at Court Colony (or: lives at Court Colony in Jaipur)",
+    "tense": "Prepositions of Place: Big vs Small Geographical Area Concord",
+    "steps": {
+      "step1_marker": "Entities & Spatial Scope: Sentence mein do locations compare ho rahi hain: 'Jaipur' (bada shahar / district) aur 'Court Colony' (chhoti specific locality).",
+      "step2_time": "Hierarchical Rule: Jab ek hi sentence mein bada area aur chhota specific point dono aate hain, toh bade area ke pehle 'IN' aur chhoti locality ke pehle 'AT' lagna mandatory hota hai.",
+      "step3_aspect": "Error Diagnosis: Sentence mein examiner ne invert karke 'at Jaipur' aur 'in Court Colony' likh diya hai, jo spatial rule ka violation hai.",
+      "step4_inflection": "Correction Derivation: 'at' ko Jaipur se hatakar Court Colony ke pehle lagayein aur 'in' ko Jaipur ke pehle lagayein.",
+      "step5_synthesis": "Correct Sentence: \"The senior advocate lives at Court Colony in Jaipur.\""
+    },
+    "trapWarning": "INVERTED HIERARCHY TRAP: Big territory strictly takes 'IN' (cities, states, countries). Small specific sub-locality strictly takes 'AT'. Inhe interchange karna exam ka favorite error-spotting item hai."
+  },
+  {
+    "id": "WE-03",
+    "sentence": "Fill in the blank: \"The accused panicked and jumped ___ the dry well to escape arrest.\"",
+    "correctAnswer": "into",
+    "tense": "Spatial Dynamics: In vs Into with Boundary Penetration",
+    "steps": {
+      "step1_marker": "Verb & Movement Analysis: Verb 'jumped' ek dynamic physical action show kar raha hai, aur target 'the dry well' ek 3D enclosure/depth hai.",
+      "step2_time": "Static vs Dynamic Rule: 'In' static rest (andar maujood hona) denote karta hai. 'Into' motion from outside to inside crossing a boundary denote karta hai.",
+      "step3_aspect": "Distractor Elimination: 'In' galat hai kyunki person bahar tha aur jump karke andar gaya; 'To' destination batata hai par enclosure penetration nahi; 'Onto' surface landing batata hai.",
+      "step4_inflection": "Vector Synthesis: Verb of dynamic motion ('jumped') + 3D hollow enclosure ('the dry well') = 'INTO'.",
+      "step5_synthesis": "Final Output: \"The accused panicked and jumped into the dry well to escape arrest.\""
+    },
+    "trapWarning": "STATIC PREPOSITION TRAP: Hindi mein dono ke liye 'kuyein MEIN kooda' bolte hain, isliye log 'in' chun lete hain. English mein movement from outside to inside hamesha 'INTO' demand karta hai."
+  },
+  {
+    "id": "WE-04",
+    "sentence": "Fill in the blank: \"The Chief Justice stepped ___ the dais to address the judicial officers.\"",
+    "correctAnswer": "onto",
+    "tense": "Surface Dynamics: On vs Onto with Elevation Movement",
+    "steps": {
+      "step1_marker": "Verb & Physical Target: Action verb 'stepped' hai aur target 'the dais' ek raised flat surface (stage/platform) hai.",
+      "step2_time": "Surface Movement Rule: Jab movement kisi person ya object ko ek lower level se kisi open 2D surface ke upar laakar land karti hai, toh 'ONTO' lagta hai.",
+      "step3_aspect": "Distractor Elimination: 'On' static contact show karta hai (standing on the dais); 'Into' 3D interior penetration show karta hai (dais koi band room nahi hai); 'At' specific point show karta hai.",
+      "step4_inflection": "Formula Application: Dynamic movement + landing on open surface = 'ONTO'.",
+      "step5_synthesis": "Final Output: \"The Chief Justice stepped onto the dais to address the judicial officers.\""
+    },
+    "trapWarning": "SURFACE DISTINCTION: 'Into' volume ke andar jaane ke liye hota hai; 'Onto' surface ke upar aane ke liye hota hai. Dais ya stage par 'into the dais' likhna blunder hai."
+  },
+  {
+    "id": "WE-05",
+    "sentence": "Choose the correct preposition: \"She walked ___ the High Court building, but took a detour before reaching the main entrance.\"",
+    "correctAnswer": "towards",
+    "tense": "Directional Vectors: To vs Towards",
+    "steps": {
+      "step1_marker": "Contextual Clue Analysis: Sentence ka second clause kehta hai: 'but took a detour before reaching the main entrance' (lekin main gate pahunchne se pehle hi rasta mod liya).",
+      "step2_time": "Semantic Distinction: 'To' ka matlab hota hai destination par actually pahunch jana. 'Towards' ka matlab hota hai sirf us disha mein badhna (heading in direction) bina wahan pahunche.",
+      "step3_aspect": "Logical Deduction: Kyunki subject destination par nahi pahunchi aur pehle hi detour le liya, isliye 'to' logically impossible hai. Sirf 'towards' valid hai.",
+      "step4_inflection": "Syntactic Synthesis: 'walked towards the High Court building'.",
+      "step5_synthesis": "Final Output: \"She walked towards the High Court building, but took a detour before reaching the main entrance.\""
+    },
+    "trapWarning": "DESTINATION ASSUMPTION TRAP: Agar second clause na hota toh 'to' aur 'towards' dono grammatical ho sakte the with different meanings. Context padhkar verify karein ki kya destination reach hui ya sirf direction show ho rahi hai."
+  },
+  {
+    "id": "WE-06",
+    "sentence": "Fill in the blank: \"The compliance affidavit must be submitted to the registry ___ Friday evening.\"",
+    "correctAnswer": "by",
+    "tense": "Temporal Boundaries: By vs Until for Deadlines",
+    "steps": {
+      "step1_marker": "Verb Nature: Verb 'submitted' ek instant, point-action event hai (submission ek bar mein complete hota hai, lagatar Friday tak submit nahi karte rehte).",
+      "step2_time": "Boundary Semantics: 'Friday evening' latest deadline (cut-off threshold) hai. Affidavit Friday se pehle Wednesday ya Thursday ko bhi submit ho sakta hai, par Friday ke baad accept nahi hoga.",
+      "step3_aspect": "By vs Until Test: 'By' = not later than (deadline). 'Until' = continuing state up to that point (duration). Instant completion verb 'submit' strictly 'BY' demand karta hai.",
+      "step4_inflection": "Elimination: 'Until' eliminated kyunki koi Friday tak lagatar submit karne ka action continue nahi karta.",
+      "step5_synthesis": "Final Output: \"The compliance affidavit must be submitted to the registry by Friday evening.\""
+    },
+    "trapWarning": "DEADLINE vs DURATION TRAP: Point-action verbs (submit, finish, complete, arrive, send) ke sath hamesha 'BY' lagta hai. Durative verbs (wait, stay, work, continue) ke sath 'UNTIL' lagta hai."
+  },
+  {
+    "id": "WE-07",
+    "sentence": "Fill in the blank: \"The court clerk worked diligently in the record room ___ 8:00 PM.\"",
+    "correctAnswer": "until",
+    "tense": "Temporal Boundaries: Ongoing Continuing Duration with Until",
+    "steps": {
+      "step1_marker": "Verb Nature: Verb 'worked' ek continuous durative activity ko show kar raha hai jo time ke sath extend hoti hai.",
+      "step2_time": "Contextual Meaning: Sentence bata raha hai ki clerk ka kaam continuous tarike se chalta raha aur 8:00 PM par jakar terminate hua.",
+      "step3_aspect": "By vs Until Contrast: Agar 'by 8 PM' lagayein toh matlab hoga 8 PM se pehle kisi waqt kaam khatam kar diya, lekin 'worked diligently... until 8 PM' continuous working state ko denote karta hai.",
+      "step4_inflection": "Durative Concord: Durative verb 'worked' + terminal boundary '8:00 PM' = 'UNTIL'.",
+      "step5_synthesis": "Final Output: \"The court clerk worked diligently in the record room until 8:00 PM.\""
+    },
+    "trapWarning": "INTERCHANGEABILITY BLUNDER: 'By' aur 'until' interchangeable nahi hain. Continuous duration show karne ke liye strictly 'UNTIL' (ya 'till') use hota hai."
+  },
+  {
+    "id": "WE-08",
+    "sentence": "Fill in the blank: \"The senior advocate has been practicing in the Rajasthan High Court ___ 2015.\"",
+    "correctAnswer": "since",
+    "tense": "Time Anchors: Since with Specific Starting Point",
+    "steps": {
+      "step1_marker": "Time Phrase & Tense: Verb phrase 'has been practicing' (Present Perfect Continuous) hai, aur time reference '2015' ek specific calendar year (starting point) hai.",
+      "step2_time": "Since vs For Rule: 'Since' point in time / starting anchor ke sath lagta hai. 'For' period of time / measured duration ke sath lagta hai.",
+      "step3_aspect": "Point Identification: '2015' koi duration nahi hai (ye nahi bataya kitne saal), balki exact starting point hai jahan se practice shuru hui.",
+      "step4_inflection": "Formula: Present Perfect Continuous + 'SINCE' + Point of Time.",
+      "step5_synthesis": "Final Output: \"The senior advocate has been practicing in the Rajasthan High Court since 2015.\""
+    },
+    "trapWarning": "POINT vs PERIOD CONFUSION: '2015' point hai ('since 2015'). Agar wahan 'ten years' likha hota, toh wo duration hota ('for ten years'). Dono ko mix na karein."
+  },
+  {
+    "id": "WE-09",
+    "sentence": "Identify the correct sentence:\nA) He worked as a public prosecutor since five years.\nB) He worked as a public prosecutor for five years.\nC) He has worked as a public prosecutor since five years.\nD) He is working as a public prosecutor for five years.",
+    "correctAnswer": "B) He worked as a public prosecutor for five years.",
+    "tense": "Completed Past Duration with Simple Past and 'For'",
+    "steps": {
+      "step1_marker": "Sentence Verification: 'five years' ek measured duration (period of time) hai. Iske sath preposition 'FOR' hi lag sakta hai ('since' option A aur C completely out of rule hain).",
+      "step2_time": "Tense Analysis (Past vs Present): Option (B) Simple Past ('worked... for five years') use kar raha hai, jo ye indicate karta hai ki past mein 5 saal kaam kiya aur ab wo job khatam ho chuki hai.",
+      "step3_aspect": "Option (D) Evaluation: Option (D) Present Continuous ('is working... for five years') use kar raha hai jo ungrammatical hai ('has been working' hona chahiye tha).",
+      "step4_inflection": "Correctness Confirmation: Option (B) grammatically aur semantically 100% sound hai.",
+      "step5_synthesis": "Final Choice: Option B is the correct sentence."
+    },
+    "trapWarning": "THE 'FOR ONLY WITH PERFECT TENSE' MYTH: Bahut se candidates sochte hain ki 'for' sirf perfect tenses mein lagta hai. Agar past duration complete ho chuki hai, toh 'FOR' Simple Past ke sath 100% natural aur correct hota hai!"
+  },
+  {
+    "id": "WE-10",
+    "sentence": "Fill in the blank: \"A tripartite commercial agreement was concluded ___ India, the United Kingdom, and France.\"",
+    "correctAnswer": "between",
+    "tense": "Relational Distribution: Between with 3+ Distinct Named Entities",
+    "steps": {
+      "step1_marker": "Entity Count & Distinctness: Sentence mein teen parties hain: 'India', 'the United Kingdom', aur 'France'.",
+      "step2_time": "Grammatical Exception to School Rule: Conventional school rule kehta hai 'more than 2 = among'. Lekin standard English rule kehta hai ki jab 3 ya usse zyada entities individually named ho aur unke beech mutual/reciprocal bilateral treaty ho, toh strictly 'BETWEEN' lagta hai.",
+      "step3_aspect": "Why Not 'Among': 'Among' tab lagta jab collective undistinguished pool hota ('among several nations'). Yahan sovereign named parties ke beech reciprocal agreement hai.",
+      "step4_inflection": "Formula Application: Agreement / Treaty + BETWEEN + Named Entity 1, Entity 2, and Entity 3.",
+      "step5_synthesis": "Final Output: \"A tripartite commercial agreement was concluded between India, the United Kingdom, and France.\""
+    },
+    "trapWarning": "THE 3-ENTITY 'BETWEEN' TRAP: High Court exams mein 'treaty / agreement / trade between 3 countries' bar-bar pucha jata hai. 'Among' lagana classic distractor hai jo oversimplified school rule se originate hota hai."
+  },
+  {
+    "id": "WE-11",
+    "sentence": "Fill in the blank: \"The Chief Justice distributed certificates of merit ___ the newly appointed judicial assistants.\"",
+    "correctAnswer": "among",
+    "tense": "Relational Distribution: Among with Collective Undifferentiated Group",
+    "steps": {
+      "step1_marker": "Entity Analysis: Receiver group 'the newly appointed judicial assistants' ek plural collective pool hai (multiple assistants bina individual names ke).",
+      "step2_time": "Distribution Rule: Jab kisi prize, property ya certificate ka distribution kisi general group ya collection ke multiple members mein ho, toh 'AMONG' lagta hai.",
+      "step3_aspect": "Distractor Elimination: 'Between' eliminated kyunki individual named entities nahi hain aur count 2 se zyada hai; 'In' aur 'With' contextually absurd hain.",
+      "step4_inflection": "Formula Application: Distribute + AMONG + Plural Group Noun.",
+      "step5_synthesis": "Final Output: \"The Chief Justice distributed certificates of merit among the newly appointed judicial assistants.\""
+    },
+    "trapWarning": "COLLECTIVE vs INDIVIDUAL: Jab group ko collectively treat kiya jaye ('among the assistants', 'among the students'), toh 'AMONG' lagta hai."
+  },
+  {
+    "id": "WE-12",
+    "sentence": "Spot the error: \"The Constitutional Bench / discussed about / the maintainability of the writ petition. / No error\"",
+    "correctAnswer": "discussed the maintainability (remove redundant 'about')",
+    "tense": "Zero Preposition Law: Verb 'Discuss' Taking No Preposition",
+    "steps": {
+      "step1_marker": "Verb Identification: Part (B) mein verb 'discussed' ke sath preposition 'about' laga hua hai.",
+      "step2_time": "Transitive Verb Rule: 'Discuss' ek direct transitive verb hai jiska matlab hi hota hai 'talk about'. Isliye 'discuss' ke turant baad direct object aata hai; iske baad 'about' lagana redundant pleonasm (error) hai.",
+      "step3_aspect": "Error Diagnosis: 'discussed about' mein 'about' completely unnecessary aur grammatically incorrect hai.",
+      "step4_inflection": "Correction: 'about' ko remove karein: 'discussed the maintainability'.",
+      "step5_synthesis": "Correct Sentence: \"The Constitutional Bench discussed the maintainability of the writ petition.\""
+    },
+    "trapWarning": "THE 'DISCUSS ABOUT' TRAP: Hindi mein bolte hain 'ke baare mein charcha ki', isliye candidate 'discussed about' ko natural samajh leta hai. English grammar mein 'discuss' direct object leta hai (Zero Preposition)!"
+  },
+  {
+    "id": "WE-13",
+    "sentence": "Spot the error: \"As soon as the magistrate / entered into the chamber, / the staff stood up respectfully. / No error\"",
+    "correctAnswer": "entered the chamber (remove redundant 'into')",
+    "tense": "Zero Preposition Law: Physical Entry with 'Enter'",
+    "steps": {
+      "step1_marker": "Verb & Target: Part (B) mein 'entered into the chamber' likha hai. Yahan physical room/building mein entry describe ho rahi hai.",
+      "step2_time": "Grammatical Constraint: Jab 'enter' ka use physical space (room, hall, building, car) mein dakhil hone ke liye hota hai, toh ye strictly ZERO PREPOSITION leta hai ('enter the chamber', NOT *entered into).",
+      "step3_aspect": "Figurative Nuance Check: 'Enter into' sirf figurative/idiomatic contexts mein valid hota hai (jaise: 'enter into an agreement / contract / negotiations'). Physical space ke liye 'into' lagana strict error hai.",
+      "step4_inflection": "Correction: 'into' ko remove karein: 'entered the chamber'.",
+      "step5_synthesis": "Correct Sentence: \"As soon as the magistrate entered the chamber, the staff stood up respectfully.\""
+    },
+    "trapWarning": "PHYSICAL vs FIGURATIVE 'ENTER': Physical room mein entry = 'entered the room' (NO into). Legal agreement mein entry = 'entered into an agreement' (INTO allowed)."
+  },
+  {
+    "id": "WE-14",
+    "sentence": "Fill in the blank: \"The legal intern sat ___ the senior counsel during the entire court argument.\"",
+    "correctAnswer": "beside",
+    "tense": "Spatial vs Additive Prepositions: Beside vs Besides",
+    "steps": {
+      "step1_marker": "Contextual Meaning: Sentence seating arrangement describe kar raha hai (intern kahan baitha tha senior advocate ke).",
+      "step2_time": "Lexical Pair Distinction: 'Beside' (bina 's') ka matlab hota hai 'by the side of / next to' (bagal mein). 'Besides' (with 's') ka matlab hota hai 'in addition to / apart from' (ke alawa).",
+      "step3_aspect": "Selection: Physical seat adjacent to counsel = 'BESIDE'.",
+      "step4_inflection": "Distractor Elimination: 'Besides' eliminated kyunki intern counsel ke alawa baitha nahi tha, balki unke bagal mein baitha tha.",
+      "step5_synthesis": "Final Output: \"The legal intern sat beside the senior counsel during the entire court argument.\""
+    },
+    "trapWarning": "SPELLING WITH 'S' BLUNDER: 'Beside' = Bagal mein (location). 'Besides' = Ke alawa (addition). Sirf ek letter 's' ka farq pure meaning ko distort kar deta hai."
+  },
+  {
+    "id": "WE-15",
+    "sentence": "Fill in the blank: \"The underground metro train passed ___ the mountain tunnel at high speed.\"",
+    "correctAnswer": "through",
+    "tense": "Movement Vectors: Through vs Across 3D Aperture Traversal",
+    "steps": {
+      "step1_marker": "Physical Conduit: Target 'the mountain tunnel' ek 3D enclosed tube/passage hai jo chaaron taraf se rock aur earth se surround hoti hai.",
+      "step2_time": "Traversal Rule: Jab movement kisi 3D enclosed volume, tunnel, pipe, forest, ya aperture ke andar se hokar gujarti hai, toh preposition 'THROUGH' lagta hai.",
+      "step3_aspect": "Across vs Through: 'Across' 2D flat surface ke ek side se doosre side jaane ke liye lagta hai (across the road/river). Tunnel enclosed volume hai, isliye 'through' strictly correct hai.",
+      "step4_inflection": "Formula: Passed + THROUGH + 3D Passage/Tunnel.",
+      "step5_synthesis": "Final Output: \"The underground metro train passed through the mountain tunnel at high speed.\""
+    },
+    "trapWarning": "3D vs 2D PASSAGE: Tunnel, forest, crowd, window ke liye 'THROUGH' lagta hai. Road, bridge, river surface ke liye 'ACROSS' lagta hai."
+  }
+]

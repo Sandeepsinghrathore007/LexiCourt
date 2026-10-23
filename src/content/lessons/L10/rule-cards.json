@@ -1,0 +1,162 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Phonetic Sound Engine: A vs An Selection Law",
+    "time": "Articles Architecture",
+    "aspect": "Indefinite Articles",
+    "formula": "Vowel Sound (/a/, /e/, /i/, /o/, /u/) ➔ AN  |  Consonant Sound (/j/, /w/, /k/, /b/, etc.) ➔ A",
+    "auxiliary": "A / An + Singular Countable Noun (determined by initial spoken phone)",
+    "usage": "Indefinite article word ke pehle written letter se nahi, balki uske spoken sound se decide hota hai. Vowel letter se shuru hone par bhi agar sound consonant ka ho (/juː/ jaise 'university', 'European', 'unit' ya /wʌn/ jaise 'one-rupee note'), toh 'A' lagta hai. Consonant letter se shuru hone par bhi agar sound vowel ka ho (silent 'h' jaise 'hour', 'honest' ya abbreviation initials jaise 'FIR', 'MLA', 'SP', 'LLB'), toh 'AN' lagta hai.",
+    "patterns": {
+      "affirmative": "Phonetic Vowel Example: \"The victim filed an FIR with an honest police officer at the station.\"",
+      "negative": "Phonetic Consonant Example: \"A European tourist visited a university campus in Jaipur yesterday.\"",
+      "interrogative": "Exam Contrast: \"Is he an MLA or a member of a union?\" (an MLA, a union)"
+    },
+    "timeMarkers": ["an FIR", "an MLA", "an hour", "a university", "a European", "a one-rupee coin", "an honest officer"],
+    "keyTip": "SOUND CHECK: Word ko mann mein bol kar suno. Agar pehla sound Hindi ke swar (a, aa, i, ee, u, e, o) se shuru ho raha hai ➔ 'AN'. Agar vyanjan (k, ch, t, p, y, w) se shuru ho raha hai ➔ 'A'."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Singular Countable Mandate & Professions Rule",
+    "time": "Articles Architecture",
+    "aspect": "Indefinite Articles",
+    "formula": "Singular Countable Noun ➔ Mandatory Determiner (a/an/the)  |  Profession ➔ a/an + title",
+    "auxiliary": "a/an + profession / classification / first mention",
+    "usage": "Standard English mein koi bhi singular countable noun akela (bina determiner ke) nahi aa sakta. Jab kisi person ka profession, occupation, ya job bataya jaye, toh uske pehle 'a' ya 'an' lagana zaroori hota hai ('He is a judge', 'She is an advocate'). Noun ko pehli baar introduce karte waqt bhi indefinite article lagta hai.",
+    "patterns": {
+      "affirmative": "Profession Rule: \"Her elder sister is an advocate in the Rajasthan High Court.\"",
+      "negative": "Bare Noun Error: \"He wants to become a civil judge after completing his degree.\"",
+      "interrogative": "First Mention: \"A witness appeared before the court to give evidence.\""
+    },
+    "timeMarkers": ["is a doctor", "is an advocate", "is a judge", "first mention", "singular countable"],
+    "keyTip": "PROFESSION TRAP: Hindi mein hum bolte hain 'Wo vakil hai', lekin English mein '*He is advocate' likhna strict error hai. Sahi construction: 'He is an advocate'."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Definite Article 'The': Specificity & Cosmic Uniqueness",
+    "time": "Articles Architecture",
+    "aspect": "Definite Article",
+    "formula": "Contextually Known / Previously Mentioned / Unique in Universe ➔ THE + Noun",
+    "auxiliary": "The + Singular / Plural / Uncountable Noun",
+    "usage": "Jab speaker aur listener dono ko pata ho ki kis particular entity ki baat ho rahi hai, ya entity nature mein akeli (unique) ho, toh 'The' lagta hai. Second mention mein pehle se a/an se introduce hua noun 'the' leta hai ('A clerk entered. The clerk had the file'). Sun, Moon, Earth, Sky, Equator ke aage hamesha 'The' lagta hai.",
+    "patterns": {
+      "affirmative": "Second Mention: \"A petitioner filed a writ; the petition was heard by the Division Bench.\"",
+      "negative": "Cosmic Uniqueness: \"The earth revolves around the sun in an elliptical orbit.\"",
+      "interrogative": "Contextual Specificity: \"Did the registrar sign the certified copy of the decree?\""
+    },
+    "timeMarkers": ["the sun", "the moon", "the earth", "the registrar", "second mention", "specific context"],
+    "keyTip": "SHARED KNOWLEDGE RULE: 'The' tab lagta hai jab listener 'Which one?' puchhe bina samajh jaye ki kiski baat ho rahi hai."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Superlatives, Ordinals & Parallel Comparatives",
+    "time": "Articles Architecture",
+    "aspect": "Definite Article",
+    "formula": "The + Superlative (-est/most)  |  The + Ordinal (first/second)  |  The + Comp..., the + Comp...",
+    "auxiliary": "The + superlative adjective / ordinal number / parallel comparison",
+    "usage": "Superlative degree adjective ke aage hamesha 'the' lagta hai ('the highest judicial authority', 'the most persuasive argument'). Sequence batane wale ordinal numbers ke aage 'the' lagta hai ('the first hearing', 'the second respondent'). Parallel increase/decrease mein dono comparatives ke aage 'the' lagta hai ('The higher you climb, the colder it gets').",
+    "patterns": {
+      "affirmative": "Superlative: \"The Supreme Court is the highest court of appeal in India.\"",
+      "negative": "Ordinal Number: \"The first clause of the contract was disputed by both parties.\"",
+      "interrogative": "Parallel Comparative: \"The more you practice mock tests, the higher your accuracy will be.\""
+    },
+    "timeMarkers": ["the best", "the highest", "the most", "the first", "the second", "the higher... the better"],
+    "keyTip": "ORDINAL VS CARDINAL: Ordinals ('first', 'second', 'third') take 'The'. Cardinals ('one', 'two', 'three') do NOT take 'The' unless specifically modified (e.g., 'Chapter 3', NOT '*The Chapter 3')."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Conventional Geography: Ranges, Rivers & Federated States",
+    "time": "Articles Architecture",
+    "aspect": "Definite Article",
+    "formula": "Mountain Range = THE  |  Single Peak = ZERO  |  Group of Islands = THE  |  Single Island = ZERO",
+    "auxiliary": "The + Rivers / Oceans / Mountain Ranges / Republics / Kingdoms / Federated Countries",
+    "usage": "Rivers ('the Ganges'), Oceans ('the Indian Ocean'), Mountain Ranges ('the Himalayas'), Island Groups ('the Andamans'), aur Deserts ('the Thar Desert') ke sath 'the' lagta hai. CRITICAL EXCEPTIONS: Single Mountain Peaks ('Mount Everest', 'Mount Abu') aur Single Islands ('Sri Lanka') ke sath NO ARTICLE lagta hai. Regular countries ('India', 'Japan') zero article leti hain, lekin Republic, Kingdom, States, ya plural naam wali countries ('the USA', 'the UK', 'the Netherlands') 'The' leti hain.",
+    "patterns": {
+      "affirmative": "Mountain Range vs Peak: \"The Himalayas contain Mount Everest, the highest peak on Earth.\"",
+      "negative": "River & Ocean: \"The holy river Ganges flows into the Bay of Bengal.\"",
+      "interrogative": "Political Words in Countries: \"Has the delegation arrived from the United Kingdom or France?\""
+    },
+    "timeMarkers": ["the Himalayas", "Mount Everest", "the Ganges", "the UK", "the USA", "India", "Sri Lanka"],
+    "keyTip": "RANGE VS PEAK CHECK: 'The Himalayas' mountain chain hai isliye 'the' aayega. 'Mount Everest' single peak hai isliye bina article ke aayega ('*The Mount Everest' is a blunder)."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Zero Article Omission: General Nouns, Languages & Meals",
+    "time": "Articles Architecture",
+    "aspect": "Zero Article Omission",
+    "formula": "Plural General / Uncountable General / Language / Subject / Sport / Routine Meal ➔ ZERO ARTICLE (Ø)",
+    "auxiliary": "No Article before generic, abstract, academic, or routine categories",
+    "usage": "General plural nouns ('Dogs are loyal'), general abstract/material nouns ('Gold is precious', 'Honesty is essential'), languages ('He speaks English'), academic subjects ('She studies Law'), sports ('They play cricket'), aur normal meals ('We had dinner') ke sath standardly article OMIT hota hai. Lekin agar inko 'of...' lagakar particularize kar diya jaye, toh 'the' lagta hai ('The gold of this ring', 'The English language', 'The dinner hosted by the judge').",
+    "patterns": {
+      "affirmative": "General vs Particularized: \"Gold is a valuable metal, but the gold in this ornament is 24-carat.\"",
+      "negative": "Language vs Inhabitants: \"He is proficient in English, while the English colonized many lands.\"",
+      "interrogative": "Routine Meals: \"Did you have breakfast before attending the early morning hearing?\""
+    },
+    "timeMarkers": ["in English", "studies Law", "plays cricket", "had dinner", "gold is valuable", "honesty"],
+    "keyTip": "PARTICULARIZATION TEST: Agar noun ke baad 'of + specific place/person' laga ho, toh article 'the' zaroor aayega ('Water is pure' vs 'The water of this well is pure')."
+  },
+  {
+    "id": "RC-07",
+    "tense": "Institutional Purpose: Primary Function vs Secondary Location",
+    "time": "Articles Architecture",
+    "aspect": "Zero Article Omission",
+    "formula": "Primary Function (Student/Patient/Prisoner/Worshipper) ➔ ZERO ARTICLE  |  Secondary Visit (Visitor) ➔ THE",
+    "auxiliary": "Zero Article (functional purpose) vs The (physical building visit)",
+    "usage": "School, college, hospital, prison, court, church, bed, market jaise institutions mein agar koi person usi primary kaam se jaye jiske liye wo jagah bani hai, toh NO ARTICLE lagta hai ('sent to prison' as convict, 'in hospital' as patient, 'went to school' as student). Agar wahan kisi secondary reason, inspection, ya visitor ki tarah jaye, toh 'The' lagana mandatory hai ('went to the prison to meet the client').",
+    "patterns": {
+      "affirmative": "Primary Function: \"The convict was sentenced to five years of rigorous imprisonment in prison.\"",
+      "negative": "Secondary Visitor: \"The defence counsel visited the prison to discuss the bail petition.\"",
+      "interrogative": "Patient vs Visitor: \"The accident victim is in hospital, while his colleagues went to the hospital to see him.\""
+    },
+    "timeMarkers": ["went to school", "in hospital", "sent to prison", "went to the prison", "went to the hospital"],
+    "keyTip": "PURPOSE INQUIRY: Ask: 'Kya person wahan usi primary reason se gaya hai jiske liye building bani hai?' If yes ➔ Zero Article. If incidental visit ➔ The."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Countable Quantifiers: Few, A Few, and The Few",
+    "time": "Quantifiers & Determiners",
+    "aspect": "Countable Quantifiers",
+    "formula": "Few = Almost None (Negative)  |  A few = Some (Positive)  |  The few = All of that Small Group",
+    "auxiliary": "Few / A few / The few + Plural Countable Noun (discrete entities)",
+    "usage": "Ye teeno quantifiers strictly PLURAL COUNTABLE NOUNS ke sath use hote hain. 'Few' ka negative matlab hota hai 'hardly any / almost none' (scarcity/insufficiency par focus). 'A few' ka positive matlab hota hai 'some / at least a small number' (availability par focus). 'The few' ka matlab hota hai 'wo specific thode se jo available the, aur un sabhi ki baat ho rahi hai' (defining relative clause ke sath aata hai).",
+    "patterns": {
+      "affirmative": "Few (Negative Scarcity): \"He has few friends in the registry because of his arrogant demeanor.\"",
+      "negative": "A few (Positive Existence): \"Fortunately, a few advocates agreed to support the legal aid initiative.\"",
+      "interrogative": "The few (Specific Whole): \"The few witnesses who testified before the bench were credible.\""
+    },
+    "timeMarkers": ["few friends", "a few days", "the few books he had", "plural countable nouns"],
+    "keyTip": "TONE IDENTIFIER: Agar sentence aage chal kar loneliness, failure, ya deficit highlight kare ➔ FEW. Agar assistance, hope, ya availability highlight kare ➔ A FEW. Agar 'that were present / that he possessed' laga ho ➔ THE FEW."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Uncountable Quantifiers: Little, A Little, and The Little",
+    "time": "Quantifiers & Determiners",
+    "aspect": "Uncountable Quantifiers",
+    "formula": "Little = Almost None (Negative)  |  A little = Some (Positive)  |  The little = All of that Small Amount",
+    "auxiliary": "Little / A little / The little + Uncountable Noun (mass/quantity)",
+    "usage": "Ye teeno quantifiers strictly UNCOUNTABLE NOUNS ke sath use hote hain. 'Little' ka negative matlab hota hai 'hardly any / practically zero' (shortage ya hopelessness). 'A little' ka positive matlab hota hai 'some quantity / a small amount' (kuch na kuch maujood hai). 'The little' ka matlab hota hai 'wo particular thodi si matra jo bachi thi, aur wo poori ki poori' (aksar qualifying clause ke sath).",
+    "patterns": {
+      "affirmative": "Little (Negative Shortage): \"There is little hope of recovery as the patient is unresponsive.\"",
+      "negative": "A little (Positive Modest Amount): \"With a little patience, the clerk resolved the complex file discrepancy.\"",
+      "interrogative": "The little (Specific Whole Amount): \"The petitioner spent the little money he had saved on filing the appeal.\""
+    },
+    "timeMarkers": ["little hope", "a little patience", "the little milk left", "uncountable nouns only"],
+    "keyTip": "COUNTABILITY BOUNDARY: Books, friends, errors ke sath Few triad aayega. Water, patience, money, knowledge ke sath Little triad aayega. Dono ko interchange karna fatal blunder hai."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Some/Any, Much/Many & Distributives Architecture",
+    "time": "Quantifiers & Determiners",
+    "aspect": "Distributives & Quantity",
+    "formula": "Some (Affirmative/Offers) vs Any (Neg/Inquiry)  |  Each/Every/Either/Neither + Singular Noun + Singular Verb",
+    "auxiliary": "Some/Any (countable & uncountable) | Much (uncountable) | Many (plural) | Distributives (singular)",
+    "usage": "SOME affirmative mein aur polite offers/requests ('Would you like some tea?') mein aata hai. ANY negative mein ('did not find any evidence') aur neutral questions mein aata hai. MUCH uncountable ke sath aur MANY plural countable ke sath aata hai. 'MANY A' singular noun aur singular verb leta hai ('Many a man has failed'). EACH, EVERY, EITHER, NEITHER hamesha singular countable noun aur singular verb lete hain ('Each student has submitted his brief').",
+    "patterns": {
+      "affirmative": "Polite Offer: \"Would you like some refreshments before the afternoon session?\"",
+      "negative": "Negative with Any: \"The court did not find any procedural flaw in the administrative order.\"",
+      "interrogative": "Distributive Concord: \"Neither advocate was able to establish prima facie evidence.\""
+    },
+    "timeMarkers": ["would you like some", "did not find any", "much patience", "many errors", "each student has", "neither was"],
+    "keyTip": "OFFER & DISTRIBUTIVE SHORTCUT: (1) Polite offer question mark hone par bhi 'SOME' leti hai. (2) Each/Every/Either/Neither strictly SINGULAR verb lete hain."
+  }
+]

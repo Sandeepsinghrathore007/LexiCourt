@@ -1,0 +1,498 @@
+{
+  "lessonId": "L18",
+  "stage": "guided-practice",
+  "questions": [
+    {
+      "id": "L18-GP-001",
+      "lessonId": "L18",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "easy",
+      "topic": "Prefixes & Suffixes",
+      "subtopic": "Prefix Invariance & Double Consonants",
+      "conceptTags": [
+        "prefix-invariance",
+        "double-letters",
+        "unnecessary"
+      ],
+      "question": "Select the correctly spelled derived word to fill the blank:\nThe registrar stated that calling all junior clerks on a public holiday was _______.",
+      "options": [
+        {
+          "id": "A",
+          "text": "unecessary"
+        },
+        {
+          "id": "B",
+          "text": "unnecessary"
+        },
+        {
+          "id": "C",
+          "text": "unnecesary"
+        },
+        {
+          "id": "D",
+          "text": "unneccessary"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-01 (Prefix Invariance Law) ke anusaar, jab kisi base word ke aage prefix lagaya jata hai, toh na prefix ka aakhri letter drop hota hai aur na base word ka pehla letter. 'un-' + 'necessary' = 'unnecessary' (double 'n', single 'c', double 's'). Option A mein single 'n' distractor hai.",
+      "ruleReference": "Rule RC-01: Prefix Invariance Law",
+      "hint": "Prefix 'un-' aur base word 'necessary' dono ke shuru aur ant ke letters ko alag karke jodein.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L18",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L18-GP-002",
+      "lessonId": "L18",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "easy",
+      "topic": "Prefixes & Suffixes",
+      "subtopic": "Negative Prefix Selection: Invaluable vs Worthless",
+      "conceptTags": [
+        "negative-prefix",
+        "invaluable",
+        "semantic-polarity"
+      ],
+      "question": "Which of the following words correctly expresses 'so extremely valuable that its price cannot be calculated'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Valueless"
+        },
+        {
+          "id": "B",
+          "text": "Invaluable"
+        },
+        {
+          "id": "C",
+          "text": "Unvaluable"
+        },
+        {
+          "id": "D",
+          "text": "Worthless"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Invaluable' ka matlab priceless (anmol / beyond value) hota hai. Latin prefix 'in-' yahan intensive/incalculable sense deta hai. 'Valueless' aur 'Worthless' dono ka matlab 'bekaar / bina kisi kimat ke' hota hai. 'Unvaluable' non-standard word hai.",
+      "ruleReference": "Rule RC-02: Negative Prefix Selection Paradigm",
+      "hint": "Dhayan rakhein ki yahan negative prefix 'worthless' nahi balki 'priceless' ka meaning convey karta hai.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L18",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L18-GP-003",
+      "lessonId": "L18",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "easy",
+      "topic": "Prefixes & Suffixes",
+      "subtopic": "Phonetic Assimilation of In- before Liquids",
+      "conceptTags": [
+        "assimilation",
+        "illegal",
+        "liquid-consonant"
+      ],
+      "question": "Choose the correct negative derivative of the Latin adjective 'legal':",
+      "options": [
+        {
+          "id": "A",
+          "text": "inlegal"
+        },
+        {
+          "id": "B",
+          "text": "unlegal"
+        },
+        {
+          "id": "C",
+          "text": "illegal"
+        },
+        {
+          "id": "D",
+          "text": "dislegal"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rule RC-03 (Phonetic Assimilation) ke anusaar, Latin prefix 'in-' jab consonant 'l' se shuru hone wale word se judta hai, toh 'in-' badal kar 'il-' ban jata hai: in- + legal = illegal (double 'l'). 'Inlegal' aur 'unlegal' standard English mein exist nahi karte.",
+      "ruleReference": "Rule RC-03: Phonetic Assimilation of Prefixes",
+      "hint": "Consonant 'l' ke samne 'in-' prefix ka roop badal kar 'il-' ho jata hai.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L18",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L18-GP-004",
+      "lessonId": "L18",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Prefixes & Suffixes",
+      "subtopic": "Size & Degree Prefixes: Supersede Spelling",
+      "conceptTags": [
+        "degree-prefix",
+        "supersede",
+        "spelling-trap"
+      ],
+      "question": "Select the sentence with the correct spelling of the derived verb:\nA subsequent statutory enactment will _______ conflicting executive regulations.",
+      "options": [
+        {
+          "id": "A",
+          "text": "supercede"
+        },
+        {
+          "id": "B",
+          "text": "supersede"
+        },
+        {
+          "id": "C",
+          "text": "suppercede"
+        },
+        {
+          "id": "D",
+          "text": "suppressede"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Supersede' Latin prefix 'super-' (above) + 'sedere' (to sit) se derive hota hai. Isliye iska ending hamesha '-sede' hota hai, na ki *-cede! Yeh English language ke top spelling traps mein se ek hai.",
+      "ruleReference": "Rule RC-04: Degree, Scale & Quantitative Prefixes",
+      "hint": "Latin root 'sedere' (to sit) par dhyan dein; isme 'c' nahi balki 's' hota hai.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L18",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L18-GP-005",
+      "lessonId": "L18",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Prefixes & Suffixes",
+      "subtopic": "Time & Order Prefixes: Antedate vs Antidote",
+      "conceptTags": [
+        "temporal-prefix",
+        "ante-vs-anti",
+        "antedate"
+      ],
+      "question": "What is the term for 'assigning a date prior to the actual execution of a document'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antidate"
+        },
+        {
+          "id": "B",
+          "text": "Antedate"
+        },
+        {
+          "id": "C",
+          "text": "Postdate"
+        },
+        {
+          "id": "D",
+          "text": "Predate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Latin prefix 'ante-' ka matlab 'before in time' (samay se pehle) hota hai. Kisi dastaavez par asal taareekh se pehle ki taareekh daalna 'antedate' kehlata hai. 'Postdate' baad ki taareekh daalna hota hai. 'Anti-' Greek origin ka virodh (against) darshata hai.",
+      "ruleReference": "Rule RC-05: Temporal Sequence & Chronology Prefixes",
+      "hint": "Latin prefix 'ante-' (before) aur Greek prefix 'anti-' (against) ke beech ka difference dekhein.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L18",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L18-GP-006",
+      "lessonId": "L18",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Prefixes & Suffixes",
+      "subtopic": "Locational Prefixes: Intra- vs Inter-",
+      "conceptTags": [
+        "spatial-prefix",
+        "inter-vs-intra",
+        "jurisdiction"
+      ],
+      "question": "An inquiry conducted strictly within the boundaries of a single administrative department is termed an _______ inquiry.",
+      "options": [
+        {
+          "id": "A",
+          "text": "interdepartmental"
+        },
+        {
+          "id": "B",
+          "text": "intradepartmental"
+        },
+        {
+          "id": "C",
+          "text": "transdepartmental"
+        },
+        {
+          "id": "D",
+          "text": "extradepartmental"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-06 ke anusaar, 'intra-' ka matlab 'within' (ek hi entity ke andar) hota hai: intradepartmental = department ke andar. 'Inter-' ka matlab 'between' (do alag departments ke beech) hota hai. Yahan single department ki baat hai, isliye 'intradepartmental' correct hai.",
+      "ruleReference": "Rule RC-06: Spatial Direction & Boundary Scope Prefixes",
+      "hint": "Within = intra-; Between two different entities = inter-.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L18",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L18-GP-007",
+      "lessonId": "L18",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Prefixes & Suffixes",
+      "subtopic": "Noun Nominalization & Spelling: Maintenance",
+      "conceptTags": [
+        "noun-suffix",
+        "maintenance",
+        "spelling-exception"
+      ],
+      "question": "Select the correctly spelled noun derived from the verb 'maintain':\nThe family court issued an order for monthly _______ to the petitioner.",
+      "options": [
+        {
+          "id": "A",
+          "text": "maintainance"
+        },
+        {
+          "id": "B",
+          "text": "maintenence"
+        },
+        {
+          "id": "C",
+          "text": "maintenance"
+        },
+        {
+          "id": "D",
+          "text": "maintainence"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Verb 'maintain' jab suffix '-ance' ke sath noun banta hai, toh root ka diphthong 'ai' badal kar single vowel 'e' ho jata hai: m-a-i-n-t-e-n-a-n-c-e (maintenance). Option A (*maintainance) examiner ka sabse frequent trap hai.",
+      "ruleReference": "Rule RC-07: Suffix Part-of-Speech Shifters: Nouns",
+      "hint": "Verb 'maintain' ka 'ai' noun form mein single letter 'e' ban jata hai, aur ending '-ance' hoti hai.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L18",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L18-GP-008",
+      "lessonId": "L18",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Prefixes & Suffixes",
+      "subtopic": "Adjective Nuance: Historic vs Historical",
+      "conceptTags": [
+        "adjective-suffix",
+        "historic-vs-historical",
+        "nuance"
+      ],
+      "question": "Choose the appropriate adjective:\nThe library staff carefully indexed centuries of _______ judicial records.",
+      "options": [
+        {
+          "id": "A",
+          "text": "historic"
+        },
+        {
+          "id": "B",
+          "text": "historical"
+        },
+        {
+          "id": "C",
+          "text": "historian"
+        },
+        {
+          "id": "D",
+          "text": "historicity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-08 ke anusaar, 'historical' ka matlab 'pertaining to past history or historical study/records' hota hai. Jabki 'historic' ka matlab 'famous, monumental in history' hota hai (e.g. a historic judgment). Purane records historical hote hain.",
+      "ruleReference": "Rule RC-08: Suffix Part-of-Speech Shifters: Adjectives",
+      "hint": "Pertaining to records of the past = historical; Monumental/famous in history = historic.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L18",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L18-GP-009",
+      "lessonId": "L18",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Prefixes & Suffixes",
+      "subtopic": "Verb Suffixes: Invariable -ise Verbs",
+      "conceptTags": [
+        "verb-suffix",
+        "supervise",
+        "invariable-ise"
+      ],
+      "question": "Which of the following verbs is correctly spelled with an 's' and can NEVER be spelled with a 'z'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Standardize"
+        },
+        {
+          "id": "B",
+          "text": "Supervise"
+        },
+        {
+          "id": "C",
+          "text": "Legalize"
+        },
+        {
+          "id": "D",
+          "text": "Civilize"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Supervise' Latin 'supervidere' (visus) se aata hai jahan 's' root ka permanent part hai. Isliye supervise, revise, advise, exercise, compromise mein hamesha 's' rehta hai; unhe kabhi 'z' (*supervize) nahi likha ja sakta.",
+      "ruleReference": "Rule RC-09: Suffix Part-of-Speech Shifters: Verbs",
+      "hint": "Wo verb dhoondhein jisme 's' Latin vision/sight root se aaya ho aur kabhi 'z' na leta ho.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L18",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L18-GP-010",
+      "lessonId": "L18",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "easy",
+      "topic": "Prefixes & Suffixes",
+      "subtopic": "Adverb Derivation: Truly & Duly",
+      "conceptTags": [
+        "adverb-suffix",
+        "truly",
+        "silent-e-drop"
+      ],
+      "question": "Identify the correctly spelled adverb derived from 'true':",
+      "options": [
+        {
+          "id": "A",
+          "text": "truely"
+        },
+        {
+          "id": "B",
+          "text": "truly"
+        },
+        {
+          "id": "C",
+          "text": "trueley"
+        },
+        {
+          "id": "D",
+          "text": "trulie"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-10 aur RC-11 ke anusaar, 'true' aur 'due' do aisi strict exceptions hain jahan consonant suffix '-ly' lagne par bhi silent 'e' drop ho jata hai: true + ly = truly (never *truely); due + ly = duly (never *duely).",
+      "ruleReference": "Rule RC-10: Suffix Part-of-Speech Shifters: Adverbs",
+      "hint": "'True' mein se silent 'e' drop hota hai jab '-ly' suffix lagta hai.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L18",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L18-GP-011",
+      "lessonId": "L18",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Prefixes & Suffixes",
+      "subtopic": "Silent 'e' Retention: Soft c/g in Noticeable",
+      "conceptTags": [
+        "soft-c-g",
+        "noticeable",
+        "silent-e-retention"
+      ],
+      "question": "Select the correct spelling of the derived adjective:\nThere was a _______ disparity between the two survey estimates.",
+      "options": [
+        {
+          "id": "A",
+          "text": "noticable"
+        },
+        {
+          "id": "B",
+          "text": "noticeable"
+        },
+        {
+          "id": "C",
+          "text": "notisable"
+        },
+        {
+          "id": "D",
+          "text": "noticible"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-11 ke anusaar, jab base word soft 'ce' ya 'ge' par end hota hai, toh '-able' ya '-ous' judne par silent 'e' ko retain kiya jata hai taaki soft sound /s/ bana rahe: notice + able = noticeable. Agar 'e' drop kiya toh hard sound /k/ ban jayega (*noticable).",
+      "ruleReference": "Rule RC-11: Final Silent 'e' Deletion vs Retention Law",
+      "hint": "Letter 'c' ka soft sound /s/ preserve karne ke liye silent 'e' ko barkarar rakhein.",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L18",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    },
+    {
+      "id": "L18-GP-012",
+      "lessonId": "L18",
+      "type": "single-answer-mcq",
+      "stage": "guided-practice",
+      "difficulty": "medium",
+      "topic": "Prefixes & Suffixes",
+      "subtopic": "Consonant Doubling: 1-1-1 Rule in Benefited vs Occurred",
+      "conceptTags": [
+        "consonant-doubling",
+        "benefited",
+        "stress-rule"
+      ],
+      "question": "Select the sentence with the correct spelling according to modern standard English:\nThe flood-affected agriculturists _______ from the relief package sanctioned by the bench.",
+      "options": [
+        {
+          "id": "A",
+          "text": "benefitted"
+        },
+        {
+          "id": "B",
+          "text": "benefited"
+        },
+        {
+          "id": "C",
+          "text": "benifited"
+        },
+        {
+          "id": "D",
+          "text": "benifitted"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-13 ke anusaar, multi-syllable word mein consonant tabhi double hota hai jab stress final syllable par ho (oc-CUR -> occurred). Verb 'benefit' mein stress pehle syllable par hota hai (BÉN-e-fit). Isliye modern standard English mein terminal 't' double nahi hota: benefited, benefiting (single 't').",
+      "ruleReference": "Rule RC-13: Consonant Doubling 1-1-1 Law",
+      "hint": "Pronounce karke dekhein: stress shuru ke syllable 'BEN' par hai ya aakhri 'fit' par?",
+      "provenance": "original",
+      "provenanceSource": "Authored for HSA EnglishMaster Module L18",
+      "verificationStatus": "verified",
+      "wrongAnswerTracking": true
+    }
+  ]
+}

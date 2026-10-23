@@ -1,62 +1,62 @@
 [
   {
     "id": "PIT-01",
-    "title": "The Definite Past Time Trap (Present Perfect vs Simple Past)",
+    "title": "Definite Past Time ka Trap (Present Perfect vs Simple Past)",
     "category": "High Frequency Exam Trap",
-    "frequency": "Extremely High (Appears in 80%+ of State Exams)",
-    "explanation": "Present Perfect ('has/have + V₃') connects a past action to the present moment. Therefore, do not pair Present Perfect with adverbs denoting finished, definite past time (such as yesterday, ago, last week, in 2021). When a finished past time anchor is present, use Simple Past ('V₂'). However, if specifying an action actively in progress at a specific past point ('at 4 PM yesterday'), use Past Continuous ('was/were + V-ing').",
+    "frequency": "Extremely High (80%+ State Exams mein poochha jaata hai)",
+    "explanation": "Present Perfect ('has/have + V₃') past ke action ko present moment se jodta hai. Isliye Present Perfect ko kabhi bhi beete huye definite past time adverbs (jaise yesterday, ago, last week, in 2021) ke saath use na karein. Jab bhi aisa finished past time anchor ho, toh Simple Past ('V₂') hi aayega. Lekin agar past ke kisi specific point par chal raha action ho ('at 4 PM yesterday'), toh Past Continuous ('was/were + V-ing') lagta hai.",
     "incorrectExample": "The advocate general has argued the bail application yesterday.",
     "correctExample": "The advocate general argued the bail application yesterday.",
-    "trapRule": "Finished Past Time Adverbs (yesterday, ago, last...) ➔ Simple Past (V₂); Action in progress at past point ➔ Past Continuous."
+    "trapRule": "Finished Past Time Adverbs (yesterday, ago, last...) ➔ Simple Past (V₂); Past ke specific point par ongoing action ➔ Past Continuous."
   },
   {
     "id": "PIT-02",
-    "title": "The 'Did + V₂' Redundancy Pitfall (Auxiliary vs. Lexical Verb)",
+    "title": "'Did + V₂' ka Redundancy Trap (Auxiliary vs. Lexical Verb)",
     "category": "Auxiliary Verb Discord",
     "frequency": "Very High",
-    "explanation": "In Simple Past affirmative clauses, V₂ is the past lexical verb form (no auxiliary verb is present). In negative sentences ('did not') and interrogatives ('Did + Subject...?'), 'did' functions as the auxiliary verb and carries the past inflection. Consequently, the lexical verb MUST remain in its base form (V₁). Using a past form after 'did' creates an erroneous double-past construction.",
+    "explanation": "Simple Past ke affirmative sentences mein main verb V₂ form mein hota hai (koi auxiliary verb nahi lagta). Lekin negative sentences ('did not') aur interrogative sentences ('Did + Subject...?') mein 'did' pehle se past auxiliary ka kaam karta hai. Isliye lexical main verb hamesha base form (V₁) mein aana zaroori hai. 'Did' ke baad V₂ lagana ek double-past ki badi galti hoti hai.",
     "incorrectExample": "The petitioner did not submitted the requisite documents on time.",
     "correctExample": "The petitioner did not submit the requisite documents on time.",
-    "trapRule": "Auxiliary 'did' + Lexical Base Verb (V₁). Never use V₂ after 'did'."
+    "trapRule": "Auxiliary 'did' + Base Verb (V₁). 'Did' ke baad V₂ kabhi mat lagayein."
   },
   {
     "id": "PIT-03",
-    "title": "The Stative Verb Progressive Distortion",
+    "title": "Stative Verbs ka Progressive Trap",
     "category": "Aspect Incompatibility",
     "frequency": "High",
-    "explanation": "Certain English verbs express cognitive states, emotions, perceptions, or possession rather than dynamic physical activities. These 'stative verbs' (know, believe, understand, belong, possess, remember) resist continuous/progressive (-ing) aspect under standard usage. Use Simple Present instead. Note that frequency adverbs like 'always' can accompany continuous dynamic verbs to express irritation (e.g., 'He is always interrupting').",
+    "explanation": "English ke kuch verbs physical action nahi balki mental states, emotions, perception ya possession express karte hain. Inhe 'stative verbs' (know, believe, understand, belong, possess, remember) kehte hain, aur standard grammar mein inka use continuous (-ing) form mein nahi hota. Inki jagah Simple Present use karein. Yaad rakhein ki 'always' dynamic verbs ke continuous aspect ke saath irritation dikhane ke liye use ho sakta hai (jaise 'He is always interrupting').",
     "incorrectExample": "The judicial registrar is knowing the procedural guidelines thoroughly.",
     "correctExample": "The judicial registrar knows the procedural guidelines thoroughly.",
-    "trapRule": "Stative verbs (know, belong, understand, believe, want) take Simple Aspect, NOT Continuous."
+    "trapRule": "Stative verbs (know, belong, understand, believe, want) Simple Aspect lete hain, Continuous nahi."
   },
   {
     "id": "PIT-04",
-    "title": "The 'Since' vs 'For' & Duration Context Trap",
+    "title": "'Since' vs 'For' aur Duration ka Trap",
     "category": "Time Marker Context",
     "frequency": "Very High",
-    "explanation": "Learners frequently confuse 'since' and 'for', or assume 'for' invariably forces a continuous tense:\n• 'Since' marks a specific starting point in time (since 9 AM, since 2019).\n• 'For' marks a duration span (for 3 hours, for 5 years).\n• Critical Contextual Rule: Duration does not invariably force Present Perfect Continuous. A completed period in the past takes Simple Past ('He worked in Jaipur for three years'). A period extending to the present takes Present Perfect ('He has worked here for three years') or Present Perfect Continuous for dynamic activity ('He has been working for 3 hours').",
+    "explanation": "Students aksar 'since' aur 'for' mein confuse ho jaate hain ya sochte hain ki 'for' aane par hamesha continuous tense hi aayega:\n• 'Since' past ke kisi specific starting point ko mark karta hai (since 9 AM, since 2019).\n• 'For' ek duration ya time span ko mark karta hai (for 3 hours, for 5 years).\n• Zaroori Contextual Rule: Duration aane par har baar Present Perfect Continuous hi nahi lagta. Agar time period past mein hi pura complete ho chuka hai, toh Simple Past lagta hai ('He worked in Jaipur for three years'). Agar period present tak continue ho raha hai, tabhi Present Perfect ('He has worked here for three years') ya dynamic activity ke liye Present Perfect Continuous ('He has been working for 3 hours') use hota hai.",
     "incorrectExample": "He has been serving in the High Court computer wing since five years.",
     "correctExample": "He has been serving in the High Court computer wing for five years.",
-    "trapRule": "Since = Starting Point | For = Duration Count (Completed period = Simple Past; Period extending to present = Present Perfect / Perf Cont)."
+    "trapRule": "Since = Starting Point | For = Duration (Completed past period = Simple Past; Present tak chalne wala period = Present Perfect / Perf Cont)."
   },
   {
     "id": "PIT-05",
-    "title": "The 'By + Time' Completion Boundary Trap",
+    "title": "'By + Time' Completion Deadline ka Trap",
     "category": "Temporal Boundary Alignment",
     "frequency": "High",
-    "explanation": "When a sentence contains 'by + future time' (e.g., 'by tomorrow', 'by 6 PM'), it signals that an action will be completed on or before that deadline, typically taking Future Perfect ('will have + V₃') rather than Simple Future ('will complete'). Similarly, 'by + past time' (e.g., 'by 5 PM yesterday') marks completion prior to a past boundary, taking Past Perfect ('had + V₃').",
+    "explanation": "Jab kisi sentence mein 'by + future time' diya ho (jaise 'by tomorrow', 'by 6 PM'), toh iska matlab hai ki action us deadline par ya usse pehle pura ho chuka hoga. Iske liye Simple Future ('will complete') ki jagah Future Perfect ('will have + V₃') use hota hai. Isi tarah 'by + past time' (jaise 'by 5 PM yesterday') past ki boundary batata hai aur Past Perfect ('had + V₃') leta hai.",
     "incorrectExample": "The system assistant will upload all case records by 6 PM today.",
     "correctExample": "The system assistant will have uploaded all case records by 6 PM today.",
     "trapRule": "By + Future Time Benchmark ➔ Future Perfect (will have + V₃); By + Past Time Benchmark ➔ Past Perfect (had + V₃)."
   },
   {
     "id": "PIT-06",
-    "title": "The Isolated Past Perfect Fallacy (Past Reference Point Required)",
+    "title": "Single Isolated Past Perfect ki Galti",
     "category": "Aspect Misapplication",
     "frequency": "High",
-    "explanation": "Past Perfect ('had + V₃') is not merely an older simple past; it requires a specific past reference point or prior completed context (e.g., 'The team had compiled the dossier by 4 PM yesterday'). An independent single past event without a reference boundary must take Simple Past ('V₂'), not Past Perfect. Advanced multi-clause Sequence of Tenses rules between two past events are systematically mastered in Lesson 02.",
+    "explanation": "Past Perfect ('had + V₃') sirf ek purana past tense nahi hai; ise use karne ke liye past ka ek reference point ya pehle complete hone ka context chahiye hota hai (jaise 'The team had compiled the dossier by 4 PM yesterday'). Agar bina kisi reference point ke ek akela past event ho, toh wahan Past Perfect nahi balki Simple Past ('V₂') aana chahiye. Do past actions ke beech multi-clause Sequence of Tenses ke rules Lesson 02 mein detail se aayenge.",
     "incorrectExample": "The advocate general had filed the writ petition yesterday.",
     "correctExample": "The advocate general filed the writ petition yesterday.",
-    "trapRule": "Single isolated past event ➔ Simple Past (V₂). Past Perfect ('had + V₃') requires a prior reference boundary (Lesson 02 covers cross-clause sequence)."
+    "trapRule": "Akela isolated past event ➔ Simple Past (V₂). Past Perfect ('had + V₃') ke liye prior reference boundary zaroori hai (Lesson 02 mein cross-clause sequence dekhein)."
   }
 ]

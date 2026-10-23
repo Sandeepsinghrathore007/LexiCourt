@@ -1,0 +1,200 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "The Single-Keyword Trap (Ignoring Limiting Clauses)",
+    "category": "Cognitive Heuristic Failure",
+    "frequency": "High Court Recurring Trap (Very High)",
+    "description": "Candidates question stem mein sirf ek familiar keyword (jaise 'dictionary' ya 'book') dekh kar bina aage padhe pehla obvious word chun lete hain, jabki definition mein specific limiting condition hoti hai.",
+    "incorrectExample": "*\"A person who compiles dictionaries\" -> Selecting 'Author' or 'Publisher' upon seeing 'dictionary'.",
+    "correctExample": "\"A person who compiles dictionaries\" = Lexicographer.",
+    "whyWrong": "Author koi bhi book likhta hai; lexicographer specifically dictionaries compile/edit karta hai. Single keyword par jump karne se limiting condition miss ho jati hai.",
+    "ruleAnchor": "Rule RC-01: Definition vs Synonym Precision Rule."
+  },
+  {
+    "id": "PIT-02",
+    "title": "Confusing Person (Agent Noun) with Quality or Condition",
+    "category": "Grammatical Part-of-Speech Mismatch",
+    "frequency": "Competitive Exam Trap (Very High)",
+    "description": "Definition 'A person who...' poochti hai, lekin candidate jaldbazi mein Adjective ya Abstract Noun chun leta hai kyunki dono same word family se belong karte hain.",
+    "incorrectExample": "*\"A person who expects favourable outcomes\" -> Selecting 'Optimistic' or 'Optimism'.",
+    "correctExample": "\"A person who expects favourable outcomes\" = Optimist (Noun).",
+    "whyWrong": "'Optimistic' adjective hai (trait) aur 'Optimism' abstract noun hai (philosophy). Human agent ke liye agent noun 'Optimist' hi grammatically correct substitution hai.",
+    "ruleAnchor": "Rule RC-02: Person vs Quality / Condition Grammatical Concord."
+  },
+  {
+    "id": "PIT-03",
+    "title": "Autobiography versus Biography Confusion",
+    "category": "Authorial Identity Mismatch",
+    "frequency": "Standard School & Exam Trap (High)",
+    "description": "Candidates 'Autobiography' aur 'Biography' ko interchangeable samajh lete hain aur check nahi karte ki likhne wala wahi vyakti khud hai ya koi doosra.",
+    "incorrectExample": "*\"An account of a person's life written by someone else\" -> Selecting 'Autobiography'.",
+    "correctExample": "\"An account of a person's life written by someone else\" = Biography. (Written by oneself = Autobiography).",
+    "whyWrong": "Greek prefix 'Auto-' ka matlab 'self' hota hai. Agar likhne wala khud subject hai tabhi 'Autobiography' hoga; agar doosra lekhak hai toh 'Biography'.",
+    "ruleAnchor": "Rule RC-01: Definition vs Synonym Precision Rule."
+  },
+  {
+    "id": "PIT-04",
+    "title": "Anthology versus Bibliography Confusion",
+    "category": "Document Format Confusion",
+    "frequency": "High Court Distractor (High)",
+    "description": "Candidates compiled literary texts aur book list references ke beech farq bhool jate hain.",
+    "incorrectExample": "*\"A list of books and articles referred to in a scholarly work\" -> Selecting 'Anthology'.",
+    "correctExample": "\"A list of books and articles referred to in a scholarly work\" = Bibliography. (\"A published collection of poems or stories\" = Anthology).",
+    "whyWrong": "Bibliography sandarbh kitabon ki soochi (list of references) hoti hai. Anthology khud chune huye sahityik lekhon ka sangrah (collection of literary works) hoti hai.",
+    "ruleAnchor": "Rule RC-01: Definition vs Synonym Precision Rule."
+  },
+  {
+    "id": "PIT-05",
+    "title": "The Memorial Triad Trap: Epitaph vs Eulogy vs Elegy",
+    "category": "Genre & Medium Discord",
+    "frequency": "Examiner Favorite Trap (Very High)",
+    "description": "Teeno terms mrit vyakti se jude hain, isliye candidates format (patthar ka lekh, prashansa bhashan, ya shok kavita) ko distinguish nahi kar pate.",
+    "incorrectExample": "*\"A speech or piece of writing praising a person highly after death\" -> Selecting 'Elegy' or 'Epitaph'.",
+    "correctExample": "\"A speech praising someone after death\" = Eulogy. (\"Inscribed on a tombstone\" = Epitaph; \"A mournful poem\" = Elegy).",
+    "whyWrong": "Epitaph tombstone par inscribed text hai; Eulogy bhashan ya essay of praise hai; Elegy poem of mourning (shok geet) hai.",
+    "ruleAnchor": "Rule RC-06: Literary & Memorial Triad: Epitaph vs Eulogy vs Elegy."
+  },
+  {
+    "id": "PIT-06",
+    "title": "Arbitrator versus Mediator in Dispute Resolution",
+    "category": "Legal Authority Confusion",
+    "frequency": "Judicial Exam Essential Trap (Very High)",
+    "description": "Court aur dispute resolution ke questions mein candidates arbitrator aur mediator ke kanooni adhikar mein bhed nahi karte.",
+    "incorrectExample": "*\"An independent person appointed to settle a dispute with a legally binding award\" -> Selecting 'Mediator'.",
+    "correctExample": "\"An independent person appointed to make a legally binding decision\" = Arbitrator. (\"A person who facilitates compromise\" = Mediator).",
+    "whyWrong": "Arbitrator ke paas binding verdict (award) pass karne ka legal authority hota hai; mediator sirf party agreement assist karta hai, koi binding order nahi de sakta.",
+    "ruleAnchor": "Rule RC-05: Dispute Resolution Roles: Arbitrator vs Mediator."
+  },
+  {
+    "id": "PIT-07",
+    "title": "Polyglot versus Linguist Confusion",
+    "category": "Practical Skill vs Scientific Discipline",
+    "frequency": "Standard Vocabulary Trap (Medium)",
+    "description": "Candidates kai bhashayein bolne wale aur bhasha ki scientific study karne wale ko ek hi samajh lete hain.",
+    "incorrectExample": "*\"A person who scientifically studies language and its structure\" -> Selecting 'Polyglot'.",
+    "correctExample": "\"A person who scientifically studies language\" = Linguist. (\"A person who knows and uses several languages\" = Polyglot).",
+    "whyWrong": "Polyglot multilingual speaker hota hai; linguist language science ka scholar hota hai (chahe wo ek hi bhasha deeply study kare).",
+    "ruleAnchor": "Rule RC-01: Definition vs Synonym Precision Rule."
+  },
+  {
+    "id": "PIT-08",
+    "title": "Atheist versus Agnostic Confusion",
+    "category": "Theological Position Discord",
+    "frequency": "Recurring Rajasthan Exam Trap (High)",
+    "description": "Candidates Ishwar ke astitva ko reject karne wale (Atheist) aur God ke baare mein gyan ko asambhav maanne wale (Agnostic) ko confuse kar dete hain.",
+    "incorrectExample": "*\"A person who believes that nothing is known or can be known of God\" -> Selecting 'Atheist'.",
+    "correctExample": "\"A person who believes that nothing is known or can be known of God\" = Agnostic. (\"A person who does not believe in God\" = Atheist).",
+    "whyWrong": "Agnostic knowledge claim karta hai (gnosis = knowledge: 'human intellect cannot know'); atheist belief reject karta hai.",
+    "ruleAnchor": "Rule RC-01: Definition vs Synonym Precision Rule."
+  },
+  {
+    "id": "PIT-09",
+    "title": "Egoist versus Egotist Mismatch",
+    "category": "Personality Subtlety Discord",
+    "frequency": "Recurring Competitive Trap (High)",
+    "description": "Dono words ek jaise lagte hain lekin ek selfish action ko denote karta hai aur doosra boastful talking ko.",
+    "incorrectExample": "*\"A person who constantly talks about himself and his accomplishments\" -> Selecting 'Egoist'.",
+    "correctExample": "\"A person who constantly talks about himself\" = Egotist. (\"A self-centred selfish person\" = Egoist).",
+    "whyWrong": "Egotist mein 'T' stands for 'Talk' (apni dhingein haankne wala). Egoist selfish motives se act karta hai.",
+    "ruleAnchor": "Rule RC-01: Definition vs Synonym Precision Rule."
+  },
+  {
+    "id": "PIT-10",
+    "title": "Predecessor versus Successor Sequence Discord",
+    "category": "Sequential Chronology Discord",
+    "frequency": "Administrative Vocabulary Trap (High)",
+    "description": "Candidates pehle aane wale aur baad mein aane wale ke prefixes 'Pre-' aur 'Suc-' mein galti kar dete hain.",
+    "incorrectExample": "*\"A person who takes over an official role after another\" -> Selecting 'Predecessor'.",
+    "correctExample": "\"A person who takes over an office after another\" = Successor. (\"A person who held an office before another\" = Predecessor).",
+    "whyWrong": "Predecessor = Before (pehle aane wala); Successor = After (baad mein aane wala).",
+    "ruleAnchor": "Rule RC-08: Sequence Directionality: Predecessor vs Successor."
+  },
+  {
+    "id": "PIT-11",
+    "title": "Annual versus Biannual versus Biennial Mathematics",
+    "category": "Frequency Calculation Failure",
+    "frequency": "High Court Classic Trap (Very High)",
+    "description": "Biannual (1 saal mein 2 baar) aur Biennial (2 saal mein 1 baar) ko mix karke candidates galat option select kar lete hain.",
+    "incorrectExample": "*\"Occurring once every two years\" -> Selecting 'Biannual'.",
+    "correctExample": "\"Occurring once every two years\" = Biennial. (\"Occurring twice a year\" = Biannual).",
+    "whyWrong": "Biannual = Twice in 1 year; Biennial = Once every 2 years. Interval calculation mein laparwahi negative marks karwati hai.",
+    "ruleAnchor": "Rule RC-07: Time & Frequency Calculation: Annual vs Biannual vs Biennial."
+  },
+  {
+    "id": "PIT-12",
+    "title": "Emigrant versus Immigrant Directional Vector",
+    "category": "Border Vector Discord",
+    "frequency": "High Frequency Exam Trap (High)",
+    "description": "Candidates aane wale aur jaane wale ke border vector ko mix kar dete hain.",
+    "incorrectExample": "*\"A person who leaves their own country to settle in another\" -> Selecting 'Immigrant'.",
+    "correctExample": "\"A person who leaves their own country to settle in another\" = Emigrant. (\"A person coming in from abroad\" = Immigrant).",
+    "whyWrong": "E-migrant = Exit (country chhodna); I-mmigrant = In-coming (desh mein aana).",
+    "ruleAnchor": "Rule RC-09: Migration Directional Vectors: Immigrant vs Emigrant vs Refugee."
+  },
+  {
+    "id": "PIT-13",
+    "title": "Phonetic Triplet Trap: Imminent versus Immanent versus Eminent",
+    "category": "Orthographic & Soundalike Trap",
+    "frequency": "Advanced Vocabulary Trap (High)",
+    "description": "Soundalike pronunciation ki wajah se candidates 'impending danger' ke liye 'immanent' ya 'eminent' mark kar dete hain.",
+    "incorrectExample": "*\"Likely to happen very soon; impending\" -> Selecting 'Immanent'.",
+    "correctExample": "\"Likely to happen very soon\" = Imminent. (\"Existing within\" = Immanent; \"Famous/Distinguished\" = Eminent).",
+    "whyWrong": "Imminent temporal proximity (turant hone wala) dikhata hai; Immanent indwelling spiritual presence; Eminent famous vyakti.",
+    "ruleAnchor": "Rule RC-13: Phonetic Lookalike Trap: Imminent vs Immanent vs Eminent."
+  },
+  {
+    "id": "PIT-14",
+    "title": "Court Verdict vs Moral Cleansing: Acquit versus Absolve",
+    "category": "Jurisdictional Domain Discord",
+    "frequency": "Legal Terms Trap (High)",
+    "description": "Courtroom trial verdict of not guilty aur general moral forgiveness ke beech distinction miss ho jata hai.",
+    "incorrectExample": "*\"To formally declare a person not guilty of a criminal charge in court\" -> Selecting 'Absolve'.",
+    "correctExample": "\"To declare not guilty in a court of law\" = Acquit. (\"To declare free from moral guilt or sin\" = Absolve).",
+    "whyWrong": "Acquit specific judicial courtroom term hai; Absolve broad moral ya religious absolution hai.",
+    "ruleAnchor": "Rule RC-10: Judicial Verdicts & Culpability: Acquit vs Absolve vs Convict."
+  },
+  {
+    "id": "PIT-15",
+    "title": "Persecute versus Prosecute Confusion",
+    "category": "Soundalike & Legality Discord",
+    "frequency": "High Court Classic Trap (Very High)",
+    "description": "Candidates unlawful hostility/harassment (Persecute) aur lawful legal court action (Prosecute) ko sound similarity ki wajah se confuse karte hain.",
+    "incorrectExample": "*\"To institute legal proceedings against someone for a crime\" -> Selecting 'Persecute'.",
+    "correctExample": "\"To conduct legal proceedings against someone\" = Prosecute. (\"To subject someone to hostility and ill-treatment\" = Persecute).",
+    "whyWrong": "Prosecute legal court case chalana hai; Persecute kisi par julm ya atyachar karna hai.",
+    "ruleAnchor": "Rule RC-01: Definition vs Synonym Precision Rule."
+  },
+  {
+    "id": "PIT-16",
+    "title": "Severity Modification: Mitigate vs Ameliorate vs Exacerbate",
+    "category": "Valence Direction Confusion",
+    "frequency": "Process Verbs Trap (High)",
+    "description": "Candidates samasya ko kam karne (Mitigate) aur use aur badtar banane (Exacerbate/Aggravate) ke beech opposite valence miss kar dete hain.",
+    "incorrectExample": "*\"To make a bad situation or problem worse\" -> Selecting 'Mitigate'.",
+    "correctExample": "\"To make a problem worse\" = Exacerbate / Aggravate. (\"To make less severe\" = Mitigate; \"To improve\" = Ameliorate).",
+    "whyWrong": "Mitigate negative impact ko reduce karta hai; Exacerbate sthiti ko worse karta hai.",
+    "ruleAnchor": "Rule RC-12: Severity Modulation: Mitigate vs Ameliorate vs Exacerbate."
+  },
+  {
+    "id": "PIT-17",
+    "title": "Abdicate versus Renounce Scope Discord",
+    "category": "Royal Office vs General Right",
+    "frequency": "Governance Vocabulary Trap (Medium)",
+    "description": "Candidates royal throne cede karne aur general right abandon karne ke specific scope ko ignore kar dete hain.",
+    "incorrectExample": "*\"To formally give up one's monarchical throne\" -> Selecting 'Renounce' when 'Abdicate' is available.",
+    "correctExample": "\"To formally give up the throne\" = Abdicate. (\"To give up a claim or belief\" = Renounce).",
+    "whyWrong": "Throne ya royal crown ke liye specific technical word 'Abdicate' hota hai; 'Renounce' generic abandonment ke liye hota hai.",
+    "ruleAnchor": "Rule RC-11: Relinquishing Authority: Abdicate vs Renounce."
+  },
+  {
+    "id": "PIT-18",
+    "title": "Treating Clinical Conditions as Casual Labels",
+    "category": "Medical & Clinical Boundary Failure",
+    "frequency": "Ethical & Scientific Trap (Medium)",
+    "description": "Kleptomania ko sadharan pocket-mar ya thief se equate karna, ya pyromania ko kisi bhi fire fan se compare karna galat hai.",
+    "incorrectExample": "*Equating every criminal theft with 'Kleptomania'.",
+    "correctExample": "Kleptomania is an involuntary psychiatric impulse to steal unneeded items; criminal theft is deliberate monetary acquisition.",
+    "whyWrong": "Clinical terms specific psychological diagnostic criteria require karte hain. Exam questions mein clinical compulsive cues ('inability to resist impulse') ko check karein.",
+    "ruleAnchor": "Rule RC-04: Morphological Root Word Decoding."
+  }
+]

@@ -9,13 +9,13 @@
   "estimatedMinutes": 90,
   "difficulty": "Foundational",
   "targetScore": "100% Structural Accuracy",
-  "description": "Master all 12 tense structures (3 Times × 4 Aspects), auxiliary verb rules, affirmative/negative/interrogative patterns, and contextual time markers.",
+  "description": "Sabhi 12 tense structures (3 Times × 4 Aspects), auxiliary verb ke rules, affirmative/negative/interrogative patterns aur contextual time markers ko master karein.",
   "learningObjectives": [
-    "Deconstruct the dual-axis tense matrix (Time × Aspect)",
-    "Master structural formulas and auxiliary verbs for all 12 tenses",
-    "Identify contextual time markers that guide correct tense choice",
-    "Disambiguate Simple Past vs Present Perfect and other confusing pairs",
-    "Construct positive, negative, and interrogative sentences accurately"
+    "Time aur Aspect ke dual-axis tense matrix ko achhe se samajhna",
+    "Sabhi 12 tenses ke structural formulas aur auxiliary verbs par pakad banana",
+    "Sentence mein correct tense choose karne ke liye contextual time markers pehchanna",
+    "Simple Past vs Present Perfect aur baaki confusing pairs ke beech ka difference samajhna",
+    "Positive, negative aur interrogative sentences accurately construct karna"
   ],
   "steps": [
     {
@@ -25,7 +25,7 @@
       "subtitle": "Overview & Learning Objectives",
       "durationMin": 5,
       "type": "orientation",
-      "summary": "Understand why tenses are the foundation of English grammar and how the 12 tenses map to the High Court exam."
+      "summary": "Samjhein ki tenses English grammar ka base kyun hain aur 12 tenses High Court exam mein kaise aate hain."
     },
     {
       "id": "step-2",
@@ -34,7 +34,7 @@
       "subtitle": "12 Tenses In-Depth Theory",
       "durationMin": 30,
       "type": "study-doc",
-      "summary": "Comprehensive conceptual analysis of the 3 Times and 4 Aspects with complete verb inflection paradigms."
+      "summary": "3 Times aur 4 Aspects ka complete conceptual analysis aur verb inflection ke saare forms."
     },
     {
       "id": "step-3",
@@ -43,7 +43,7 @@
       "subtitle": "3×4 Tense Matrix & Timelines",
       "durationMin": 15,
       "type": "visuals",
-      "summary": "Interactive SVG timeline graphs and comparative matrix mapping temporal relationships visually."
+      "summary": "Interactive SVG timelines aur comparative matrix jo time relationships ko visually dikhate hain."
     },
     {
       "id": "step-4",
@@ -52,7 +52,7 @@
       "subtitle": "Formulas & Auxiliary Quick Reference",
       "durationMin": 10,
       "type": "rule-cards",
-      "summary": "Compact structural formula cheat sheets and auxiliary verb concord lookup cards."
+      "summary": "Compact structural formulas aur auxiliary verb concord ke quick lookup cards."
     },
     {
       "id": "step-5",
@@ -61,7 +61,7 @@
       "subtitle": "Step-by-Step Derivation Logic",
       "durationMin": 10,
       "type": "worked-examples",
-      "summary": "15 annotated sentences breaking down time marker detection, aspect matching, and verb formation."
+      "summary": "15 solved sentences jo time marker pehchanne, aspect match karne aur verb form banane ka step-by-step logic sikhate hain."
     },
     {
       "id": "step-6",
@@ -70,7 +70,7 @@
       "subtitle": "Confusing Tense Pairs & Traps",
       "durationMin": 10,
       "type": "common-mistakes",
-      "summary": "Deconstruction of classic exam traps (Simple Past vs Present Perfect, state vs dynamic verbs)."
+      "summary": "Exam ke classic traps ka analysis (jaise Simple Past vs Present Perfect aur stative vs dynamic verbs)."
     },
     {
       "id": "step-7",
@@ -79,7 +79,7 @@
       "subtitle": "12 Questions with Instant Explanations",
       "durationMin": 15,
       "type": "guided-practice",
-      "summary": "Low-stakes interactive MCQs with immediate feedback, rule links, and option elimination rationales."
+      "summary": "MCQs with instant feedback, rule citations aur wrong options ko eliminate karne ka clear reason."
     },
     {
       "id": "step-8",
@@ -88,7 +88,7 @@
       "subtitle": "20 Questions with Summary Review",
       "durationMin": 20,
       "type": "independent-practice",
-      "summary": "Exam-style question set without mid-test interruptions, concluding with detailed diagnostic results."
+      "summary": "Exam-style question set bina kisi beech ke interruption ke, detailed diagnostic results ke saath."
     },
     {
       "id": "step-9",
@@ -97,7 +97,7 @@
       "subtitle": "15 Questions Timed Simulation (12 Mins)",
       "durationMin": 12,
       "type": "mastery-assessment",
-      "summary": "Strict timed certification exam (target: ≥80% accuracy) required to earn official lesson mastery."
+      "summary": "Strict timed certification exam (target: ≥80% score) jo official lesson mastery ke liye zaroori hai."
     },
     {
       "id": "step-10",
@@ -106,7 +106,7 @@
       "subtitle": "Mistake Remediation & Retakes",
       "durationMin": 10,
       "type": "error-review",
-      "summary": "Customized review deck of missed questions with targeted re-practice to ensure 100% retention."
+      "summary": "Galat huye questions ka customized revision deck taaki 100% accuracy ensure ho sake."
     }
   ]
 }

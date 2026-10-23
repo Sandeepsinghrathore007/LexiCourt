@@ -1,0 +1,162 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Time Preposition Pyramid: In, On, and At",
+    "time": "Temporal Coordinates",
+    "aspect": "Time Hierarchy",
+    "formula": "IN + Broad Period (Years/Months/Seasons) | ON + 24h Day/Date | AT + Exact Clock Time/Moment",
+    "auxiliary": "in (broad), on (mid-specific), at (pinpoint)",
+    "usage": "Time expressions mein specificity pyramid follow hota hai: 'In' broad time frames ke liye (centuries, decades, years, months, seasons, parts of day: in 2026, in July, in winter, in the morning); 'On' 24-hour calendar days aur dates ke liye (on Monday, on 15th August, on Sunday morning); 'At' exact clock time aur fixed moments ke liye (at 10:00 AM, at noon, at midnight, at night, at Diwali).",
+    "patterns": {
+      "affirmative": "Full Pyramid Hierarchy: \"The High Court session began in 2026, on Monday, at 10:30 AM.\"",
+      "negative": "Parts of Day Nuance: \"He studies in the morning, but sleeps at night.\" (NOT: *in the night for general habit)",
+      "interrogative": "Specific Day Shift: \"Will the Division Bench convene on Monday morning or at noon?\" (Day add hote hi 'in' ban gaya 'on')"
+    },
+    "timeMarkers": ["in 2026", "on Monday", "at 10:00 AM", "at noon", "at night", "on Sunday morning"],
+    "keyTip": "DAY MODIFIER LAW: Agar part of day ke aage day ka naam jud jaye ('Monday morning'), toh 'in' nahi, strictly 'ON' lagta hai. Also, 'this, next, last, every' se pehle preposition omit hota hai ('met him last Sunday', NOT *on last Sunday)."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Place Preposition Matrix: In, On, and At",
+    "time": "Spatial Coordinates",
+    "aspect": "Place & Position",
+    "formula": "IN + 3D Enclosed Space / Territory | ON + 2D Surface / Street | AT + 1D Specific Point / Address",
+    "auxiliary": "in (volume), on (plane), at (point)",
+    "usage": "Place prepositions spatial dimensions par depend karte hain: 'In' 3D volume, enclosure, ya large geographical territory ke liye (in the courtroom, in Jaipur, in India); 'On' 2D physical surface, floor, named street without number, ya public transport ke liye (on the table, on the wall, on High Court Road, on the bus); 'At' specific 1D point, complete address with number, ya functional event ke liye (at the bus stop, at the door, at 45 MG Road, at the meeting).",
+    "patterns": {
+      "affirmative": "Full Address Formula: \"He lives at House 24 on Court Road in Jodhpur.\"",
+      "negative": "Relative Hierarchy: \"The advocate was waiting at the gate, not in his chamber.\"",
+      "interrogative": "Transport Plane Rule: \"Is the magistrate travelling on the train or in a personal car?\""
+    },
+    "timeMarkers": ["in Jaipur", "on the table", "on Court Road", "at the bus stop", "at 14 Station Road"],
+    "keyTip": "BIG vs SMALL PLACE CONCORD: Ek hi sentence mein agar specific point aur bada area aaye, toh chhote ke sath 'AT' aur bade ke sath 'IN' lagta hai: 'He lives at Malviya Nagar in Jaipur'."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Static Enclosure vs Dynamic Entry: In vs Into",
+    "time": "Spatial Dynamics",
+    "aspect": "Boundary Traversal",
+    "formula": "IN = Static Rest Inside Enclosure | INTO = Dynamic Movement Crossing Boundary into Interior",
+    "auxiliary": "in (static state), into (directional vector)",
+    "usage": "'In' denote karta hai ki entity already enclosure ke andar sthir hai, koi boundary cross nahi ho rahi (static state). 'Into' denote karta hai ki entity bahar se chal kar ya move karke interior boundary cross karti hai (dynamic entry). Exam mein action verbs (jump, run, dive, throw, step, rush) ke sath 'into' mandatory hota hai.",
+    "patterns": {
+      "affirmative": "Dynamic Entry: \"The advocate rushed into the courtroom when his case was called.\"",
+      "negative": "Static State: \"The presiding judge was already sitting in the courtroom.\"",
+      "interrogative": "Change of State / Division: \"Can you translate this statutory decree into Hindi?\""
+    },
+    "timeMarkers": ["into the room", "jumped into", "dived into", "in the cupboard", "sitting in"],
+    "keyTip": "DYNAMIC VERB TEST: Agar verb mein outside-to-inside motion hai (jumped, stepped, rushed, threw, poured), toh strictly 'INTO' use karein. Static resting position mein strictly 'IN' lagayein."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Static Surface vs Landing: On vs Onto",
+    "time": "Spatial Dynamics",
+    "aspect": "Surface Landing",
+    "formula": "ON = Static Rest on 2D Surface | ONTO = Movement Bringing Entity on Top of Surface",
+    "auxiliary": "on (contact), onto (landing motion)",
+    "usage": "'On' indicate karta hai ki object surface par already resting position mein hai. 'Onto' indicate karta hai ki movement ke through object kisi surface ke upar jakar land hota hai (elevation or surface contact change).",
+    "patterns": {
+      "affirmative": "Surface Landing: \"The clerk placed the decree onto the judge's desk.\"",
+      "negative": "Static Contact: \"The certified decree is lying on the judge's desk.\"",
+      "interrogative": "Elevation Step: \"Did the witness step onto the witness stand?\""
+    },
+    "timeMarkers": ["onto the table", "jumped onto", "stepped onto", "lying on the floor"],
+    "keyTip": "SURFACE MOTION TEST: 'Onto' = Movement + Surface contact ('cat jumped onto the sofa'). 'On' = Pure existing contact ('cat is sleeping on the sofa')."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Destination Reached vs Directional Heading: To vs Towards",
+    "time": "Directional Vectors",
+    "aspect": "Terminal Destination",
+    "formula": "TO = Terminal Destination Reached | TOWARDS = Direction / Orientation (No Reaching Guarantee)",
+    "auxiliary": "to (destination), towards (heading)",
+    "usage": "'To' denote karta hai final destination jahan person actually pahunchta hai ya target point touch karta hai. 'Towards' sirf movement ki orientation ya heading denote karta hai (kis taraf / kis disha mein), par ye guarantee nahi deta ki person wahan pahuncha ya raste mein hi ruk gaya.",
+    "patterns": {
+      "affirmative": "Destination Reached: \"The legal officer walked to the secretariat and entered the hall.\"",
+      "negative": "General Direction: \"He walked towards the secretariat, but turned into a library midway.\"",
+      "interrogative": "Target Inquiry: \"Are you driving to Jaipur (destination) or towards Ajmer (direction)?\""
+    },
+    "timeMarkers": ["went to", "travelled to", "walked towards", "heading towards"],
+    "keyTip": "DESTINATION DISTINCTION: Agar sentence mein destination par pahunchne ki baat ho, toh 'TO' use karein. Agar sirf facing direction ya heading describe ho rahi ho, toh 'TOWARDS' select karein."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Latest Deadline vs Continuing State: By vs Until",
+    "time": "Temporal Boundaries",
+    "aspect": "Deadline vs Duration",
+    "formula": "BY + Deadline (Not Later Than / Completion) | UNTIL + Terminal Point (Continuing Ongoing State)",
+    "auxiliary": "by (finish point), until (ongoing continuity)",
+    "usage": "'By' ka matlab hai 'not later than'—action specified time se pehle kisi bhi moment par complete ho sakta hai (instant completion / deadline). 'Until' ka matlab hai 'up to the time when'—action starting point se lekar us specified point tak continuously chalta rehta hai (continuous state / duration). Negative 'not...until' delay ko show karta hai.",
+    "patterns": {
+      "affirmative": "Instant Deadline (By): \"All candidates must submit the compliance affidavit by 5:00 PM Friday.\"",
+      "negative": "Ongoing Duration (Until): \"The registry staff remained on duty until 8:00 PM.\"",
+      "interrogative": "Deferred Action (Not... until): \"The judgment will not be pronounced until Monday.\""
+    },
+    "timeMarkers": ["by Friday", "by tomorrow", "by 5 PM", "until tomorrow", "stayed until", "wait until"],
+    "keyTip": "VERB NATURE CHECK: Point-action verbs (submit, finish, complete, arrive) demand 'BY'. Durative verbs (stay, wait, work, remain, continue) demand 'UNTIL'. Dono ko interchange karna classic MCQ trap hai."
+  },
+  {
+    "id": "RC-07",
+    "tense": "Starting Origin vs Measured Duration: Since vs For",
+    "time": "Temporal Anchors",
+    "aspect": "Origin vs Period",
+    "formula": "SINCE + Specific Starting Point (Origin) | FOR + Period of Time (Quantity / Duration)",
+    "auxiliary": "since (point in time), for (measured period)",
+    "usage": "'Since' action ke shuruat ke point (exact day, date, year, event, clause) ko anchor karta hai aur Perfect/Perfect Continuous tenses ke sath co-occur karta hai. 'For' total duration (hours, days, years) ko denote karta hai. 'For' completed past action ke sath Simple Past tense mein bhi 100% grammatically correct hota hai jab action past mein hi khatam ho chuka ho.",
+    "patterns": {
+      "affirmative": "Starting Anchor: \"Justice Sharma has been presiding over this bench since 2021.\"",
+      "negative": "Measured Duration: \"The arbitration hearing has been going on for five hours.\"",
+      "interrogative": "Completed Past with For: \"He practiced as a public prosecutor for ten years.\" (Past job completed)"
+    },
+    "timeMarkers": ["since 2018", "since Monday", "since morning", "for 3 years", "for 2 hours", "for a long time"],
+    "keyTip": "COMPLETED PAST WITH 'FOR': Agar past action poori tarah khatam ho gaya ho, toh 'for' Simple Past leta hai ('He lived in Jaipur for 5 years', now lives in Delhi). Yahan zabardasti 'has lived' force na karein."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Relational Distribution: Between vs Among",
+    "time": "Entity Distribution",
+    "aspect": "Relational Scope",
+    "formula": "BETWEEN = 2 Entities, OR 3+ Distinct Named Entities | AMONG = 3+ Collective Undifferentiated Group",
+    "auxiliary": "between (binary / distinct), among (collective pool)",
+    "usage": "'Between' strictly 2 entities ke liye use hota hai, LEKIN ye 3 ya usse zyada entities ke liye bhi 100% valid hota hai agar har entity individually named ho aur unke beech mutual/bilateral relation ho (jaise: treaties, trade agreements, matches). 'Among' 3 ya usse zyada members ke collective, non-distinct group ya mass distribution ke liye use hota hai.",
+    "patterns": {
+      "affirmative": "Binary Relationship: \"The contract was signed between the vendor and the buyer.\"",
+      "negative": "Multi-Party Distinct Treaty: \"A tripartite extradition treaty was concluded between India, France, and Japan.\"",
+      "interrogative": "Collective Group Pool: \"The relief funds were distributed among the flood victims.\""
+    },
+    "timeMarkers": ["between the two", "between A, B, and C", "among the students", "among the crowd"],
+    "keyTip": "THE 3+ 'BETWEEN' EXCEPTION: Agar multiple entities individually named hain (India, USA, and UK), toh 'BETWEEN' lagta hai, 'among' nahi! Blindly 'between = only 2' sochne wale candidates is trap mein phans jaate hain."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Spatial & Additive Contrasts: Beside vs Besides & Above vs Over",
+    "time": "Relative Positions",
+    "aspect": "Pair Contrasts",
+    "formula": "BESIDE = By the side of (Place) | BESIDES = In addition to (Additive) | OVER = Vertical / Covering | ABOVE = Higher Level",
+    "auxiliary": "beside (place), besides (additive), over (vertical/cover), above (scale)",
+    "usage": "'Beside' ka matlab hota hai 'next to' ya 'by the side of' (bagal mein). 'Besides' ka matlab hota hai 'in addition to' ya 'apart from' (ke alawa). 'Over' direct vertical alignment ya covering contact show karta hai; 'Above' higher rank, standard, scale, ya temperature show karta hai.",
+    "patterns": {
+      "affirmative": "Physical Position (Beside): \"The stenographer sat beside the magistrate during the hearing.\"",
+      "negative": "Additive Meaning (Besides): \"Besides a heavy monetary penalty, the court cancelled his licence.\"",
+      "interrogative": "Vertical vs Scale: \"The bridge is over the river, but the temperature is above normal.\""
+    },
+    "timeMarkers": ["sat beside", "besides this", "bridge over", "temperature above", "above average"],
+    "keyTip": "SPELLING TRAP WITH 'S': 'Beside' (bina 's') = physical seat/location ('by the side'). 'Besides' (with 's') = additional entity ('in addition to'). Har Rajasthan exam ka favorite spot-the-error item!"
+  },
+  {
+    "id": "RC-10",
+    "tense": "The Zero Preposition Law: Direct Transitive Verbs",
+    "time": "Syntax Constraints",
+    "aspect": "Preposition Omission",
+    "formula": "Transitive Verb + Direct Object (Strictly NO Preposition: discuss, enter, order, attack, reach, resemble, marry)",
+    "auxiliary": "Zero preposition (omission)",
+    "usage": "Kuch high-frequency English transitive verbs apna direct object bina kisi preposition ke lete hain. Inke baad preposition lagana redundant aur grammatically fatal hota hai: discuss (NO about), enter [physical] (NO into), order [food/goods] (NO for), attack (NO on), reach (NO to), resemble (NO with/to), marry [active] (NO with), accompany (NO with), sign (NO on).",
+    "patterns": {
+      "affirmative": "Direct Discussion: \"The Full Bench discussed the constitutional validity of the ordinance.\" (NOT: *discussed about)",
+      "negative": "Physical Entry: \"The police inspector entered the premises without a search warrant.\" (NOT: *entered into)",
+      "interrogative": "Order Placement: \"He ordered two sets of court transcripts.\" (NOT: *ordered for)"
+    },
+    "timeMarkers": ["discussed the matter", "entered the room", "ordered lunch", "reached Delhi", "attacked the fort"],
+    "keyTip": "ZERO-PREPOSITION ELIMINATION: Options mein 'discussed about', 'entered into the room', 'ordered for', ya 'attacked on' dekhte hi turant eliminate karein. Transitive verbs direct object lete hain!"
+  }
+]

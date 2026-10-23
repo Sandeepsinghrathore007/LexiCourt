@@ -21,13 +21,13 @@ export default function LessonSubNav() {
   const { isStepCompleted } = useProgress()
 
   return (
-    <nav className="w-[280px] shrink-0 bg-white border border-surface-200 rounded-2xl p-3.5 shadow-xs select-none">
-      <div className="mb-3 px-2 flex items-center justify-between">
+    <nav className="w-full lg:w-[260px] xl:w-[275px] shrink-0 lg:sticky lg:top-2 z-20 bg-white dark:bg-surface-900 border border-surface-200 dark:border-surface-700 rounded-2xl p-3 shadow-xs select-none transition-all duration-200 lg:max-h-[calc(100vh-5.5rem)] lg:overflow-y-auto">
+      <div className="mb-3 px-1.5 flex items-center justify-between sticky top-0 bg-white dark:bg-surface-900 pb-2 z-10 border-b border-surface-100 dark:border-surface-800">
         <div>
-          <h3 className="font-heading font-bold text-xs uppercase tracking-wider text-surface-900">
+          <h3 className="font-heading font-bold text-xs uppercase tracking-wider text-surface-900 dark:text-surface-50">
             Learning Journey
           </h3>
-          <p className="text-[11px] text-surface-500">10 Structured Steps</p>
+          <p className="text-[0.6875rem] text-surface-500 dark:text-surface-300">10 Structured Steps</p>
         </div>
         <Badge variant="primary" size="sm">
           Step {currentStepIndex + 1} of 10
@@ -39,16 +39,17 @@ export default function LessonSubNav() {
           const isActive = currentStepIndex === idx
           const isDone = isStepCompleted(activeLessonId, step.id)
           const typeMeta = STEP_TYPE_BADGES[step.type] || { label: step.type, variant: 'neutral' }
+          const duration = step.durationMin || step.durationMinutes || step.estimatedMinutes || 10
 
           return (
             <button
               key={step.id}
               type="button"
               onClick={() => goToStep(idx)}
-              className={`w-full text-left p-2.5 rounded-xl transition-all flex items-start gap-3 cursor-pointer group ${
+              className={`w-full text-left p-2 rounded-xl transition-all flex items-start gap-2.5 cursor-pointer group ${
                 isActive
-                  ? 'bg-primary-50/90 border border-primary-300 shadow-xs'
-                  : 'hover:bg-surface-50 border border-transparent'
+                  ? 'bg-primary-50/90 dark:bg-primary-950/70 border border-primary-300 dark:border-primary-500/50 shadow-xs'
+                  : 'hover:bg-surface-50 dark:hover:bg-surface-800/80 border border-transparent'
               }`}
             >
               {/* Step Status Indicator Circle */}
@@ -61,8 +62,8 @@ export default function LessonSubNav() {
                   <div
                     className={`w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold font-mono transition-colors ${
                       isActive
-                        ? 'bg-primary-600 text-white ring-4 ring-primary-100'
-                        : 'bg-surface-100 text-surface-500 group-hover:bg-surface-200'
+                        ? 'bg-primary-600 text-white ring-4 ring-primary-100 dark:ring-primary-900/60'
+                        : 'bg-surface-100 dark:bg-surface-800 border border-surface-200 dark:border-surface-700 text-surface-600 dark:text-surface-200 group-hover:bg-surface-200 dark:group-hover:bg-surface-700'
                     }`}
                   >
                     {step.index}
@@ -75,21 +76,21 @@ export default function LessonSubNav() {
                 <div className="flex items-center justify-between gap-1 mb-0.5">
                   <span
                     className={`text-xs font-bold truncate ${
-                      isActive ? 'text-primary-950 font-heading' : 'text-surface-800'
+                      isActive ? 'text-primary-950 dark:text-primary-200 font-heading' : 'text-surface-800 dark:text-surface-100'
                     }`}
                   >
                     {step.title}
                   </span>
-                  <Badge variant={typeMeta.variant} size="sm" className="scale-90 origin-right">
+                  <Badge variant={typeMeta.variant} size="sm" className="scale-90 origin-right shrink-0">
                     {typeMeta.label}
                   </Badge>
                 </div>
-                <p className="text-[11px] text-surface-500 truncate leading-tight">
+                <p className="text-[0.6875rem] text-surface-500 dark:text-surface-300 truncate leading-tight">
                   {step.subtitle}
                 </p>
-                <div className="flex items-center gap-1.5 mt-1 text-[10px] text-surface-400">
+                <div className="flex items-center gap-1.5 mt-1 text-[0.625rem] text-surface-400 dark:text-surface-400">
                   <Clock size={11} />
-                  <span>{step.durationMin} mins</span>
+                  <span>{duration} mins</span>
                 </div>
               </div>
             </button>

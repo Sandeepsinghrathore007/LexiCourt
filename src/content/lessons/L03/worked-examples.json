@@ -1,0 +1,212 @@
+[
+  {
+    "id": "WE-01",
+    "sentence": "If the administrative department ___ (verify) the service records by Friday, the commissioner will issue the appointment orders.",
+    "correctAnswer": "verifies",
+    "tense": "First Conditional (Type 1 Realistic Future)",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Condition Clause = 'If the administrative department ___ the service records'. Result Clause = 'the commissioner will issue the appointment orders' (modal 'will + V1' use hua hai).",
+      "step2_time": "Temporal Alignment: Result clause future event ('will issue') ki baat kar raha hai jo reality mein possible hai.",
+      "step3_aspect": "Type Selection: Realistic future condition ke liye First Conditional (Type 1) rule lagu hota hai: 'If + Simple Present, will + V1'.",
+      "step4_inflection": "Verb Inflection: Subject 'the administrative department' 3rd person singular noun hai, isliye Simple Present mein base verb 'verify' ka 'verifies' banega.",
+      "step5_synthesis": "Final Output: 'If the administrative department verifies the service records by Friday, the commissioner will issue the appointment orders.'"
+    },
+    "trapWarning": "EXAM TRAP: 'Will verify' kabhi na chunein. English mein temporal aur conditional clauses ke andar future marker 'will' strictly prohibited hota hai."
+  },
+  {
+    "id": "WE-02",
+    "sentence": "If the prosecution ___ (present) the call detail records during trial, the bench would have convicted the conspirator.",
+    "correctAnswer": "had presented",
+    "tense": "Third Conditional (Type 3 Unreal Past)",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Condition Clause = 'If the prosecution ___ the call detail records'. Result Clause = 'the bench would have convicted the conspirator' ('would have + V3').",
+      "step2_time": "Temporal Alignment: Result clause past ke finished unfulfilled action ('would have convicted') ko express karta hai jo trial ke waqt nahi hua.",
+      "step3_aspect": "Type Selection: Counterfactual unreal past condition ke liye Third Conditional (Type 3) formula lagta hai: 'If + Past Perfect (had + V3), would have + V3'.",
+      "step4_inflection": "Verb Inflection: Auxiliary 'had' + regular past participle V3 'presented' ➔ 'had presented'.",
+      "step5_synthesis": "Final Output: 'If the prosecution had presented the call detail records during trial, the bench would have convicted the conspirator.'"
+    },
+    "trapWarning": "FATAL DISTRACTOR: 'Would have presented' option mein hamesha diya jata hai. If-clause mein 'would have' lagana fatal error hai; wahan strictly 'had + V3' lagta hai."
+  },
+  {
+    "id": "WE-03",
+    "sentence": "If the clerk ___ (be) more careful with document indexing, he would not misplace urgent writ petitions so frequently.",
+    "correctAnswer": "were",
+    "tense": "Second Conditional Subjunctive 'Were'",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Condition Clause = 'If the clerk ___ more careful...'. Result Clause = 'he would not misplace urgent writ petitions' ('would + V1').",
+      "step2_time": "Temporal Alignment: Result clause present general habit/state ('misplace so frequently') par hypothetical comment kar raha hai.",
+      "step3_aspect": "Type Selection: Hypothetical present condition ke liye Second Conditional (Type 2) rule lagta hai: 'If + Simple Past / Subjunctive were, would + V1'.",
+      "step4_inflection": "Verb Inflection: Formal grammar aur competitive examinations mein imaginary/contrary-to-fact condition mein singular subject ('the clerk') ke sath bhi 'was' ki jagah subjunctive 'were' lagta hai.",
+      "step5_synthesis": "Final Output: 'If the clerk were more careful with document indexing, he would not misplace urgent writ petitions so frequently.'"
+    },
+    "trapWarning": "SUBJUNCTIVE TRAP: Option mein 'was' diya hoga. Informal speech mein log 'was' bol dete hain, lekin High Court exam mein contrary-to-fact clause mein strictly 'were' hi sahi answer hota hai."
+  },
+  {
+    "id": "WE-04",
+    "sentence": "Had the municipal authority ___ (issue) the statutory notice in advance, the demolition would not have been declared illegal.",
+    "correctAnswer": "issued",
+    "tense": "Had Inversion (Type 3 Inverted Condition)",
+    "steps": {
+      "step1_marker": "Structure Identify Karein: Sentence 'Had' se shuru ho raha hai bina 'if' ke: 'Had + the municipal authority + ___'. Result clause: 'would not have been declared' ('would have + V3').",
+      "step2_time": "Temporal Alignment: Beete huye past demolition action ki unfulfilled condition hai.",
+      "step3_aspect": "Type Selection: Ye Type 3 conditional ka formal inverted structure hai: 'Had + Subject + V3 ..., Subject + would have + V3'.",
+      "step4_inflection": "Verb Inflection: Auxiliary 'Had' already subject se pehle aa chuka hai, isliye blank mein main verb ka past participle V3 'issued' aayega.",
+      "step5_synthesis": "Final Output: 'Had the municipal authority issued the statutory notice in advance, the demolition would not have been declared illegal.'"
+    },
+    "trapWarning": "INVERSION TRAP: 'Had the authority issue' (V1) ya 'Had the authority would issue' bilkul galat hain. Had inversion mein main verb hamesha V3 (past participle) hoti hai."
+  },
+  {
+    "id": "WE-05",
+    "sentence": "If iron ___ (expose) to moist air over a period of time, it corrodes.",
+    "correctAnswer": "is exposed",
+    "tense": "Zero Conditional (Type 0 Universal Truth / Passive)",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Condition Clause = 'If iron ___ to moist air'. Result Clause = 'it corrodes' (Simple Present V_s/es).",
+      "step2_time": "Temporal Alignment: Iron ka corrode hona ek permanent universal metallurgical aur chemical law hai.",
+      "step3_aspect": "Type Selection: Universal physical fact ke liye Zero Conditional (Type 0) rule lagta hai: dono clauses Simple Present mein rehte hain.",
+      "step4_inflection": "Voice & Inflection: Subject 'iron' khud action nahi karta balki us par action hota hai (passive voice). Simple Present passive = 'is exposed'.",
+      "step5_synthesis": "Final Output: 'If iron is exposed to moist air over a period of time, it corrodes.'"
+    },
+    "trapWarning": "TENSE & VOICE TRAP: 'Will be exposed' ya 'was exposed' na chunein. Permanent scientific processes hamesha Simple Present mein express kiye jaate hain."
+  },
+  {
+    "id": "WE-06",
+    "sentence": "If the senior system assistant had migrated the database last month, our servers ___ (run) on the new Linux kernel today.",
+    "correctAnswer": "would run",
+    "tense": "Mixed Conditional (Past Condition ➔ Present Result)",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Condition Clause = 'If the senior system assistant had migrated the database last month' ('had + V3' with past marker 'last month'). Result Clause contains present time marker 'today'.",
+      "step2_time": "Temporal Alignment: Condition past ki unfulfilled event hai ('last month'), lekin result aaj present moment ka state hai ('today').",
+      "step3_aspect": "Type Selection: Ye Mixed Conditional hai (Type 3 Condition + Type 2 Result): 'If + Past Perfect, Subject + would + V1 (present)'.",
+      "step4_inflection": "Verb Inflection: Modal 'would' + base verb V1 'run' ➔ 'would run'.",
+      "step5_synthesis": "Final Output: 'If the senior system assistant had migrated the database last month, our servers would run on the new Linux kernel today.'"
+    },
+    "trapWarning": "MIXED ADVERB TRAP: Candidates 'had migrated' dekhkar blindly 'would have run' laga dete hain. Lekin dhyan se dekhein: end mein 'today' likha hai! Isliye 'would run' correct hai."
+  },
+  {
+    "id": "WE-07",
+    "sentence": "Unless the petitioner ___ (furnish) the certified copy of the decree, the appeal will be dismissed at the threshold.",
+    "correctAnswer": "furnishes",
+    "tense": "Unless with Affirmative Present Simple",
+    "steps": {
+      "step1_marker": "Conjunction Identify Karein: Sentence 'Unless' se shuru ho raha hai ('Unless the petitioner ___'). Result clause = 'the appeal will be dismissed' (future passive).",
+      "step2_time": "Temporal Alignment: Future condition with realistic possibility.",
+      "step3_aspect": "Rule Selection: 'Unless' = 'If not'. Iske clause mein doosra negative word nahi aa sakta, aur tense Simple Present lagta hai (First Conditional logic).",
+      "step4_inflection": "Verb Inflection: 3rd person singular subject 'the petitioner' ke sath Simple Present affirmative V_s/es 'furnishes' aayega.",
+      "step5_synthesis": "Final Output: 'Unless the petitioner furnishes the certified copy of the decree, the appeal will be dismissed at the threshold.'"
+    },
+    "trapWarning": "DOUBLE NEGATIVE TRAP: 'Unless the petitioner does not furnish' bilkul galat option hai. 'Unless' already negative hai, isliye iske sath 'does not' kabhi nahi lagta."
+  },
+  {
+    "id": "WE-08",
+    "sentence": "Should you ___ (encounter) any technical difficulty during the computer typing test, raise your hand immediately.",
+    "correctAnswer": "encounter",
+    "tense": "Should Inversion (Type 1 Inverted Condition)",
+    "steps": {
+      "step1_marker": "Structure Identify Karein: Sentence 'Should' se start ho raha hai: 'Should you ___ any technical difficulty...'. Result clause: 'raise your hand immediately' (Imperative instruction).",
+      "step2_time": "Temporal Alignment: Future realistic contingency ('if you happen to encounter').",
+      "step3_aspect": "Type Selection: Ye Type 1 conditional ki formal inversion hai: 'Should + Subject + V1 ..., Imperative / will + V1'.",
+      "step4_inflection": "Verb Inflection: Modal auxiliary 'Should' ke baad hamesha base verb V1 'encounter' aati hai.",
+      "step5_synthesis": "Final Output: 'Should you encounter any technical difficulty during the computer typing test, raise your hand immediately.'"
+    },
+    "trapWarning": "MEANING DISAMBIGUATION: Yahan 'Should' ka matlab 'chahiye' (duty) nahi hai, balki formal conditional 'if by chance' hai. Iske baad verb ki base form V1 hi aati hai."
+  },
+  {
+    "id": "WE-09",
+    "sentence": "Were the high court ___ (sanction) additional digital courtrooms, the trial backlog would decrease substantially.",
+    "correctAnswer": "to sanction",
+    "tense": "Were Inversion with Action Verb (Type 2 Inverted)",
+    "steps": {
+      "step1_marker": "Structure Identify Karein: Sentence 'Were' se shuru ho raha hai: 'Were the high court ___ additional digital courtrooms...'. Result clause: 'would decrease' ('would + V1').",
+      "step2_time": "Temporal Alignment: Hypothetical present/future situation.",
+      "step3_aspect": "Type Selection: Jab Type 2 conditional mein action verb ko 'Were' ke sath invert karte hain, toh structure banta hai: 'Were + Subject + to + V1 ..., would + V1'.",
+      "step4_inflection": "Verb Inflection: Inverted infinitive construction: 'to' + base verb 'sanction' ➔ 'to sanction'.",
+      "step5_synthesis": "Final Output: 'Were the high court to sanction additional digital courtrooms, the trial backlog would decrease substantially.'"
+    },
+    "trapWarning": "INFINITIVE INVERSION TRAP: 'Were the high court sanctioned' (V2/V3) galat hai. Action verbs ke sath 'Were + Subject + to + V1' ka pattern lagta hai."
+  },
+  {
+    "id": "WE-10",
+    "sentence": "If I ___ (know) the legal provisions regarding contempt of court, I would explain them to the junior advocates now.",
+    "correctAnswer": "knew",
+    "tense": "Second Conditional (Hypothetical Present State)",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Condition Clause = 'If I ___ the legal provisions'. Result Clause = 'I would explain them to the junior advocates now' ('would + V1' with present adverb 'now').",
+      "step2_time": "Temporal Alignment: Reality ye hai ki speaker ko present mein provisions nahi pata ('I do not know right now').",
+      "step3_aspect": "Type Selection: Present hypothetical situation ke liye Second Conditional (Type 2) rule lagta hai: 'If + Simple Past (V2), would + V1'.",
+      "step4_inflection": "Verb Inflection: Irregular verb 'know' ka Simple Past V2 form 'knew' hota hai.",
+      "step5_synthesis": "Final Output: 'If I knew the legal provisions regarding contempt of court, I would explain them to the junior advocates now.'"
+    },
+    "trapWarning": "'Had known' tab aata jab result mein 'would have explained' hota (past unreal). Result mein 'would explain' (V1) hai, isliye if-clause mein sirf 'knew' (V2) aayega."
+  },
+  {
+    "id": "WE-11",
+    "sentence": "If the forensic laboratory had processed the ballistics evidence faster, the police ___ (could / crack) the syndicate last year.",
+    "correctAnswer": "could have cracked",
+    "tense": "Third Conditional Modal Variation (Past Ability)",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Condition Clause = 'If the forensic laboratory had processed...' ('had + V3' Past Perfect). Result Clause past time marker 'last year' contain karta hai.",
+      "step2_time": "Temporal Alignment: Past unreal condition aur past missed ability.",
+      "step3_aspect": "Type Selection: Third Conditional mein past capability/ability express karne ke liye 'could have + V3' lagta hai.",
+      "step4_inflection": "Verb Inflection: Modal 'could have' + past participle V3 'cracked'.",
+      "step5_synthesis": "Final Output: 'If the forensic laboratory had processed the ballistics evidence faster, the police could have cracked the syndicate last year.'"
+    },
+    "trapWarning": "'Could crack' (Type 2) na chunein kyunki baat past year ke finished event ki hai. Unreal past ability ke liye hamesha 'could have + V3' lagta hai."
+  },
+  {
+    "id": "WE-12",
+    "sentence": "Provided that the candidate ___ (possess) a valid RSCIT certificate, he is eligible for the System Assistant post.",
+    "correctAnswer": "possesses",
+    "tense": "Provided That with Present Condition",
+    "steps": {
+      "step1_marker": "Conjunction Identify Karein: 'Provided that' (= on the condition that) se conditional clause shuru ho raha hai. Result: 'he is eligible' (Simple Present).",
+      "step2_time": "Temporal Alignment: Official eligibility rule jo general criterion ko define karta hai.",
+      "step3_aspect": "Rule Selection: 'Provided that' ke baad factual/standard rule ke liye Simple Present tense lagta hai.",
+      "step4_inflection": "Verb Inflection: Subject 'the candidate' singular hai, isliye verb 'possess' ka 'possesses' banega.",
+      "step5_synthesis": "Final Output: 'Provided that the candidate possesses a valid RSCIT certificate, he is eligible for the System Assistant post.'"
+    },
+    "trapWarning": "'Provided that the candidate will possess' galat hai. Conditional conjunctions ke baad future 'will' use nahi hota."
+  },
+  {
+    "id": "WE-13",
+    "sentence": "If you require emergency leave for judicial duties, ___ (submit) an application to the District Judge directly.",
+    "correctAnswer": "submit",
+    "tense": "First Conditional with Imperative Result",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Condition Clause = 'If you require emergency leave...' (Simple Present V1). Result Clause mein subject missing hai.",
+      "step2_time": "Temporal Alignment: Procedural instruction for future contingency.",
+      "step3_aspect": "Type Selection: Jab result clause direct instruction ya order hota hai, toh imperative mood use hota hai.",
+      "step4_inflection": "Verb Inflection: Imperative sentence base form V1 se shuru hota hai: 'submit'.",
+      "step5_synthesis": "Final Output: 'If you require emergency leave for judicial duties, submit an application to the District Judge directly.'"
+    },
+    "trapWarning": "Option mein 'you will submit' aur 'submitting' diye hote hain. Direct instruction ke liye standard base form 'submit' correct hai."
+  },
+  {
+    "id": "WE-14",
+    "sentence": "Had the defense counsel not ___ (object) to the hearsay testimony, the magistrate would have admitted it into evidence.",
+    "correctAnswer": "objected",
+    "tense": "Negative Had Inversion (Type 3 Inverted)",
+    "steps": {
+      "step1_marker": "Structure Identify Karein: Negative inverted construction: 'Had + Subject (the defense counsel) + not + ___'. Result clause: 'would have admitted'.",
+      "step2_time": "Temporal Alignment: Unreal past trial proceeding.",
+      "step3_aspect": "Type Selection: Type 3 negative inversion: 'Had + Subject + not + V3 ..., would have + V3'.",
+      "step4_inflection": "Verb Inflection: Blank 'not' ke baad hai, jahan main verb ka past participle V3 'objected' lagega.",
+      "step5_synthesis": "Final Output: 'Had the defense counsel not objected to the hearsay testimony, the magistrate would have admitted it into evidence.'"
+    },
+    "trapWarning": "WORD ORDER WARNING: Dhyan dein ki 'not' subject ke baad aaya hai ('Had the defense counsel not objected'). 'Had not the defense counsel objected' likhna modern standard exams mein error mana jata hai."
+  },
+  {
+    "id": "WE-15",
+    "sentence": "If you heat ice above zero degrees Celsius, it ___ (melt).",
+    "correctAnswer": "melts",
+    "tense": "Zero Conditional (Type 0 Physical Fact)",
+    "steps": {
+      "step1_marker": "Clauses Identify Karein: Condition Clause = 'If you heat ice above zero degrees Celsius' (Simple Present V1). Result Clause = 'it ___'.",
+      "step2_time": "Temporal Alignment: Barf ka 0°C se upar pighalna ek permanent physical necessity hai.",
+      "step3_aspect": "Type Selection: Factual physical reality ke liye Zero Conditional (Type 0) rule lagta hai: Simple Present + Simple Present.",
+      "step4_inflection": "Verb Inflection: Subject 'it' 3rd person singular hai, isliye Simple Present verb 'melt' ka 'melts' banega.",
+      "step5_synthesis": "Final Output: 'If you heat ice above zero degrees Celsius, it melts.'"
+    },
+    "trapWarning": "RESULT CLAUSE OVER-COMPLICATION: 'It will melt' ya 'it would melt' options galat hain. Permanent physical facts hamesha Simple Present 'melts' mein hi likhe jaate hain."
+  }
+]

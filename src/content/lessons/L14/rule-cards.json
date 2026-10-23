@@ -1,0 +1,194 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Entity Count Boundaries: Binary (2) vs Group (3+)",
+    "time": "Comparison Fundamentals",
+    "aspect": "Formulas & Patterns",
+    "formula": "2 Entities = Comparative with 'the' ('the taller of the two')  |  3+ Entities = Superlative ('the tallest of all')",
+    "auxiliary": "the + comparative (for exactly 2) vs the + superlative (for 3+)",
+    "usage": "Jab sentence mein strictly do individuals, objects ya choices ka comparison ho, toh Superlative lagana grammatical error hai; comparative degree ke pehle 'the' lagakar use kiya jata hai. Jab teen ya teen se zyada members ka group ho, tab superlative degree use hoti hai.",
+    "patterns": {
+      "affirmative": "Binary (2 Items): \"Of the two judicial candidates, Mr. Sharma is the more competent.\" (NOT: *most competent)",
+      "negative": "Group (3+ Items): \"Of all the three advocates, Mr. Sen is the most articulate.\" (Superlative valid)",
+      "interrogative": "Exam Choice: \"Between tea and coffee, which one is the better beverage?\" (NOT: *the best)"
+    },
+    "timeMarkers": ["of the two", "between the two", "of all", "in the group", "binary choice"],
+    "keyTip": "BINARY BOUNDARY LAW: 'Of the two...' phrase dekhte hi Superlative option ko eliminate kar dein. Exactly 2 entities ke liye hamesha 'THE + Comparative' select karein ('the better of the two')."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Regular Inflections & CVC Consonant Doubling",
+    "time": "Inflection & Irregulars",
+    "aspect": "Formulas & Patterns",
+    "formula": "1-Syllable: Adj + -er / -est  |  CVC: Double Consonant (big ➔ bigger)  |  -y: -ier / -iest (heavy ➔ heavier)",
+    "auxiliary": "-er / -est suffixes with mandatory spelling shifts",
+    "usage": "Short adjectives mein '-er' aur '-est' suffix lagta hai. Short vowel + single consonant (CVC pattern) hone par final consonant double hota hai (hot ➔ hotter, thin ➔ thinner). Consonant + 'y' hone par 'y' change hokar 'i' ban jata hai (easy ➔ easier ➔ easiest).",
+    "patterns": {
+      "affirmative": "CVC Rule: \"Today is hotter than yesterday.\" (hot + t + er)",
+      "negative": "Consonant + Y: \"The judicial docket is heavier this week.\" (heavy ➔ heavier)",
+      "interrogative": "Silent -e: \"Justice Verma is wiser than his colleagues.\" (wise ➔ wiser)"
+    },
+    "timeMarkers": ["-er / -est", "hotter/hottest", "bigger/biggest", "heavier/heaviest", "easier/easiest"],
+    "keyTip": "SPELLING VERIFICATION: Examiner aksar '*biger', '*hoter', ya '*heavyer' likhkar distract karta hai. CVC consonant doubling aur 'y' to 'i' rules verify karna aapka pehla filter hona chahiye."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Irregular Adjectives & Suppletive Grading",
+    "time": "Inflection & Irregulars",
+    "aspect": "Formulas & Patterns",
+    "formula": "Good/Well ➔ Better ➔ Best  |  Bad/Ill ➔ Worse ➔ Worst  |  Far ➔ Farther (Dist) / Further (Addl)",
+    "auxiliary": "Suppletive root shifts (never add -er, -est, or more/most)",
+    "usage": "In adjectives ke forms completely alag root words se bante hain. Inke sath regular suffixes lagana strictly prohibited hai. High Court exam mein recurring pairs: bad/worse/worst, far/farther/further, late/later/latter, little/less/least.",
+    "patterns": {
+      "affirmative": "Bad ➔ Worse: \"The server response was worse during peak court hours.\" (NOT: *badder)",
+      "negative": "Farther vs Further: \"The police conducted further investigation without travelling farther.\" (further = addl, farther = dist)",
+      "interrogative": "Late ➔ Latter: \"Between civil and criminal jurisdiction, the latter requires stricter proof.\""
+    },
+    "timeMarkers": ["better/best", "worse/worst", "farther/further", "less/least", "latter/last"],
+    "keyTip": "FARTHER vs FURTHER RULE: Physical distance (km/miles) ke liye strictly 'farther' lagayein. Additional/abstract progression ke liye strictly 'further' lagayein ('until further orders')."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Equality ('as...as') vs Inequality ('not as/so...as')",
+    "time": "Comparison Fundamentals",
+    "aspect": "Formulas & Patterns",
+    "formula": "Affirmative: S1 + is + as + ADJ + as + S2  |  Negative: S1 + is + NOT as/so + ADJ + as + S2",
+    "auxiliary": "as...as (affirmative & negative) vs so...as (strictly negative)",
+    "usage": "Equality express karne ke liye affirmative sentence mein 'as + base adjective + as' lagta hai. Inequality express karne ke liye negative sentence mein 'not as...as' ya 'not so...as' lagta hai. 'so...as' affirmative sentence mein kabhi nahi aa sakta.",
+    "patterns": {
+      "affirmative": "Affirmative Parity: \"The High Court library is as resourceful as the National Law University library.\"",
+      "negative": "Negative Disparity: \"The junior clerk is not so experienced as the superintendent.\"",
+      "interrogative": "Exam Polarity: \"Ajmer is not as populous as Jaipur.\" ➔ \"Jaipur is more populous than Ajmer.\""
+    },
+    "timeMarkers": ["as...as", "not as...as", "not so...as", "parity", "equality"],
+    "keyTip": "POLARITY RULE: Affirmative sentences mein 'so...as' lagana fatal error hai ('*Ramesh is so tall as Suresh' is WRONG). Affirmative mein strictly 'as...as' hi valid hai."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Double Comparative & Superlative Ban (Pleonasm)",
+    "time": "Sentence Correction & Traps",
+    "aspect": "Error Traps & Syntax",
+    "formula": "NO: *more + -er (e.g. *more better)  |  NO: *most + -est (e.g. *most fastest)",
+    "auxiliary": "Single morphological inflection only (avoid redundant periphrasis)",
+    "usage": "Jab kisi adjective ka comparative form already '-er' ya irregular root se ban chuka ho, toh uske aage 'more' lagana redundant pleonasm hai. Waise hi '-est' ke sath 'most' lagana prohibited hai.",
+    "patterns": {
+      "affirmative": "Eliminate Double Comparative: \"The digitized registry is better than the older manual system.\" (NOT: *more better)",
+      "negative": "Eliminate Double Superlative: \"He is the fastest typist on the examination panel.\" (NOT: *most fastest)",
+      "interrogative": "Error Spotting: \"This route is easier than that.\" (NOT: *more easier)"
+    },
+    "timeMarkers": ["*more better", "*more taller", "*more easier", "*most fastest", "*more preferable"],
+    "keyTip": "INSTANT ELIMINATION: Options mein '*more better', '*more easier', '*more taller', ya '*most smartest' dekhte hi unhe immediately eliminate kar dein. Single comparative/superlative marker hi valid hai."
+  },
+  {
+    "id": "RC-06",
+    "tense": "The Latin Comparative Law: '-OR' Adjectives Take 'TO'",
+    "time": "Sentence Correction & Traps",
+    "aspect": "Error Traps & Syntax",
+    "formula": "Senior, Junior, Superior, Inferior, Prior, Anterior, Posterior + TO (NEVER THAN!)",
+    "auxiliary": "Latin comparative + TO (never than, never preceded by more/most)",
+    "usage": "Latin origin ke adjectives ending in '-or' (senior, junior, superior, inferior, prior) degree comparison ke liye 'than' nahi lete, balki preposition 'TO' demand karte hain. Inke pehle 'more' lagana bhi prohibited hai.",
+    "patterns": {
+      "affirmative": "Senior TO: \"The System Assistant is three years junior to the System Officer.\" (NOT: *junior than)",
+      "negative": "Superior TO: \"This digital firewall is superior to previous security measures.\" (NOT: *superior than)",
+      "interrogative": "Prior TO: \"The circular was issued prior to the official announcement.\" (NOT: *prior than)"
+    },
+    "timeMarkers": ["senior to", "junior to", "superior to", "inferior to", "prior to", "NEVER than"],
+    "keyTip": "THE -OR LAW: Adjectives ending in -or (senior, junior, superior, inferior, prior) ALWAYS take 'TO', never 'THAN', and never take 'MORE' (*more senior is WRONG in degree comparison)."
+  },
+  {
+    "id": "RC-07",
+    "tense": "The 'Prefer...To' and 'Preferable To' Law",
+    "time": "Sentence Correction & Traps",
+    "aspect": "Error Traps & Syntax",
+    "formula": "prefer [X] TO [Y]  |  [X] is preferable TO [Y] (NEVER THAN, NEVER MORE PREFERABLE)",
+    "auxiliary": "prefer / preferable + TO (never than)",
+    "usage": "Verb 'prefer' aur adjective 'preferable' do choices ke comparison mein hamesha preposition 'TO' lete hain, 'THAN' kabhi nahi. Aur 'preferable' already comparative force carry karta hai, isliye iske aage 'more' lagana double comparative error hai.",
+    "patterns": {
+      "affirmative": "Prefer Verb: \"Most advocates prefer electronic filing to physical submissions.\" (NOT: *prefer than)",
+      "negative": "Preferable Adjective: \"Mediation is preferable to protracted litigation.\" (NOT: *preferable than, NOT: *more preferable)",
+      "interrogative": "Gerund Concord: \"He prefers reading law journals to watching television.\""
+    },
+    "timeMarkers": ["prefer...to", "preferable to", "NEVER prefer than", "NEVER more preferable"],
+    "keyTip": "PREFER CONCORD: 'Prefer' and 'preferable' demand 'TO'. If followed by verbs, both verbs must be Gerunds (-ing): 'prefer doing X to doing Y'."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Group Self-Exclusion: 'Than Any Other + Singular Noun'",
+    "time": "Group Concord & Self-Exclusion",
+    "aspect": "Error Traps & Syntax",
+    "formula": "Subject + Comparative + than ANY OTHER + Singular Noun (to exclude subject from its own group)",
+    "auxiliary": "than any other + singular noun  /  than all other + plural noun",
+    "usage": "Jab comparative degree mein kisi entity ko usi ke category ke doosre members se compare kiya jata hai, toh subject ko group se EXCLUDE karne ke liye 'OTHER' lagana mandatory hai. 'Other' na lagane par subject khud se compare ho jata hai.",
+    "patterns": {
+      "affirmative": "Correct Self-Exclusion: \"Iron is more useful than any other metal.\" (Iron is a metal; needs 'other')",
+      "negative": "Omitted Other Trap: \"*Iron is more useful than any metal.\" (WRONG: excludes iron from nothing)",
+      "interrogative": "Outside Group Exception: \"Gold is more precious than any metal found in this river.\" (Valid if gold is absent from river)"
+    },
+    "timeMarkers": ["any other + singular", "all other + plural", "self-exclusion", "category comparison"],
+    "keyTip": "SELF-EXCLUSION CHECK: Kya subject right-hand side wale group ka hissa hai? Agar haan, toh 'OTHER' 100% zaroori hai: 'than any other + singular noun' ya 'than all other + plural noun'."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Logical Equivalence in Comparisons: 'That of' & 'Those of'",
+    "time": "Sentence Correction & Traps",
+    "aspect": "Error Traps & Syntax",
+    "formula": "Singular: ...than THAT OF + Noun  |  Plural: ...than THOSE OF + Noun (Avoid entity mismatch)",
+    "auxiliary": "that of (singular attribute) / those of (plural attributes)",
+    "usage": "Comparison hamesha equivalent entities ke beech hona chahiye. Ek city ke climate ka comparison doosri city se nahi ho sakta; doosri city ke climate se hi hona chahiye. Noun repetition avoid karne ke liye singular mein 'that of' aur plural mein 'those of' use kiya jata hai.",
+    "patterns": {
+      "affirmative": "Singular Attribute: \"The climate of Jaipur is hotter than that of Shimla.\" (NOT: *hotter than Shimla)",
+      "negative": "Plural Attributes: \"The roads of Chandigarh are wider than those of Delhi.\" (NOT: *wider than Delhi)",
+      "interrogative": "Exam Trap: \"The decisions of the Chief Justice are more authoritative than those of any other judge.\""
+    },
+    "timeMarkers": ["that of", "those of", "logical comparison", "parallelism", "entity equivalence"],
+    "keyTip": "PARALLELISM CHECK: Kya 'population', 'climate', 'speed', ya 'duties' compare ho rahe hain? Agar haan, toh 'than' ke baad seedhe city/person ka naam nahi aa sakta; 'that of' ya 'those of' zaroor check karein."
+  },
+  {
+    "id": "RC-10",
+    "tense": "The 'One of the' Superlative Concord Formula",
+    "time": "Group Concord & Self-Exclusion",
+    "aspect": "Formulas & Patterns",
+    "formula": "Subject + Verb + ONE OF THE + Superlative + PLURAL NOUN + in/of Group",
+    "auxiliary": "one of the + superlative + PLURAL NOUN",
+    "usage": "Jab subject top bracket (elite group) ke kuch best members mein se ek ho, toh 'one of the + superlative' use hota hai. Selection multiple members mein se hi ho sakta hai, isliye iske baad aane wala noun hamesha PLURAL hota hai.",
+    "patterns": {
+      "affirmative": "Correct Plural Concord: \"Dr. Sharma is one of the most competent advocates on the panel.\" (NOT: *advocate)",
+      "negative": "Error Spotting: \"*Justice Verma is one of the greatest judge in India.\" (Correction: judges)",
+      "interrogative": "Transformation: \"Very few advocates on the panel are as competent as Dr. Sharma.\""
+    },
+    "timeMarkers": ["one of the", "superlative + plural noun", "very few", "than most other", "top bracket"],
+    "keyTip": "NOUN NUMBER CONCORD: 'One of the' phrase ke baad aane wale noun ko hamesha plural check karein ('one of the best students', NOT *student). Ye High Court exam ka classic trap hai."
+  },
+  {
+    "id": "RC-11",
+    "tense": "Two Qualities of the Same Entity ('More...Than')",
+    "time": "Comparison Fundamentals",
+    "aspect": "Formulas & Patterns",
+    "formula": "Subject + Verb + MORE + Positive Adjective 1 + than + Positive Adjective 2",
+    "auxiliary": "more + positive (never use -er when comparing two qualities of same person)",
+    "usage": "Jab do alag persons ka comparison nahi ho raha ho, balki EK HI VYAKTI ya OBJECT ki DO ALAG QUALITIES ka comparison ho raha ho, toh suffix '-er' prohibited hota hai. Hamesha 'MORE + base adjective' lagaya jata hai.",
+    "patterns": {
+      "affirmative": "Two Qualities: \"The public prosecutor is more brave than wise.\" (NOT: *braver than wise)",
+      "negative": "Same Entity: \"The junior assistant is more diligent than intelligent.\" (Comparing diligence vs intelligence)",
+      "interrogative": "Exam Pattern: \"She is more polite than sincere in her courtroom remarks.\""
+    },
+    "timeMarkers": ["more [adj1] than [adj2]", "two qualities", "same entity", "never -er"],
+    "keyTip": "SINGLE ENTITY LAW: Agar ek hi person ki 2 qualities compare ho rahi hain ('brave vs wise'), toh '-er' form lagana 100% wrong hai. Strictly 'more brave than wise' use karein."
+  },
+  {
+    "id": "RC-12",
+    "tense": "Parallel Progression: 'The More..., The More...'",
+    "time": "Comparison Fundamentals",
+    "aspect": "Formulas & Patterns",
+    "formula": "THE + Comparative Degree + Subject + Verb ..., THE + Comparative Degree + Subject + Verb ...",
+    "auxiliary": "The + comparative ..., the + comparative ... (correlative structure)",
+    "usage": "Jab do situations ek doosre ke directly ya inversely proportional hoti hain (ek cheez badhne se doosri proportionally badhti/ghat-ti hai), toh correlative structure use hota hai jisme dono comparative clauses ke shuru mein definite article 'THE' lagta hai.",
+    "patterns": {
+      "affirmative": "Parallel Progression: \"The higher you climb, the colder it gets.\" (Both have 'The + Comparative')",
+      "negative": "Inverse Progression: \"The more you practice, the less difficult the legal paper appears.\"",
+      "interrogative": "Proportionality: \"The earlier the court convenes, the sooner the backlog will clear.\""
+    },
+    "timeMarkers": ["the higher, the cooler", "the more, the better", "the sooner, the better", "correlative"],
+    "keyTip": "CORRELATIVE INTEGRITY: Dono clauses mein 'THE + Comparative' hona mandatory hai. Agar examiner ek clause se 'The' drop kar de ya comparative ki jagah positive use kare, toh wo error hai."
+  }
+]

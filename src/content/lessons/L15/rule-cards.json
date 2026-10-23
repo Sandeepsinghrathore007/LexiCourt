@@ -1,0 +1,226 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Coordinating Conjunctions (FANBOYS) & Clause Comma Rule",
+    "time": "Clause Coordination",
+    "aspect": "Syntactic Punctuation Rules",
+    "formula": "[Independent Clause 1] , + [For / And / Nor / But / Or / Yet / So] + [Independent Clause 2]",
+    "auxiliary": "Mandatory comma before coordinating conjunction when linking two independent clauses",
+    "usage": "Jab FANBOYS do independent clauses (jinme apna subject aur finite verb ho) ko connect karte hain, toh coordinating conjunction se pehle comma lagana compulsory hai. Lekin agar sirf do words ya compound predicates (single subject with two verbs) jud rahe hon, toh comma lagana strictly prohibited hai.",
+    "patterns": {
+      "affirmative": "Two Clauses (Comma Mandatory): \"The high court delivered its landmark verdict, and the state government notified the rules immediately.\"",
+      "negative": "Compound Predicate (Zero Comma): \"The advocate examined the witness and presented the forensic report.\" (NOT: *'examined, and presented')",
+      "interrogative": "Nor Inversion: \"He did not accept the allegations, nor did he provide an explanation for his absence.\""
+    },
+    "timeMarkers": ["for", "and", "nor", "but", "or", "yet", "so"],
+    "keyTip": "FANBOYS COMMA TEST: Check karein ki conjunction ke baad poora sentence (Subject + Verb) hai ya sirf verb. Agar Subject + Verb hai toh comma lagega; agar sirf verb hai toh zero comma."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Zero Double-Conjunction Law (Subordinating Trap)",
+    "time": "Subordination Syntax",
+    "aspect": "Syntactic Redundancy Rules",
+    "formula": "Either [Although / Even though Clause] , [Main Clause] OR [Clause 1] , but [Clause 2] (Never Both)",
+    "auxiliary": "Zero coordinating connective in main clause when subordinate connective is present",
+    "usage": "Agar sentence Subordinating Conjunction (Although, Though, Even though, Because, Since, As) se shuru hota hai, toh main clause se pehle 'yet', 'but', 'so', ya 'therefore' lagana pleonastic error (double conjunction error) hai. Dono clauses ke beech sirf ek COMMA aayega.",
+    "patterns": {
+      "affirmative": "Correct Single Connective: \"Although the evidence was circumstantial, the judge convicted the accused.\"",
+      "negative": "Fatal Double Conjunction Trap: *\"Although the evidence was circumstantial, but/yet the judge convicted the accused.\" (INCORRECT)",
+      "interrogative": "Because Trap: \"Because the petitioner was indigent, the court granted free legal aid.\" (NOT: *'Because..., therefore...')\""
+    },
+    "timeMarkers": ["although", "though", "even though", "because", "since", "as"],
+    "keyTip": "ONE CONNECTIVE ONLY: Subordinate clause ke sath sentence shuru hone par beech mein 'but' ya 'so/therefore' dekhte hi error mark karein. Sirf comma aayega."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Conjunction vs Preposition: 'Although' vs 'Despite' Rule",
+    "time": "Clause vs Noun Phrase",
+    "aspect": "Structural Selection Rules",
+    "formula": "Although + [Subject + Verb (Clause)] | Despite / In spite of + [Noun Phrase / Gerund (No finite verb)]",
+    "auxiliary": "Never attach 'of' to 'despite'; never follow 'despite' with a finite clause",
+    "usage": "'Although' ek conjunction hai jo poore clause (Subject + Finite Verb) ke sath lagta hai. 'Despite' aur 'In spite of' prepositions hain jo noun phrase ya gerund (-ing) ke sath lagte hain. High Court exam mein do traps aate hain: (1) '*Despite of' likhna (illegal), aur (2) 'Despite' ke baad finite verb clause laga dena.",
+    "patterns": {
+      "affirmative": "Conjunction + Clause: \"Although the weather was inclement, the division bench sat at 10:30 AM.\"",
+      "negative": "Preposition + Noun: \"Despite the inclement weather, the division bench sat at 10:30 AM.\"",
+      "interrogative": "The 'In spite of' Form: \"In spite of receiving the summons, the witness failed to appear.\""
+    },
+    "timeMarkers": ["although + clause", "despite + noun", "in spite of + noun", "never 'despite of'"],
+    "keyTip": "DESPITE OF TRAP: 'Despite' ke sath 'of' lagana strictly prohibited hai ('*despite of the rain' is wrong). 'In spite of' mein 'of' compulsory hai."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Correlative Conjunctions & Strict Structural Parallelism",
+    "time": "Paired Balance",
+    "aspect": "Parallelism Syntax Rules",
+    "formula": "Subject + Verb + [Correlative 1 + X] + [Correlative 2 + X] (Where X = identical grammatical form)",
+    "auxiliary": "Both arms of correlative pairs must govern the exact same part of speech",
+    "usage": "Correlative conjunctions (Either...or, Neither...nor, Not only...but also, Both...and) hamesha structurally balanced hone chahiye. Agar 'but also' ke baad Noun hai, toh 'not only' ke baad bhi Noun hona chahiye; agar 'but also' ke baad Verb hai, toh 'not only' ke baad bhi Verb hona chahiye.",
+    "patterns": {
+      "affirmative": "Balanced Verbs: \"The registrar not only verified the annexures but also uploaded the decree.\" (Verb + Verb)",
+      "negative": "Unbalanced Error: *\"The registrar not only verified the annexures but also the decree was uploaded.\" (Mismatched)",
+      "interrogative": "Balanced Prepositions: \"The summons was served not only at his residence but also at his commercial office.\""
+    },
+    "timeMarkers": ["either...or", "neither...nor", "not only...but also", "both...and"],
+    "keyTip": "SECOND ARM ANCHOR: Pehle 'but also' ya 'nor' ke baad aane wale word ka part of speech dekhein. Fir first conjunction ko aise reposition karein ki uske baad bhi exact wahi part of speech aaye."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Proximity Agreement with Correlative Subjects",
+    "time": "Subject-Verb Concord",
+    "aspect": "Agreement Rules",
+    "formula": "Either/Neither [Subject 1] or/nor [Subject 2] + Verb (Agrees strictly with Subject 2)",
+    "auxiliary": "Verb agrees in number and person with the nearest subject immediately preceding it",
+    "usage": "Jab correlative conjunctions (Either...or, Neither...nor, Not only...but also) do subjects ko jodte hain, toh main verb hamesha us subject ke number aur person se agree karegi jo verb ke sabse paas (nearest) hota hai (Subject 2). Exception: 'Both...and' hamesha strictly plural verb leta hai.",
+    "patterns": {
+      "affirmative": "Nearest Singular: \"Neither the senior advocates nor the presiding judge was convinced by the testimony.\"",
+      "negative": "Nearest Plural: \"Neither the presiding judge nor the senior advocates were convinced by the testimony.\"",
+      "interrogative": "Both...and Plural Exception: \"Both the public prosecutor and the defense counsel have filed written arguments.\""
+    },
+    "timeMarkers": ["either...or proximity", "neither...nor proximity", "not only...but also proximity"],
+    "keyTip": "PROXIMITY LAW: 'Or' ya 'Nor' ke baad wale subject ko underline karein. Agar wo singular hai toh verb singular; agar plural hai toh verb plural."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Inversion with 'Hardly / Scarcely / Barely ... WHEN'",
+    "time": "Negative Inversion",
+    "aspect": "Adverbial Pairing Rules",
+    "formula": "Hardly / Scarcely + had + [Subject] + [V3] ... + WHEN + [Subject] + [V2]",
+    "auxiliary": "Mandatory auxiliary inversion + mandatory pairing with 'when' (never 'than')",
+    "usage": "Jab sentence restrictive negative adverbs 'Hardly', 'Scarcely', ya 'Barely' se shuru hota hai, toh subject se pehle auxiliary verb (had / did) aati hai (Inversion). Sath hi second clause ko connect karne ke liye strictly 'WHEN' ya 'BEFORE' lagta hai. Iske sath 'THAN' ya 'THEN' lagana fatal error hai.",
+    "patterns": {
+      "affirmative": "Past Perfect Inversion: \"Hardly had the magistrate pronounced the order when the media reported it.\"",
+      "negative": "Fatal Than Mismatch Trap: *\"Hardly had the magistrate pronounced the order than the media reported it.\" (INCORRECT)",
+      "interrogative": "Simple Past Inversion: \"Hardly did the hearing begin when an interruption occurred.\""
+    },
+    "timeMarkers": ["hardly...when", "scarcely...when", "barely...when", "never 'than'"],
+    "keyTip": "HARDLY PAIR RULE: 'Hardly' dekhte hi do checks karein: (1) Kya subject se pehle 'had/did' hai? (2) Kya aage 'when' hai ya galat 'than'?"
+  },
+  {
+    "id": "RC-07",
+    "tense": "Inversion with 'No Sooner ... THAN'",
+    "time": "Negative Inversion",
+    "aspect": "Comparative Pairing Rules",
+    "formula": "No sooner + had + [Subject] + [V3] ... + THAN + [Subject] + [V2]",
+    "auxiliary": "Mandatory auxiliary inversion + mandatory pairing with 'than' (with an 'a', never 'then/when')",
+    "usage": "'No sooner' ek comparative construction hai, isliye iske sath correlative partner strictly 'THAN' (spelled with 'A') lagta hai. Examiners do distractors set karte hain: (1) 'THAN' ki jagah 'WHEN' laga dena, aur (2) 'THAN' (comparison) ki jagah 'THEN' (time) laga dena.",
+    "patterns": {
+      "affirmative": "Correct Formula: \"No sooner had the bench assembled than the registry placed the urgent writ petitions.\"",
+      "negative": "The 'When' Trap: *\"No sooner had the bench assembled when the registry placed the writ.\" (INCORRECT)",
+      "interrogative": "The 'Then' Trap: *\"No sooner had the bench assembled then the registry placed the writ.\" (INCORRECT)"
+    },
+    "timeMarkers": ["no sooner...than", "never 'when'", "never 'then'"],
+    "keyTip": "COMPARATIVE ANCHOR: 'Soon-ER' mein '-er' comparative suffix hai. Comparatives hamesha 'THAN' lete hain, 'when' nahi!"
+  },
+  {
+    "id": "RC-08",
+    "tense": "Purpose Connective 'Lest ... SHOULD'",
+    "time": "Negative Purpose",
+    "aspect": "Modal Concord Rules",
+    "formula": "[Action Clause] + lest + [Subject] + should + [V1] (Zero negative word permitted)",
+    "auxiliary": "Mandatory 'should' auxiliary + strictly prohibited 'not' inside the lest-clause",
+    "usage": "'Lest' ka arth hota hai 'for fear that / taaki aisa na ho'. Iske clause mein mandatory modal auxiliary 'SHOULD' aati hai (ya subjunctive base form V1). Kyunki 'lest' swayam negative sense convey karta hai, isliye iske clause ke andar 'NOT' lagana double negative blunder hai.",
+    "patterns": {
+      "affirmative": "Correct Usage: \"The petitioner filed the appeal within the limitation period lest his claim should be barred.\"",
+      "negative": "Fatal Double Negative: *\"The petitioner filed the appeal lest his claim should not be barred.\" (INCORRECT)",
+      "interrogative": "Modal Mismatch Trap: *\"...lest his claim would / may be barred.\" (INCORRECT: only 'should' is permitted)"
+    },
+    "timeMarkers": ["lest...should", "no 'not'", "no 'will/would'"],
+    "keyTip": "LEST AUDIT: 'Lest' dikhte hi check karein: (1) Kya modal 'should' hai? (2) Kya andar 'not' toh nahi ghusa diya gaya?"
+  },
+  {
+    "id": "RC-09",
+    "tense": "Restrictive 'That' (No Comma) vs Non-Restrictive 'Which' (With Commas)",
+    "time": "Relative Clause Syntax",
+    "aspect": "Punctuation & Pronoun Rules",
+    "formula": "Restrictive: Noun + THAT + Clause (No Comma) | Non-Restrictive: Noun , + WHICH + Clause , (With Commas)",
+    "auxiliary": "Essential identity requires 'that' without commas; incidental detail requires 'which' with commas",
+    "usage": "Agar clause noun ki specific identity batane ke liye essential hai (restrictive), toh 'THAT' use karein aur comma mat lagayein. Agar noun already identified hai aur clause sirf additional bonus detail de raha hai (non-restrictive), toh 'WHICH' use karein aur use commas ke beech enclose karein.",
+    "patterns": {
+      "affirmative": "Restrictive That: \"The statutory provision that grants discretion to the court must be strictly construed.\"",
+      "negative": "Non-Restrictive Which: \"The Motor Vehicles Act, which was amended recently, enhances compensation limits.\"",
+      "interrogative": "Who vs Whom: \"The judicial officer who heard the plea\" (Subject) vs \"The witness whom the magistrate questioned\" (Object)"
+    },
+    "timeMarkers": ["that (no comma)", "which (commas mandatory)", "who (subject)", "whom (object)"],
+    "keyTip": "COMMA SEPARATOR: 'Which' se pehle comma dekhein; 'that' se pehle comma kabhi nahi aayega."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Comma Splice Elimination & Conjunctive Adverb Punctuation",
+    "time": "Clause Boundaries",
+    "aspect": "Punctuation Architecture",
+    "formula": "[Clause 1] ; + however / therefore / nevertheless , + [Clause 2]",
+    "auxiliary": "Never connect two independent clauses with only a comma; use semicolon before conjunctive adverbs",
+    "usage": "Do independent clauses ko sirf ek comma se jodna 'Comma Splice' error hai. Conjunctive adverbs (however, therefore, furthermore, nevertheless, consequently) conjunctions nahi hote; ye transitional adverbs hote hain. Inhe do clauses ke beech lagane ke liye pehle SEMICOLON (;) aur baad mein COMMA (,) lagana anivarya hai.",
+    "patterns": {
+      "affirmative": "Semicolon & Conjunctive Adverb: \"The evidence was contested; however, the bench admitted the document.\"",
+      "negative": "Fatal Comma Splice Error: *\"The evidence was contested, however, the bench admitted the document.\" (INCORRECT)",
+      "interrogative": "Coordinating Comma Alternative: \"The evidence was contested, but the bench admitted the document.\""
+    },
+    "timeMarkers": ["semicolon + however,", "semicolon + therefore,", "never comma alone"],
+    "keyTip": "SEMICOLON BEFORE HOWEVER: Do poore sentences ke beech 'however' aane par uske pehle semicolon (;) aur baad mein comma (,) hona mandatory hai."
+  },
+  {
+    "id": "RC-11",
+    "tense": "Confused Words: 'Affect' (Verb) vs 'Effect' (Noun)",
+    "time": "Word Class Distinction",
+    "aspect": "Semantic Precision Rules",
+    "formula": "Affect = VERB (to influence / alter) | Effect = NOUN (the outcome / result / consequence)",
+    "auxiliary": "Identify syntactic role: if an action is performed, choose 'affect'; if preceded by the/an/this, choose 'effect'",
+    "usage": "'Affect' aamtaur par Verb hota hai jiska arth hota hai 'kisi cheez par asar daalna'. 'Effect' aamtaur par Noun hota hai jiska arth hota hai 'parinaam ya asar'. Sentence mein blank ke pehle article (the, an) ya adjective aane par 'Effect' aayega; subject ke baad direct action aane par 'Affect' aayega.",
+    "patterns": {
+      "affirmative": "Verb Affect: \"The amendment will directly affect the jurisdiction of district courts.\"",
+      "negative": "Noun Effect: \"The court evaluated the adverse effect of industrial pollution on surrounding villages.\"",
+      "interrogative": "Idiom In Effect: \"The interim order remains in effect until the next date of hearing.\""
+    },
+    "timeMarkers": ["affect (verb)", "effect (noun)", "have an effect on", "directly affect"],
+    "keyTip": "RAVEN MNEMONIC: R-A-V-E-N ➔ Remember: Affect = Verb, Effect = Noun."
+  },
+  {
+    "id": "RC-12",
+    "tense": "Confused Words: 'Principal' (Main/Head) vs 'Principle' (Moral Rule)",
+    "time": "Homophone Discrimination",
+    "aspect": "Semantic Precision Rules",
+    "formula": "Principal = Adjective (main / primary) OR Noun (head of institution / capital sum) | Principle = Noun (moral rule / doctrine)",
+    "auxiliary": "'Principle' is always a noun meaning doctrine/rule; 'Principal' means chief/main or institutional head",
+    "usage": "'Principal' do roopon mein kaam karta hai: Adjective ki tarah 'mukhya' (principal reason, principal debtor) aur Noun ki tarah 'mool-dhan ya sanstha-pramukh'. Jabki 'Principle' sirf Noun hota hai jiska arth 'siddhant, aadarsh ya kanooni niyam' hota hai.",
+    "patterns": {
+      "affirmative": "Adjective Principal: \"The principal contention of the petitioner was accepted by the division bench.\"",
+      "negative": "Noun Principle: \"The judgment upheld the constitutional principle of natural justice.\"",
+      "interrogative": "Financial Principal: \"The borrower defaulted on the payment of both principal and interest.\""
+    },
+    "timeMarkers": ["principal (main/head)", "principle (rule/doctrine)", "principles of law"],
+    "keyTip": "RULE ANCHOR: PrinciPLE ends in -LE, just like ruLE. PrinciPAL is your PAL (a person/chief officer)."
+  },
+  {
+    "id": "RC-13",
+    "tense": "Confused Words: 'Complement' (Complete) vs 'Compliment' (Praise)",
+    "time": "Orthographic Discrimination",
+    "aspect": "Semantic Precision Rules",
+    "formula": "Complement (with 'e') = To complete or make whole (poorak) | Compliment (with 'i') = Expression of praise or admiration (tareef)",
+    "auxiliary": "'Complement' completes something; 'Compliment' offers praise",
+    "usage": "'Complement' (with 'e') ka matlab hota hai kisi cheez ko poora karna ya uski kami poori karna (poorak banna). 'Compliment' (with 'i') ka matlab hota hai tareef karna, prashansa karna, ya samman jatana.",
+    "patterns": {
+      "affirmative": "Complement (Complete): \"The forensic evidence complements the oral testimony of the eyewitness.\"",
+      "negative": "Compliment (Praise): \"The chief justice paid a handsome compliment to the registry staff for their efficiency.\"",
+      "interrogative": "Adjective Complimentary: \"The publisher sent complimentary copies of the law manual to the library.\""
+    },
+    "timeMarkers": ["complement (complete)", "compliment (praise)", "complimentary copy"],
+    "keyTip": "LETTER 'E' CLUE: ComplEmEnt has an 'E' for complEtE. ComplImEnt has an 'I' — *I* love being praised!"
+  },
+  {
+    "id": "RC-14",
+    "tense": "Confused Verbs: 'Lie' (Intransitive) vs 'Lay' (Transitive)",
+    "time": "Transitivity Distinction",
+    "aspect": "Verb Paradigm Rules",
+    "formula": "Lie (Intransitive - No Object): lie, lay, lain, lying | Lay (Transitive - Needs Direct Object): lay, laid, laid, laying",
+    "auxiliary": "'Lie' means to recline (no object); 'Lay' means to put/set something down (requires direct object)",
+    "usage": "'Lie' ek intransitive verb hai jiska arth 'letna ya sthit hona' hota hai; iske baad kabhi direct object nahi aata. 'Lay' ek transitive verb hai jiska arth 'kisi cheez ko rakhna' hota hai; iske baad hamesha direct object aana anivarya hai. Fatal Trap: 'Lie' ka past tense 'Lay' hota hai!",
+    "patterns": {
+      "affirmative": "Intransitive Lie (Recline): \"The case docket lay on the registrar's desk throughout the afternoon.\" (Past of Lie)",
+      "negative": "Transitive Lay (Put down): \"The advocate laid the certified copies on the podium.\" (Past of Lay, object = copies)",
+      "interrogative": "Present Continuous Form: \"The injured pedestrian was lying on the pavement when the ambulance arrived.\""
+    },
+    "timeMarkers": ["lie, lay, lain (no object)", "lay, laid, laid (with object)", "lying", "laying"],
+    "keyTip": "OBJECT CHECK: Sentence mein verb ke theek baad poochhein 'Whom?' ya 'What?'. Agar direct object hai, toh 'LAY/LAID' aayega; agar koi object nahi hai, toh 'LIE/LAY/LAIN' aayega."
+  }
+]

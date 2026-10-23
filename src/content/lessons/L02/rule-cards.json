@@ -1,0 +1,162 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "The Principle of Open Sequence (Present Main Clause)",
+    "time": "Present",
+    "aspect": "Open Sequence",
+    "formula": "Main Clause (Present) + that + Subordinate Clause (Any Tense matching intended time)",
+    "auxiliary": "Koi restriction nahi; subordinate clause ke meaning par depend karta hai",
+    "usage": "Jab reporting ya main verb Simple Present, Present Continuous, ya Present Perfect mein hota hai, toh subordinate clause mein meaning ke hisaab se koi bhi tense aa sakta hai.",
+    "patterns": {
+      "affirmative": "The registrar says that the bench is hearing cases (present) / heard cases (past) / will hear cases (future).",
+      "negative": "The registrar does not claim that the proceedings were concluded yesterday.",
+      "interrogative": "Does the advocate believe that the judge will grant interim relief?"
+    },
+    "timeMarkers": ["says that", "knows that", "believes that", "has stated that", "claims that"],
+    "keyTip": "EXAM TRAP: Jab main verb present mein ho, toh sirf 'that' aane par subordinate verb ko past mein backshift mat karein. (Ref: Study Guide Section 2)."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Past Harmony — Simultaneous Action",
+    "time": "Past",
+    "aspect": "Simultaneous",
+    "formula": "Main Clause (Past: V2) + that + Subordinate Clause (Simple Past: V2 / Past Continuous: was, were + V-ing)",
+    "auxiliary": "was / were / did (Past Auxiliaries)",
+    "usage": "Jab main clause past mein ho aur subordinate action theek usi past reference time par sath-sath chal raha ho.",
+    "patterns": {
+      "affirmative": "The clerk noticed that the applicant looked anxious and hesitant.",
+      "negative": "The clerk did not observe that the applicant was recording the proceeding.",
+      "interrogative": "Did the judge realize that the witness was trembling with fear?"
+    },
+    "timeMarkers": ["noticed that", "knew that", "saw that", "felt that", "while", "as"],
+    "keyTip": "FATAL DISCORD: 'He noticed that she looks anxious' likhna past harmony law ko break karta hai. Past narrative mein sath chal rahe events ke liye Past Simple ya Continuous lagana zaroori hai. (Ref: Study Guide Section 3)."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Past Harmony — Earlier (Anterior) Action",
+    "time": "Past",
+    "aspect": "Anterior",
+    "formula": "Main Clause (Past: V2) + that / because + Subordinate Clause (Past Perfect: had + V3)",
+    "auxiliary": "had (Auxiliary + V3)",
+    "usage": "Jab past ke do events coordinate hote hain, toh pehle complete hone wale event ke liye Past Perfect lagta hai, aur baad wale event ke liye Simple Past.",
+    "patterns": {
+      "affirmative": "The inspector reported that the suspect had fled before the police arrived.",
+      "negative": "The magistrate found that the petitioner had not submitted the statutory deposit.",
+      "interrogative": "Did the officer discover that the server had crashed during the night?"
+    },
+    "timeMarkers": ["before", "after", "already", "earlier", "had + V3 before V2"],
+    "keyTip": "CLASSIC EXAM RULE: Beete huye do actions mein se pehle action ke liye 'had + V3' (Past Perfect) aur baad wale ke liye Simple Past (V2) use karein. Jab ek action ka pehle complete hona dikhana ho, toh dono jagah Simple Past use na karein! (Ref: Study Guide Section 3)."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Past Harmony — Posterior Action (Future-in-the-Past)",
+    "time": "Past",
+    "aspect": "Posterior",
+    "formula": "Main Clause (Past: V2) + that + Subordinate Clause (would / should + V1)",
+    "auxiliary": "would / should (will / shall ki jagah)",
+    "usage": "Jab past reporting moment ke perspective se koi action future mein hona expected ya projected tha, toh 'will' ka 'would' aur 'shall' ka 'should' ban jata hai.",
+    "patterns": {
+      "affirmative": "The counsel assured the court that he would produce the witness the next day.",
+      "negative": "The contractor stated that he would not complete the IT installation by Friday.",
+      "interrogative": "Did the minister promise that the department would release the funds promptly?"
+    },
+    "timeMarkers": ["assured that", "promised that", "hoped that", "the following day", "the next week"],
+    "keyTip": "MODAL HARMONY: Past narrative ke subordinate clause mein 'will' kabhi use na karein. 'Will' ko 'would' mein badlein (e.g. 'He said he would come', 'will come' nahi). (Ref: Study Guide Section 3)."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Universal Truth & Scientific Law Exception",
+    "time": "Past",
+    "aspect": "Universal Truth",
+    "formula": "Main Clause (Past: V2) + that + Subordinate Clause (Simple Present: V1 / V_s/es)",
+    "auxiliary": "None (Lexical V1 ya V_s/es)",
+    "usage": "Jab subordinate clause koi eternal universal truth, scientific law, mathematical theorem, ya geographical fact express karta hai, toh main verb past hone par bhi subordinate clause Simple Present mein hi rehta hai.",
+    "patterns": {
+      "affirmative": "The teacher explained that the earth moves round the sun.",
+      "negative": "The professor proved that light does not travel instantaneously.",
+      "interrogative": "Did the scientist demonstrate that heat expands metals?"
+    },
+    "timeMarkers": ["proved that", "discovered that", "taught that", "explained that", "immutable laws"],
+    "keyTip": "CRITICAL EXAM TRAP: 'Moves' ko 'moved' ya 'boils' ko 'boiled' mein na badlein. Eternal universal truth main verb chahe kisi bhi tense mein ho, kabhi past mein shift nahi hota! (Ref: Study Guide Section 4)."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Proverbs, Maxims & Permanent Characteristics",
+    "time": "Past",
+    "aspect": "Permanent Truth",
+    "formula": "Main Clause (Past: V2) + that + Subordinate Clause (Simple Present: is / are / V1)",
+    "auxiliary": "is / are (Present Be-verbs)",
+    "usage": "Universal proverbs, moral maxims, aur permanent unalterable characteristics hamesha Simple Present mein rehte hain.",
+    "patterns": {
+      "affirmative": "The grandfather taught us that honesty is the best policy.",
+      "negative": "The philosopher remarked that money does not buy true contentment.",
+      "interrogative": "Did the elder remind you that time and tide wait for no man?"
+    },
+    "timeMarkers": ["reminded us that", "remarked that", "advised that", "proverbs", "maxims"],
+    "keyTip": "'Honesty was the best policy' likhne ka galat matlab niklega ki imaandari aaj best policy nahi hai. Proverbs hamesha Simple Present mein hi rehte hain. (Ref: Study Guide Section 4)."
+  },
+  {
+    "id": "RC-07",
+    "tense": "Historical Past Facts vs. Universal Truths",
+    "time": "Past",
+    "aspect": "Historical Fact",
+    "formula": "Main Clause (Past: V2) + that + Subordinate Clause (Simple Past: V2)",
+    "auxiliary": "did / was / were (Past)",
+    "usage": "Historical events past ke completed definite time period mein huye the aur ye universal truths nahi hain. Inke sath hamesha Simple Past (V2) aayega, Simple Present kabhi nahi.",
+    "patterns": {
+      "affirmative": "The lecturer stated that India attained independence in 1947.",
+      "negative": "The historian confirmed that Emperor Ashoka did not lose the Battle of Kalinga.",
+      "interrogative": "Did the textbook state that the First World War ended in 1918?"
+    },
+    "timeMarkers": ["in 1947", "in 1914", "centuries ago", "during the medieval era"],
+    "keyTip": "DISTINCTION ALERT: Candidates aksar historical facts ko universal truths se confuse kar lete hain. 'India attains independence in 1947' likhna bilkul galat hai. Yahan Simple Past 'attained' hi aayega. (Ref: Study Guide Section 5)."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Purpose Clauses with 'So That' / 'In Order That'",
+    "time": "Past",
+    "aspect": "Purpose",
+    "formula": "Present Main → so that + Subject + may + V1 | Past Main → so that + Subject + might + V1",
+    "auxiliary": "may (Present) / might (Past)",
+    "usage": "'So that' ya 'in order that' wale purpose clauses mein modal auxiliary main clause ke verb ke tense ke sath strictly match karta hai.",
+    "patterns": {
+      "affirmative": "The candidate studied day and night so that he might crack the High Court exam.",
+      "negative": "The clerk secured the vault so that unauthorized personnel might not enter.",
+      "interrogative": "Did the registrar expedite the order so that the applicant might get timely relief?"
+    },
+    "timeMarkers": ["so that", "in order that", "lest (+ should)"],
+    "keyTip": "HIGH-FREQUENCY EXAM ERROR: 'He worked hard so that he may pass' GALAT hai. Kyunki 'worked' past mein hai, modal auxiliary strictly 'might' hona chahiye ('so that he might pass'). (Ref: Study Guide Section 6)."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Clauses of Comparison ('Than' / 'As...As')",
+    "time": "Past",
+    "aspect": "Comparison",
+    "formula": "Main Clause (Any Tense) + than / as + Subordinate Clause (Any Tense governed by sense)",
+    "auxiliary": "Unrestricted (Factual context ke hisaab se)",
+    "usage": "Clause of comparison par Rule of Past Harmony lagu nahi hota. Comparison ki factual reality ke hisaab se 'than' ya 'as' ke baad koi bhi tense aa sakta hai.",
+    "patterns": {
+      "affirmative": "He admired the High Court library in Jaipur more than he admires the state archive now.",
+      "negative": "The judge was not as stern yesterday as he usually is during trial hearings.",
+      "interrogative": "Did the senior advocate assist you more than he will assist the junior recruits tomorrow?"
+    },
+    "timeMarkers": ["than", "as...as", "more than", "better than"],
+    "keyTip": "'Than' ke baad mechanically tense ko past mein na badlein. Agar past situation ka comparison present ya future state se ho raha hai, toh context ke mutabiq Present ya Future tense hi use karein. (Ref: Study Guide Section 6)."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Continuing Current Facts vs. Ceased Past States",
+    "time": "Past",
+    "aspect": "Continuing State",
+    "formula": "Main Clause (Past: V2) + that + Subordinate Clause (Present if still true / Past if ceased)",
+    "auxiliary": "is, are (agar abhi bhi true hai) / was, were (agar situation khatam ho chuki hai)",
+    "usage": "Jab koi reported fact speaking ke samay bhi true ho, modern English Simple Present allow karti hai, lekin state exams traditional backshift prefer karte hain jab tak present persistence explicitly mention na ho.",
+    "patterns": {
+      "affirmative": "The guide pointed out that the High Court building is located on High Court Road (permanent location).",
+      "negative": "The witness stated that he was not residing in Jodhpur at that time.",
+      "interrogative": "Did the applicant mention that he has a master's degree in computer applications?"
+    },
+    "timeMarkers": ["pointed out that", "informed me that", "still true today"],
+    "keyTip": "EXAM PRUDENCE: Agar kisi personal fact ke question mein Simple Past aur Simple Present dono options hon, toh check karein ki kya sentence mein koi explicit continuing marker hai. Bina clear marker ke standard exams traditional backshift ko hi correct maante hain. (Ref: Study Guide Section 5)."
+  }
+]

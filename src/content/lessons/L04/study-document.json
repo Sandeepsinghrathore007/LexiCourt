@@ -1,0 +1,652 @@
+{
+  "id": "L04-STUDY-DOC",
+  "title": "Comprehensive Study Guide: Active & Passive Voice Fundamentals",
+  "subtitle": "Rajasthan High Court System Assistant Exam ke liye Complete Structural Reference",
+  "overview": "Active aur Passive Voice English syntax ka ek core structural topic hai. High Court System Assistant exam mein voice transformation se direct questions aate hain. Active Voice mein subject khud action karta hai, jabki Passive Voice mein sentence ka primary focus us entity par shift ho jata hai jis par action perform hua hai. Is comprehensive study guide mein voice ki grammatical philosophy, subject-object transposition, auxiliary 'be' ki tense-wise selection, V3 past participle requirement, negative aur interrogative forms, agent ka role, aur transitive verbs ki validity ko simple Roman Hinglish mein step-by-step master karein.",
+  "sections": [
+    {
+      "id": "sec-active-passive-concept",
+      "number": 1,
+      "title": "A. Active Voice and Passive Voice: Core Definitions & Pragmatic Focus",
+      "summary": "Active voice vs Passive voice ka basic difference: Doer (Karta) focus vs Receiver (Karma) focus.",
+      "content": "English grammar mein 'Voice' verb ka wo feature hai jo batata hai ki sentence ka grammatical subject action ka doer (karne wala) hai ya action ka receiver (jis par action hua). Voice transformation se sentence ka underlying meaning aur factual timeline wahi rehta hai, lekin information ka focus aur perspective badal jata hai.",
+      "dimensions": [
+        {
+          "name": "Active Voice (Doer-Centric Syntax)",
+          "description": "Jab grammatical subject khud action ko perform karta hai.",
+          "categories": [
+            {
+              "name": "Structure & Focus",
+              "detail": "Active Voice mein Subject hamesha action ka direct doer hota hai. Iska standard pattern hai: Subject + Verb + Object. Yahan focus is baat par hota hai ki 'Kisne kya kiya?'"
+            },
+            {
+              "name": "Example with Roman Hinglish Explanation",
+              "detail": "Active: 'The clerk prepared the official report.' — Roman Hinglish: Is sentence mein subject 'the clerk' khud action ('prepared') kar raha hai. Focus clerk par hai ki usne kya banaya."
+            },
+            {
+              "name": "When Active Voice is Preferred",
+              "detail": "Everyday communication, direct statements, storytelling, aur active instructions mein Active Voice natural, concise, aur energetic lagta hai."
+            }
+          ]
+        },
+        {
+          "name": "Passive Voice (Receiver-Centric Syntax)",
+          "description": "Jab sentence ka subject action ka doer nahi balki action ka receiver hota hai.",
+          "categories": [
+            {
+              "name": "Structure & Focus",
+              "detail": "Passive Voice mein sentence ka subject wo entity ban jati hai jis par action ka effect pada hai (original object). Iska standard pattern hai: Object (as new subject) + appropriate form of be + V3 + optional by-agent. Focus is baat par hota hai ki 'Kis cheez par kya action hua?'"
+            },
+            {
+              "name": "Example with Roman Hinglish Explanation",
+              "detail": "Passive: 'The official report was prepared by the clerk.' — Roman Hinglish: Yahan primary subject 'The official report' hai. Report khud koi action nahi kar sakti, balki us par 'prepared' hone ka action hua hai. Clerk doer hai, jise 'by' ke baad agent banakar rakha gaya hai."
+            },
+            {
+              "name": "Why Passive Voice is Essential in Official/Court Writing",
+              "detail": "High Court judgments, administrative notifications, FIRs, forensic reports, aur official circulars mein Passive Voice ka use sabse zyada hota hai. Reason: Wahan person se zyada important action ka result, process, aur official outcome hota hai (jaise 'The petition was dismissed', 'The server has been rebooted')."
+            }
+          ]
+        },
+        {
+          "name": "Preservation of Meaning and Temporal Reference",
+          "description": "Voice badalne par tense aur sentence ki factual timing kabhi nahi badalti.",
+          "categories": [
+            {
+              "name": "Tense Invariance Rule",
+              "detail": "Agar active sentence Simple Past mein hai, toh passive bhi strictly Simple Past hi rahega. Agar active Present Perfect mein hai, toh passive bhi strictly Present Perfect hi rahega. Voice badalte waqt tense backshift karna (jaise Direct-Indirect speech mein hota hai) fatal blunder hai."
+            },
+            {
+              "name": "Semantic Equivalence",
+              "detail": "Voice badalne ke baad sentence ka core truth aur logical meaning 100% preserve hona chahiye. Koi naya factual claim add ya delete nahi hona chahiye."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Active: Subject (Doer) + Verb + Object (Receiver) ➔ Passive: Object (Receiver as Subject) + form of 'be' + V3 + optional (by + Doer)."
+    },
+    {
+      "id": "sec-structure-object-identification",
+      "number": 2,
+      "title": "B. Sentence Structure & Object Identification: Transitivity and Pronoun Shifts",
+      "summary": "Sentence mein Subject, Verb, aur Direct Object ko pehchanna, pronoun changes, aur object requirement.",
+      "content": "Active sentence ko passive mein convert karne se pehle sentence ke teeno basic constituents (Subject, Verb, Object) ko accurately identify karna zaroori hai. Bina direct object ke koi bhi standard passive sentence construct nahi kiya ja sakta.",
+      "dimensions": [
+        {
+          "name": "Constituents Isolation Algorithm",
+          "description": "Sentence ke har hisse ko systematically pehchanne ka 3-step test.",
+          "categories": [
+            {
+              "name": "Step 1: Verb Isolation",
+              "detail": "Pehle sentence ka main lexical verb aur helping verb dhundein (jaise 'wrote', 'is repairing', 'has approved')."
+            },
+            {
+              "name": "Step 2: Subject Isolation (Doer Test)",
+              "detail": "Verb se pehle 'Who?' (kisne?) ya 'What?' (kya?) puchhein. Jo answer aayega, wo sentence ka active subject hai. Example: 'The judge signed the warrant.' ➔ Who signed? Answer: 'The judge' (Subject)."
+            },
+            {
+              "name": "Step 3: Direct Object Isolation (Receiver Test)",
+              "detail": "Verb ke baad 'What?' (kya?) ya 'Whom?' (kisko?) puchhein. Agar verb ke baad 'What' ya 'Whom' ka valid answer milta hai, tabhi sentence mein Direct Object hai. Example: 'The judge signed WHAT?' ➔ Answer: 'The warrant' (Direct Object). Agar verb ke baad 'Where', 'When', ya 'How' ka answer milta hai, toh wo adverbial modifier hai, object nahi!"
+            }
+          ]
+        },
+        {
+          "name": "Pronoun Case Shifts Matrix",
+          "description": "Subjective case se Objective case mein transformation ke rules.",
+          "categories": [
+            {
+              "name": "Personal Pronoun Transformations",
+              "detail": "Jab active subject passive mein 'by' ke baad agent banta hai, toh uska objective case use hota hai. Jab active object passive mein naya subject banta hai, toh uska subjective case use hota hai:\n• I ➔ by me (aur me ➔ I)\n• We ➔ by us (aur us ➔ We)\n• You ➔ by you (aur you ➔ You)\n• He ➔ by him (aur him ➔ He)\n• She ➔ by her (aur her ➔ She)\n• It ➔ by it (aur it ➔ It)\n• They ➔ by them (aur them ➔ They)\n• Who ➔ by whom (aur whom ➔ Who)"
+            },
+            {
+              "name": "Pronoun Example",
+              "detail": "Active: 'She helped me in the administrative verification.' ➔ Passive: 'I was helped by her in the administrative verification.' Yahan active object 'me' subjective case 'I' ban gaya, aur active subject 'she' agentive objective case 'her' ban gaya."
+            }
+          ]
+        },
+        {
+          "name": "Why Passive Voice Requires an Object",
+          "description": "Har English sentence ko passive voice mein convert nahi kiya ja sakta.",
+          "categories": [
+            {
+              "name": "The Transitive Requirement",
+              "detail": "Passive voice mein original object ko hi naya subject banaya jata hai. Agar sentence mein object hi nahi hoga, toh passive ka subject banne ke liye koi candidate entity nahi bachegi. Isliye strictly transitive verbs (jo direct object leti hain) hi passive form bana sakti hain."
+            },
+            {
+              "name": "Counterexample (Intransitive)",
+              "detail": "Active: 'The candidate slept for eight hours.' — Verb 'slept' ke baad 'for eight hours' time duration (adverbial prepositional phrase) hai, object nahi. Is sentence ka koi passive transformation possible nahi hai."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Verb + 'What?' / 'Whom?' = Direct Object. Pronoun Shifts: I↔me, He↔him, She↔her, We↔us, They↔them, Who↔whom."
+    },
+    {
+      "id": "sec-core-passive-formula",
+      "number": 3,
+      "title": "C. The Core Passive Formula: Object + Appropriate Form of 'Be' + V3",
+      "summary": "Passive voice ka universal mathematical formula aur uske component parts ka role.",
+      "content": "English grammar mein sabhi regular passive sentences ek hi fundamental structural formula follow karte hain. Formula ke components ko samajh lene ke baad kisi bhi tense mein passive banana mathematical ban jata hai.",
+      "dimensions": [
+        {
+          "name": "The Master Formula",
+          "description": "New Subject (Original Object) + Appropriate Form of 'Be' + Past Participle (V3) + Optional (by + Agent)",
+          "categories": [
+            {
+              "name": "Component 1: New Subject",
+              "detail": "Active sentence ka direct object passive sentence ki shuruat mein naya subject ban kar aata hai. Auxiliary verb ka singular/plural concord isi naye subject ke number aur person se decide hota hai."
+            },
+            {
+              "name": "Component 2: Appropriate Form of 'Be'",
+              "detail": "Verb 'be' hi passive voice ka engine hai! Tense ki sari information (Past, Present, Future, Continuous, Perfect) verb 'be' ke through express hoti hai:\n• Simple Present: is / am / are\n• Present Continuous: is / am / are + being\n• Present Perfect: has / have + been\n• Simple Past: was / were\n• Past Continuous: was / were + being\n• Past Perfect: had + been\n• Simple Future: will / shall + be\n• Future Perfect: will / shall + have + been"
+            },
+            {
+              "name": "Component 3: Past Participle (V3) Mandatory",
+              "detail": "Passive voice ka sabse strict rule: Main lexical verb HAMESHA Past Participle (V3) form mein hi aayegi. Passive mein V1, V2, ya V-ing main verb ki jagah aana strictly impossible hai. Example: write ➔ written, prepare ➔ prepared, sing ➔ sung."
+            },
+            {
+              "name": "Component 4: Optional (by + Agent)",
+              "detail": "Original subject ko 'by' preposition ke sath agent banakar sentence ke end mein rakha ja sakta hai. Agar doer unknown, obvious, ya unimportant ho, toh 'by + agent' ko naturally omit kar diya jata hai."
+            }
+          ]
+        },
+        {
+          "name": "Step-by-Step Annotated Transformation",
+          "description": "Ek active sentence ko 5 sequential steps mein convert karne ka live demonstration.",
+          "categories": [
+            {
+              "name": "Source Active Sentence",
+              "detail": "'The High Court registrar issued the urgent notice yesterday.'"
+            },
+            {
+              "name": "Step 1: S-V-O Isolation",
+              "detail": "Subject = 'The High Court registrar', Verb = 'issued' (Simple Past, V2), Object = 'the urgent notice' (Singular Noun)."
+            },
+            {
+              "name": "Step 2: Move Object to Front",
+              "detail": "'The urgent notice' naya subject ban gaya."
+            },
+            {
+              "name": "Step 3: Select Form of 'Be'",
+              "detail": "Tense Simple Past hai aur naya subject singular hai, isliye 'was' select hua."
+            },
+            {
+              "name": "Step 4: Convert Verb to V3",
+              "detail": "'issued' ka V3 form 'issued' hai."
+            },
+            {
+              "name": "Step 5: Attach Agent & Modifiers",
+              "detail": "'by the High Court registrar yesterday' ➔ Final Passive: 'The urgent notice was issued by the High Court registrar yesterday.'"
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Master Formula: Object + be (tense & agreement carrier) + V3 (lexical carrier) + (by + agent)."
+    },
+    {
+      "id": "sec-tense-matrix",
+      "number": 4,
+      "title": "D. Passive Voice Across Tenses: The Complete 8-Tense Transformation Matrix",
+      "summary": "Sabhi 8 passivizable tenses ke active vs passive formulas, auxiliary selection, examples, aur traps.",
+      "content": "Standard competitive examination grammar mein 12 tenses mein se exactly 8 tenses ki passive constructions systematically teach ki jaati hain. Baaki 4 tenses mein double auxiliary repetition ('being been' ya 'be being') awkward hone ke karan unhe conventionally passive mein convert nahi kiya jata.",
+      "dimensions": [
+        {
+          "name": "1. Simple Present Tense",
+          "description": "Routine actions, habits, aur general facts ke liye.",
+          "categories": [
+            {
+              "name": "Active Formula",
+              "detail": "Subject + V1 / V_s/es + Object"
+            },
+            {
+              "name": "Passive Formula",
+              "detail": "Object + is / am / are + V3 + (by + Subject)"
+            },
+            {
+              "name": "Auxiliary Selection",
+              "detail": "Singular subject ke sath 'is', plural ke sath 'are', 'I' ke sath 'am'."
+            },
+            {
+              "name": "Example & Explanation",
+              "detail": "Active: 'The police officer inspects the crime scene daily.' ➔ Passive: 'The crime scene is inspected by the police officer daily.' — Roman Hinglish: 'The crime scene' singular hai, isliye 'is' laga aur 'inspect' ka V3 'inspected' bana."
+            },
+            {
+              "name": "Common Mistake",
+              "detail": "Active ke 'does' ko passive mein copy karna: 'The crime scene does inspected' galat hai; 'is inspected' sahi hai."
+            }
+          ]
+        },
+        {
+          "name": "2. Present Continuous Tense",
+          "description": "Current ongoing actions ke liye.",
+          "categories": [
+            {
+              "name": "Active Formula",
+              "detail": "Subject + is / am / are + V-ing + Object"
+            },
+            {
+              "name": "Passive Formula",
+              "detail": "Object + is / am / are + being + V3 + (by + Subject)"
+            },
+            {
+              "name": "Auxiliary Selection",
+              "detail": "Continuous aspect show karne ke liye 'being' lagana mandatory hai."
+            },
+            {
+              "name": "Example & Explanation",
+              "detail": "Active: 'The engineers are installing the new biometric terminals.' ➔ Passive: 'The new biometric terminals are being installed by the engineers.' — Roman Hinglish: Naya subject plural ('terminals') hai isliye 'are' laga, continuous ke liye 'being' aaya, aur main verb V3 'installed' bani."
+            },
+            {
+              "name": "Common Mistake",
+              "detail": "'being' ko omit kar dena: 'The terminals are installed' Simple Present ban jata hai, Present Continuous nahi rehta."
+            }
+          ]
+        },
+        {
+          "name": "3. Present Perfect Tense",
+          "description": "Completed past actions jinka relevance present mein hai.",
+          "categories": [
+            {
+              "name": "Active Formula",
+              "detail": "Subject + has / have + V3 + Object"
+            },
+            {
+              "name": "Passive Formula",
+              "detail": "Object + has / have + been + V3 + (by + Subject)"
+            },
+            {
+              "name": "Auxiliary Selection",
+              "detail": "Perfect aspect ke liye 'been' lagta hai. Naye subject ke mutabiq 'has' (singular) ya 'have' (plural)."
+            },
+            {
+              "name": "Example & Explanation",
+              "detail": "Active: 'The government has approved the salary increments.' ➔ Passive: 'The salary increments have been approved by the government.' — Roman Hinglish: Naya subject plural ('increments') hai isliye 'has' ki jagah 'have' lagaya aur sath mein 'been + approved' aaya."
+            },
+            {
+              "name": "Common Mistake",
+              "detail": "Subject number change hone par 'has' ko 'have' mein badalna bhool jana: 'The salary increments has been approved' agreement error hai."
+            }
+          ]
+        },
+        {
+          "name": "4. Simple Past Tense",
+          "description": "Completed events at a definite past time.",
+          "categories": [
+            {
+              "name": "Active Formula",
+              "detail": "Subject + V2 + Object"
+            },
+            {
+              "name": "Passive Formula",
+              "detail": "Object + was / were + V3 + (by + Subject)"
+            },
+            {
+              "name": "Auxiliary Selection",
+              "detail": "Singular subject (I, he, she, it, singular noun) ke sath 'was'; plural (we, you, they, plural noun) ke sath 'were'."
+            },
+            {
+              "name": "Example & Explanation",
+              "detail": "Active: 'The bench delivered the landmark judgment yesterday.' ➔ Passive: 'The landmark judgment was delivered by the bench yesterday.' — Roman Hinglish: 'judgment' singular hai isliye 'was' laga aur 'delivered' V3 form hai."
+            },
+            {
+              "name": "Common Mistake",
+              "detail": "Simple Past passive mein 'did' laga dena: 'The judgment did delivered' absurd syntax hai; strictly 'was delivered' lagta hai."
+            }
+          ]
+        },
+        {
+          "name": "5. Past Continuous Tense",
+          "description": "Past mein chal rahe continuous actions ke liye.",
+          "categories": [
+            {
+              "name": "Active Formula",
+              "detail": "Subject + was / were + V-ing + Object"
+            },
+            {
+              "name": "Passive Formula",
+              "detail": "Object + was / were + being + V3 + (by + Subject)"
+            },
+            {
+              "name": "Auxiliary Selection",
+              "detail": "'was / were' ke sath 'being' lagakar main verb ka V3 lagaya jata hai."
+            },
+            {
+              "name": "Example & Explanation",
+              "detail": "Active: 'The auditor was verifying the transaction logs.' ➔ Passive: 'The transaction logs were being verified by the auditor.' — Roman Hinglish: 'logs' plural hai isliye 'was' badal kar 'were' ho gaya aur continuous hone ki wajah se 'being verified' laga."
+            },
+            {
+              "name": "Common Mistake",
+              "detail": "'being' bhool kar sirf 'were verified' likhna, jisse tense continuous se Simple Past ban jata hai."
+            }
+          ]
+        },
+        {
+          "name": "6. Past Perfect Tense",
+          "description": "Past ke kisi specific point se pehle complete hua action.",
+          "categories": [
+            {
+              "name": "Active Formula",
+              "detail": "Subject + had + V3 + Object"
+            },
+            {
+              "name": "Passive Formula",
+              "detail": "Object + had + been + V3 + (by + Subject)"
+            },
+            {
+              "name": "Auxiliary Selection",
+              "detail": "Sabhi subjects (singular aur plural) ke sath auxiliary 'had been' hi rehti hai."
+            },
+            {
+              "name": "Example & Explanation",
+              "detail": "Active: 'The superintendent had locked the record room before sunset.' ➔ Passive: 'The record room had been locked by the superintendent before sunset.' — Roman Hinglish: Active 'had locked' passive mein 'had been locked' ban gaya."
+            },
+            {
+              "name": "Common Mistake",
+              "detail": "'been' omit kar dena: 'The record room had locked' likhne se sentence ka meaning nikalta hai ki record room ne khud kisi ko lock kiya!"
+            }
+          ]
+        },
+        {
+          "name": "7. Simple Future Tense",
+          "description": "Future mein hone wale intended ya predicted actions ke liye.",
+          "categories": [
+            {
+              "name": "Active Formula",
+              "detail": "Subject + will / shall + V1 + Object"
+            },
+            {
+              "name": "Passive Formula",
+              "detail": "Object + will / shall + be + V3 + (by + Subject)"
+            },
+            {
+              "name": "Auxiliary Selection",
+              "detail": "Modal auxiliary 'will / shall' ke baad base form 'be' lagti hai, aur fir V3."
+            },
+            {
+              "name": "Example & Explanation",
+              "detail": "Active: 'The High Court committee will publish the merit list tomorrow.' ➔ Passive: 'The merit list will be published by the High Court committee tomorrow.' — Roman Hinglish: 'will' ke sath 'be' jud gaya aur 'publish' ka V3 'published' bana."
+            },
+            {
+              "name": "Common Mistake",
+              "detail": "'will published' likh dena bina 'be' ke. Modal auxiliary ke direct baad V3 kabhi nahi lagta; beech mein 'be' hona mandatory hai."
+            }
+          ]
+        },
+        {
+          "name": "8. Future Perfect Tense",
+          "description": "Future ke kisi timeline se pehle poore hone wale actions ke liye.",
+          "categories": [
+            {
+              "name": "Active Formula",
+              "detail": "Subject + will / shall + have + V3 + Object"
+            },
+            {
+              "name": "Passive Formula",
+              "detail": "Object + will / shall + have + been + V3 + (by + Subject)"
+            },
+            {
+              "name": "Auxiliary Selection",
+              "detail": "'will have been' ka combination use hota hai."
+            },
+            {
+              "name": "Example & Explanation",
+              "detail": "Active: 'The technician will have repaired the network hub by 5 PM.' ➔ Passive: 'The network hub will have been repaired by the technician by 5 PM.' — Roman Hinglish: 'will have repaired' passive mein 'will have been repaired' ban gaya."
+            },
+            {
+              "name": "Common Mistake",
+              "detail": "'have' ki jagah singular subject dekh kar 'has' lagana ('will has been'). Modal auxiliary ke baad hamesha base form 'have' aati hai, 'has' kabhi nahi lagta."
+            }
+          ]
+        },
+        {
+          "name": "The 4 Conventionally Untransformable Tenses",
+          "description": "Aam taur par competitive exams mein in 4 tenses ki passive forms nahi banayi jaati hain.",
+          "categories": [
+            {
+              "name": "List of Omitted Tenses",
+              "detail": "1. Present Perfect Continuous (has/have been being + V3)\n2. Past Perfect Continuous (had been being + V3)\n3. Future Continuous (will be being + V3)\n4. Future Perfect Continuous (will have been being + V3)"
+            },
+            {
+              "name": "Why They are Avoided",
+              "detail": "Grammatically 'being been' ya 'be being' bolna phonetically clumsy, unnatural, aur redundant hota hai. Competitive examinations mein agar in tenses ka sentence aata hai, toh standard option hota hai 'No Passive' ya unka transformation test nahi kiya jata."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "8-Tense Rule: Simple (be + V3), Continuous (be + being + V3), Perfect (have + been + V3), Future (will be + V3 / will have been + V3)."
+    },
+    {
+      "id": "sec-negative-sentences",
+      "number": 5,
+      "title": "E. Negative Sentences: Preserving Negation & Auxiliary Placement",
+      "summary": "Passive voice mein 'not' ki exact position: hamesha first auxiliary verb ke turant baad.",
+      "content": "Negative active sentences ko passive mein convert karte waqt polarity (negation) strictly maintain honi chahiye. Galti se 'not' drop ho jana ya duplicate ho jana meaning ko ulta kar deta hai.",
+      "dimensions": [
+        {
+          "name": "Placement Rule of 'Not'",
+          "description": "Passive auxiliary chain mein 'not' hamesha FIRST auxiliary verb ke turant baad lagta hai.",
+          "categories": [
+            {
+              "name": "Single Auxiliary Rule",
+              "detail": "Simple Present aur Simple Past mein ek hi auxiliary hoti hai:\n• is not / are not + V3 (e.g., 'The document is not accepted.')\n• was not / were not + V3 (e.g., 'The files were not verified.')"
+            },
+            {
+              "name": "Multiple Auxiliary Chain Rule",
+              "detail": "Jab passive verb phrase mein do ya teen auxiliaries hon (jaise 'has been', 'is being', 'will be', 'had been', 'will have been'), toh 'not' hamesha FIRST auxiliary ke baad lagta hai:\n• is NOT being + V3 (NOT: is being not)\n• has NOT been + V3 (NOT: has been not)\n• will NOT be + V3 (NOT: will be not)\n• had NOT been + V3 (NOT: had been not)\n• will NOT have been + V3 (NOT: will have not been)"
+            }
+          ]
+        },
+        {
+          "name": "Tense-Wise Negative Conversion Examples",
+          "description": "Active se passive negative conversion ke clear models.",
+          "categories": [
+            {
+              "name": "Simple Present Negative",
+              "detail": "Active: 'The clerk does not sign unauthorized challans.' ➔ Passive: 'Unauthorized challans are not signed by the clerk.' — Active ka 'does not' passive mein 'are not' ban gaya."
+            },
+            {
+              "name": "Simple Past Negative",
+              "detail": "Active: 'The police did not seize the vehicle.' ➔ Passive: 'The vehicle was not seized by the police.' — Active ka 'did not' passive mein 'was not' ban gaya."
+            },
+            {
+              "name": "Present Perfect Negative",
+              "detail": "Active: 'The committee has not released the examination roster.' ➔ Passive: 'The examination roster has not been released by the committee.'"
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Negative Rule: Subject + First Aux + NOT + Remaining Auxiliaries + V3. Example: 'has NOT been V3', 'is NOT being V3'."
+    },
+    {
+      "id": "sec-interrogative-sentences",
+      "number": 6,
+      "title": "F. Interrogative Sentences: Yes/No Questions & Wh-Questions Architecture",
+      "summary": "Questions ko passive voice mein transform karne ke rules, auxiliary inversion, aur 'Who/Whom' patterns.",
+      "content": "Interrogative sentences mein sentence ka questioning mood (interrogative word order) preserve rehna zaroori hai. Passive banne ke baad bhi sentence question hi rehna chahiye, assertive nahi banna chahiye.",
+      "dimensions": [
+        {
+          "name": "Yes/No Questions Transformation",
+          "description": "Auxiliary verb sentence ke shuru mein inverted rehti hai.",
+          "categories": [
+            {
+              "name": "Conversion Method",
+              "detail": "Active sentence 'Do/Does/Did' se shuru hota hai. Passive banate waqt 'Do/Does/Did' gayab ho jata hai aur uski jagah new subject ke mutabiq 'Is/Am/Are' ya 'Was/Were' sentence ke shuru mein aa jata hai:\n• Do/Does + S + V1 + O? ➔ Is/Am/Are + O + V3 + by S?\n• Did + S + V1 + O? ➔ Was/Were + O + V3 + by S?\n• Has/Have + S + V3 + O? ➔ Has/Have + O + been + V3 + by S?"
+            },
+            {
+              "name": "Yes/No Example",
+              "detail": "Active: 'Did the judge grant the anticipatory bail?' ➔ Step 1 (Mental Assertive): The judge granted the bail. ➔ Step 2 (Passive Assertive): The bail was granted by the judge. ➔ Step 3 (Invert for Question): 'Was the anticipatory bail granted by the judge?'"
+            }
+          ]
+        },
+        {
+          "name": "Wh-Questions Transformation",
+          "description": "Question words (Why, When, Where, How, What, Who) ke sath passive structure.",
+          "categories": [
+            {
+              "name": "Standard Wh-Words (Why, When, Where, How)",
+              "detail": "Wh-word apni jagah shuruat mein rehta hai, uske baad auxiliary verb aati hai, fir naya subject, fir V3:\nPattern: Wh-word + auxiliary + Object + V3 + by Subject?\nExample: 'Why did the registrar cancel the recruitment?' ➔ 'Why was the recruitment cancelled by the registrar?'"
+            },
+            {
+              "name": "The 'Who' Transformation Trap (Extremely High Frequency)",
+              "detail": "Active sentence mein agar subject 'Who' ho, toh passive banate waqt 'Who' agent ban kar 'By whom' ban jata hai aur sentence ke shuru mein hi rehta hai:\nPattern: By whom + auxiliary + Object + V3?\nExample: 'Who wrote this judgment?' ➔ 'By whom was this judgment written?'\nModern alternative: 'Who was this judgment written by?' (Lekin competitive exams mein 'By whom' standard primary key hota hai)."
+            },
+            {
+              "name": "The 'Whom' Transformation",
+              "detail": "Agar active sentence mein object 'Whom' ho, toh passive mein wo naya subject ban kar 'Who' ban jata hai:\nActive: 'Whom did the committee select for the post?' ➔ Passive: 'Who was selected by the committee for the post?'"
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Question Pattern: Aux + Object + V3? / Wh-word + Aux + Object + V3? Who ➔ By whom + Aux + Object + V3?"
+    },
+    {
+      "id": "sec-role-of-agent",
+      "number": 7,
+      "title": "G. The Role of the Agent: When 'by + Subject' is Retained, Optional, or Omitted",
+      "summary": "Agentive phrase kab zaroori hoti hai aur kab usko omit karna grammatically natural aur superior hota hai.",
+      "content": "Traditional school grammar mein har passive sentence ke aakhri mein 'by + subject' jodne ki aadat pad jati hai. Lekin real-world English aur competitive exams mein 'by + agent' ko har baar lagana galat ya unnecessary wordiness mana jata hai.",
+      "dimensions": [
+        {
+          "name": "Category 1: Unknown Agents (Mandatory Omission)",
+          "description": "Jab doer unknown ho ya vague indefinite pronoun ho.",
+          "categories": [
+            {
+              "name": "Indefinite Pronouns",
+              "detail": "Jab active subject 'Someone', 'Somebody', 'Anyone', 'Anybody', 'No one', 'Nobody' ho, toh doer ki identity unknown hoti hai. Isliye passive mein 'by someone' lagana strictly unnecessary hai.\nActive: 'Someone stole the confidential court diary.' ➔ Passive: 'The confidential court diary was stolen.' ('by someone' omit hoga)."
+            }
+          ]
+        },
+        {
+          "name": "Category 2: Obvious or Contextually Understood Agents",
+          "description": "Jab action se hi clearly pata chal jata hai ki doer kaun hai.",
+          "categories": [
+            {
+              "name": "Natural Doer Omission",
+              "detail": "Jab action kisi specific profession ya authority se hi kiya ja sakta hai:\nActive: 'The police arrested the notorious hacker.' ➔ Passive: 'The notorious hacker was arrested.' (Yahan 'by the police' kehna redundant hai kyunki arrest sirf police hi karti hai).\nActive: 'The doctor treated the patient.' ➔ Passive: 'The patient was treated.'"
+            }
+          ]
+        },
+        {
+          "name": "Category 3: Irrelevant or General Human Agents",
+          "description": "Jab doer generic human population ho ('people', 'they', 'one').",
+          "categories": [
+            {
+              "name": "Generic Agent Omission",
+              "detail": "Active: 'People speak English all over the world.' ➔ Passive: 'English is spoken all over the world.' ('by people' lagana awkward aur childish English hai).\nActive: 'They renovated the courtroom last month.' ➔ Passive: 'The courtroom was renovated last month.'"
+            }
+          ]
+        },
+        {
+          "name": "Category 4: Mandatory Retention of the Agent",
+          "description": "Jab doer ki specific identity hi sentence ki main informative value ho.",
+          "categories": [
+            {
+              "name": "Essential Agent Examples",
+              "detail": "Jab action kisi famous author, inventor, historical person, ya specific entity dwara kiya gaya ho jiske bina sentence incomplete ya misleading lagega:\nActive: 'William Shakespeare wrote Hamlet.' ➔ Passive: 'Hamlet was written by William Shakespeare.' (Agar 'by Shakespeare' hata diya toh literary information gayab ho jayegi!).\nActive: 'The Supreme Court struck down the unconstitutional amendment.' ➔ Passive: 'The unconstitutional amendment was struck down by the Supreme Court.'"
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Agent Rule: Omit 'by + agent' if doer is Unknown (someone), Obvious (police/doctor), or Generic (people/they). Retain if doer is Essential/Specific."
+    },
+    {
+      "id": "sec-transitive-intransitive",
+      "number": 8,
+      "title": "H. Transitive and Intransitive Verbs: Object Feasibility & Pseudo-Passives",
+      "summary": "Transitive vs Intransitive verbs ka farq aur kyun intransitive sentences ka passive banana invalid hai.",
+      "content": "Competitive exams mein examiners candidates ko trick karne ke liye aise sentences dete hain jinka passive banana theoretically possible nahi hota. Candidates formulas ko blindly apply karke galat option select kar lete hain.",
+      "dimensions": [
+        {
+          "name": "Transitive Verbs (Passivizable)",
+          "description": "Aisi verbs jinka action subject se nikal kar direct object par transfer hota hai.",
+          "categories": [
+            {
+              "name": "Definition & Test",
+              "detail": "Transitive verb hamesha direct object leti hai ('Verb + What/Whom'). Chunki isme direct object maujood hota hai, isliye iska valid passive sentence ban sakta hai.\nExample: 'He flies a kite.' ➔ Flies WHAT? 'A kite' (Object). ➔ Passive: 'A kite is flown by him.'"
+            }
+          ]
+        },
+        {
+          "name": "Intransitive Verbs (Non-Passivizable)",
+          "description": "Aisi verbs jinka action subject tak hi seemit rehta hai aur kisi object par transfer nahi hota.",
+          "categories": [
+            {
+              "name": "Definition & Test",
+              "detail": "Intransitive verb ke baad koi direct object nahi hota. Uske baad prepositional phrase, adverb of manner, place, ya time hota hai. Chunki object nahi hai, isliye naya subject banne ke liye koi noun nahi hota.\nExample: 'Birds fly in the sky.' ➔ Fly WHAT? (No answer). 'In the sky' place batata hai (adverbial prepositional phrase), object nahi. Is sentence ka passive transformation IMPOSSIBLE hai."
+            },
+            {
+              "name": "Common Purely Intransitive Verbs",
+              "detail": "Ye verbs ordinary English mein direct object nahi leti aur inka passive nahi banta:\n• sleep ('He slept peacefully.')\n• die ('The witness died in the hospital.')\n• arrive ('The train arrived on time.')\n• go / come ('She went to Jaipur.')\n• laugh / cry / smile ('The baby smiled happily.')\n• happen / occur ('An accident occurred yesterday.')\nExaminer 'He was died' ya 'A train was arrived' dekar trap karta hai, jo completely ungrammatical hain."
+            }
+          ]
+        },
+        {
+          "name": "Verbs with Dual Usage (Ergative/Ambitransitive)",
+          "description": "Verbs jo context ke hisaab se transitive ya intransitive dono tarah use ho sakti hain.",
+          "categories": [
+            {
+              "name": "Dual Usage Examples",
+              "detail": "• 'The driver stopped the bus.' ➔ Transitive (Object: the bus) ➔ Passive: 'The bus was stopped by the driver.'\n• 'The bus stopped suddenly.' ➔ Intransitive (No object) ➔ Passive IMPOSSIBLE.\n• 'The peon rang the bell.' ➔ Transitive ➔ Passive: 'The bell was rung by the peon.'\n• 'The bell rang loudly.' ➔ Intransitive ➔ Passive IMPOSSIBLE."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Validity Check: Verb + What/Whom? = Object ➔ Valid Passive. If No Object (Intransitive: sleep, die, arrive, go) ➔ Passive IMPOSSIBLE."
+    },
+    {
+      "id": "sec-common-errors",
+      "number": 9,
+      "title": "I. Common Transformation Errors: 10 Classic Competitive Exam Traps",
+      "summary": "High Court exam mein aane wale top 10 voice errors, incorrect vs correct models, aur Roman Hinglish reasoning.",
+      "content": "Exam-setters multiple-choice questions ke 4 options mein se 3 distractors inhi 10 standard grammatical errors ke basis par design karte hain. In traps ko pehchan kar eliminate karna seekhein.",
+      "dimensions": [
+        {
+          "name": "Top 10 Voice Traps Diagnostic",
+          "description": "Incorrect vs Correct examples with rigorous Roman Hinglish explanations.",
+          "categories": [
+            {
+              "name": "1. Missing V3 (Using V1 or V2 instead of Past Participle)",
+              "detail": "Incorrect: 'The legal notice was send by the advocate.'\nCorrect: 'The legal notice was sent by the advocate.'\nReason: Passive voice mein main verb strictly V3 honi chahiye. 'Send' V1 hai, iska V3 'sent' hota hai."
+            },
+            {
+              "name": "2. Incorrect Auxiliary Selection (Continuous mein 'being' omit karna)",
+              "detail": "Incorrect: 'The documents are verifying by the clerk right now.'\nCorrect: 'The documents are being verified by the clerk right now.'\nReason: Continuous passive mein 'is/are/was/were' ke baad 'being' lagana zaroori hai. Bina 'being' ke continuous aspect khatam ho jata hai."
+            },
+            {
+              "name": "3. Agreement Error with New Subject (Singular vs Plural Discord)",
+              "detail": "Incorrect: 'The criminal was arrested, but the stolen ornaments was recovered.'\nCorrect: 'The criminal was arrested, but the stolen ornaments were recovered.'\nReason: Passive auxiliary 'be' ka concord naye subject se hota hai. 'Ornaments' plural noun hai, isliye 'was' nahi 'were' lagega."
+            },
+            {
+              "name": "4. Accidental Tense Backshifting (Narration ka rule Voice mein lagana)",
+              "detail": "Incorrect: Active: 'He prepares the file.' ➔ Passive: 'The file was prepared by him.'\nCorrect: 'The file is prepared by him.'\nReason: Narration mein tense backshift hota hai, lekin Voice transformation mein tense STRICTLY SAME rehta hai. Simple Present passive mein 'is/are', Simple Past nahi banta."
+            },
+            {
+              "name": "5. Perfect Tense mein 'been' Drop Karna",
+              "detail": "Incorrect: 'The high court has granted the stay order.' ➔ 'The stay order has granted by the high court.'\nCorrect: 'The stay order has been granted by the high court.'\nReason: Bina 'been' ke active sense rehta hai ki stay order ne khud kisi ko grant kiya. Perfect passive ke liye 'has/have/had + been + V3' mandatory hai."
+            },
+            {
+              "name": "6. Retaining Redundant or Vague Agent",
+              "detail": "Incorrect: 'The secret files were leaked by somebody.'\nCorrect: 'The secret files were leaked.'\nReason: Jab doer unknown ya indefinite ho ('somebody', 'someone', 'people'), toh 'by somebody' lagana redundant wordiness hai aur exam mein inferior option mana jata hai."
+            },
+            {
+              "name": "7. Interrogative Word Order Inversion Error",
+              "detail": "Incorrect: 'Why the summons was issued by the magistrate?'\nCorrect: 'Why was the summons issued by the magistrate?'\nReason: Question format mein auxiliary verb hamesha subject se pehle aani chahiye ('Why was the summons...', not 'Why the summons was...')."
+            },
+            {
+              "name": "8. 'Who' Question mein 'By whom' ke baad Inversion bhoolna",
+              "detail": "Incorrect: 'By whom the window was broken?'\nCorrect: 'By whom was the window broken?'\nReason: 'By whom' ke turant baad auxiliary 'was' aayegi, uske baad object 'the window' aayega."
+            },
+            {
+              "name": "9. Intransitive Verbs ka Passive Banana (Pseudo-Passive Trap)",
+              "detail": "Incorrect: 'The old pensioner was died in the queue.'\nCorrect: 'The old pensioner died in the queue.'\nReason: 'Die' intransitive verb hai, iska koi passive form possible nahi hai. 'Was died' pure grammatical absurdity hai."
+            },
+            {
+              "name": "10. Pronoun Case Error (Subject/Object Case Confusion)",
+              "detail": "Incorrect: 'She was congratulated by he.'\nCorrect: 'She was congratulated by him.'\nReason: Preposition 'by' ke baad hamesha objective case pronoun lagta hai ('by him', 'by her', 'by them', not 'by he')."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Golden Check: 1. Tense same hai? 2. New subject ke sath auxiliary match hui? 3. Verb V3 hai? 4. Agent necessary hai ya redundant? 5. Question order sahi hai?"
+    }
+  ]
+}

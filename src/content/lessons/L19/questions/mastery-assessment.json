@@ -1,0 +1,521 @@
+{
+  "lessonId": "L19",
+  "stage": "mastery-assessment",
+  "questions": [
+    {
+      "id": "L19-MA-001",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Core Meaning & Context",
+      "conceptTags": [
+        "secrets",
+        "spill-the-beans"
+      ],
+      "question": "Select the most defensible meaning of 'spill the beans':",
+      "options": [
+        {
+          "id": "A",
+          "text": "To waste food carelessly"
+        },
+        {
+          "id": "B",
+          "text": "To disclose confidential information prematurely"
+        },
+        {
+          "id": "C",
+          "text": "To refuse to testify in court"
+        },
+        {
+          "id": "D",
+          "text": "To make a financial profit"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-01 ke anusaar, 'spill the beans' ka universally established arth confidential ya secret jankari ko prematurely reveal kar dena hota hai."
+    },
+    {
+      "id": "L19-MA-002",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Sentence Completion",
+      "conceptTags": [
+        "relationships",
+        "bury-the-hatchet"
+      ],
+      "question": "Fill in the blank with the appropriate idiom:\n\"After twenty years of bitter family litigation over the ancestral haveli, the cousins decided to ________ and divide the property amicably.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "break the ice"
+        },
+        {
+          "id": "B",
+          "text": "bury the hatchet"
+        },
+        {
+          "id": "C",
+          "text": "cut corners"
+        },
+        {
+          "id": "D",
+          "text": "jump the gun"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-13 ke anusaar, 'twenty years of bitter litigation' ek purani dushmani ko darshata hai jise khatam karne ke liye 'bury the hatchet' lagta hai."
+    },
+    {
+      "id": "L19-MA-003",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Work & Diligence",
+      "conceptTags": [
+        "work",
+        "burn-midnight-oil"
+      ],
+      "question": "\"To draft the special leave petition before tomorrow morning's filing deadline, the advocate had to burn the midnight oil.\" This means he:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lit kerosene lamps in his office"
+        },
+        {
+          "id": "B",
+          "text": "Worked late into the night"
+        },
+        {
+          "id": "C",
+          "text": "Wasted valuable judicial time"
+        },
+        {
+          "id": "D",
+          "text": "Fell asleep during drafting"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Burn the midnight oil' ka arth der raat tak jaag kar mehnat se kaam karna hota hai."
+    },
+    {
+      "id": "L19-MA-004",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Timing & Frequency",
+      "conceptTags": [
+        "time",
+        "in-the-nick-of-time"
+      ],
+      "question": "Which idiom describes completing an essential action at the very last possible moment just before disaster strikes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At the drop of a hat"
+        },
+        {
+          "id": "B",
+          "text": "Once in a blue moon"
+        },
+        {
+          "id": "C",
+          "text": "In the nick of time"
+        },
+        {
+          "id": "D",
+          "text": "Ahead of one's time"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'In the nick of time' theek aakhri kshan par aakar disaster ya nuksan rokne ko darshata hai."
+    },
+    {
+      "id": "L19-MA-005",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Emotions & Composure",
+      "conceptTags": [
+        "emotions",
+        "keep-one's-cool"
+      ],
+      "question": "Choose the antonymous behavior to 'lose one's temper':",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keep one's cool"
+        },
+        {
+          "id": "B",
+          "text": "Fly off the handle"
+        },
+        {
+          "id": "C",
+          "text": "Add fuel to the fire"
+        },
+        {
+          "id": "D",
+          "text": "Hit the ceiling"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Lose one's temper' ka exact opposite 'keep one's cool' (shaant aur sanyamit rehna) hota hai. Options B, C, aur D anger se jude hain."
+    },
+    {
+      "id": "L19-MA-006",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Money & High Cost",
+      "conceptTags": [
+        "money",
+        "cost-arm-and-leg"
+      ],
+      "question": "\"Setting up an enterprise data center for the high court will cost an arm and a leg.\" This means the data center will:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Require physical biometric surgery"
+        },
+        {
+          "id": "B",
+          "text": "Be exceptionally expensive"
+        },
+        {
+          "id": "C",
+          "text": "Operate at zero financial cost"
+        },
+        {
+          "id": "D",
+          "text": "Be funded entirely by donations"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Cost an arm and a leg' ka arth atyadhik mehanga hona (exorbitantly expensive) hota hai."
+    },
+    {
+      "id": "L19-MA-007",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Sentence Correction",
+      "conceptTags": [
+        "grammar",
+        "fixed-expression",
+        "nutshell"
+      ],
+      "question": "Identify the incorrect sentence that distorts an established idiom:",
+      "options": [
+        {
+          "id": "A",
+          "text": "He explained the ratio decidendi in a nutshell."
+        },
+        {
+          "id": "B",
+          "text": "The senior clerk advised him to keep his nose to the grindstone."
+        },
+        {
+          "id": "C",
+          "text": "The auditor was censured for turning the blind eyes to the audit objection."
+        },
+        {
+          "id": "D",
+          "text": "We decided to call it a day after cataloging the files."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rule RC-04 ke anusaar, established idiom 'turn a blind eye' hota hai (singular 'eye' with indefinite article 'a'). '*Turning the blind eyes*' distorted and invalid hai."
+    },
+    {
+      "id": "L19-MA-008",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Disambiguation: Decision Idioms",
+      "conceptTags": [
+        "decisions",
+        "jump-the-gun",
+        "take-plunge"
+      ],
+      "question": "Which of the following actions best illustrates 'jumping the gun'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Filing a writ petition after obtaining certified copies and thorough research"
+        },
+        {
+          "id": "B",
+          "text": "Issuing appointment letters to candidates before the selection board finalized the results"
+        },
+        {
+          "id": "C",
+          "text": "Working overtime during judicial inspection week"
+        },
+        {
+          "id": "D",
+          "text": "Revising a draft three times to ensure perfection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Jump the gun' nirdharit samay ya official permission se pehle premature action lene ko kehte hain (Option B)."
+    },
+    {
+      "id": "L19-MA-009",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Genre Classification",
+      "conceptTags": [
+        "genre",
+        "proverb",
+        "idiom"
+      ],
+      "question": "Which expression is classified as a PROVERB rather than an IDIOM?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A blessing in disguise"
+        },
+        {
+          "id": "B",
+          "text": "A penny saved is a penny earned"
+        },
+        {
+          "id": "C",
+          "text": "At the eleventh hour"
+        },
+        {
+          "id": "D",
+          "text": "Down in the dumps"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-06 ke mutabiq, 'A penny saved is a penny earned' ek complete standalone sentence hai jo traditional wisdom deta hai, isliye yeh Proverb hai."
+    },
+    {
+      "id": "L19-MA-010",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Ethics & Compliance",
+      "conceptTags": [
+        "administrative",
+        "by-the-book"
+      ],
+      "question": "To perform an official duty 'by the book' means to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rely solely on personal intuition"
+        },
+        {
+          "id": "B",
+          "text": "Follow all prescribed rules and statutory procedures rigorously"
+        },
+        {
+          "id": "C",
+          "text": "Keep office files at home"
+        },
+        {
+          "id": "D",
+          "text": "Ignore departmental guidelines"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'By the book' ka arth official statutory procedures aur rules ka aksharasah palan karna hota hai."
+    },
+    {
+      "id": "L19-MA-011",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Communication Disambiguation",
+      "conceptTags": [
+        "communication",
+        "beat-around-bush",
+        "call-spade-a-spade"
+      ],
+      "question": "Select the option that is the OPPOSITE in communicative intent to 'beat around the bush':",
+      "options": [
+        {
+          "id": "A",
+          "text": "Call a spade a spade"
+        },
+        {
+          "id": "B",
+          "text": "Spill the beans"
+        },
+        {
+          "id": "C",
+          "text": "Hear it through the grapevine"
+        },
+        {
+          "id": "D",
+          "text": "Put words in someone's mouth"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Beat around the bush' (indirect evasion) ka direct communicative opposite 'call a spade a spade' (blunt truth) hota hai."
+    },
+    {
+      "id": "L19-MA-012",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Grammatical Concord",
+      "conceptTags": [
+        "grammar",
+        "pronoun-concord",
+        "keep-cool"
+      ],
+      "question": "In the sentence: \"The magistrate warned the accused that one must hold ________ tongue in court.\"\nThe correct pronoun to complete the sentence is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "his"
+        },
+        {
+          "id": "B",
+          "text": "one's"
+        },
+        {
+          "id": "C",
+          "text": "their"
+        },
+        {
+          "id": "D",
+          "text": "its"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-05 ke mutabiq, jab subject impersonal pronoun 'one' ho ('one must hold...'), toh possessive pronoun strictly 'one's' hota hai ('hold one's tongue')."
+    },
+    {
+      "id": "L19-MA-013",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Consequences & Risk",
+      "conceptTags": [
+        "risk",
+        "double-edged-sword"
+      ],
+      "question": "\"A double-edged sword\" refers to something that:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Is extremely sharp and dangerous to touch physically"
+        },
+        {
+          "id": "B",
+          "text": "Can have both favourable and adverse consequences"
+        },
+        {
+          "id": "C",
+          "text": "Has been manufactured using two metals"
+        },
+        {
+          "id": "D",
+          "text": "Is used exclusively by military personnel"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'A double-edged sword' aisi sthiti ya decision ko kehte hain jisme fayda aur nuksan dono hone ki sambhavna hoti hai."
+    },
+    {
+      "id": "L19-MA-014",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Cognitive Errors",
+      "conceptTags": [
+        "judgment",
+        "not-see-forest-for-trees"
+      ],
+      "question": "If someone 'cannot see the forest for the trees', they are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lost in a dense woodland area"
+        },
+        {
+          "id": "B",
+          "text": "Unable to understand the broader situation because of excessive focus on minor details"
+        },
+        {
+          "id": "C",
+          "text": "Suffering from acute nighttime vision loss"
+        },
+        {
+          "id": "D",
+          "text": "Opposed to environmental conservation efforts"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Not see the forest for the trees' ka matlab chhoti details mein itna ulajh jana hota hai ki main broad picture nazar na aaye."
+    },
+    {
+      "id": "L19-MA-015",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Accountability",
+      "conceptTags": [
+        "consequences",
+        "face-the-music"
+      ],
+      "question": "When a public servant who committed fraud is summoned by the vigilance bench to 'face the music', it means he must:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sing in a ceremonial musical ensemble"
+        },
+        {
+          "id": "B",
+          "text": "Accept and confront the unpleasant punishment for his misconduct"
+        },
+        {
+          "id": "C",
+          "text": "Listen to sound recordings of the inquiry"
+        },
+        {
+          "id": "D",
+          "text": "Defend himself by accusing his subordinates"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Face the music' ka established arth apni galti ya apradh ka anjaam aur punishment jhelna hota hai."
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "id": "L03-STUDY-DOC",
+  "title": "Comprehensive Study Guide: Conditional Sentences & Inversions",
+  "subtitle": "Rajasthan High Court System Assistant Exam ke liye Complete Structural Reference",
+  "overview": "Conditional sentences English grammar ka ek high-yield topic hain jo condition (shart) aur uske consequential result (natije) ke beech logical relationship establish karte hain. High Court System Assistant exam mein conditional verb formulas (Types 0, 1, 2, 3), hypothetical subjunctive 'were', formal inverted constructions (Had I..., Were he..., Should you...), aur conjunction traps (jaise 'unless' ke sath double negative) se regular questions aate hain. Is study guide mein sabhi 10 core dimensions ko simple Roman Hinglish mein step-by-step master karein.",
+  "sections": [
+    {
+      "id": "sec-foundation",
+      "number": 1,
+      "title": "Conditional Sentence Foundation & Clause Architecture",
+      "summary": "Conditional sentence ke do basic components: Condition Clause (if-clause) aur Consequential Result Clause (main clause).",
+      "content": "Har conditional sentence mein do clauses hote hain jo ek dusre se judkar causal logic banate hain. Condition clause batata hai ki kya hona zaroori hai, aur result clause batata hai ki us condition ke poora hone par kya hoga ya kya ho sakta tha.",
+      "dimensions": [
+        {
+          "name": "Clauses ka Syntactic Structure",
+          "description": "Conditional sentence ke dono components ko pehchanna sabse pehla step hai.",
+          "categories": [
+            {
+              "name": "Condition Clause (If-Clause)",
+              "detail": "Ye subordinate clause hota hai jo subordinating conjunction (if, unless, provided that) se shuru hota hai. Ye akele complete sentence nahi hota balki ek shart ya premise rakhta hai."
+            },
+            {
+              "name": "Result Clause (Main Clause)",
+              "detail": "Ye principal/main clause hota hai jo condition poori hone par hone wale outcome ya result ko express karta hai. Ye grammatically independent hota hai."
+            },
+            {
+              "name": "Comma Rule (Clause Order)",
+              "detail": "Agar If-clause sentence ke shuru mein aata hai, toh dono clauses ke beech comma (,) lagana mandatory hai: 'If you study hard, you will succeed.' Lekin agar main clause pehle aata hai, toh comma ki zaroorat nahi hoti: 'You will succeed if you study hard.'"
+            }
+          ]
+        },
+        {
+          "name": "Meaning Preservation across Clause Order",
+          "description": "Clauses ki position badalne se sentence ka grammatical meaning nahi badalta.",
+          "categories": [
+            {
+              "name": "If-Clause First",
+              "detail": "Focus condition par hota hai: 'If the court issues an injunction, the demolition will stop.'"
+            },
+            {
+              "name": "Main Clause First",
+              "detail": "Focus direct result par hota hai: 'The demolition will stop if the court issues an injunction.' Dono constructions bilkul identical meaning convey karti hain."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Core Rule: Condition Clause (Subordinate) + Result Clause (Principal). If-clause pehle aane par comma zaroori hai; main clause pehle aane par comma nahi lagta."
+    },
+    {
+      "id": "sec-zero-conditional",
+      "number": 2,
+      "title": "Zero Conditional (Type 0): Factual Truths & Predictable Results",
+      "summary": "Universal facts, scientific laws, aur recurring cause-and-effect relationships ke liye Simple Present + Simple Present ka use.",
+      "content": "Zero Conditional ka use aisi situations ke liye hota hai jo hamesha sach hoti hain. Yahan kisi specific future event ki prediction nahi hoti, balki ek automatic, predictable cause-and-effect relationship bataya jata hai. Agar condition hoti hai, toh result hamesha 100% certainty ke sath hota hai.",
+      "rules": [
+        {
+          "condition": "Scientific Laws & Physical Reactions",
+          "formula": "If / When + Simple Present (V1/V_s/es), Simple Present (V1/V_s/es)",
+          "example": "If water reaches 100°C under standard atmospheric pressure, it boils.",
+          "analysis": "Paani ka 100°C par ubalna ek permanent scientific law hai. Isliye result clause mein 'will boil' nahi balki Simple Present 'boils' lagta hai."
+        },
+        {
+          "condition": "General Facts & Institutional Procedures",
+          "formula": "If + Simple Present, Simple Present",
+          "example": "If a government employee submits medical bills without vouchers, the treasury rejects the claim.",
+          "analysis": "Ye ek permanent administrative rule aur regular procedure hai. Kisi particular event ki baat nahi ho rahi, balki established rule bataya gaya hai."
+        },
+        {
+          "condition": "'If' vs 'When' Interchangeability",
+          "formula": "When + Simple Present, Simple Present",
+          "example": "When the sun rises, darkness disappears.",
+          "analysis": "Zero conditional mein 'if' ki jagah 'when' use kiya ja sakta hai kyunki event ka hona completely certain aur automatic hota hai."
+        }
+      ],
+      "goldenRule": "ZERO CONDITIONAL MASTER RULE: Jab baat universal scientific fact, permanent natural law, ya recurring habit ki ho, toh dono clauses mein strictly Simple Present (V1/V_s/es) use karein. Result clause mein 'will' lagana ek common exam error hai."
+    },
+    {
+      "id": "sec-first-conditional",
+      "number": 3,
+      "title": "First Conditional (Type 1): Realistic Future Conditions",
+      "summary": "Future mein possible condition aur uska realistic, probable outcome: If + Simple Present, will + V1.",
+      "content": "First Conditional ka use aisi real situations ke liye hota hai jinke future mein hone ki realistic possibility hoti hai. Condition present ya future mein poori ho sakti hai, aur result future mein hone ki umeed hoti hai. Exam point of view se ye sabse high-frequency structure hai.",
+      "rules": [
+        {
+          "condition": "Standard Pattern (Probable Future Result)",
+          "formula": "If + Simple Present (V1/V_s/es), Subject + will / shall + V1",
+          "example": "If the petitioner files the reply on time, the High Court will hear the matter tomorrow.",
+          "analysis": "Reply file karna future mein possible hai. Isliye if-clause mein Simple Present 'files' aur result clause mein 'will hear' aayega."
+        },
+        {
+          "condition": "Modal Auxiliary Variations in Result Clause",
+          "formula": "If + Simple Present, Subject + can / may / must / should + V1",
+          "example": "If the candidate clears Part-A and Part-B, he can appear in the typing test.",
+          "analysis": "Result clause mein certainty ki jagah ability ('can'), permission/possibility ('may'), ya duty ('must/should') dikhane ke liye suitable modal verbs aa sakte hain."
+        },
+        {
+          "condition": "Imperative Result Clause (Orders & Instructions)",
+          "formula": "If + Simple Present, Imperative Verb (Base form V1)",
+          "example": "If you notice any procedural error in the chargesheet, inform the public prosecutor immediately.",
+          "analysis": "Result clause mein 'you will inform' ki jagah direct command ya instruction ke liye base verb V1 'inform' aati hai."
+        },
+        {
+          "condition": "Negative Construction (If... not vs Unless)",
+          "formula": "If + Subject + do/does not + V1, will not + V1",
+          "example": "If the clerk does not verify the biometric records, the attendance will not be marked.",
+          "analysis": "Negative condition mein do/does not use hota hai. Isko 'Unless the clerk verifies...' se bhi likha ja sakta hai."
+        }
+      ],
+      "goldenRule": "FIRST CONDITIONAL CONSTRAINT: English mein temporal aur conditional clauses (if, when, as soon as, unless) ke andar normal circumstances mein 'will' ya 'shall' ka use nahi hota. 'If it will rain, we will stay inside' GALAT hai; correct form hai 'If it rains, we will stay inside'."
+    },
+    {
+      "id": "sec-second-conditional",
+      "number": 4,
+      "title": "Second Conditional (Type 2): Hypothetical Present / Future",
+      "summary": "Present ya future ki imaginary, hypothetical, ya unlikely situation: If + Simple Past (V2), would + V1.",
+      "content": "Second Conditional aisi situations ko describe karta hai jo present moment par imaginary, unreal, ya fact ke contrary (opposite) hain, ya future mein jinke hone ki bahut kam probability hai. Sabse important baat: Yahan past verb form lagti hai lekin time beeta hua past nahi hota, balki hypothetical present ya future hota hai.",
+      "rules": [
+        {
+          "condition": "Standard Hypothetical Pattern",
+          "formula": "If + Simple Past (V2), Subject + would + V1",
+          "example": "If I knew his contact address, I would send him the legal summons today.",
+          "analysis": "Reality ye hai ki present mein mujhe uska address nahi pata ('I do not know'). Isliye hypothetical scenario ke liye if-clause mein 'knew' (V2) aur result mein 'would send' lagega."
+        },
+        {
+          "condition": "Subjunctive 'Were' for All Persons",
+          "formula": "If + Subject + were ..., Subject + would + V1",
+          "example": "If he were the Chief Judicial Magistrate, he would streamline the bail procedure.",
+          "analysis": "Formal aur competitive English mein subject chahe singular ho ya plural (I, he, she, it), hypothetical condition mein 'was' ki jagah strictly subjunctive 'were' lagta hai."
+        },
+        {
+          "condition": "Hypothetical Advice ('If I were you...')",
+          "formula": "If I were you, I would + V1",
+          "example": "If I were you, I would accept the compromise decree without further litigation.",
+          "analysis": "Ye standard idiomatic construction advice dene ke liye use hoti hai. Yahan 'If I was you' likhna competitive exams mein strictly error mana jata hai."
+        },
+        {
+          "condition": "Modal Variations ('could' / 'might' in result)",
+          "formula": "If + Simple Past (V2), Subject + could / might + V1",
+          "example": "If we had sufficient budget, we could install modern digital display boards in all courtrooms.",
+          "analysis": "'Would' definite hypothetical outcome dikhata hai, jabki 'could' hypothetical ability aur 'might' hypothetical possibility dikhata hai."
+        }
+      ],
+      "goldenRule": "TEMPORAL DISTANCE INSIGHT: Second conditional mein 'Simple Past' (V2) time ke past hone ko nahi, balki reality se hypothetical distance ko darshata hai. Subject singular hone par bhi imaginary situations mein 'were' hi chunein (jaise 'If she were rich')."
+    },
+    {
+      "id": "sec-third-conditional",
+      "number": 5,
+      "title": "Third Conditional (Type 3): Unreal Counterfactual Past",
+      "summary": "Past ka aisa action jo actually nahi hua, aur uska imagined past result: If + Past Perfect, would have + V3.",
+      "content": "Third Conditional past time ki unfulfilled, counterfactual (hakeekat ke ulat) conditions ko describe karta hai. Sentence jis event ki baat kar raha hai wo past mein already khatam ho chuka hai aur usko ab badla nahi ja sakta. Ye structure aksar past regrets, missed opportunities, ya imagined alternative history express karta hai.",
+      "rules": [
+        {
+          "condition": "Standard Counterfactual Past Pattern",
+          "formula": "If + Past Perfect (had + V3), Subject + would have + V3",
+          "example": "If the advocate had produced the original sale deed, the judge would have dismissed the appeal.",
+          "analysis": "Past fact: Advocate ne sale deed produce nahi kiya, aur judge ne appeal dismiss nahi ki. Imagined alternative: 'had produced' ➔ 'would have dismissed'."
+        },
+        {
+          "condition": "Past Ability & Possibility Variations ('could have' / 'might have')",
+          "formula": "If + Past Perfect (had + V3), Subject + could have / might have + V3",
+          "example": "If the server had been upgraded last year, the department could have prevented the data corruption.",
+          "analysis": "'Could have prevented' past counterfactual ability ko dikhata hai (rok sakta tha lekin roki nahi)."
+        },
+        {
+          "condition": "Negative Counterfactual Past",
+          "formula": "If + Subject + had not + V3, Subject + would not have + V3",
+          "example": "If the inspector had not intervened in time, the mob would have destroyed the judicial records.",
+          "analysis": "Past fact: Inspector ne intervene kiya, isliye records bache rahe. Dono clauses mein negative coordination counterfactual reality banata hai."
+        }
+      ],
+      "goldenRule": "THIRD CONDITIONAL FATAL ERROR: Kabhi bhi if-clause mein 'would have + V3' use na karein! 'If he would have known, he would have called' BILKUL GALAT hai. If-clause mein strictly Past Perfect ('had known') lagta hai: 'If he had known, he would have called'."
+    },
+    {
+      "id": "sec-type-comparison",
+      "number": 6,
+      "title": "Comparative Matrix of Types 0, 1, 2, and 3",
+      "summary": "Chaar foundational conditional types ki side-by-side comparative mapping aur exam selection criteria.",
+      "content": "Exam mein sentence aane par sabse pehle uski time relationship aur reality level ko identify karein. Is comparative matrix ko reference ke roop mein yaad rakhein taaki verb tenses match karte waqt koi confusion na ho.",
+      "matrix": [
+        {
+          "type": "Zero Conditional (Type 0)",
+          "use": "Universal facts, scientific laws, routine automatic cause-and-effect",
+          "timeReality": "Timeless / Any Time (100% Certain Fact)",
+          "ifClause": "Simple Present (V1 / V_s/es)",
+          "resultClause": "Simple Present (V1 / V_s/es)",
+          "example": "If water freezes, it expands in volume.",
+          "trap": "Result clause mein unnecessary 'will' lagana ('will expand' wrong)."
+        },
+        {
+          "type": "First Conditional (Type 1)",
+          "use": "Realistic future condition aur uska probable outcome",
+          "timeReality": "Future (Real / Likely Possibility)",
+          "ifClause": "Simple Present (V1 / V_s/es)",
+          "resultClause": "will / can / may / must + V1",
+          "example": "If you prepare thoroughly, you will crack the HSA exam.",
+          "trap": "If-clause mein future auxiliary 'will' lagana ('If you will prepare' wrong)."
+        },
+        {
+          "type": "Second Conditional (Type 2)",
+          "use": "Hypothetical, contrary-to-fact present ya unlikely future",
+          "timeReality": "Present / Future (Unreal / Hypothetical)",
+          "ifClause": "Simple Past (V2 / Subjunctive were)",
+          "resultClause": "would / could / might + V1",
+          "example": "If I were a judge, I would expedite all pending trials.",
+          "trap": "Hypothetical clause mein 'was' lagana ('If I was a judge' informal/error)."
+        },
+        {
+          "type": "Third Conditional (Type 3)",
+          "use": "Unreal, counterfactual past situation aur imagined past result",
+          "timeReality": "Past (Unreal / Impossible to Change)",
+          "ifClause": "Past Perfect (had + V3)",
+          "resultClause": "would have / could have + V3",
+          "example": "If they had left earlier, they would have caught the train.",
+          "trap": "If-clause mein 'would have' lagana ('If they would have left' fatal error)."
+        }
+      ],
+      "goldenRule": "SELECTION ALGORITHM: (1) Time kab ka hai? (Present, Future, ya Past?) ➔ (2) Reality status kya hai? (General fact = Type 0; Real future = Type 1; Imaginary present = Type 2; Finished unreal past = Type 3) ➔ (3) Corresponding verb formula apply karein."
+    },
+    {
+      "id": "sec-mixed-conditionals",
+      "number": 7,
+      "title": "Mixed Conditionals (Advanced Cross-Time Structures)",
+      "summary": "Jab condition aur result alag-alag time periods se belong karte hain: Past condition ka Present result, ya Present trait ka Past result.",
+      "content": "Standard conditionals mein dono clauses ek hi time framework mein rehte hain (jaise Type 2 mein dono present/future, Type 3 mein dono past). Lekin practical English aur advanced competitive exams mein 'Mixed Conditionals' aate hain, jahan condition past ki hoti hai aur uska asar ab present mein dikh raha hota hai, ya condition ek permanent quality hoti hai jiska asar beete huye kal par pada tha.",
+      "rules": [
+        {
+          "condition": "Type 3 Condition + Type 2 Result (Past Condition ➔ Present Result)",
+          "formula": "If + Past Perfect (had + V3), Subject + would + V1 (now / today)",
+          "example": "If I had accepted the high court appointment last year, I would be living in Jodhpur now.",
+          "analysis": "Condition past ki hai ('had accepted last year' — jo reality mein nahi hui). Lekin result aaj present moment ka hai ('would be living now'). Isliye result clause mein 'would have lived' ki jagah 'would be living' lagta hai."
+        },
+        {
+          "condition": "Type 2 Condition + Type 3 Result (Continuing Present Trait ➔ Past Result)",
+          "formula": "If + Simple Past (were / V2), Subject + would have + V3 (yesterday / in the past)",
+          "example": "If he were not so negligent with court files, he would not have misplaced the writ petition yesterday.",
+          "analysis": "Condition uski permanent personality trait hai ('If he were not so negligent' — present continuous state). Result kal beete huye event ka hai ('would not have misplaced yesterday')."
+        }
+      ],
+      "goldenRule": "MIXED CONDITIONAL CLUE: Sentence mein explicitly diye gaye temporal adverbs ko check karein. Agar 'last year' ya 'yesterday' ke sath 'now' ya 'today' ka combination dikhe, toh samajh lijiye ki ye standard Type 2 ya Type 3 nahi balki Mixed Conditional hai."
+    },
+    {
+      "id": "sec-conditional-inversions",
+      "number": 8,
+      "title": "Conditional Inversions: Omitting 'If' in Formal English",
+      "summary": "Formal syntax aur high-difficulty exam questions mein 'if' ko hatakar auxiliary verb ko subject ke aage laana (Had, Were, Should).",
+      "content": "Formal, legal, aur competitive exam English mein 'if' ko completely omit (gayab) karke clause ko inverted order mein likha jata hai. Is construction ko 'Conditional Inversion' kehte hain. Meaning bilkul same rehta hai lekin sentence ka style zyada sophisticated aur formal ho jata hai.",
+      "inversions": [
+        {
+          "type": "Had Inversion (Type 3 Inversion)",
+          "standard": "If the administrative bench had received the affidavit on Friday, they would have passed the order.",
+          "inverted": "Had the administrative bench received the affidavit on Friday, they would have passed the order.",
+          "formula": "Had + Subject + V3 ..., Subject + would have + V3",
+          "negativeRule": "Negative form: 'Had the bench not received...' (Dhyan dein: 'Had not the bench...' nahi likha jata, 'not' hamesha subject ke baad aata hai)."
+        },
+        {
+          "type": "Were Inversion (Type 2 Inversion)",
+          "standard": "If I were in your position, I would demand a written explanation from the department.",
+          "inverted": "Were I in your position, I would demand a written explanation from the department.",
+          "formula": "Were + Subject + (Complement / to + V1) ..., Subject + would + V1",
+          "negativeRule": "Action verb ke sath inversion: 'If the government were to raise fees...' ➔ 'Were the government to raise fees...'. Negative: 'Were he not present today...'."
+        },
+        {
+          "type": "Should Inversion (Type 1 Inversion)",
+          "standard": "If you require any assistance with the court portal, contact the IT helpdesk.",
+          "inverted": "Should you require any assistance with the court portal, contact the IT helpdesk.",
+          "formula": "Should + Subject + V1 ..., Subject + will + V1 / Imperative",
+          "negativeRule": "Negative form: 'Should you not receive the SMS OTP, click on the resend button.' Yahan 'should' ka matlab duty ya compulsion nahi hai, balki formal conditional 'if by any chance' hai."
+        }
+      ],
+      "goldenRule": "INVERSION IDENTIFICATION: Inverted conditional sentences question mark (?) se end nahi hote! Inka structure 'Auxiliary + Subject' hota hai lekin end mein full stop (.) lagta hai kyunki ye conditional statements hain, interrogative questions nahi."
+    },
+    {
+      "id": "sec-related-connectives",
+      "number": 9,
+      "title": "Related Conjunctions & Temporal Condition Constraints",
+      "summary": "Unless, provided that, as long as, in case, aur future time clauses ke strict grammatical rules.",
+      "content": "English mein shart lagane ke liye sirf 'if' akela connective nahi hota. Kai aur conjunctions hain jo conditional clauses banate hain, lekin unke apne specific rules aur negative restrictions hote hain jo competitive exams mein baar-baar test kiye jaate hain.",
+      "connectives": [
+        {
+          "word": "Unless (= If... not)",
+          "meaning": "Except if / agar nahi",
+          "rule": "Unless apne aap mein ek negative word hai. Isliye unless wale clause ke andar doosra negative word (not, never, no) kabhi nahi aa sakta. Result clause negative ho sakta hai.",
+          "example": "Unless you deposit the court fee, the registry will not register your petition.",
+          "equivalent": "If you do not deposit the court fee, the registry will not register your petition."
+        },
+        {
+          "word": "Provided that / Providing that",
+          "meaning": "On the condition that / basharte ki",
+          "rule": "Iske baad bhi First Conditional ke rules lagu hote hain (Present Simple for future condition).",
+          "example": "The magistrate will grant anticipatory bail, provided that the applicant cooperates with the investigating officer.",
+          "equivalent": "The magistrate will grant bail if the applicant cooperates."
+        },
+        {
+          "word": "As long as / So long as",
+          "meaning": "During the whole time that / jab tak",
+          "rule": "Duration aur continuing condition dono ko express karta hai.",
+          "example": "As long as the court order remains in force, no commercial activity can take place on the disputed land.",
+          "equivalent": "If and for as long as the court order remains in force..."
+        },
+        {
+          "word": "In case (Contingency / Precaution)",
+          "meaning": "As a precaution against a possible future situation",
+          "rule": "'In case' aur 'if' mein farq hota hai: 'I will take an umbrella in case it rains' (chhaata pehle se le raha hoon barish hone ki taiyari mein) vs 'I will take an umbrella if it rains' (barish hone par hi chhaata loonga).",
+          "example": "Keep a certified physical copy of the petition in case the court server experiences downtime.",
+          "equivalent": "Precautionary action taken before the possible event."
+        }
+      ],
+      "goldenRule": "UNLESS DOUBLE NEGATIVE TRAP: 'Unless you do not work hard, you will fail' BILKUL GALAT hai. Correct form: 'Unless you work hard, you will fail' (ya 'If you do not work hard, you will fail')."
+    },
+    {
+      "id": "sec-common-traps",
+      "number": 10,
+      "title": "Exam Traps & Distractor Elimination Strategies",
+      "summary": "High Court exam mein aane wale top distractor patterns aur unko spot karke eliminate karne ka exact tareeqa.",
+      "content": "Competitive exams mein paper-setters options ko specifically candidates ki common psychological misconceptions ke mutabiq design karte hain. In 5 critical traps ko pehchan kar aap bina kisi doubt ke sahi answer lock kar sakte hain.",
+      "traps": [
+        {
+          "trap": "Trap 1: The 'Would in the If-Clause' Illusion",
+          "errorPattern": "If the witness would have spoken the truth, the innocent would be saved.",
+          "correctPattern": "If the witness had spoken the truth, the innocent would have been saved.",
+          "remedy": "Golden mnemonic: 'Would' kabhi bhi if-clause ke andar directly nahi baithta. If-clause mein Type 2 ke liye V2 aur Type 3 ke liye 'had + V3' lagta hai."
+        },
+        {
+          "trap": "Trap 2: The Future 'Will' in First Conditional If-Clause",
+          "errorPattern": "If the government will announce the revised pay scale, employees will celebrate.",
+          "correctPattern": "If the government announces the revised pay scale, employees will celebrate.",
+          "remedy": "Time and conditional clauses reject future markers. Simple Present 'announces' aayega, 'will announce' nahi."
+        },
+        {
+          "trap": "Trap 3: Subjunctive 'Was' instead of 'Were'",
+          "errorPattern": "If I was the district collector, I would resolve the land dispute immediately.",
+          "correctPattern": "If I were the district collector, I would resolve the land dispute immediately.",
+          "remedy": "In all hypothetical counter-to-fact present conditions, standard English requires the subjunctive 'were' regardless of whether the subject is I, he, she, or it."
+        },
+        {
+          "trap": "Trap 4: Double Negative with 'Unless'",
+          "errorPattern": "Unless the petitioner does not produce the original receipt, the bail will be rejected.",
+          "correctPattern": "Unless the petitioner produces the original receipt, the bail will be rejected.",
+          "remedy": "Unless = if not. Clause ke andar doosra 'does not' lagane se double negative error banta hai."
+        },
+        {
+          "trap": "Trap 5: Negative Inversion Order Confusion",
+          "errorPattern": "Had not the police arrived, the evidence would have been destroyed.",
+          "correctPattern": "Had the police not arrived, the evidence would have been destroyed.",
+          "remedy": "Inverted conditional mein negative particle 'not' subject ke baad lagta hai: 'Had + Subject + not + V3'."
+        }
+      ],
+      "goldenRule": "FINAL EXAM REVISION CHECKLIST: (1) If-clause mein 'would' ya 'will' dikhe? Eliminate! (2) Unless ke baad 'not' dikhe? Eliminate! (3) Imaginary present mein 'was' dikhe? Eliminate! (4) Had inversion mein 'Had not S' dikhe? Eliminate! Bacha hua option hi aapka guaranteed 100% accurate answer hai."
+    }
+  ]
+}

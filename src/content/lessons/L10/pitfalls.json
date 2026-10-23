@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "Alphabet Spelling Trap: Relying on Written Letters Instead of Spoken Phonemes",
+    "category": "Phonetic Discord Error",
+    "frequency": "Extremely High (Classic School & Exam Error)",
+    "explanation": "Candidates aksar school ki basic conditioning ke shikar hote hain: 'A, E, I, O, U dekhte hi AN laga do, baaki sab mein A laga do'. English phonetics mein written letters aur spoken sounds mein bohot farq hota hai. 'University', 'European', 'Union', 'Unique', aur 'Unit' ka written letter vowel hai, lekin spoken sound consonant /j/ ('yu') hai; isliye inke pehle 'A' lagta hai. Wahi dusri taraf, 'FIR', 'MLA', 'MP', 'SDM', 'SP', 'LLB', 'Hour', aur 'Honest' mein written letter consonant hai, lekin spoken opening sound vowel (/ef/, /em/, /es/, /el/, /aʊər/, /ˈɒnɪst/) hai; isliye inke pehle 'AN' lagta hai.",
+    "incorrectExample": "Incorrect: He filed a FIR after visiting an European university and waiting for a hour.",
+    "correctExample": "Correct: He filed an FIR after visiting a European university and waiting for an hour.",
+    "trapRule": "The Phonetic Sound Mandate: Letter mat dekho, word ko bol kar uska FIRST SPOKEN PHONEME suno. Vowel sound = AN; Consonant sound = A. Instantly eliminate any option with '*an university' or '*a FIR'."
+  },
+  {
+    "id": "PIT-02",
+    "title": "Uncountable Noun Article Intrusion & False Pluralization",
+    "category": "Countability Concord Error",
+    "frequency": "Extremely High (Recurring Error Across SSC & High Court Exams)",
+    "explanation": "Advice, information, furniture, equipment, luggage, scenery, machinery, poetry, aur work (general task) standard English mein UNCOUNTABLE mass nouns hain. Inke aage indefinite article 'A' ya 'AN' lagana fatal grammatical blunder hai. Candidates Hindi translation ('ek salah', 'ek jankari') ke asar mein 'an advice' ya 'an information' bol dete hain. Sath hi in nouns mein '-s' lagakar plural banana (*furnitures, *advices, *informations) bhi strict error hai. Inhe count karne ke liye unit counters use karein jaise 'a piece of advice', 'an item of furniture'.",
+    "incorrectExample": "Incorrect: The legal clerk gave me an useful advice and many informations regarding the new furnitures.",
+    "correctExample": "Correct: The legal clerk gave me useful advice (or: a piece of useful advice) and much information regarding the new furniture.",
+    "trapRule": "Uncountable Exclusion Law: Never use 'a/an' or plural '-s' with advice, information, furniture, equipment, machinery, luggage, scenery. Use 'much' or 'pieces of' if quantification is required."
+  },
+  {
+    "id": "PIT-03",
+    "title": "Geographical Overgeneralization: Conflating Mountain Ranges with Single Peaks",
+    "category": "Proper Noun Naming Convention Trap",
+    "frequency": "Very High (High Court Examiner's Favorite MCQ Trap)",
+    "explanation": "Geography mein 'The' lagane ke conventional rules bohot precise hote hain. Continuous mountain ranges (chains) ke aage 'The' lagta hai ('the Himalayas', 'the Alps', 'the Andes'). Lekin kisi bhi SINGLE INDIVIDUAL PEAK (akeli choti) ke naam ke aage 'The' KABHI NAHI lagta ('Mount Everest', 'Mount Abu', 'K2', 'Nanda Devi'). Examiner aksar sentence mein 'The Mount Everest is the highest peak' likhkar candidates ko distract karta hai. Isi tarah Island groups ('the Andamans') 'The' lete hain, lekin single island ('Sri Lanka', 'Java') Zero Article leta hai.",
+    "incorrectExample": "Incorrect: The Mount Everest is situated in the Himalayas, while the Sri Lanka is an island in the Indian Ocean.",
+    "correctExample": "Correct: Mount Everest is situated in the Himalayas, while Sri Lanka is an island in the Indian Ocean.",
+    "trapRule": "Range vs Peak Law: Mountain Range = THE ('the Himalayas'). Single Mountain Peak = ZERO ARTICLE ('Mount Everest'). Island Group = THE ('the Andamans'). Single Island = ZERO ARTICLE ('Sri Lanka')."
+  },
+  {
+    "id": "PIT-04",
+    "title": "Semantic Reversal of Few/Little vs A Few/A Little",
+    "category": "Propositional Scope Distortion Trap",
+    "frequency": "Extremely High (Meaning Distortion Error in MCQs)",
+    "explanation": "Bina article ke 'Few' (countable) aur 'Little' (uncountable) ka matlab NEGATIVE hota hai: 'itna kam jo na ke barabar ho / almost none'. Ye shortage aur dissatisfaction par focus karte hain. Jabki 'A few' aur 'A little' ka matlab POSITIVE hota hai: 'thoda sa / some amount'. Ye availability aur hope par focus karte hain. Exam questions mein aage ek context clause di hoti hai (jaise 'he was lonely', 'no one survived', 'we still have hope'). Agar negative outcome hai toh 'Few/Little' choose karein; agar positive outcome hai toh 'A few/A little' choose karein.",
+    "incorrectExample": "Incorrect: He has a few friends, so he feels lonely and depressed. / Don't panic, we still have little petrol in the tank.",
+    "correctExample": "Correct: He has few friends, so he feels lonely and depressed. / Don't panic, we still have a little petrol in the tank.",
+    "trapRule": "Polarity Concord Law: Deficit/Failure/Loneliness Context ➔ FEW (countable) / LITTLE (uncountable). Support/Hope/Adequacy Context ➔ A FEW (countable) / A LITTLE (uncountable). Verify the sentence outcome clause!"
+  },
+  {
+    "id": "PIT-05",
+    "title": "Rigid Rule Fallacy: Assuming 'Some' Is Strictly Prohibited in Questions",
+    "category": "Pragmatic Speech Act Distortion",
+    "frequency": "High (Rule-Memorization Trap)",
+    "explanation": "Textbook rules ko blindly memorize karne wale candidates ye maan lete hain ki interrogative sentence mein hamesha 'Any' hi lagta hai aur 'Some' kabhi nahi lag sakta. Ye rule tab toot jata hai jab question ek POLITE OFFER (prastav) ya POLITE REQUEST (anurodh) ho jahan speaker samne wale se affirmative acceptance expect kar raha ho. 'Would you like some tea?' mein 'some' aayega kyunki ye hospitality hai; yahan 'any' lagana unnatural aur cold sound karega. Neutral inquiry mein 'any' lagta hai ('Do you have any doubt?').",
+    "incorrectExample": "Incorrect: Would you like any coffee before the court proceeding begins? / Could you please lend me any money?",
+    "correctExample": "Correct: Would you like some coffee before the court proceeding begins? / Could you please lend me some money?",
+    "trapRule": "The Hospitality Exception: Questions starting with 'Would you like...?' or 'Could/Can I have...?' are polite offers/requests. Always use 'SOME', never 'any'."
+  },
+  {
+    "id": "PIT-06",
+    "title": "Distributive Concord Discord: Plural Noun or Verb after Each, Every, Either, Neither",
+    "category": "Subject-Verb Concord Trap",
+    "frequency": "Extremely High (High Court Written Test High-Frequency Question)",
+    "explanation": "Distributive determiners (Each, Every, Either, Neither) group ke members ko individually one-by-one consider karte hain. Inke theek baad aane wala noun hamesha SINGULAR COUNTABLE NOUN hona chahiye aur verb bhi SINGULAR honi chahiye (*Each students were present is a blunder). Jab 'of the' laga ho ('Each of the students'), tab noun plural hota hai lekin verb TAB BHI STRICTLY SINGULAR rehti hai ('Each of the students was present'). Sath hi 'Either' aur 'Neither' strictly do (2) entities ke liye use hote hain; 3 ya zyada ke liye 'Any' aur 'None' use hota hai.",
+    "incorrectExample": "Incorrect: Each students must bring their own file. / Neither of the five witnesses were present in court.",
+    "correctExample": "Correct: Each student must bring his own file. / None of the five witnesses was present in court.",
+    "trapRule": "Distributive Singular Mandate: Each / Every / Either / Neither + Singular Noun + Singular Verb. With 'of the': Plural Noun + SINGULAR VERB. For 3+ entities: Use 'None' instead of 'Neither'."
+  }
+]

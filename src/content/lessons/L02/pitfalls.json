@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "Universal Truths aur Scientific Laws ka False Backshift",
+    "category": "Universal Truth Exception",
+    "frequency": "Extremely High (Appears in almost every State Exam)",
+    "explanation": "Jab main clause mein past reporting verb (jaise said, proved, explained, discovered) hota hai, toh candidates bina soche aage aane wale har verb ko past mein badal dete hain. Lekin agar subordinate clause koi eternal universal truth, scientific law, ya mathematical axiom batata hai, toh wo Simple Present mein hi REHNA CHAHIYE. Usko past mein badalne se ye absurd meaning nikalta hai ki wo physical ya scientific reality ab exist nahi karti.",
+    "incorrectExample": "Newton proved that the gravitational force attracted every mass towards the center of the earth.",
+    "correctExample": "Newton proved that the gravitational force attracts every mass towards the center of the earth.",
+    "trapRule": "Immutable scientific aur universal truths Simple Present (V1/V_s/es) mein hi rehte hain, chahe main clause past mein kyun na ho."
+  },
+  {
+    "id": "PIT-02",
+    "title": "Past Contexts mein False Future Trap ('Will' vs 'Would')",
+    "category": "Modal Auxiliary Harmony",
+    "frequency": "Extremely High",
+    "explanation": "Aise narrative mein jahan governing verb past mein ho, future action ko 'will' ya 'shall' se express nahi kiya ja sakta. Modal auxiliary ko uske past equivalent 'would' ya 'should' mein shift hona padta hai. Past reporting verb ke baad 'will' lagane se severe modal discord ban jata hai.",
+    "incorrectExample": "The administrative officer informed the candidates that the examination will be conducted on Sunday.",
+    "correctExample": "The administrative officer informed the candidates that the examination would be conducted on Sunday.",
+    "trapRule": "Past Main Verb + Future Projection ➔ 'would + V1' (Future-in-the-Past). 'will + V1' kabhi nahi."
+  },
+  {
+    "id": "PIT-03",
+    "title": "Sequential Actions mein Double-Past Perfect Trap",
+    "category": "Aspect Redundancy",
+    "frequency": "High",
+    "explanation": "Jab past ke do actions ek ke baad ek hote hain, toh candidates aksar galti se DONO actions ko Past Perfect ('had + V3') mein daal dete hain. Standard grammar mein sirf PEHLE complete huye action ke liye Past Perfect lagta hai; baad wale action ke liye Simple Past (V2) lagna zaroori hai. Dono clauses mein Past Perfect lagana redundant aur grammatically galat hai.",
+    "incorrectExample": "When the judicial bench had convened, the public prosecutor had begun his arguments.",
+    "correctExample": "When the judicial bench had convened, the public prosecutor began his arguments.",
+    "trapRule": "Earlier Event = Past Perfect ('had + V3') | Subsequent Event = Simple Past ('V2'). Dono jagah Past Perfect kabhi use na karein!"
+  },
+  {
+    "id": "PIT-04",
+    "title": "Present ya Future Reporting Verbs ke baad Unnecessary Backshift",
+    "category": "Open Sequence Violation",
+    "frequency": "Very High",
+    "explanation": "Rule of Past Harmony SIRF tab apply hota hai jab governing main clause past tense mein ho. Agar main verb Simple Present ('says'), Present Perfect ('has stated'), ya Future ('will announce') mein ho, toh subordinate clause ko backshift karne ki koi zaroorat nahi hoti. Wahan intended context ke hisaab se koi bhi tense aa sakta hai. Present reporting verb ke baad subordinate verb ko zabardasti past mein badalna ek badi galti hai.",
+    "incorrectExample": "The chief clerk says that he was preparing the roster right now.",
+    "correctExample": "The chief clerk says that he is preparing the roster right now.",
+    "trapRule": "Present/Future Main Verb = Open Sequence. Jab main verb present ho toh subordinate verbs ko backshift mat karein."
+  },
+  {
+    "id": "PIT-05",
+    "title": "'So That' ka Modal Discord (Past Main Verb ke baad 'May' use karna)",
+    "category": "Purpose Clause Concord",
+    "frequency": "Very High (Top Error-Spotting Question)",
+    "explanation": "'So that' ya 'in order that' wale purpose clauses mein modal auxiliary governing verb ke tense se strictly bandha hota hai. Agar governing verb past mein hai, toh 'may' (ya 'can') ki jagah strictly 'might' (ya 'could') aana chahiye. Past main verb ke baad 'may' use karna competitive error-spotting exams ka classic distractor hai.",
+    "incorrectExample": "The applicant filed an urgent writ petition so that he may prevent the demolition.",
+    "correctExample": "The applicant filed an urgent writ petition so that he might prevent the demolition.",
+    "trapRule": "Present Main + 'so that' ➔ 'may + V1' | Past Main + 'so that' ➔ 'might + V1'."
+  },
+  {
+    "id": "PIT-06",
+    "title": "Historical Past Fact vs Universal Truth Confusion",
+    "category": "Category Discrimination",
+    "frequency": "High",
+    "explanation": "Candidates kabhi-kabhi historical facts ko 'permanent truths' samajh baithte hain aur unhe galat tareeqe se Simple Present mein rakh dete hain. Koi historical event (jaise India ki azaadi, koi yuddh, ya kisi author dwara book likhna) past ke finished time period mein hua tha. Ye koi continuous physical ya moral law nahi hai. Isliye historical facts mein Simple Past (V2) lagta hai, Simple Present kabhi nahi.",
+    "incorrectExample": "The history professor stated that Rabindranath Tagore writes the national anthem.",
+    "correctExample": "The history professor stated that Rabindranath Tagore wrote the national anthem.",
+    "trapRule": "Historical Events = Simple Past (V2). Universal & Scientific Truths = Simple Present (V1/V_s/es)."
+  }
+]

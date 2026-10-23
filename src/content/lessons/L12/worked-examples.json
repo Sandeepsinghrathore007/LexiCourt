@@ -1,0 +1,212 @@
+[
+  {
+    "id": "WE-01",
+    "sentence": "Fill in the blank: \"The High Court administrative committee finally agreed ___ the revised employee welfare proposal.\"",
+    "correctAnswer": "to",
+    "tense": "Agree WITH (Person) vs Agree TO (Proposal)",
+    "steps": {
+      "step1_marker": "Contextual Target Identification: Sentence mein blank ke baad 'the revised employee welfare proposal' diya gaya hai. Yahan target koi person nahi, balki ek formal proposal/scheme hai.",
+      "step2_time": "Collocation Rule: 'Agree' ke sath do established patterns hote hain: kisi vyakti ya opinion se sahmati ke liye 'agree WITH', aur kisi formal proposal, plan, ya terms ke liye strictly 'agree TO'.",
+      "step3_aspect": "Distractor Elimination: 'With' eliminate ho gaya kyunki target person nahi proposal hai; 'For' aur 'On' yahan standard collocation ko violate karte hain ('agree on' do parties ke aapsi samjhote ke vishay par lagta hai).",
+      "step4_inflection": "Syntactic Synthesis: Sahi formula 'agree TO + proposal' apply hoga: 'agreed to the revised employee welfare proposal'.",
+      "step5_synthesis": "Final Output: \"The High Court administrative committee finally agreed to the revised employee welfare proposal.\""
+    },
+    "trapWarning": "THE 'WITH' BLIND SPOT: Candidates 'agree' dekhte hi automatic reaction mein 'with' laga dete hain. Hamesha check karein: agar aage 'proposal', 'plan', 'terms', ya 'schedule' hai, toh strictly 'TO' lagega!"
+  },
+  {
+    "id": "WE-02",
+    "sentence": "Spot the error: \"The division bench / discussed about the pending appeals / in the chamber. / No error\"",
+    "correctAnswer": "discussed the pending appeals (Remove 'about')",
+    "tense": "The Direct Transitive Law: Zero Preposition with 'Discuss'",
+    "steps": {
+      "step1_marker": "Verb & Direct Object Analysis: Sentence mein main verb 'discussed' aayi hai aur uske turant baad preposition 'about' aur direct object 'the pending appeals' diya gaya hai.",
+      "step2_time": "Grammatical Rule: 'Discuss' ek direct transitive verb hai jiska matlab hi hota hai 'talk about something'. Iska action seedhe direct object par pass hota hai.",
+      "step3_aspect": "Pleonasm Diagnosis: 'Discuss' ke sath 'about' lagana pleonastic (redundant) error hai. Hindi mein 'ke baare mein charcha ki' bolne ki vajah se ye galti hoti hai.",
+      "step4_inflection": "Correction Derivation: Preposition 'about' ko poori tarah drop karein: 'discussed the pending appeals'.",
+      "step5_synthesis": "Correct Sentence: \"The division bench discussed the pending appeals in the chamber.\""
+    },
+    "trapWarning": "DIRECT TRANSITIVE TRAP: 'Discuss' ke aage kabhi bhi 'about' nahi lagta. Exam mein 'discussed about' dekhte hi us part ko immediately erroneous mark karein."
+  },
+  {
+    "id": "WE-03",
+    "sentence": "Choose the correct preposition: \"Senior advocates usually prefer formal arbitration ___ lengthy courtroom battles.\"",
+    "correctAnswer": "to",
+    "tense": "Comparative Preposition Law: Prefer X TO Y",
+    "steps": {
+      "step1_marker": "Comparative Construction: Sentence mein verb 'prefer' ke sath do options compare ho rahe hain: 'formal arbitration' aur 'lengthy courtroom battles'.",
+      "step2_time": "Rule Identification: Standard English syntax mein verb 'prefer' aur adjective 'preferable' do entities ke preference comparison mein strictly preposition 'TO' lete hain.",
+      "step3_aspect": "Distractor Elimination: 'Than' sabse bada distractor hai jo general comparative degree se copy hota hai par 'prefer' ke sath strictly invalid hai; 'over' aur 'against' colloquial hain par standard formal exam mein incorrect hain.",
+      "step4_inflection": "Formula Application: 'Prefer [Entity 1] TO [Entity 2]' ➔ 'prefer formal arbitration TO lengthy courtroom battles'.",
+      "step5_synthesis": "Final Output: \"Senior advocates usually prefer formal arbitration to lengthy courtroom battles.\""
+    },
+    "trapWarning": "PREFER THAN TRAP: Hindi mein 'is se zyada usko pasand karna' bolne ke karan log 'than' chun lete hain. English mein 'prefer' hamesha 'TO' demand karta hai."
+  },
+  {
+    "id": "WE-04",
+    "sentence": "Spot the error: \"The newly promoted superintendent / is three years senior than / the administrative clerk. / No error\"",
+    "correctAnswer": "is three years senior to (Replace 'than' with 'to')",
+    "tense": "Latin Comparatives with '-or': Senior TO",
+    "steps": {
+      "step1_marker": "Adjective Inspection: Sentence mein comparative adjective 'senior' aaya hai jiske end mein Latin suffix '-or' juda hua hai.",
+      "step2_time": "Latin Comparative Law: Latin origin ke adjectives (senior, junior, superior, inferior, prior, anterior, posterior) comparison mein conjunction 'than' nahi lete, balki strictly preposition 'TO' lete hain.",
+      "step3_aspect": "Error Diagnosis: Sentence mein 'senior than' likha gaya hai jo high-frequency grammatical error hai.",
+      "step4_inflection": "Correction Derivation: 'than' ko hatakar 'to' lagayein: 'three years senior to the administrative clerk'.",
+      "step5_synthesis": "Correct Sentence: \"The newly promoted superintendent is three years senior to the administrative clerk.\""
+    },
+    "trapWarning": "THE '-OR' RULE: Jin comparatives ke aage '-or' ho (senior, junior, prior), wahan 'THAN' 100% wrong hai. Strictly 'TO' use karein."
+  },
+  {
+    "id": "WE-05",
+    "sentence": "Fill in the blank: \"The special investigation cell formally accused the officer ___ accepting unauthorized gratification.\"",
+    "correctAnswer": "of",
+    "tense": "Accuse OF vs Blame FOR",
+    "steps": {
+      "step1_marker": "Verb & Charge Identification: Sentence mein verb 'accused' aur target offence 'accepting unauthorized gratification' (bribery) hai.",
+      "step2_time": "Collocation Concord: 'Accuse' verb apradh ke reference mein hamesha preposition 'OF' leti hai ('accuse someone OF a crime').",
+      "step3_aspect": "Distractor Elimination: 'For' eliminate ho gaya kyunki 'for' verb 'blame' ke sath lagta hai ('blamed for accepting'); 'with' verb 'charge' ke sath lagta hai ('charged with accepting'); 'on' completely irrelevant hai.",
+      "step4_inflection": "Formula Application: 'Accused [person] OF [crime]' ➔ 'accused the officer OF accepting'.",
+      "step5_synthesis": "Final Output: \"The special investigation cell formally accused the officer of accepting unauthorized gratification.\""
+    },
+    "trapWarning": "ACCUSED FOR TRAP: Bolchal mein log 'accused for bribery' bol dete hain jo grammatically wrong hai. Sahi collocation strictly 'accused OF' hai."
+  },
+  {
+    "id": "WE-06",
+    "sentence": "Choose the correct verb form: \"The Registrar said that the court looks forward to ___ the delegation tomorrow.\"",
+    "correctAnswer": "receiving",
+    "tense": "Prepositional 'TO' + Gerund (-ing)",
+    "steps": {
+      "step1_marker": "Expression Analysis: Sentence mein fixed phrasal unit 'looks forward to' aayi hai.",
+      "step2_time": "Preposition vs Infinitive Rule: 'Look forward to' mein 'to' koi infinitive particle nahi hai, balki orientation ka Preposition hai. Kisi bhi preposition ke baad aane wali verb strictly GERUND (-ing) hoti hai.",
+      "step3_aspect": "Distractor Elimination: 'Receive' (V1) eliminate ho gaya kyunki 'to' ke baad infinitive trap lagaya gaya hai; 'received' (V2/V3) aur 'have received' context aur syntax dono se out hain.",
+      "step4_inflection": "Inflectional Derivation: Verb 'receive' ko gerund form 'receiving' mein badlein.",
+      "step5_synthesis": "Final Output: \"The Registrar said that the court looks forward to receiving the delegation tomorrow.\""
+    },
+    "trapWarning": "INFINITIVE CONFUSION: 'To' dekhkar 90% candidates V1 (receive) laga dete hain. Noun test lagayein: 'look forward to IT' works ➔ iska matlab 'to' preposition hai aur '-ing' lega!"
+  },
+  {
+    "id": "WE-07",
+    "sentence": "Fill in the blank: \"Repeated procedural delays in the trial court ___ a grave miscarriage of justice.\"",
+    "correctAnswer": "resulted in",
+    "tense": "Result IN (Outcome) vs Result FROM (Cause)",
+    "steps": {
+      "step1_marker": "Causal Relationship: Subject 'Repeated procedural delays' (Cause) hai aur object 'a grave miscarriage of justice' (Outcome/Consequence) hai.",
+      "step2_time": "Directional Vector Rule: Jab Cause subject banta hai aur aage outcome hota hai, toh 'RESULT IN' lagta hai (Leads to / Produces).",
+      "step3_aspect": "Distractor Elimination: 'Resulted from' galat ho jayega kyunki delays outcome nahi hain, balki cause hain; 'resulted to' English mein exist nahi karta.",
+      "step4_inflection": "Formula Application: Cause + resulted in + Outcome ➔ 'delays resulted in a grave miscarriage of justice'.",
+      "step5_synthesis": "Final Output: \"Repeated procedural delays in the trial court resulted in a grave miscarriage of justice.\""
+    },
+    "trapWarning": "CAUSAL VECTOR INVERSION: 'Result in' ka matlab parinaam nikalna hota hai; 'Result from' ka matlab kisi wajah se paida hona hota hai. Dono ko interchange mat karein."
+  },
+  {
+    "id": "WE-08",
+    "sentence": "Choose the correct preposition: \"The junior system assistant is exceptionally good ___ diagnosing operating system crashes.\"",
+    "correctAnswer": "at",
+    "tense": "Good AT (Competence) vs Good FOR (Benefit)",
+    "steps": {
+      "step1_marker": "Evaluative Context: Sentence mein adjective 'good' ke sath target 'diagnosing operating system crashes' (technical skill/competence) diya gaya hai.",
+      "step2_time": "Collocation Rule: Kisi vishay, talent, art ya technical skill mein nipun hone ke liye standard English collocation strictly 'GOOD AT' hai.",
+      "step3_aspect": "Distractor Elimination: 'In' Indian bolchal ki common galti hai (*good in English/diagnosing); 'for' health/welfare ke liye hota hai ('good for health'); 'with' tools ke sath handle karne par lagta hai.",
+      "step4_inflection": "Formula Application: 'Good AT + Skill/Gerund' ➔ 'good at diagnosing operating system crashes'.",
+      "step5_synthesis": "Final Output: \"The junior system assistant is exceptionally good at diagnosing operating system crashes.\""
+    },
+    "trapWarning": "THE 'GOOD IN' TRAP: Hindi mein 'diagnosing MEIN accha hai' sochkar log 'in' laga dete hain. Standard grammar mein ability ke liye hamesha 'GOOD AT' hota hai."
+  },
+  {
+    "id": "WE-09",
+    "sentence": "Spot the error: \"The division bench / disposed off twenty / writ petitions today. / No error\"",
+    "correctAnswer": "disposed of twenty (Change 'off' to 'of')",
+    "tense": "Statutory Collocation: Dispose OF (Single 'f')",
+    "steps": {
+      "step1_marker": "Lexical Inspection: Part 2 mein verb phrase 'disposed off' likhi gayi hai.",
+      "step2_time": "Orthographic & Legal Rule: Court petitions, files ya property ka nistaran karne ke liye legal collocation strictly 'DISPOSE OF' (single 'f') hoti hai.",
+      "step3_aspect": "Error Diagnosis: 'Dispose off' (double 'f') completely non-standard aur colloquial misspelling hai jo formal English mein exist nahi karti.",
+      "step4_inflection": "Correction Derivation: 'off' ko single 'f' wale 'of' se replace karein.",
+      "step5_synthesis": "Correct Sentence: \"The division bench disposed of twenty writ petitions today.\""
+    },
+    "trapWarning": "DOUBLE 'F' SPELLING TRAP: Rajasthan High Court aur administrative exams mein 'dispose off' sabse frequently tested trap hai. Hamesha single 'f' (dispose OF) use karein."
+  },
+  {
+    "id": "WE-10",
+    "sentence": "Correct the sentence: \"As soon as the magistrate entered into the courtroom, all litigants stood up in silence.\"",
+    "correctAnswer": "entered the courtroom (Remove 'into')",
+    "tense": "Physical Entry Zero Preposition: 'Enter'",
+    "steps": {
+      "step1_marker": "Action & Target: Verb 'entered' ke sath physical enclosed space 'the courtroom' diya gaya hai.",
+      "step2_time": "Rule Identification: Jab physical room, hall ya building ke andar dakhil hona ho, toh 'enter' direct object leta hai kyunki iska matlab hi hota hai 'go into'. Extra 'into' lagana prohibited hai.",
+      "step3_aspect": "Distractor Context: 'Enter into' sirf tab valid hota hai jab entry abstract ya contractual ho (enter into an agreement). Physical room mein strictly zero preposition lagta hai.",
+      "step4_inflection": "Syntactic Correction: 'into' ko sentence se drop karein: 'entered the courtroom'.",
+      "step5_synthesis": "Correct Sentence: \"As soon as the magistrate entered the courtroom, all litigants stood up in silence.\""
+    },
+    "trapWarning": "PHYSICAL VS METAPHORICAL: Kamre mein jana = 'entered the room' (NO into). Agreement sign karna = 'entered into an agreement' (INTO valid)."
+  },
+  {
+    "id": "WE-11",
+    "sentence": "Fill in the blank: \"Digitisation of trial records is the only permanent solution ___ the massive backlog of pending cases.\"",
+    "correctAnswer": "to",
+    "tense": "Noun Collocation: Solution TO",
+    "steps": {
+      "step1_marker": "Noun & Complement: Noun 'solution' ke baad target problem 'the massive backlog' aayi hai.",
+      "step2_time": "Collocation Rule: 'Solution', 'key', 'answer', aur 'reply' hamesha preposition 'TO' demand karte hain.",
+      "step3_aspect": "Distractor Elimination: 'Of' sabse aam distractor hai jo Hindi 'backlog KA hal' se banta hai; 'for' purpose batata hai par standard collocation 'solution TO' hai.",
+      "step4_inflection": "Synthesis: 'Solution TO the massive backlog'.",
+      "step5_synthesis": "Final Output: \"Digitisation of trial records is the only permanent solution to the massive backlog of pending cases.\""
+    },
+    "trapWarning": "SOLUTION OF TRAP: 'Solution of' bolna aam bolchal ki galti hai. Standard competitive English mein strictly 'solution TO the problem' sahi hota hai."
+  },
+  {
+    "id": "WE-12",
+    "sentence": "Spot the error: \"The registry introduced / online filing system / with a view to streamline / the procedure. / No error\"",
+    "correctAnswer": "with a view to streamlining (Change 'streamline' to 'streamlining')",
+    "tense": "With a View To + Gerund (-ing)",
+    "steps": {
+      "step1_marker": "Fixed Phrase Detection: Part 3 mein fixed idiomatic phrase 'with a view to' ke baad bare verb 'streamline' aayi hai.",
+      "step2_time": "Rule Identification: 'With a view to' phrase mein 'to' preposition of purpose hai, isliye iske turant baad aane wali verb mandatory GERUND (-ing) honi chahiye.",
+      "step3_aspect": "Error Diagnosis: Examiner ne 'streamline' (V1) dekar candidate ko confuse kiya hai.",
+      "step4_inflection": "Correction Derivation: 'streamline' ko 'streamlining' mein badlein.",
+      "step5_synthesis": "Correct Sentence: \"The registry introduced online filing system with a view to streamlining the procedure.\""
+    },
+    "trapWarning": "GERUND MANDATE: 'With a view to' ke baad kabhi bhi V1 nahi lag sakta. 100% cases mein '-ing' form lagana zaroori hota hai."
+  },
+  {
+    "id": "WE-13",
+    "sentence": "Fill in the blank: \"All departmental heads must strictly comply ___ the financial integrity instructions.\"",
+    "correctAnswer": "with",
+    "tense": "Statutory Collocation: Comply WITH",
+    "steps": {
+      "step1_marker": "Verb & Direct Target: Verb 'comply' ke baad target 'the financial integrity instructions' (guidelines) hai.",
+      "step2_time": "Collocation Concord: Standard English mein verb 'comply' hamesha preposition 'WITH' leti hai ('comply with rules/orders').",
+      "step3_aspect": "Distractor Elimination: 'To' (confused with adhere to), 'by' (confused with abide by), aur 'for' sabhi erroneous distractors hain.",
+      "step4_inflection": "Formula Application: 'Comply WITH the instructions'.",
+      "step5_synthesis": "Final Output: \"All departmental heads must strictly comply with the financial integrity instructions.\""
+    },
+    "trapWarning": "TRIAD CONFUSION: Abide BY, Adhere TO, Comply WITH. In teeno prepositions ko aapas mein mix mat karein!"
+  },
+  {
+    "id": "WE-14",
+    "sentence": "Fill in the blank: \"After a rigorous trial, the sessions court acquitted the bank manager ___ all charges of embezzlement.\"",
+    "correctAnswer": "of",
+    "tense": "Judicial Collocation: Acquit OF",
+    "steps": {
+      "step1_marker": "Legal Action: Verb 'acquitted' (bari kiya) aur target 'all charges of embezzlement' (charges).",
+      "step2_time": "Collocation Rule: 'Acquit' kisi person ko arop ya jurm se bari karne ke liye strictly preposition 'OF' leta hai ('acquit someone OF charges').",
+      "step3_aspect": "Distractor Elimination: 'From' Hindi translation 'charges se bari kiya' se aane wala false trap hai; 'for' aur 'with' incorrect hain.",
+      "step4_inflection": "Formula Application: 'Acquitted the bank manager OF all charges'.",
+      "step5_synthesis": "Final Output: \"After a rigorous trial, the sessions court acquitted the bank manager of all charges of embezzlement.\""
+    },
+    "trapWarning": "ACQUIT FROM ERROR: 'Exonerate' ke sath 'from' lagta hai, lekin 'Acquit' aur 'Convict' dono ke sath strictly 'OF' lagta hai."
+  },
+  {
+    "id": "WE-15",
+    "sentence": "Choose the correct pair of prepositions: \"The clerk applied ___ the Registrar General ___ three days of earned leave.\"",
+    "correctAnswer": "to, for",
+    "tense": "Apply TO (Authority) and Apply FOR (Benefit)",
+    "steps": {
+      "step1_marker": "Dual Blanks: Pehla target 'the Registrar General' (Receiving Authority) hai, aur doosra target 'three days of earned leave' (Requested Item).",
+      "step2_time": "Collocation Concord: Jis authority ko request submit ho uske pehle 'Apply TO'; jis leave ya post ke liye request ho uske pehle 'Apply FOR'.",
+      "step3_aspect": "Distractor Elimination: 'For, to' inverted order hai; 'to, with' aur 'at, for' non-standard hain.",
+      "step4_inflection": "Synthesis: 'applied TO the Registrar General FOR three days of leave'.",
+      "step5_synthesis": "Final Output: \"The clerk applied to the Registrar General for three days of earned leave.\""
+    },
+    "trapWarning": "ORDER TRAP: Authority = TO; Purpose = FOR. Agar blanks ka order interchange ho gaya toh meaning distort ho jayega."
+  }
+]

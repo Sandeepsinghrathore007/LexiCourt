@@ -1,0 +1,506 @@
+{
+  "lessonId": "L17",
+  "stage": "independent-practice",
+  "questions": [
+    {
+      "id": "L17-IP-001",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "One-Word Substitutions",
+      "subtopic": "People: Attitude to Humankind",
+      "conceptTags": ["personality", "misanthrope", "philanthropist"],
+      "question": "Choose the one-word substitution for:\n\"A person who dislikes or distrusts humankind in general and avoids society.\"",
+      "options": [
+        { "id": "A", "text": "Philanthropist" },
+        { "id": "B", "text": "Misanthrope" },
+        { "id": "C", "text": "Altruist" },
+        { "id": "D", "text": "Polyglot" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Greek root 'mis-' (hate) + 'anthropos' (human) se 'Misanthrope' banta hai, jiska matlab manav jati se nafrat karne wala hota hai. Philanthropist manav jati ki bhalai karne wala hota hai.",
+      "ruleReference": "Rule RC-04: Morphological Root Word Decoding."
+    },
+    {
+      "id": "L17-IP-002",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "People: Social Speech Tendencies",
+      "conceptTags": ["personality", "taciturn", "loquacious"],
+      "question": "Select the single word for:\n\"A person who is habitually quiet, speaks very little, and is reserved in manner.\"",
+      "options": [
+        { "id": "A", "text": "Loquacious" },
+        { "id": "B", "text": "Eloquent" },
+        { "id": "C", "text": "Taciturn" },
+        { "id": "D", "text": "Garrulous" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'Taciturn' aadat se kam bolne wale vyakti ko kehte hain. Loquacious aur Garrulous dono baatuni (very talkative) hote hain.",
+      "ruleReference": "Rule RC-01: Definition vs Synonym Precision Rule."
+    },
+    {
+      "id": "L17-IP-003",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Professions: Linguistic Expertise",
+      "conceptTags": ["professions", "polyglot", "linguist"],
+      "question": "What is the correct term for:\n\"A person who knows and is able to speak or use several languages?\"",
+      "options": [
+        { "id": "A", "text": "Polyglot" },
+        { "id": "B", "text": "Lexicographer" },
+        { "id": "C", "text": "Philologist" },
+        { "id": "D", "text": "Stenographer" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Greek root 'poly-' (many) + 'glotta' (tongue/language) se 'Polyglot' banta hai, jiska matlab kai bhashayein bolne wala hota hai.",
+      "ruleReference": "Rule RC-04: Morphological Root Word Decoding."
+    },
+    {
+      "id": "L17-IP-004",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Professions: Refined Judgment in Arts",
+      "conceptTags": ["professions", "connoisseur", "arts"],
+      "question": "Identify the word that means:\n\"An expert with refined judgment and critical appreciation in matters of fine art, food, or wine.\"",
+      "options": [
+        { "id": "A", "text": "Amateur" },
+        { "id": "B", "text": "Dilettante" },
+        { "id": "C", "text": "Connoisseur" },
+        { "id": "D", "text": "Novice" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'Connoisseur' kala, swaad ya fine arts ke parkhi aur visheshagya ko kehte hain. Dilettante sirf shaukia upari ruchi rakhne wala hota hai.",
+      "ruleReference": "Rule RC-01: Definition vs Synonym Precision Rule."
+    },
+    {
+      "id": "L17-IP-005",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Beliefs: Challenging Established Traditions",
+      "conceptTags": ["beliefs", "iconoclast", "tradition"],
+      "question": "Choose the substitution for:\n\"A person who strongly attacks or challenges established cherished beliefs, traditions, or revered institutions.\"",
+      "options": [
+        { "id": "A", "text": "Iconoclast" },
+        { "id": "B", "text": "Orthodox" },
+        { "id": "C", "text": "Fundamentalist" },
+        { "id": "D", "text": "Conformist" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Greek 'eikon' (image) + 'klan' (to break) se 'Iconoclast' banta hai. Ye established roodhiyon aur paramparao ko chunauti dene wala hota hai.",
+      "ruleReference": "Rule RC-04: Morphological Root Word Decoding."
+    },
+    {
+      "id": "L17-IP-006",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Phobias: Confined Spaces",
+      "conceptTags": ["phobias", "claustrophobia", "psychology"],
+      "question": "What is an extreme, irrational dread of being in confined or enclosed spaces called?",
+      "options": [
+        { "id": "A", "text": "Acrophobia" },
+        { "id": "B", "text": "Hydrophobia" },
+        { "id": "C", "text": "Claustrophobia" },
+        { "id": "D", "text": "Agoraphobia" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Band ya tang jagahon (confined spaces) ke darr ko 'Claustrophobia' kehte hain. Acrophobia unchai ka darr hai.",
+      "ruleReference": "Rule RC-04: Morphological Root Word Decoding."
+    },
+    {
+      "id": "L17-IP-007",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Phobias: Foreigners and Strangers",
+      "conceptTags": ["phobias", "xenophobia", "prejudice"],
+      "question": "Select the correct term for:\n\"Strong dislike, contempt, or prejudice against people from other countries or cultures.\"",
+      "options": [
+        { "id": "A", "text": "Claustrophobia" },
+        { "id": "B", "text": "Xenophobia" },
+        { "id": "C", "text": "Homophobia" },
+        { "id": "D", "text": "Hydrophobia" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Greek root 'xenos' (stranger/foreigner) + 'phobia' (fear/dislike) se 'Xenophobia' banta hai, jiska matlab videshi logon ke prati durbhavna hota hai.",
+      "ruleReference": "Rule RC-04: Morphological Root Word Decoding."
+    },
+    {
+      "id": "L17-IP-008",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Manias: Compulsive Theft",
+      "conceptTags": ["manias", "kleptomania", "psychology"],
+      "question": "Which term describes a recurrent psychological failure to resist urges to steal unneeded items?",
+      "options": [
+        { "id": "A", "text": "Pyromania" },
+        { "id": "B", "text": "Kleptomania" },
+        { "id": "C", "text": "Melomania" },
+        { "id": "D", "text": "Dipsomania" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Greek root 'kleptes' (thief) + 'mania' (compulsion) se 'Kleptomania' banta hai. Ye bina aarthik zaroorat ke chori karne ki compulsive bimari hai.",
+      "ruleReference": "Rule RC-04: Morphological Root Word Decoding."
+    },
+    {
+      "id": "L17-IP-009",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Philosophies: Severe Self-Discipline",
+      "conceptTags": ["philosophy", "ascetic", "hedonist"],
+      "question": "Choose the word for:\n\"A person who practices severe self-discipline and voluntary abstention from all worldly pleasures.\"",
+      "options": [
+        { "id": "A", "text": "Hedonist" },
+        { "id": "B", "text": "Epicure" },
+        { "id": "C", "text": "Ascetic" },
+        { "id": "D", "text": "Sybarite" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'Ascetic' tapasvi ya sanyasi hota hai jo physical sukh-suvidhaon ko tyaag deta hai. Hedonist, Epicure, aur Sybarite sabhi pleasure-seekers hote hain.",
+      "ruleReference": "Rule RC-01: Definition vs Synonym Precision Rule."
+    },
+    {
+      "id": "L17-IP-010",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Government: Rule by One Ruler",
+      "conceptTags": ["government", "autocracy", "monarchy"],
+      "question": "What is the term for a government where complete and absolute power is concentrated in the hands of one single ruler?",
+      "options": [
+        { "id": "A", "text": "Democracy" },
+        { "id": "B", "text": "Oligarchy" },
+        { "id": "C", "text": "Autocracy" },
+        { "id": "D", "text": "Aristocracy" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Greek 'auto' (self/one) + 'kratos' (power) se 'Autocracy' banta hai, jiska matlab ek vyakti ka taanashahi shasan hota hai.",
+      "ruleReference": "Rule RC-04: Morphological Root Word Decoding."
+    },
+    {
+      "id": "L17-IP-011",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Government: Rule by Priests or Religious Law",
+      "conceptTags": ["government", "theocracy", "religion"],
+      "question": "Identify the word for:\n\"A system of government where state authority is held by religious figures and laws are based on divine tenets.\"",
+      "options": [
+        { "id": "A", "text": "Plutocracy" },
+        { "id": "B", "text": "Theocracy" },
+        { "id": "C", "text": "Bureaucracy" },
+        { "id": "D", "text": "Gerontocracy" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Greek 'theos' (god) + 'kratos' (rule) se 'Theocracy' banta hai. Isme dharmik niyam aur dharm-guru shasan chalate hain.",
+      "ruleReference": "Rule RC-04: Morphological Root Word Decoding."
+    },
+    {
+      "id": "L17-IP-012",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Government: Absence of Law and Authority",
+      "conceptTags": ["government", "anarchy", "politics"],
+      "question": "Which word describes a state of total disorder resulting from the complete absence or collapse of government authority?",
+      "options": [
+        { "id": "A", "text": "Monarchy" },
+        { "id": "B", "text": "Anarchy" },
+        { "id": "C", "text": "Federalism" },
+        { "id": "D", "text": "Republic" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Greek 'an-' (without) + 'arkhos' (ruler) se 'Anarchy' banta hai, jiska matlab shasan ya kanoon ka abhav (arajakta) hota hai.",
+      "ruleReference": "Rule RC-04: Morphological Root Word Decoding."
+    },
+    {
+      "id": "L17-IP-013",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Places: Bird Enclosure",
+      "conceptTags": ["places", "aviary", "birds"],
+      "question": "Select the correct term for:\n\"A large enclosure, cage, or building specifically constructed for keeping birds.\"",
+      "options": [
+        { "id": "A", "text": "Apiary" },
+        { "id": "B", "text": "Aviary" },
+        { "id": "C", "text": "Granary" },
+        { "id": "D", "text": "Arsenal" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-03 ke anusaar, Latin root 'avis' (bird) se 'Aviary' banta hai. Apiary madhumakkhiyon (bees) ke liye hota hai.",
+      "ruleReference": "Rule RC-03: Spatial Enclosure Law: Place vs Occupant vs Activity."
+    },
+    {
+      "id": "L17-IP-014",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Places: Arms and Weapons Storage",
+      "conceptTags": ["places", "arsenal", "weapons"],
+      "question": "What is a military facility where weapons, ammunition, and defense equipment are stored or manufactured called?",
+      "options": [
+        { "id": "A", "text": "Arsenal" },
+        { "id": "B", "text": "Mint" },
+        { "id": "C", "text": "Sanatorium" },
+        { "id": "D", "text": "Observatory" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Shastron aur hathiyaron ke sangrah sthan ko 'Arsenal' kehte hain. Mint mein sikke bante hain.",
+      "ruleReference": "Rule RC-03: Spatial Enclosure Law: Place vs Occupant vs Activity."
+    },
+    {
+      "id": "L17-IP-015",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Places: Government Coin Factory",
+      "conceptTags": ["places", "mint", "coins"],
+      "question": "Identify the word for:\n\"A facility where the coins of a country are officially manufactured or struck under state authority.\"",
+      "options": [
+        { "id": "A", "text": "Arsenal" },
+        { "id": "B", "text": "Mint" },
+        { "id": "C", "text": "Treasury" },
+        { "id": "D", "text": "Repository" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Taksal, jahan aupacharik sarkari sikke banaye jate hain, use 'Mint' kehte hain.",
+      "ruleReference": "Rule RC-03: Spatial Enclosure Law: Place vs Occupant vs Activity."
+    },
+    {
+      "id": "L17-IP-016",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Places: Grain Storage",
+      "conceptTags": ["places", "granary", "agriculture"],
+      "question": "Choose the one-word substitution for:\n\"A storehouse or facility specially constructed for storing threshed grain.\"",
+      "options": [
+        { "id": "A", "text": "Granary" },
+        { "id": "B", "text": "Pantry" },
+        { "id": "C", "text": "Tannery" },
+        { "id": "D", "text": "Cellar" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Anaj store karne ke bhandar ko 'Granary' (annagar) kehte hain. Tannery mein chamda process hota hai.",
+      "ruleReference": "Rule RC-03: Spatial Enclosure Law: Place vs Occupant vs Activity."
+    },
+    {
+      "id": "L17-IP-017",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Books: Handwritten Original Text",
+      "conceptTags": ["books", "manuscript", "writing"],
+      "question": "What is the term for a book, document, or piece of music written by hand before printing?",
+      "options": [
+        { "id": "A", "text": "Manuscript" },
+        { "id": "B", "text": "Transcript" },
+        { "id": "C", "text": "Postscript" },
+        { "id": "D", "text": "Inscription" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Latin 'manu' (by hand) + 'scriptum' (written) se 'Manuscript' banta hai, jiska matlab pandulipi hota hai.",
+      "ruleReference": "Rule RC-01: Definition vs Synonym Precision Rule."
+    },
+    {
+      "id": "L17-IP-018",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Academic Ethics: Literary Theft",
+      "conceptTags": ["writing", "plagiarism", "ethics"],
+      "question": "Identify the word that means:\n\"The dishonest practice of taking someone else's work, ideas, or words and passing them off as one's own.\"",
+      "options": [
+        { "id": "A", "text": "Parody" },
+        { "id": "B", "text": "Plagiarism" },
+        { "id": "C", "text": "Forgery" },
+        { "id": "D", "text": "Piracy" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kisi doosre ke sahityik ya bauddhika karya ko chura kar apna batane ko 'Plagiarism' (sahityik chori) kehte hain.",
+      "ruleReference": "Rule RC-01: Definition vs Synonym Precision Rule."
+    },
+    {
+      "id": "L17-IP-019",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Sequence: Preceding Official",
+      "conceptTags": ["sequence", "predecessor", "successor"],
+      "question": "Select the correct term for:\n\"A person who held an official position or office immediately before the current incumbent.\"",
+      "options": [
+        { "id": "A", "text": "Predecessor" },
+        { "id": "B", "text": "Successor" },
+        { "id": "C", "text": "Contemporary" },
+        { "id": "D", "text": "Ancestor" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Rule RC-08 ke anusaar, pehle aane wale padadhikari ko 'Predecessor' kehte hain. Baad mein aane wale ko 'Successor' kehte hain.",
+      "ruleReference": "Rule RC-08: Sequence Directionality: Predecessor vs Successor."
+    },
+    {
+      "id": "L17-IP-020",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Time: Lasting for a Fleeting Duration",
+      "conceptTags": ["time", "ephemeral", "transient"],
+      "question": "What is the single-word substitution for:\n\"Lasting for a very short, fleeting period of time; transitory?\"",
+      "options": [
+        { "id": "A", "text": "Perpetual" },
+        { "id": "B", "text": "Ephemeral" },
+        { "id": "C", "text": "Eternal" },
+        { "id": "D", "text": "Immortal" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kshanbhangur ya behad kam samay tak tikne wali cheez ko 'Ephemeral' kehte hain. Perpetual aur Eternal lagatar anant kaal tak chalte hain.",
+      "ruleReference": "Rule RC-01: Definition vs Synonym Precision Rule."
+    },
+    {
+      "id": "L17-IP-021",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Conditions: Impossible to Read",
+      "conceptTags": ["conditions", "illegible", "handwriting"],
+      "question": "Choose the word that means:\n\"Handwriting or print that is impossible or extremely difficult to read.\"",
+      "options": [
+        { "id": "A", "text": "Eligible" },
+        { "id": "B", "text": "Illegible" },
+        { "id": "C", "text": "Inaudible" },
+        { "id": "D", "text": "Infallible" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Apathaniya (unreadable) text ko 'Illegible' kehte hain. Eligible yogyata ko batata hai; Inaudible suna na ja sakne wala.",
+      "ruleReference": "Rule RC-01: Definition vs Synonym Precision Rule."
+    },
+    {
+      "id": "L17-IP-022",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Conditions: Outdated by Replacement",
+      "conceptTags": ["conditions", "obsolete", "technology"],
+      "question": "Which word describes something that is no longer in use because newer alternatives have superseded it?",
+      "options": [
+        { "id": "A", "text": "Extinct" },
+        { "id": "B", "text": "Obsolete" },
+        { "id": "C", "text": "Antique" },
+        { "id": "D", "text": "Primitive" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Aprachalit vastu jo naye vikalpon ke aane se band ho gayi ho use 'Obsolete' kehte hain. Living species ke poori tarah khatam hone ko Extinct kehte hain.",
+      "ruleReference": "Rule RC-01: Definition vs Synonym Precision Rule."
+    },
+    {
+      "id": "L17-IP-023",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Authority: Giving Up a Throne",
+      "conceptTags": ["actions", "abdicate", "monarchy"],
+      "question": "What is the term for formally giving up one's monarchical throne or supreme royal position?",
+      "options": [
+        { "id": "A", "text": "Renounce" },
+        { "id": "B", "text": "Abdicate" },
+        { "id": "C", "text": "Resign" },
+        { "id": "D", "text": "Vacate" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-11 ke anusaar, rajgaddi ya throne ko formally chhodna 'Abdicate' kahlata hai. Aam claims ya rights chhodna Renounce hota hai.",
+      "ruleReference": "Rule RC-11: Relinquishing Authority: Abdicate vs Renounce."
+    },
+    {
+      "id": "L17-IP-024",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Legal Actions: Oppression vs Prosecution",
+      "conceptTags": ["actions", "prosecute", "persecute", "legal"],
+      "question": "Choose the word that means:\n\"To bring formal criminal proceedings against an accused person in a court of law.\"",
+      "options": [
+        { "id": "A", "text": "Persecute" },
+        { "id": "B", "text": "Prosecute" },
+        { "id": "C", "text": "Impeach" },
+        { "id": "D", "text": "Arraign" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Court mein kanooni mukadma chalane ko 'Prosecute' kehte hain. Kisi ko durbhavnavash satana ya utpeedan karna 'Persecute' kahlata hai.",
+      "ruleReference": "Rule RC-01: Definition vs Synonym Precision Rule."
+    },
+    {
+      "id": "L17-IP-025",
+      "lessonId": "L17",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "One-Word Substitutions",
+      "subtopic": "Biology: Four-Footed Animals",
+      "conceptTags": ["biology", "quadruped", "biped"],
+      "question": "What is an animal that typically moves on four limbs or feet called?",
+      "options": [
+        { "id": "A", "text": "Biped" },
+        { "id": "B", "text": "Quadruped" },
+        { "id": "C", "text": "Centipede" },
+        { "id": "D", "text": "Carnivore" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Latin 'quad' (four) + 'ped' (foot) se 'Quadruped' (chaupaya) banta hai. Do taango par chalne wale ko 'Biped' kehte hain.",
+      "ruleReference": "Rule RC-04: Morphological Root Word Decoding."
+    }
+  ]
+}

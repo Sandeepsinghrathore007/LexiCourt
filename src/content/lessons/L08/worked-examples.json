@@ -1,0 +1,212 @@
+[
+  {
+    "id": "WE-01",
+    "sentence": "Affirmative: \"Rohan is an honest and dedicated court clerk.\"",
+    "correctAnswer": "Rohan is not a dishonest or careless court clerk.",
+    "tense": "Affirmative to Negative (Antonym + Not)",
+    "steps": {
+      "step1_marker": "Sentence Type & Intent: Affirmative assertive statement jo Rohan ki positive qualities (honest, dedicated) state kar raha hai.",
+      "step2_time": "Target Form Identification: Negative assertive form jisme meaning 100% same rahe ki Rohan imaandar clerk hai.",
+      "step3_aspect": "Helping Verb & Negation: Auxiliary 'is' ke baad negative particle 'not' lagaya ('is not').",
+      "step4_inflection": "Antonym Substitution: Key adjectives 'honest' aur 'dedicated' ko unke contextually correct antonyms 'dishonest' aur 'careless' se replace kiya.",
+      "step5_synthesis": "Final Synthesis: 'Rohan is not a dishonest or careless court clerk.'"
+    },
+    "trapWarning": "EXAM TRAP: Examiner option deta hai 'Rohan is not an honest clerk.' Ye transformation nahi hai, balki original fact ko deny karke 180 degree ulta meaning de raha hai."
+  },
+  {
+    "id": "WE-02",
+    "sentence": "Affirmative: \"Only registered advocates can sign the legal vakalatnama.\"",
+    "correctAnswer": "None but registered advocates can sign the legal vakalatnama.",
+    "tense": "Restricted Person Exclusivity ('Only' ➔ 'None but')",
+    "steps": {
+      "step1_marker": "Sentence Type & Target: 'Only' se restricted qualification wala affirmative statement jo persons ('registered advocates') par apply ho raha hai.",
+      "step2_time": "Category Rule Application: Kyunki target entity persons (humans) hain, isliye 'Only' ko 'None but' se replace kiya jayega.",
+      "step3_aspect": "Placement Mechanics: 'None but' sentence ke exact beginning mein subject position par aayega.",
+      "step4_inflection": "Predicate Retention: Main modal auxiliary 'can sign the legal vakalatnama' bina kisi change ke as-it-is retain kiya gaya.",
+      "step5_synthesis": "Final Synthesis: 'None but registered advocates can sign the legal vakalatnama.'"
+    },
+    "trapWarning": "CATEGORY MISMATCH TRAP: Option mein agar 'Nothing but registered advocates...' likha ho, toh wo grammatically absurd hai kyunki 'Nothing but' inanimate objects ke liye use hota hai, persons ke liye nahi."
+  },
+  {
+    "id": "WE-03",
+    "sentence": "Affirmative: \"The accused pleaded only for leniency before the magistrate.\"",
+    "correctAnswer": "The accused pleaded for nothing but leniency before the magistrate.",
+    "tense": "Inanimate Exclusivity ('Only' ➔ 'Nothing but')",
+    "steps": {
+      "step1_marker": "Sentence Type & Focus: Affirmative sentence jisme 'only' abstract noun / plea ('leniency') par focus kar raha hai.",
+      "step2_time": "Category Rule Application: Abstract inanimate concept hone ke karan 'only' ko 'nothing but' se replace kiya jayega.",
+      "step3_aspect": "Preposition Placement: Preposition 'for' ke baad 'nothing but leniency' place kiya gaya.",
+      "step4_inflection": "Verb & Tense Check: Past tense verb 'pleaded' aur complement 'before the magistrate' untouched rakhe gaye.",
+      "step5_synthesis": "Final Synthesis: 'The accused pleaded for nothing but leniency before the magistrate.'"
+    },
+    "trapWarning": "PREPOSITION DROP DISTRACTOR: Options mein aksar preposition drop karke 'The accused pleaded nothing but leniency' likha hota hai. Verb 'plead' required preposition 'for' demand karti hai."
+  },
+  {
+    "id": "WE-04",
+    "sentence": "Affirmative: \"As soon as the magistrate entered the courtroom, everyone stood up in respect.\"",
+    "correctAnswer": "No sooner did the magistrate enter the courtroom than everyone stood up in respect.",
+    "tense": "Temporal Inversion ('As soon as' ➔ 'No sooner did...than')",
+    "steps": {
+      "step1_marker": "Sentence Type & Connective: Affirmative temporal sentence starting with 'As soon as' jisme do past sequential actions hain.",
+      "step2_time": "Negative Adverb Inversion: 'As soon as' ko negative phrase 'No sooner did' se replace kiya aur auxiliary inversion apply kiya.",
+      "step3_aspect": "Base Verb Adjustment: Auxiliary 'did' aane par past verb 'entered' base form 'enter' (V1) mein badal gayi.",
+      "step4_inflection": "Correlative Conjunction Check: Comma hatakar clause ko connect karne ke liye strictly 'than' lagaya ('when' ya 'then' bilkul nahi).",
+      "step5_synthesis": "Final Synthesis: 'No sooner did the magistrate enter the courtroom than everyone stood up in respect.'"
+    },
+    "trapWarning": "THE 'WHEN' / 'THEN' CORRELATIVE TRAP: High Court papers mein examiner jaan-boojhkar 'No sooner did... when everyone stood up' option deta hai. 'No sooner' ka fixed correlative strictly 'THAN' hota hai."
+  },
+  {
+    "id": "WE-05",
+    "sentence": "Affirmative: \"Every citizen loves peace and judicial order.\"",
+    "correctAnswer": "There is no citizen who does not love peace and judicial order.",
+    "tense": "Universal Affirmative ('Every' ➔ 'There is no...who does not')",
+    "steps": {
+      "step1_marker": "Sentence Type & Quantifier: Universal affirmative statement starting with distributive quantifier 'Every'.",
+      "step2_time": "Negative Existential Clause: 'Every citizen' ko negative frame 'There is no citizen' mein convert kiya.",
+      "step3_aspect": "Relative Pronoun Clause: Subject 'citizen' ko describe karne ke liye 'who does not' (negative relative clause) lagaya.",
+      "step4_inflection": "Subject-Verb Agreement: Singular relative pronoun 'who' ke anusaar negative auxiliary 'does not love' lagaya.",
+      "step5_synthesis": "Final Synthesis: 'There is no citizen who does not love peace and judicial order.'"
+    },
+    "trapWarning": "INCOMPLETE NEGATIVE TRAP: Agar option mein sirf 'There is no citizen who loves peace' likha ho, toh sentence ka meaning ulta ho gaya ki koi shanti pasand nahi karta! 'Who does NOT love' lagana mandatory hai."
+  },
+  {
+    "id": "WE-06",
+    "sentence": "Affirmative: \"The key witness was too terrified to testify before the court.\"",
+    "correctAnswer": "The key witness was so terrified that he could not testify before the court.",
+    "tense": "Intensive Inability ('Too...to' ➔ 'So...that...could not')",
+    "steps": {
+      "step1_marker": "Sentence Structure: 'Too + adjective + to + V1' formula jo excessive fear ke karan testifying ki impossibility indicate karta hai.",
+      "step2_time": "Degree Adverb Shift: Intensifier 'too' ko 'so' mein badla ('so terrified').",
+      "step3_aspect": "Subordinate Clause Creation: Infinitive 'to testify' ko clause marker 'that' aur pronoun 'he' se subordinate clause banaya.",
+      "step4_inflection": "Tense Concord Check: Governing verb 'was' Past tense mein hai, isliye ability modal Past 'could not' aayega ('cannot' nahi).",
+      "step5_synthesis": "Final Synthesis: 'The key witness was so terrified that he could not testify before the court.'"
+    },
+    "trapWarning": "TENSE BLUNDER: Examiner option mein '...so terrified that he CANNOT testify' deta hai. Past governing verb 'was' ke sath 'could not' hi grammatically match karega."
+  },
+  {
+    "id": "WE-07",
+    "sentence": "Affirmative: \"The Supreme Court always protects fundamental rights.\"",
+    "correctAnswer": "The Supreme Court never fails to protect fundamental rights.",
+    "tense": "Habitual Affirmative to Negative ('Always' ➔ 'Never fails to')",
+    "steps": {
+      "step1_marker": "Sentence Type & Adverb: Affirmative statement containing frequency adverb 'always'.",
+      "step2_time": "Frequency Negation: 'Always' ko negative frequency adverb 'never' se replace kiya.",
+      "step3_aspect": "Compensatory Verb Form: Meaning preserve karne ke liye 'never fails to protect' (double negative) structure choose kiya.",
+      "step4_inflection": "Alternative Check: 'never violates fundamental rights' bhi valid hai, lekin 'never fails to protect' original verb 'protects' ko 100% literal fidelity deta hai.",
+      "step5_synthesis": "Final Synthesis: 'The Supreme Court never fails to protect fundamental rights.'"
+    },
+    "trapWarning": "OPPOSITE REVERSAL TRAP: Option 'The Supreme Court never protects fundamental rights' direct truth reversal hai. 'Never' ke sath 'fails to' lagakar affirmative claim maintain hota hai."
+  },
+  {
+    "id": "WE-08",
+    "sentence": "Assertive: \"Honesty is always the best policy in legal administration.\"",
+    "correctAnswer": "Is honesty not always the best policy in legal administration?",
+    "tense": "Assertive to Interrogative (Affirmative Statement ➔ Negative Question)",
+    "steps": {
+      "step1_marker": "Sentence Type: Affirmative assertive statement containing copular verb 'is'.",
+      "step2_time": "Golden Polarity Law: Positive assertion ko interrogative banate waqt negative question banana hoga.",
+      "step3_aspect": "Auxiliary Inversion: Verb 'is' ko subject 'honesty' se pehle invert kiya.",
+      "step4_inflection": "Negation & Punctuation: Uncontracted 'not' ko subject ke baad place kiya aur full stop (.) ko question mark (?) se replace kiya.",
+      "step5_synthesis": "Final Synthesis: 'Is honesty not always the best policy in legal administration?'"
+    },
+    "trapWarning": "POLARITY RETENTION ERROR: Option 'Is honesty always the best policy...?' inquiry express karta hai, jabki original statement firm belief tha. Negative question 'Is honesty not...' hi exact rhetorical assertion match karta hai."
+  },
+  {
+    "id": "WE-09",
+    "sentence": "Assertive: \"The registrar issued the official compliance notice yesterday.\"",
+    "correctAnswer": "Did the registrar not issue the official compliance notice yesterday?",
+    "tense": "Assertive to Interrogative (Simple Past Dummy 'Did' Inversion)",
+    "steps": {
+      "step1_marker": "Sentence Type & Tense: Affirmative assertive sentence in Simple Past tense ('issued' V2) with no overt auxiliary.",
+      "step2_time": "Dummy Auxiliary Selection: Simple Past affirmation ke liye dummy auxiliary 'Did' select kiya.",
+      "step3_aspect": "Polarity Inversion: Positive statement ko negative question banane ke liye 'Did + Subject + not' structure banaya.",
+      "step4_inflection": "Base Verb Restoration: Auxiliary 'did' past tense absorb kar leti hai, isliye main verb 'issued' base form 'issue' (V1) ban gayi.",
+      "step5_synthesis": "Final Synthesis: 'Did the registrar not issue the official compliance notice yesterday?'"
+    },
+    "trapWarning": "DOUBLE PAST ERROR: Examiner option mein 'Did the registrar not ISSUED...' likhkar deta hai. 'Did' ke baad main verb hamesha V1 ('issue') aati hai."
+  },
+  {
+    "id": "WE-10",
+    "sentence": "Assertive: \"No one can tolerate such continuous disrespect to the court.\"",
+    "correctAnswer": "Can anyone tolerate such continuous disrespect to the court?",
+    "tense": "Negative Assertive to Interrogative (Negative Statement ➔ Positive Question)",
+    "steps": {
+      "step1_marker": "Sentence Type & Polarity: Negative assertive statement containing negative subject 'No one' and modal 'can'.",
+      "step2_time": "Golden Polarity Law: Negative statement interrogative bante waqt positive question banta hai.",
+      "step3_aspect": "Auxiliary Inversion: Modal 'can' ko sentence ke shuru mein shift kiya.",
+      "step4_inflection": "Subject Conversion: Negative pronoun 'No one' ko non-assertive positive pronoun 'anyone' mein convert kiya.",
+      "step5_synthesis": "Final Synthesis: 'Can anyone tolerate such continuous disrespect to the court?'"
+    },
+    "trapWarning": "DOUBLE NEGATIVE IN INTERROGATIVE: Option 'Can no one tolerate...' inquiry ban jati hai, aur 'Cannot anyone tolerate...' assertion ko ulta kar deti hai. 'Can anyone tolerate...?' implies 'No one can'."
+  },
+  {
+    "id": "WE-11",
+    "sentence": "Assertive: \"Everyone wants speedy justice in pending legal matters.\"",
+    "correctAnswer": "Who does not want speedy justice in pending legal matters?",
+    "tense": "Rhetorical Question Equivalence ('Everyone' ➔ 'Who does not')",
+    "steps": {
+      "step1_marker": "Sentence Quantifier: Universal positive claim starting with 'Everyone'.",
+      "step2_time": "Rhetorical Question Rule: 'Everyone' ko rhetorical negative question 'Who does not...' se match kiya jata hai.",
+      "step3_aspect": "Dummy Auxiliary Inversion: 3rd person singular ke anusaar 'does not' lagaya.",
+      "step4_inflection": "Base Verb Check: 'wants' (V5) auxiliary 'does' ke baad base form 'want' (V1) mein convert ho gayi.",
+      "step5_synthesis": "Final Synthesis: 'Who does not want speedy justice in pending legal matters?'"
+    },
+    "trapWarning": "MISSING 'NOT' IN RHETORICAL: Examiner option 'Who wants speedy justice?' deta hai. Ye question implies karta hai ki 'No one wants it', jo original statement ka bilkul opposite meaning hai."
+  },
+  {
+    "id": "WE-12",
+    "sentence": "Exclamatory: \"How scenic and peaceful the High Court garden is!\"",
+    "correctAnswer": "The High Court garden is very scenic and peaceful.",
+    "tense": "Exclamatory to Assertive ('How' + Adjective ➔ 'Very')",
+    "steps": {
+      "step1_marker": "Sentence Form & Marker: Exclamatory sentence starting with 'How' followed by adjectives ('scenic and peaceful').",
+      "step2_time": "Subject & Verb Isolation: Sentence ke end mein located subject 'The High Court garden' aur verb 'is' ko start mein layein.",
+      "step3_aspect": "Intensifier Selection: Adjectives ke pehle intensity express karne ke liye intensifier 'very' lagaya.",
+      "step4_inflection": "Punctuation Shift: 'How' drop kiya aur exclamation mark (!) ko full stop (.) mein badla.",
+      "step5_synthesis": "Final Synthesis: 'The High Court garden is very scenic and peaceful.'"
+    },
+    "trapWarning": "PUNCTUATION ERROR: Assertive sentence mein converted option ke end mein agar examiner ne exclamation mark (!) chhod diya ho, toh wo option automatically invalid hai."
+  },
+  {
+    "id": "WE-13",
+    "sentence": "Exclamatory: \"What a blunder the assistant made while drafting the charge sheet!\"",
+    "correctAnswer": "The assistant made a great blunder while drafting the charge sheet.",
+    "tense": "Exclamatory to Assertive ('What a' + Noun ➔ 'Great')",
+    "steps": {
+      "step1_marker": "Sentence Form & Target: Exclamatory sentence starting with 'What a' followed directly by a qualifying noun of magnitude ('blunder').",
+      "step2_time": "Subject & Verb Isolation: Subject 'The assistant' aur past verb 'made' ko sentence ke beginning mein shift kiya.",
+      "step3_aspect": "Intensifier Selection Rule: Noun 'blunder' ke aage 'very' use nahi ho sakta; appropriate intensifying adjective 'great' (ya 'terrible') choose kiya.",
+      "step4_inflection": "Article Concord: Indefinite article 'a' retain karke 'a great blunder' banaya.",
+      "step5_synthesis": "Final Synthesis: 'The assistant made a great blunder while drafting the charge sheet.'"
+    },
+    "trapWarning": "THE 'VERY BLUNDER' DISASTER: Option 'The assistant made a very blunder...' dekh kar turant strike out karein. Adjective 'very' direct nouns ko qualify nahi kar sakta."
+  },
+  {
+    "id": "WE-14",
+    "sentence": "Exclamatory: \"Alas! Our senior constitutional mentor is no more.\"",
+    "correctAnswer": "It is a matter of great sorrow that our senior constitutional mentor is no more.",
+    "tense": "Interjection to Assertive ('Alas!' ➔ 'Matter of great sorrow')",
+    "steps": {
+      "step1_marker": "Sentence Type & Interjection: Exclamatory sentence opened by grief interjection 'Alas!'.",
+      "step2_time": "Emotion Transposition: Interjection 'Alas!' ki emotional value ko assertive clause 'It is a matter of great sorrow / grief that' mein convert kiya.",
+      "step3_aspect": "Conjunction Insertion: Declarative conjunction 'that' lagaya.",
+      "step4_inflection": "Clause Retention: Following factual clause 'our senior constitutional mentor is no more' ko grammatically intact rakha.",
+      "step5_synthesis": "Final Synthesis: 'It is a matter of great sorrow that our senior constitutional mentor is no more.'"
+    },
+    "trapWarning": "EMOTION DISCORD: Interjection 'Alas' sorrow express karta hai. Option mein agar 'It is a matter of surprise...' ya 'regret' diya ho toh accurate primary emotion 'sorrow / grief' hi correct choice hai."
+  },
+  {
+    "id": "WE-15",
+    "sentence": "Exclamatory: \"If only I had verified the serial number before submitting the petition!\"",
+    "correctAnswer": "I earnestly wish that I had verified the serial number before submitting the petition.",
+    "tense": "Unreal Wish to Assertive ('If only' ➔ 'I wish that')",
+    "steps": {
+      "step1_marker": "Sentence Structure: Optative/exclamatory wish formula 'If only + Subject + Past Perfect'.",
+      "step2_time": "Assertive Desire Transposition: 'If only' ko strong assertive desire formula 'I earnestly wish that' se replace kiya.",
+      "step3_aspect": "Subject & Tense Harmony: First person subject 'I' aur past perfect structure 'had verified' ko retain kiya.",
+      "step4_inflection": "Punctuation Alignment: Exclamation mark (!) ko assertive full stop (.) mein badla.",
+      "step5_synthesis": "Final Synthesis: 'I earnestly wish that I had verified the serial number before submitting the petition.'"
+    },
+    "trapWarning": "TENSE SHIFT DISTRACTOR: Examiner option mein 'I wish I verify...' present tense likh deta hai. Past unfulfilled wish mein past perfect 'had verified' strictly maintain rehna chahiye."
+  }
+]

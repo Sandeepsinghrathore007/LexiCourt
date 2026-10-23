@@ -1,0 +1,161 @@
+{
+  "id": "L18",
+  "title": "Prefixes & Suffixes: Word Formation, Meaning, Spelling and Exam Practice",
+  "shortTitle": "Prefixes & Suffixes",
+  "topicId": "T09",
+  "topicTitle": "Prefixes and Suffixes",
+  "part": "1 of 1",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Intermediate",
+  "targetScore": "100% Precision",
+  "description": "Base words, roots, prefixes, suffixes, derived word formation, spelling changes, word families, parts of speech selection, aur Rajasthan High Court exam error elimination strategies ko systematically master karein.",
+  "learningObjectives": [
+    "Base words, classical roots, prefixes, aur suffixes ke beech precise difference ko identify karein",
+    "Samajhein ki prefixes word meaning modify karte hain jabki suffixes aksar grammatical part of speech change karte hain",
+    "Negative aur opposite prefixes (un-, in-, im-, il-, ir-, dis-, non-, de-, anti-) ke phonetic assimilation rules ko master karein",
+    "Repetition, time, position, aur relationship prefixes (re-, pre-, post-, sub-, super-, inter-, intra-, trans-, co-, counter-) ko correctly apply karein",
+    "Number, quantity, aur scale prefixes (uni-, mono-, bi-, tri-, multi-, poly-, micro-, macro-, mega-) ke meaning ko decode karein",
+    "Noun-forming (-er, -or, -ist, -ian, -ness, -ity, -ment, -tion, -ance, -ship, -hood, -dom) suffixes se correct nouns derive karein",
+    "Adjective-forming (-ful, -less, -ous, -al, -ic, -able, -ible, -ive, -y, -ish, -ary, -ent) suffixes ko sentence context mein use karein",
+    "Verb-forming (-ize/-ise, -ify, -en, -ate) aur adverb-forming (-ly) suffixes ke patterns aur exceptions ko samjhein",
+    "Suffix add karte waqt hone wale spelling changes (final silent e, consonant + y, 1-1-1 consonant doubling) ko accurately implement karein",
+    "Complete word families (Noun, Verb, Adjective, Adverb) ko analyze karein aur wrong grammatical roles ko eliminate karein",
+    "Sentence completion questions mein syntax clues (article, auxiliary, preposition) se required word class identify karke sahi word select karein",
+    "9-Step Systematic Word Formation Workflow apply karke High Court aur state competitive exams ke MCQs mein 100% accuracy achieve karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Core Morphology: Base words, roots, prefixes, suffixes, derived forms, and word families",
+      "Negative & Opposite Prefixes: un- (unhappy, unfair), in- (inaccurate, incomplete), im- before p/m (impossible, patient -> impatient, mature -> immature), il- before l (illegal, illogical, illiterate), ir- before r (irregular, irresponsible, irrelevant), dis- (disagree, disconnect, dishonest), non- (nonfiction, nonviolent), anti- (antiwar, antisocial), de- (deactivate, devalue, defrost)",
+      "Time, Position & Relationship Prefixes: re- (rewrite, reread), pre- (preview, prehistoric), post- (postgraduate, postwar), mid- (midnight, midterm), fore- (foresee, forecast), ex- (ex-member, ex-president), inter- (international, interconnect), intra- (intranet, intramural), trans- (transport, transfer), sub- (submarine, substandard), super- (superhuman, superstar), over- (overwork, overestimate), under- (underpay, underestimate), mis- (misunderstand, mistake), mal- (malfunction, malnutrition), co- (co-worker, cooperate), counter- (counterattack, counterproductive)",
+      "Number, Quantity & Scale Prefixes: uni-/mono- (unicycle, monolingual), bi-/di- (bilingual, bilateral), tri- (triangle, tricycle), multi-/poly- (multilingual, polygon), semi-/hemi- (semicircle, hemisphere), micro- (microscopic), macro- (macroeconomic), mini- (minibus), mega- (megastore)",
+      "Noun-Forming Suffixes: -er/-or (teacher, actor), -ist (artist, scientist), -ian (musician, historian), -ness (kindness, happiness), -ity/-ty (activity, safety), -ment (development, achievement), -tion/-sion (education, decision), -ance/-ence (performance, difference), -ship (friendship), -hood (childhood), -dom (freedom), -ism (humanism), -ure (failure, departure)",
+      "Adjective-Forming Suffixes: -ful (careful, helpful), -less (careless, helpless), -ous/-ious (dangerous, famous, ambitious), -al (national, cultural), -ic (economic, scientific), -able/-ible (comfortable, accessible), -ive (creative, effective), -y (rainy, healthy), -ish (childish, greenish), -ary (imaginary), -ent/-ant (dependent, resistant)",
+      "Verb-Forming Suffixes: -ize/-ise (modernize, criticize), -ify (simplify, purify), -en (widen, shorten, strengthen), -ate (activate, validate)",
+      "Adverb-Forming Suffixes: -ly (quickly, carefully, happily) and distinguishing adjectives ending in -ly (friendly, lovely, lively, lonely) plus flat adverbs (fast, hard, late, well)",
+      "Spelling Laws: Final silent e (drop before vowel suffix, keep before consonant suffix), consonant + y (change to i before suffix except -ing), consonant doubling (1-1-1 CVC rule and primary stress), irregular family shifts (decide -> decision, strong -> strength)",
+      "Word Family Mapping: Systematically tracing noun, verb, adjective, and adverb relationships in high-frequency English roots",
+      "Sentence Completion: Contextual deduction of required word class from clausal syntax and structural cues",
+      "Competitive Exam Distractor Elimination: Filtering nonstandard derivatives, wrong parts of speech, and erroneous spelling forms"
+    ],
+    "excluded": [
+      "Idiomatic expressions and figurative phrases without morphological derivation (covered in Lesson 19)",
+      "Single-word substitutions and general vocabulary definitions (covered in Lesson 17)",
+      "Direct synonym and antonym pairing without affix analysis (covered in Lesson 16)",
+      "Syntactic clause transformations without morphological word-formation (covered in Lessons 08 and 09)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Diagnostic Prerequisite Check",
+      "durationMinutes": 8,
+      "type": "orientation",
+      "description": "Prefix vs suffix functional differences, modifying meaning vs changing grammatical word class, common mistakes, aur 2-question baseline diagnostic readiness check.",
+      "iconName": "Compass",
+      "keyTakeaway": "Prefix word ke start mein aakar meaning modify karta hai; Suffix word ke end mein attach hokar uska grammatical role change karta hai."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Comprehensive Study Guide",
+      "subtitle": "12-Section Categorized Knowledge Base",
+      "durationMinutes": 20,
+      "type": "study-doc",
+      "description": "Base words, negative prefixes, time/position prefixes, quantity prefixes, noun/adjective/verb/adverb suffixes, spelling laws, word families, aur sentence completion strategy ka deep guide.",
+      "iconName": "BookOpen",
+      "keyTakeaway": "Mechanical guessing ke bajaye base word, affix function, spelling rules, aur sentence syntax ko coordinate karein."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Interactive Diagrams, Decision Trees & Distinctions",
+      "durationMinutes": 10,
+      "type": "visuals",
+      "description": "Word anatomy visualizer, prefix functional map, suffix grammar map, word-family matrix, spelling decision tree, negative prefix comparator, aur contextual selection flowchart.",
+      "iconName": "Eye",
+      "keyTakeaway": "Visual models se complex spelling shifts aur affixation patterns instantly clear ho jaate hain."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards & Formulas",
+      "subtitle": "14 Exam-Solving Strategy Cards",
+      "durationMinutes": 10,
+      "type": "rule-cards",
+      "description": "Phonetic assimilation, reversal vs opposition, noun/adj/verb/adv suffixes, -ly adjective trap, silent e, consonant + y, consonant doubling, aur nonstandard word elimination rule cards.",
+      "iconName": "Layers",
+      "keyTakeaway": "Established linguistic rules apply karke invented ya nonstandard word forms ko eliminate karein."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Derivations",
+      "durationMinutes": 10,
+      "type": "worked-examples",
+      "description": "Sentence context decoding, base word isolation, required word class deduction, spelling verification, aur distractor contrast ke saath 15 diverse exam examples.",
+      "iconName": "CheckCircle2",
+      "keyTakeaway": "Sentence syntax se pehle required word class decide karein, phir valid derived form select karein."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "18 High-Frequency Trap Analyses",
+      "durationMinutes": 8,
+      "type": "common-mistakes",
+      "description": "Prefix-suffix confusion, mechanical negative prefixing, invented derivatives, -ly adjective traps, silent e errors, consonant doubling mistakes, aur wrong part-of-speech traps.",
+      "iconName": "AlertTriangle",
+      "keyTakeaway": "Competitive exams ke recurring word-formation traps aur spelling blunders ko pehle se identify karein."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Questions with Progressive Clue Hints",
+      "durationMinutes": 12,
+      "type": "guided-practice",
+      "description": "Interactive question solving with progressive hints, detailed Roman Hinglish feedback, and instant explanation reveal.",
+      "iconName": "HelpCircle",
+      "keyTakeaway": "Hints ki madad se sentence syntax analyze karein aur submit se pehle spelling verify karein."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "50 Original Exam-Level Test Questions",
+      "durationMinutes": 25,
+      "type": "independent-practice",
+      "description": "Rajasthan High Court exam pattern par based 50 unguided MCQs covering all categories, error logging, and performance analytics.",
+      "iconName": "FileText",
+      "keyTakeaway": "Real exam simulation mein speed, spelling accuracy aur word class precision maintain karein."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15 Timed Certification Questions (80% Pass)",
+      "durationMinutes": 12,
+      "type": "mastery-assessment",
+      "description": "12-minute strict countdown timer, 15 randomized questions, 80% passing threshold, and automated Error Bank routing.",
+      "iconName": "Trophy",
+      "keyTakeaway": "Certification pass karne ke liye 15 mein se kam se kam 12 correct answers zaroori hain."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Error Bank & Revision",
+      "subtitle": "Remediation, Quick Summary & Milestone Report",
+      "durationMinutes": 8,
+      "type": "error-review",
+      "description": "Mistake bank filtering, targeted retry solving, high-frequency revision checklist, and consolidated completion certificate.",
+      "iconName": "RotateCcw",
+      "keyTakeaway": "Galtiyon ko revise karke resolve karein aur lesson milestone complete karein."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Assertive Statement Conversion & 'That' Conjunction",
+    "time": "Reporting Fundamentals",
+    "aspect": "Core Syntax",
+    "formula": "Subject + reporting verb + (object) + that + Reported Subject + Backshifted Verb",
+    "auxiliary": "that (declarative conjunction linking reporting clause and reported clause)",
+    "usage": "Direct speech ke assertive (declarative) statements ko Indirect Speech mein convert karne ke liye. Quoted sentence ka comma aur quotation marks (\"...\") drop ho jate hain aur 'that' lagta hai.",
+    "patterns": {
+      "affirmative": "Rohan said, \"I work in the High Court.\" ➔ Rohan said that he worked in the High Court.",
+      "negative": "Rohan said, \"I do not work in the registry.\" ➔ Rohan said that he did not work in the registry.",
+      "interrogative": "Assertive statement: He stated, \"The file is ready.\" ➔ He stated that the file was ready."
+    },
+    "timeMarkers": ["said", "stated", "remarked", "declared", "observed", "mentioned"],
+    "keyTip": "FORMAL CONJUNCTION ALERT: Competitive exam MCQs mein assertive sentences ke indirect transformation mein conjunction 'that' standard aur expected mana jata hai. 'That' ke sath koi unnecessary extra conjunction na jodein."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Reporting Verbs: 'Say' vs 'Tell' Transitiveness Concord",
+    "time": "Reporting Fundamentals",
+    "aspect": "Verb Mechanics",
+    "formula": "Said to + Person ➔ Told + Person  |  Said (no object) ➔ Said that",
+    "auxiliary": "told (transitive, requires direct person object without 'to')",
+    "usage": "Jab direct speech mein listener (person addressed) mention ho ('said to me/him'), toh indirect speech mein 'told me/him' use hota hai. Agar listener na ho toh 'said' retain rehta hai.",
+    "patterns": {
+      "affirmative": "He said to me, \"You are competent.\" ➔ He told me that I was competent.",
+      "negative": "He said to me, \"I cannot help you.\" ➔ He told me that he could not help me.",
+      "interrogative": "Indirect structure: She said to Rohit, \"I will call.\" ➔ She told Rohit that she would call."
+    },
+    "timeMarkers": ["said to me", "said to him", "said to us", "said to her", "said to them"],
+    "keyTip": "FATAL 'TOLD TO' TRAP: Exam options mein sabse common distractor 'He told to me' hota hai. 'Told' ke baad preposition 'to' lagana strictly forbidden hai. Direct likhein: 'He told me'."
+  },
+  {
+    "id": "RC-03",
+    "tense": "First Person Pronoun Shift (Speaker Matching)",
+    "time": "Pronoun Shifts",
+    "aspect": "Person Mapping",
+    "formula": "1st Person (I, me, my, we, us, our) ➔ Matches Reporting Subject (Speaker)",
+    "auxiliary": "Shift governed by the gender, number, and case of the original speaker",
+    "usage": "Reported speech mein jab bhi 1st person pronouns aate hain, wo reporting clause ke subject (speaker) ke number, person aur gender ke anusaar badalte hain.",
+    "patterns": {
+      "affirmative": "Priya said, \"I have verified my application.\" ➔ Priya said that she had verified her application.",
+      "negative": "The clerks said, \"We have not received our salaries.\" ➔ The clerks said that they had not received their salaries.",
+      "interrogative": "Contextual shift: He said, \"I will do it myself.\" ➔ He said that he would do it himself."
+    },
+    "timeMarkers": ["I", "me", "my", "mine", "myself", "we", "us", "our", "ours"],
+    "keyTip": "SPEAKER IDENTIFICATION: Pronoun change karte waqt pehle reporting subject (speaker) ka gender aur number confirm karein. Priya (female singular) ➔ she/her; The clerks (plural) ➔ they/their."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Second Person Pronoun Shift (Listener Matching)",
+    "time": "Pronoun Shifts",
+    "aspect": "Person Mapping",
+    "formula": "2nd Person (you, your, yours) ➔ Matches Reporting Object (Listener / Addressee)",
+    "auxiliary": "Shift governed by the gender, number, and case of the person being addressed",
+    "usage": "Reported speech ke 2nd person pronouns reporting clause ke object (listener/addressee) ke anusaar transform hote hain. Agar object na diya ho, toh context ke anusaar 'me' assume kiya jata hai.",
+    "patterns": {
+      "affirmative": "The judge said to the advocate, \"You presented your case well.\" ➔ The judge told the advocate that he/she had presented his/her case well.",
+      "negative": "She said to me, \"You did not follow your instructions.\" ➔ She told me that I had not followed my instructions.",
+      "interrogative": "Implied listener: He said, \"You are mistaken.\" ➔ He said that I was mistaken."
+    },
+    "timeMarkers": ["you (subject)", "you (object)", "your", "yours", "yourself", "yourselves"],
+    "keyTip": "LISTENER TARGETING: 'You' hamesha us person ke anusaar badalta hai jisse baat kahi ja rahi hai. Agar kaha gaya 'said to me', toh 'you' ➔ 'I'; agar kaha gaya 'said to him', toh 'you' ➔ 'he'."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Third Person Pronoun Invariance (No Person Change)",
+    "time": "Pronoun Shifts",
+    "aspect": "Person Mapping",
+    "formula": "3rd Person (he, she, it, they, him, her, them, his, its, their) ➔ UNCHANGED",
+    "auxiliary": "No person transformation; maintains external referent identity",
+    "usage": "Reported speech mein aane wale 3rd person pronouns mein Indirect Speech mein koi change nahi hota, kyunki wo kisi teesre vyakti ko refer kar rahe hote hain jo conversation ka active speaker ya listener nahi hai.",
+    "patterns": {
+      "affirmative": "Kavita said, \"He is handling the legal registry.\" ➔ Kavita said that he was handling the legal registry.",
+      "negative": "Rohan said, \"They have not submitted their appeal.\" ➔ Rohan said that they had not submitted their appeal.",
+      "interrogative": "Third person continuity: She said to me, \"She solved it.\" ➔ She told me that she had solved it."
+    },
+    "timeMarkers": ["he", "she", "it", "they", "him", "her", "them", "his", "their"],
+    "keyTip": "THIRD PERSON STABILITY: 3rd person pronouns ko change karne ka koi rule nahi hai. Options mein agar 'he' ko 'I' ya 'they' ko 'we' bana diya gaya ho toh us option ko turant discard karein."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Present Tenses Backshift with Past Reporting Verb",
+    "time": "Tense Backshift",
+    "aspect": "Tense Rules",
+    "formula": "Present Simple ➔ Past Simple | Present Cont ➔ Past Cont | Present Perf ➔ Past Perf",
+    "auxiliary": "is/am/are ➔ was/were | has/have ➔ had | do/does ➔ did",
+    "usage": "Jab reporting verb Past Tense ('said', 'told') mein ho, toh reported speech ke sabhi present tenses apne corresponding past tenses mein ek step peeche backshift ho jaate hain.",
+    "patterns": {
+      "affirmative": "Simple Present: He said, \"I work hard.\" ➔ He said that he worked hard.",
+      "negative": "Present Continuous: She said, \"I am not coming.\" ➔ She said that she was not coming.",
+      "interrogative": "Present Perfect: They said, \"We have completed the audit.\" ➔ They said that they had completed the audit."
+    },
+    "timeMarkers": ["am/is/are", "has/have", "V1 / V1+s/es", "do/does", "has/have been + V4"],
+    "keyTip": "CORRESPONDENCE RULE: Present Simple (V1) ➔ Past Simple (V2); Present Continuous (is/are + V4) ➔ Past Continuous (was/were + V4); Present Perfect (has/have + V3) ➔ Past Perfect (had + V3)."
+  },
+  {
+    "id": "RC-07",
+    "tense": "Simple Past & Past Continuous Backshift",
+    "time": "Tense Backshift",
+    "aspect": "Tense Rules",
+    "formula": "Simple Past (V2) ➔ Past Perfect (had + V3) | Past Cont ➔ Past Perfect Cont (had been + V4)",
+    "auxiliary": "had + V3 / had been + V4 (Past Perfect already represents anterior past)",
+    "usage": "Direct speech mein agar reported verb pehle se Simple Past (V2) ho aur reporting verb Past mein ho, toh wo Past Perfect mein shift hoti hai. Past Continuous, Past Perfect Continuous mein shift hoti hai. Past Perfect unchanged rehta hai.",
+    "patterns": {
+      "affirmative": "Simple Past: The officer said, \"The file reached on time.\" ➔ The officer said that the file had reached on time.",
+      "negative": "Past Continuous: She said, \"I was not drafting the writ.\" ➔ She said that she had not been drafting the writ.",
+      "interrogative": "Past Perfect: He said, \"I had submitted it.\" ➔ He said that he had submitted it (No change)."
+    },
+    "timeMarkers": ["yesterday", "last year", "V2", "did + V1", "was/were + V4", "had + V3"],
+    "keyTip": "PAST TO PAST PERFECT TRAP: Candidates aksar Simple Past ko Simple Past hi chhod dete hain. Standard competitive exam grammar mein past reporting verb ke sath Simple Past compulsory Past Perfect ('had + V3') mein convert hota hai."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Modal Auxiliaries Backshift Matrix",
+    "time": "Tense Backshift",
+    "aspect": "Tense Rules",
+    "formula": "will ➔ would | can ➔ could | may ➔ might | must ➔ had to / must",
+    "auxiliary": "would, could, might, had to (modals that have historical past counterparts)",
+    "usage": "Jab reporting verb Past mein hoti hai, toh modal auxiliaries apne past forms mein backshift hoti hain. Already past modals (could, would, should, might, ought to) mein koi change nahi hota.",
+    "patterns": {
+      "affirmative": "Will ➔ Would: He said, \"The bench will deliver the judgment.\" ➔ He said that the bench would deliver the judgment.",
+      "negative": "Can ➔ Could: She said, \"I cannot verify this seal.\" ➔ She said that she could not verify that seal.",
+      "interrogative": "May ➔ Might: The clerk said, \"The server may reboot.\" ➔ The clerk said that the server might reboot."
+    },
+    "timeMarkers": ["will", "shall", "can", "may", "must", "could", "would", "should", "might"],
+    "keyTip": "FROZEN MODALS: 'Could', 'Would', 'Should', 'Might', aur 'Ought to' ka koi further past form nahi hota. Direct speech mein inke aane par indirect speech mein inka form bilkul same rehta hai."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Universal Truths, Scientific Laws & Proverbs Exception",
+    "time": "Backshift Exceptions",
+    "aspect": "Fact Exceptions",
+    "formula": "Reporting Verb in Past + Universal Truth / Scientific Fact ➔ NO TENSE BACKSHIFT (Simple Present Retained)",
+    "auxiliary": "is / revolves / freezes / boils / triumphs (present tense retained)",
+    "usage": "Agar direct speech mein koi eternal truth, universal fact, established scientific law, geographical truth, ya eternal proverb ho, toh reporting verb past mein hone par bhi tense change NAHI hota.",
+    "patterns": {
+      "affirmative": "Scientific Law: The teacher said, \"Water freezes at 0°C.\" ➔ The teacher said that water freezes at 0°C.",
+      "negative": "Universal Truth: The philosopher said, \"Truth never dies.\" ➔ The philosopher said that truth never dies.",
+      "interrogative": "Proverb: He said, \"Slow and steady wins the race.\" ➔ He said that slow and steady wins the race."
+    },
+    "timeMarkers": ["always", "universal truth", "scientific law", "geographical fact", "proverb"],
+    "keyTip": "CRITICAL EXAM DISTRACTOR: Distractor options mein aksar 'The teacher said that water froze at 0°C' diya jata hai. 'Froze' likhne ka matlab hoga ki ab pani freeze nahi hota! Universal truths hamesha Simple Present mein rahenge."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Present/Future Reporting Verbs & Adverbial Reference Shifts",
+    "time": "Adverbial Adjustments",
+    "aspect": "Contextual Shifts",
+    "formula": "Says / Will say ➔ NO TENSE BACKSHIFT  |  today ➔ that day, now ➔ then, here ➔ there",
+    "auxiliary": "Adverbs shift only when reporting context changes temporally or spatially",
+    "usage": "(1) Jab reporting verb Simple Present ('says') ya Future ('will say') mein ho, toh reported tense mein zero backshift hota hai. (2) Past reporting verb ke sath time aur place ke adverbs distance aur past perspective mein shift hote hain.",
+    "patterns": {
+      "affirmative": "Present Reporting Verb: The registrar says, \"The server is offline.\" ➔ The registrar says that the server is offline.",
+      "negative": "Adverbial Shift: She said, \"I will file the reply tomorrow.\" ➔ She said that she would file the reply the following day.",
+      "interrogative": "Future Reporting Verb: He will say, \"I am satisfied.\" ➔ He will say that he is satisfied."
+    },
+    "timeMarkers": ["says", "will say", "today ➔ that day", "yesterday ➔ the previous day", "tomorrow ➔ the next day", "now ➔ then"],
+    "keyTip": "VERB TENSE FIRST: Sentence transform karne se pehle reporting verb ka tense check karein. Agar 'says' ya 'will say' likha hai, toh reported tense ko galti se bhi past mein na badlein!"
+  }
+]

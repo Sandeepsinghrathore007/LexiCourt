@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "Pleonastic Prepositions with Direct-Object Transitive Verbs",
+    "category": "Syntax Redundancy & Pleonasm Trap",
+    "frequency": "Extremely High (Number 1 Error Spotting Item in Rajasthan High Court Exams)",
+    "explanation": "Hindi speakers aksar apni mother tongue se literal translation karte huye direct transitive verbs ke sath unnecessary prepositions insert kar dete hain. Hindi mein kehte hain: 'mudde ke baare mein charcha ki' ➔ candidate likhta hai '*discussed about the issue'; 'computer ka order diya' ➔ '*ordered for a computer'; 'baat par zor diya' ➔ '*emphasized on the point'; 'kamre mein pravesh kiya' ➔ '*entered into the room'. Lekin English mein discuss, order, emphasize, reach, resemble, aur approach direct transitive verbs hain. Inka action bina kisi preposition ke seedhe direct object par pass hota hai. Extra preposition lagana fatal pleonastic error hai.",
+    "incorrectExample": "Incorrect: The division bench discussed about the service rules and then ordered for fresh copies.",
+    "correctExample": "Correct: The division bench discussed the service rules and then ordered fresh copies.",
+    "trapRule": "The Direct Transitive Law: discuss (NO about), order (NO for), emphasize (NO on), enter physical room (NO into), reach (NO to), resemble (NO to/with). Instantly eliminate options containing these redundant prepositions."
+  },
+  {
+    "id": "PIT-02",
+    "title": "The 'Prefer...Than' Comparative Distortion Trap",
+    "category": "Prepositional Concord & Comparative Error",
+    "frequency": "Very High (Recurring Fill-in-the-Blank and Error Spotting Distractor)",
+    "explanation": "Candidates general comparative degree ke rule 'comparative adjective + than' (taller than, faster than) ko blindly har comparison par apply kar dete hain. Jab sentence mein verb 'prefer' ya adjective 'preferable' aata hai, toh wo jaldbazi mein '*prefers tea than coffee' ya '*arbitration is preferable than litigation' likh dete hain. Standard English rule ye hai ki 'prefer' aur 'preferable' hamesha preposition 'TO' demand karte hain. Inke sath 'than' lagana standard syntax ka violation hai.",
+    "incorrectExample": "Incorrect: Most advocates prefer electronic case filing than physical court registry submissions.",
+    "correctExample": "Correct: Most advocates prefer electronic case filing to physical court registry submissions.",
+    "trapRule": "The Prefer-To Formula: Prefer [X] TO [Y] (Never THAN!). Preferable TO [Y] (Never THAN!)."
+  },
+  {
+    "id": "PIT-03",
+    "title": "The Latin Comparative 'Than' Trap: Senior, Junior & Prior",
+    "category": "Morphological Origin & Prepositional Discord",
+    "frequency": "Extremely High (Classic High Court Grammar Trap)",
+    "explanation": "English mein aise adjectives jo Latin se aaye hain aur jinke end mein '-or' lagta hai (senior, junior, superior, inferior, prior, anterior, posterior), wo degree of comparison mein regular English adjectives ki tarah 'THAN' nahi lete. Inke comparison ka target hamesha preposition 'TO' se connect hota hai. Examiner candidate ko distract karne ke liye 'three years senior than him' ya 'prior than the notification' likhkar deta hai, jo completely incorrect hai.",
+    "incorrectExample": "Incorrect: The newly appointed System Officer is two years senior than the senior judicial assistant.",
+    "correctExample": "Correct: The newly appointed System Officer is two years senior to the senior judicial assistant.",
+    "trapRule": "The '-OR' Latin Rule: Adjectives ending in -or (senior, junior, superior, inferior, prior) ALWAYS take 'TO', never 'THAN'."
+  },
+  {
+    "id": "PIT-04",
+    "title": "Conflating 'Agree with' (Person) and 'Agree to' (Proposal)",
+    "category": "Semantic Target Concord Error",
+    "frequency": "Very High (High-Yield Discriminator in Rajasthan Exams)",
+    "explanation": "Candidates 'agree' verb ko sirf ek hi preposition 'with' ke sath associate karke yaad rakhte hain. Lekin English mein target entity badalne par preposition badal jata hai. Agar target koi insaan ya uska vyaktigat vichar ho, toh 'agree WITH' lagta hai ('I agree with the judge'). Agar target koi formal proposal, scheme, terms, schedule, ya plan ho, toh strictly 'agree TO' lagta hai ('The committee agreed to the proposal'). Proposal ke sath 'with' lagana ek severe collocation mistake hai.",
+    "incorrectExample": "Incorrect: The administrative committee finally agreed with the employees' proposal for revised allowances.",
+    "correctExample": "Correct: The administrative committee finally agreed to the employees' proposal for revised allowances.",
+    "trapRule": "Target Concord: Agree WITH a person / opinion. Agree TO a proposal / plan / terms. Agree ON a joint settlement."
+  },
+  {
+    "id": "PIT-05",
+    "title": "Inverting Causal Vectors: 'Result in' (Outcome) vs 'Result from' (Origin)",
+    "category": "Directional Causal Vector Reversal",
+    "frequency": "High (Reading Comprehension & Cloze Test Trap)",
+    "explanation": "'Result in' aur 'Result from' superficially similar lagte hain lekin unka causal direction bilkul opposite hota hai. 'Result IN' ka subject 'Kaaran' (Cause) hota hai aur object 'Parinaam' (Outcome) hota hai (A caused B). 'Result FROM' ka subject 'Parinaam' (Outcome) hota hai aur object 'Kaaran' (Cause) hota hai (B was caused by A). Cloze test ya sentence completion mein candidates subject aur object ke relation ko check kiye bina random preposition laga dete hain jisse sentence ka factual logic ulta ho jata hai.",
+    "incorrectExample": "Incorrect: Severe database corruption resulted from the catastrophic failure of the entire judicial network.",
+    "correctExample": "Correct: Severe database corruption resulted in the catastrophic failure of the entire judicial network. (Or: The failure resulted from database corruption).",
+    "trapRule": "The Causal Vector Check: Cause + resulted IN + Outcome. Outcome + resulted FROM + Cause. Always identify which entity produced which!"
+  },
+  {
+    "id": "PIT-06",
+    "title": "Gerund Stripping after Prepositional 'To'",
+    "category": "Prepositional 'TO' vs Infinitive Particle Confusion",
+    "frequency": "Extremely High (Most Frequent Error Spotting Question in Advanced Exams)",
+    "explanation": "Candidates ke mind mein school level se ek formula baitha hota hai: 'To + V1' (Infinitive). Isliye jab sentence mein 'look forward to', 'be accustomed to', 'object to', ya 'with a view to' aata hai, toh wo 'to' dekhte hi bare verb (V1) laga dete hain (jaise *look forward to meet, *accustomed to work). Lekin in phrases mein 'to' infinitive particle nahi hai, balki PREPOSITION hai. Preposition ke baad aane wali verb strictly GERUND (-ing form) honi chahiye. V1 lagana fatal grammatical error hai.",
+    "incorrectExample": "Incorrect: The High Court upgraded its IT servers with a view to accelerate electronic case filing.",
+    "correctExample": "Correct: The High Court upgraded its IT servers with a view to accelerating electronic case filing.",
+    "trapRule": "The Prepositional 'TO' Law: look forward to, accustomed to, object to, with a view to, prone to, addicted to ➔ ALWAYS followed by V-ING (never bare V1!)."
+  }
+]

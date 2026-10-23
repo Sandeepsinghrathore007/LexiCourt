@@ -1,0 +1,562 @@
+{
+  "id": "L05-STUDY-DOC",
+  "title": "Comprehensive Study Guide: Advanced Voice — Imperatives, Modals & Prepositional Verbs",
+  "subtitle": "Rajasthan High Court System Assistant Exam ke liye Advanced Voice ka Complete Reference",
+  "overview": "Lesson 04 mein humne basic tense matrix aur core active-to-passive conversions master kiye the. Lekin High Court competitive exams mein sabse tricky questions un structures se aate hain jahan subject missing hota hai (imperatives), modal helping verbs lagte hain (modals aur modal-perfects), verbs ke sath fixed prepositions jude hote hain, ya do objects aate hain. Is comprehensive study guide mein aap in advanced patterns ki underlying grammar logic, competitive exam standard formulas, situational variations, aur negative/interrogative forms ko simple Roman Hinglish mein step-by-step master karenge.",
+  "sections": [
+    {
+      "id": "sec-basic-passive-recap",
+      "number": 1,
+      "title": "A. Quick Recap: Core Passive Engine & Invariance Principles",
+      "summary": "Core formula: Object + appropriate form of be + V3. Meaning aur tense invariance ka recap.",
+      "content": "Advanced voice patterns samajhne se pehle basic passive architecture ka quick revision zaroori hai. Passive Voice ka universal fundamental rule hai: Object (as new subject) + appropriate form of 'be' + Past Participle (V3) of the main verb + optional (by + agent). Voice transform karte waqt teen golden principles kabhi violate nahi hone chahiye: (1) Tense invariance — tense kabhi nahi badalta, (2) Modal meaning preservation — ability, obligation, ya permission ka meaning change nahi hona chahiye, aur (3) Sentence function preservation — assertion assertion rehta hai, question question rehta hai, aur imperative imperative rehta hai.",
+      "dimensions": [
+        {
+          "name": "The Fundamental Passive Formula",
+          "description": "Auxiliary 'be' aur past participle V3 ka coordination.",
+          "categories": [
+            {
+              "name": "Universal Formula",
+              "detail": "Object + appropriate form of 'be' + V3 + (by + agent).\nPassive voice mein verb phrase ka aakhri word hamesha main verb ki 3rd form (past participle) hota hai, aur usse theek pehle 'be' family ka koi na koi form (be, is, am, are, was, were, being, been) aana mandatory hai."
+            },
+            {
+              "name": "Voice vs Narration (Key Invariance Distinction)",
+              "detail": "Narration (Direct/Indirect) mein tenses backshift hote hain (Present ➔ Past). Lekin Voice mein tense strictly freeze rehta hai. Simple Present hamesha Simple Present ('is/are + V3') hi rahega. Modal 'can' hamesha 'can be + V3' rahega, 'could' mein convert nahi hoga."
+            }
+          ]
+        },
+        {
+          "name": "Why Advanced Voice Needs Special Handling",
+          "description": "Standard S-V-O formula in complex sentences mein direct apply kyun nahi hota.",
+          "categories": [
+            {
+              "name": "Imperatives have No Overt Subject",
+              "detail": "Imperative sentences ('Shut the window', 'Help the poor') mein grammatical subject 'You' hidden (understood) hota hai. Isliye standard subject-object exchange direct apply nahi hota; yahan 'Let' structure ya situational passive adopt kiya jata hai."
+            },
+            {
+              "name": "Modals and Multi-Word Verbs",
+              "detail": "Modals ke sath 'be' ya 'have been' ki fixed chain banti hai. Wahi prepositional verbs ('laugh at', 'look into') mein preposition verb ka inseparable hissa hoti hai jise passive mein retain karna compulsory hota hai."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Core Recap Rule: Har passive sentence mein 'appropriate form of be + V3' aana lazmi hai. Voice badalte waqt tense, polarity, aur modality hamesha preserve rehti hain."
+    },
+    {
+      "id": "sec-imperative-sentences",
+      "number": 2,
+      "title": "B. Imperative Sentences: Structure & 'Let + Object + be + V3' Formula",
+      "summary": "Commands aur instructions ke liye textbook pattern: Let + object + be + V3.",
+      "content": "Imperative sentences wo sentences hote hain jinse hum kisi ko order (command), request, instruction, advice, ya warning dete hain. In sentences ki khas baat ye hai ki inka subject overt roop se likha nahi hota—'You' understood hota hai (jaise 'Open the door' ka underlying structure 'You open the door' hota hai). Jab imperative sentence mein ek direct object present ho aur sentence ek direct order, command, ya objective instruction express kare, tab traditional examination grammar ka standard passive formula 'Let + object + be + V3' use hota hai.",
+      "dimensions": [
+        {
+          "name": "Standard Textbook Imperative Pattern",
+          "description": "Direct transitive imperative sentences ka primary passive structure.",
+          "categories": [
+            {
+              "name": "Structural Formula",
+              "detail": "Active: V1 + Object (+ other words)\nPassive: Let + Object + be + V3 (+ other words)"
+            },
+            {
+              "name": "Example 1 (Direct Command)",
+              "detail": "Active: 'Open the door.'\nPassive: 'Let the door be opened.'\nExplanation: 'the door' object hai. Let ke baad object lagaya, fir auxiliary 'be', aur main verb 'open' ka V3 'opened'."
+            },
+            {
+              "name": "Example 2 (Official Instruction)",
+              "detail": "Active: 'Submit the completed application before 5 PM.'\nPassive: 'Let the completed application be submitted before 5 PM.'\nExplanation: Naya object 'the completed application' 'Let' ke baad promote hua, fir 'be submitted'."
+            },
+            {
+              "name": "Example 3 (Administrative Order)",
+              "detail": "Active: 'Circulate this notice among all staff members.'\nPassive: 'Let this notice be circulated among all staff members.'"
+            }
+          ]
+        },
+        {
+          "name": "Pronoun Case after 'Let'",
+          "description": "Let preposition-like verb hone ki wajah se hamesha objective case demand karti hai.",
+          "categories": [
+            {
+              "name": "Objective Case Rule",
+              "detail": "Agar active sentence mein pronoun object hai (jaise 'him', 'them', 'her'), toh 'Let' ke baad hamesha objective pronoun hi lagega. Subjective pronoun ('he', 'they', 'she') lagana fatal error hai."
+            },
+            {
+              "name": "Example with Pronoun",
+              "detail": "Active: 'Call him at once.'\nCorrect Passive: 'Let him be called at once.'\nIncorrect Passive: 'Let he be called at once.' (FATAL EXAM TRAP)"
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Imperative Formula: Let + Object + be + V3. Note: Let ke baad pronoun hamesha objective case (him, her, them, us, me) mein aayega."
+    },
+    {
+      "id": "sec-requests-orders-instructions",
+      "number": 3,
+      "title": "C. Requests, Orders, and Instructions: Situational Passive Forms",
+      "summary": "'You are requested / ordered / instructed to + V1' structures aur unki contextual suitability.",
+      "content": "Har active imperative sentence ko 'Let + object + be + V3' se convert karna natural nahi lagta. Khaaskar jab sentence mein 'Please' ya 'Kindly' ho (polite request), ya jab sentence intransitive ho (object missing ho, jaise 'Stand up', 'Go away'), tab 'Let' ka formula fail ho jata hai. Aise cases mein speaker ki intention aur communicative tone ke hisaab se situational passive constructions ka use kiya jata hai: 'You are requested to...', 'You are ordered to...', 'Candidates are instructed to...'. In structures mein passive voice introductory clause ('You are requested') mein rehta hai, aur original verb infinitive ('to + V1') ban jati hai.",
+      "dimensions": [
+        {
+          "name": "Polite Requests ('Please' / 'Kindly')",
+          "description": "Jab active sentence polite request express kare.",
+          "categories": [
+            {
+              "name": "Formula for Requests",
+              "detail": "Active: Please / Kindly + V1 + Object\nPassive: You are requested to + V1 + Object\n(Note: 'Please' aur 'Kindly' passive mein drop ho jate hain kyunki 'requested' unka meaning already convey kar deta hai)."
+            },
+            {
+              "name": "Examples",
+              "detail": "Active: 'Please grant me leave for two days.'\nPassive: 'You are requested to grant me leave for two days.'\n\nActive: 'Kindly verify the applicant's credentials.'\nPassive: 'You are requested to verify the applicant's credentials.'"
+            },
+            {
+              "name": "Exam Tip on 'Please'",
+              "detail": "'You are requested to please grant...' likhna tautology / redundant error hai. Passive sentence mein 'please' word dobara nahi aana chahiye."
+            }
+          ]
+        },
+        {
+          "name": "Direct Orders and Authoritative Commands",
+          "description": "Jab speaker kisi subordinate ya common person ko official order deta hai.",
+          "categories": [
+            {
+              "name": "Formula for Orders",
+              "detail": "Active: V1 (+ Object / Complement)\nPassive: You are ordered / commanded to + V1 (+ Object / Complement)"
+            },
+            {
+              "name": "Examples (Especially Intransitive Commands)",
+              "detail": "Active: 'Leave the courtroom immediately.'\nPassive: 'You are ordered to leave the courtroom immediately.'\n\nActive: 'Stand in a queue.'\nPassive: 'You are ordered to stand in a queue.' (Intransitive verb 'stand' ka 'Let' se passive impossible hai)."
+            }
+          ]
+        },
+        {
+          "name": "Official Instructions and Guidelines",
+          "description": "Exam instructions, court guidelines, aur administrative manuals mein use hone wale formal passive forms.",
+          "categories": [
+            {
+              "name": "Formula for Instructions",
+              "detail": "Active: Follow the safety guidelines.\nPassive 1 (Targeted): 'Candidates / Users are instructed to follow the safety guidelines.'\nPassive 2 (General): 'The safety guidelines should be followed.' / 'Let the safety guidelines be followed.'"
+            },
+            {
+              "name": "Contextual Distinction",
+              "detail": "MCQ options mein check karein ki context polite request ka hai, harsh command ka hai, ya general instruction ka. Ek polite sentence ('Please sit down') ko 'You are ordered to sit down' banana incorrect option hoga."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Situational Rule: Requests ➔ 'You are requested to + V1'. Orders ➔ 'You are ordered to + V1'. Instructions ➔ 'You are instructed to + V1'. Infinitive 'to + V1' use hota hai."
+    },
+    {
+      "id": "sec-negative-imperatives-prohibitions",
+      "number": 4,
+      "title": "D. Negative Imperatives and Prohibitions: Structures & 'Not' Placement",
+      "summary": "'Do not...' active sentences ke passive patterns: 'Let + obj + not + be + V3' aur 'You are forbidden to...'.",
+      "content": "Jab imperative sentence negative ho (yani kisi kaam ko karne se roka jaye ya mana kiya jaye), toh uske do standard passive patterns bante hain. Pehla pattern traditional objective pattern hai: 'Let + object + not + be + V3'. Yahan sabse bada exam trap 'not' ki placement par hota hai—'not' hamesha object ke baad aur 'be' se pehle lagna chahiye ('Let the paper not be touched'). Doosra pattern situational prohibition pattern hai: 'You are forbidden to + V1' ya 'You are instructed not to + V1'. In dono patterns ki exact word order aur meaning ko samajhna competitive exams ke liye critical hai.",
+      "dimensions": [
+        {
+          "name": "Pattern 1: Objective 'Let' Structure",
+          "description": "Direct negative imperative ka textbook conversion.",
+          "categories": [
+            {
+              "name": "Structural Formula",
+              "detail": "Active: Do not + V1 + Object\nPassive: Let + Object + not + be + V3\n(Alternative formal style: Let not + Object + be + V3, lekin competitive exams mein 'Let + Object + not + be + V3' standard mana jata hai)."
+            },
+            {
+              "name": "Examples",
+              "detail": "Active: 'Do not disclose the confidential password.'\nPassive: 'Let the confidential password not be disclosed.'\n\nActive: 'Do not pluck the flowers.'\nPassive: 'Let the flowers not be plucked.'"
+            },
+            {
+              "name": "Fatal Exam Trap",
+              "detail": "'Let the password be not disclosed' likhna galat word order hai. 'Not' hamesha auxiliary 'be' se pehle aayega: 'not be disclosed'."
+            }
+          ]
+        },
+        {
+          "name": "Pattern 2: Situational Prohibitions ('Forbidden' / 'Warned')",
+          "description": "Rules, safety warnings, aur official prohibitions ke liye situational passive.",
+          "categories": [
+            {
+              "name": "Formula with 'Forbidden'",
+              "detail": "Active: 'Do not touch the high-voltage wire.'\nPassive: 'You are forbidden to touch the high-voltage wire.'\n(CRITICAL NOTE: 'Forbidden' khud negative word hai, isliye iske baad dobara 'not' lagana double negative blunder hoga: 'You are forbidden not to touch' is WRONG!)."
+            },
+            {
+              "name": "Formula with 'Instructed not to'",
+              "detail": "Active: 'Do not park vehicles in front of the gate.'\nPassive: 'You are instructed not to park vehicles in front of the gate.'\n(Yahan 'instructed' positive verb hai, isliye 'not to + V1' aayega)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Negative Imperative Rules: (1) 'Let + Object + not + be + V3' (not hamesha 'be' se pehle). (2) 'You are forbidden to + V1' (never add 'not' after forbidden!)."
+    },
+    {
+      "id": "sec-advice-moral-obligation",
+      "number": 5,
+      "title": "E. Advice and Moral Obligation: 'Should be + V3' and 'Must be + V3'",
+      "summary": "Naitik kartavya, sallah, aur social obligations ke liye passive constructions.",
+      "content": "Aise imperative sentences jinme koi coercive command (sakht aadesh) nahi hota, balki moral duty (kartavya), social advice (salah), ya welfare instruction hoti hai, unhe 'Let' se convert karna unnatural aur insensitive lagta hai (jaise 'Help the poor' ko 'Let the poor be helped' kehna natural English mein awkward mana jata hai). Aise sentences mein passive structure 'Object + should be + V3' ya 'Object + must be + V3' sabse natural aur exam-standard choice hota hai. Yahan speaker ka intention recipient ke prati compassion, duty, ya ethical obligation express karna hota hai.",
+      "dimensions": [
+        {
+          "name": "The 'Should be + V3' Structure (Advice & Moral Duty)",
+          "description": "Welfare actions, ethical responsibilities, aur good counsel ke liye.",
+          "categories": [
+            {
+              "name": "Structural Formula",
+              "detail": "Active: V1 + Object (expressing advice/duty)\nPassive: Object + should + be + V3"
+            },
+            {
+              "name": "Example 1 (Moral Duty)",
+              "detail": "Active: 'Respect your elders.'\nPreferred Passive: 'Your elders should be respected.'\n(Note: 'Let your elders be respected' grammatically possible hai lekin 'should be respected' contextual meaning ke hisaab se much superior hai)."
+            },
+            {
+              "name": "Example 2 (Social Welfare)",
+              "detail": "Active: 'Help the needy and disabled.'\nPreferred Passive: 'The needy and disabled should be helped.'"
+            },
+            {
+              "name": "Example 3 (Ethical Advice)",
+              "detail": "Active: 'Always speak the truth.'\nPreferred Passive: 'The truth should always be spoken.'"
+            }
+          ]
+        },
+        {
+          "name": "The 'Must be + V3' Structure (Legal / Compulsory Obligation)",
+          "description": "Jab duty moral se badhkar legal ya mandatory procedure ban jaye.",
+          "categories": [
+            {
+              "name": "Structural Formula",
+              "detail": "Active: Obey the court order.\nPassive: 'The court order must be obeyed.' / 'The court order should be obeyed.'"
+            },
+            {
+              "name": "Situational Alternative: 'You are advised to'",
+              "detail": "Active: 'Take this medicine after meals.'\nPassive: 'You are advised to take this medicine after meals.'\n(Context doctor ki medical advice ka hai, isliye 'advised to' sabse natural hai)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Advice Formula: Object + should be + V3. Legal/Strict Duty: Object + must be + V3. Situational: You are advised to + V1."
+    },
+    {
+      "id": "sec-modal-auxiliaries-passive",
+      "number": 6,
+      "title": "F. Modal Auxiliaries in Passive Voice: Standard 'Modal + be + V3' Engine",
+      "summary": "Can, could, may, might, must, should, will, would, ought to ka standard passive transformation.",
+      "content": "Modal auxiliaries wo helping verbs hoti hain jo speaker ki ability, possibility, permission, necessity, obligation, ya hypothetical intention express karti hain. Core modals hain: can, could, may, might, must, should, will, would, ought to. Modal sentences ko passive banate waqt sabse bada golden rule hai: MODAL AUXILIARY APNA MEANING AUR IDENTITY PRESERVE KAREGI. Active sentence ka modal badal kar kisi doosre modal mein nahi jayega (can can hi rahega, may may hi rahega). Active mein 'Modal + V1' hota hai, jo passive mein badal kar 'Modal + be + V3' ban jata hai.",
+      "dimensions": [
+        {
+          "name": "Standard Modal Passive Formula",
+          "description": "Sabhi simple modal auxiliaries ka universal passive pattern.",
+          "categories": [
+            {
+              "name": "Structural Formula",
+              "detail": "Active: Subject + Modal + V1 + Object\nPassive: Object + Modal + be + V3 + (by + Subject)"
+            },
+            {
+              "name": "Key Invariance Principle",
+              "detail": "Active ke modal ko passive mein as it is copy karein. Agar active mein 'must' hai, toh passive mein 'must be' aayega. Usse 'should be' ya 'had to be' mein change mat karein. Voice is NOT Narration!"
+            }
+          ]
+        },
+        {
+          "name": "Modal-by-Modal Breakdown with Examples",
+          "description": "Different modal auxiliaries ke exact active-to-passive conversions.",
+          "categories": [
+            {
+              "name": "Can / Could (Ability & Possibility)",
+              "detail": "Active: 'The candidate can download the admit card from the portal.'\nPassive: 'The admit card can be downloaded from the portal by the candidate.'\n\nActive: 'The court could not accept the unsigned petition.'\nPassive: 'The unsigned petition could not be accepted by the court.'"
+            },
+            {
+              "name": "May / Might (Possibility & Formal Permission)",
+              "detail": "Active: 'The Chief Justice may approve the revised recruitment roster.'\nPassive: 'The revised recruitment roster may be approved by the Chief Justice.'"
+            },
+            {
+              "name": "Must / Should / Ought to (Obligation, Duty & Advice)",
+              "detail": "Active: 'The clerk must file the caveat today.'\nPassive: 'The caveat must be filed today by the clerk.'\n\nActive: 'Citizens ought to respect the Constitution.'\nPassive: 'The Constitution ought to be respected by citizens.' (Note: 'ought to be + V3')."
+            },
+            {
+              "name": "Will / Would (Future Intention & Willingness)",
+              "detail": "Active: 'The registry will publish the merit list tomorrow.'\nPassive: 'The merit list will be published by the registry tomorrow.'"
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Simple Modal Passive Formula: Object + Modal + be + V3 + (by + Subject). Modal ki identity hamesha same rehti hai."
+    },
+    {
+      "id": "sec-modal-perfect-passive",
+      "number": 7,
+      "title": "G. Modal Perfect Passive: 'Modal + have been + V3' for Past Actions",
+      "summary": "Past unfulfilled duties, possibilities, aur deductions: should have been, must have been, could have been.",
+      "content": "Modal Perfect constructions active voice mein tab use hoti hain jab kisi past action par obligation, deduction, ya possibility express karni ho jo ya toh complete nahi hui, ya jiske past hone ka strong andaza lagaya ja raha ho. Inka active formula hota hai: 'Subject + Modal + have + V3 + Object' (jaise 'They should have completed the audit'). Jab in sentences ko passive voice mein transform kiya jata hai, toh 'have' aur 'V3' ke beech auxiliary 'been' insert ho jati hai. Passive formula ban jata hai: 'Object + Modal + have been + V3 + (by + Subject)'. Competitive exams mein 'been' ko drop karna sabse common distractor trap hota hai.",
+      "dimensions": [
+        {
+          "name": "Modal Perfect Passive Architecture",
+          "description": "Past modal constructions ka passive transformation pattern.",
+          "categories": [
+            {
+              "name": "Structural Formula",
+              "detail": "Active: Subject + Modal + have + V3 + Object\nPassive: Object + Modal + have been + V3 + (by + Subject)"
+            },
+            {
+              "name": "Never Change 'Have' to 'Has'",
+              "detail": "Modal auxiliary ke turant baad aane wala auxiliary verb hamesha bare infinitive base form ('have') mein hi rehta hai. Naya subject chahe singular ho ya plural, modal ke baad 'has' lagana impossible blunder hai: 'The file must have been submitted' (CORRECT), 'The file must has been submitted' (FATAL ERROR!)."
+            }
+          ]
+        },
+        {
+          "name": "Contextual Semantic Variations with Examples",
+          "description": "Different modal-perfect meanings aur unka passive realization.",
+          "categories": [
+            {
+              "name": "Should have been + V3 (Past Unfulfilled Duty)",
+              "detail": "Active: 'The registry should have issued the summons last week.'\nPassive: 'The summons should have been issued by the registry last week.'\nMeaning: Summons issue honi chahiye thi lekin hui nahi."
+            },
+            {
+              "name": "Must have been + V3 (Strong Past Logical Deduction)",
+              "detail": "Active: 'Someone must have stolen the confidential case dairy.'\nPassive: 'The confidential case dairy must have been stolen.'\nMeaning: 99% certainty hai ki diary chori ho chuki hai."
+            },
+            {
+              "name": "Could / Might have been + V3 (Past Unrealized Possibility)",
+              "detail": "Active: 'The technician could have prevented the server outage.'\nPassive: 'The server outage could have been prevented by the technician.'"
+            },
+            {
+              "name": "Would have been + V3 (Counterfactual Past Consequence)",
+              "detail": "Active: 'They would have accepted our compromise proposal.'\nPassive: 'Our compromise proposal would have been accepted by them.'"
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Modal Perfect Formula: Object + Modal + have been + V3 + (by + Subject). Rule: Modal ke baad hamesha 'have been' lagega, 'has been' kabhi nahi."
+    },
+    {
+      "id": "sec-negative-interrogative-modals",
+      "number": 8,
+      "title": "H. Negative and Interrogative Modal Passives: Syntax & Word Order",
+      "summary": "Auxiliary chain mein 'not' ki exact placement aur interrogative inversion patterns.",
+      "content": "Modal sentences jab negative ya interrogative bante hain, toh unme helping verbs ki lambi chain ban jati hai (jaise 'should not be', 'could not have been', 'Can this be done?'). Competitive exams mein candidates syntax word order mein confuse hote hain. Inke do basic rules yaad rakhein: (1) Negative sentences mein 'not' hamesha pehli modal auxiliary ke turant baad aayega: 'modal + not + be + V3' ya 'modal + not + have been + V3'. (2) Interrogative sentences mein pehla modal subject se pehle invert hokar sentence ke start mein chala jata hai: 'Modal + Object + be + V3?' ya 'Modal + Object + have been + V3?'.",
+      "dimensions": [
+        {
+          "name": "Negative Modal Passive Constructions",
+          "description": "Simple modals aur modal-perfects mein negation ka structure.",
+          "categories": [
+            {
+              "name": "Simple Modal Negative Formula",
+              "detail": "Active: Subject + Modal + not + V1 + Object\nPassive: Object + Modal + not + be + V3 + (by + Subject)\nExample: 'We cannot disclose this information.' ➔ 'This information cannot be disclosed by us.'"
+            },
+            {
+              "name": "Modal Perfect Negative Formula",
+              "detail": "Active: Subject + Modal + not + have + V3 + Object\nPassive: Object + Modal + not + have been + V3 + (by + Subject)\nExample: 'The judge should not have delivered the verdict in haste.' ➔ 'The verdict should not have been delivered in haste by the judge.'"
+            },
+            {
+              "name": "Placement Trap",
+              "detail": "'should have not been' likhna galat hai. Correct order strictly 'should not have been' hota hai ('not' hamesha pehle auxiliary ke baad)."
+            }
+          ]
+        },
+        {
+          "name": "Interrogative Modal Passive Constructions",
+          "description": "Yes/No questions aur Wh-questions ke modal passive word order.",
+          "categories": [
+            {
+              "name": "Yes/No Modal Question Formula",
+              "detail": "Active: Modal + Subject + V1 + Object?\nPassive: Modal + Object + be + V3 + (by + Subject)?\nExample: 'Can the technician resolve this network glitch?' ➔ 'Can this network glitch be resolved by the technician?'"
+            },
+            {
+              "name": "Yes/No Modal Perfect Question",
+              "detail": "Active: 'Could the police have recovered the stolen documents?'\nPassive: 'Could the stolen documents have been recovered by the police?'"
+            },
+            {
+              "name": "Wh-Word Modal Question Formula",
+              "detail": "Active: 'How can we verify these digital signatures?'\nPassive: 'How can these digital signatures be verified by us?'\nRule: Wh-word + Modal + Object + be + V3?"
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Negative Order: Modal + not + be/have been + V3. Question Order: Modal + Object + be/have been + V3?"
+    },
+    {
+      "id": "sec-prepositional-verbs-retention",
+      "number": 9,
+      "title": "I. Prepositional Verbs and Preposition Retention Rule",
+      "summary": "Verbs with required prepositions: Preposition retention compulsory hoti hai (laughed at, looked into).",
+      "content": "English mein kayi aisi verbs hoti hain jo kisi specific preposition ke sath judkar ek composite unit (prepositional verb) banati hain. Jaise: laugh at, look into, deal with, listen to, approve of, care for, stare at, agree to, insist on. Jab aise sentences ko active se passive mein transform kiya jata hai, toh sabse crucial rule ye hai: VERB KE SATH LAGI HUI FIXED PREPOSITION PASSIVE MEIN BHI RETAIN (SURVIVE) KAREGI. Usko drop karna fatal grammatical error hai. Agar active mein 'looked into' tha, toh passive mein bhi 'was looked into' hi aayega, fir chahe agent ke liye alag se 'by' lagana pade (jaise 'was looked into by the committee').",
+      "dimensions": [
+        {
+          "name": "The Preposition Retention Principle",
+          "description": "Preposition verb ka inseparable part hoti hai aur passive mein drop nahi ho sakti.",
+          "categories": [
+            {
+              "name": "Why the Preposition Must Remain",
+              "detail": "Prepositional verb (jaise 'look into') ka meaning aam 'look' se alag hota hai ('look' = dekhna, 'look into' = investigate karna). Agar aap 'into' hata denge, toh sentence ka meaning destroy ho jayega. Isliye preposition verb ke V3 form ke sath chipped rehti hai."
+            },
+            {
+              "name": "Double Preposition Pattern ('at by', 'into by')",
+              "detail": "Candidates aksar sochte hain ki do prepositions ek sath nahi aa sakti (jaise 'laughed at by everyone'). Lekin ye bilkul correct English hai: pehli preposition ('at') verb ka hissa hai, aur doosri preposition ('by') agent ko introduce karti hai!"
+            }
+          ]
+        },
+        {
+          "name": "High-Frequency Prepositional Verbs in Exams",
+          "description": "Exam papers mein aane wali core prepositional verbs ke exact conversions.",
+          "categories": [
+            {
+              "name": "Look into (Investigate)",
+              "detail": "Active: 'The High Court committee is looking into the scam.'\nPassive: 'The scam is being looked into by the High Court committee.'\n(Trap: 'is being looked by' ➔ WRONG!)."
+            },
+            {
+              "name": "Laugh at (Mock / Ridicule)",
+              "detail": "Active: 'Everyone laughed at his silly mistake.'\nPassive: 'His silly mistake was laughed at by everyone.'\n(Trap: 'was laughed by' ➔ WRONG!)."
+            },
+            {
+              "name": "Deal with (Handle / Manage)",
+              "detail": "Active: 'The senior officer will deal with this grievance.'\nPassive: 'This grievance will be dealt with by the senior officer.'\n(Trap: 'will be dealt by' ➔ WRONG!)."
+            },
+            {
+              "name": "Account for / Care for / Listen to",
+              "detail": "Active: 'The cashier could not account for the missing cash.' ➔ 'The missing cash could not be accounted for by the cashier.'\nActive: 'Nobody cares for the stray dogs.' ➔ 'The stray dogs are not cared for by anybody.'"
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Preposition Retention Rule: Active: Verb + Preposition + Object ➔ Passive: Object + be + V3 + Preposition + (by + Subject). Preposition kabhi drop nahi hogi!"
+    },
+    {
+      "id": "sec-phrasal-verbs-voice",
+      "number": 10,
+      "title": "J. Phrasal and Prepositional-Phrasal Verbs in Passive Voice",
+      "summary": "Multi-word verbs (call off, put up with, turn down, bring up) ke passive rules aur constraints.",
+      "content": "Phrasal verbs verb aur adverbial particle (jaise off, down, up, away) se banti hain, aur prepositional-phrasal verbs mein particle ke baad ek preposition bhi hoti hai (jaise put up with, look down upon). Agar phrasal verb transitive hai (yani uska direct object hai), toh uska passive transformation standard rule ke hisaab se hoga, aur uske particles apni jagah intact rahenge. Lekin agar multi-word verb intransitive hai (jaise 'break down', 'give in', 'pass away'), toh uska passive voice grammatically impossible hota hai.",
+      "dimensions": [
+        {
+          "name": "Transitive Phrasal Verbs",
+          "description": "Aisi phrasal verbs jinka direct object hota hai aur passive banta hai.",
+          "categories": [
+            {
+              "name": "Call off (Cancel)",
+              "detail": "Active: 'The employees called off the indefinite strike.'\nPassive: 'The indefinite strike was called off by the employees.'"
+            },
+            {
+              "name": "Turn down (Reject)",
+              "detail": "Active: 'The division bench turned down the bail plea.'\nPassive: 'The bail plea was turned down by the division bench.'"
+            },
+            {
+              "name": "Bring up (Raise / Educate)",
+              "detail": "Active: 'His uncle brought him up after his parents' death.'\nPassive: 'He was brought up by his uncle after his parents' death.'"
+            }
+          ]
+        },
+        {
+          "name": "Three-Word Prepositional-Phrasal Verbs",
+          "description": "Verb + Particle + Preposition combinations.",
+          "categories": [
+            {
+              "name": "Put up with (Tolerate)",
+              "detail": "Active: 'We cannot put up with this indiscipline any longer.'\nPassive: 'This indiscipline cannot be put up with by us any longer.'\n(Note: 'put up with' poora compound unit retain hoga)."
+            },
+            {
+              "name": "Look down upon (Despise / Disrespect)",
+              "detail": "Active: 'One should not look down upon the underprivileged.'\nPassive: 'The underprivileged should not be looked down upon.'"
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Multi-Word Verb Rule: Verb particle aur preposition hamesha past participle (V3) ke sath jude rahenge: 'was turned down', 'cannot be put up with'."
+    },
+    {
+      "id": "sec-two-object-passives",
+      "number": 11,
+      "title": "K. Passive Constructions with Two Objects: Direct vs Indirect Object",
+      "summary": "Bi-transitive verbs (give, send, offer, teach): Dono objects se passive banane ki syntax aur exam preference.",
+      "content": "Kayi transitive verbs bi-transitive hoti hain—yani unke baad do objects aate hain: ek Indirect Object (IO, aam taur par koi person jis par action directed hai) aur ek Direct Object (DO, aam taur par koi cheez jo di ya bheji gayi hai). Pattern hota hai: 'Subject + Verb + Indirect Object + Direct Object' (jaise 'The judge gave the petitioner a certificate'). Aise sentences ke DO ALIVE PASSIVE CONSTRUCTIONS ban sakte hain—ek baar Indirect Object ko naya subject banakar, aur doosri baar Direct Object ko naya subject banakar. Dono grammatically correct hote hain, lekin communicative English mein Indirect Object (person) ko subject banana zyada natural mana jata hai.",
+      "dimensions": [
+        {
+          "name": "Path 1: Promoting the Indirect Object (Person) — PREFERRED",
+          "description": "Indirect object (person) ko sentence ka subject banana.",
+          "categories": [
+            {
+              "name": "Structure & Example",
+              "detail": "Active: 'The officer gave the applicant a certificate.'\nPassive 1: 'The applicant was given a certificate by the officer.'\nExplanation: Yahan person ('The applicant') subject bana. Direct object ('a certificate') apni jagah retained object ke roop mein rehta hai. Ye construction standard English mein sabse natural hoti hai."
+            }
+          ]
+        },
+        {
+          "name": "Path 2: Promoting the Direct Object (Thing) — REQUIRES 'TO' / 'FOR'",
+          "description": "Direct object (thing) ko subject banana.",
+          "categories": [
+            {
+              "name": "Preposition Requirement Rule",
+              "detail": "Jab Direct Object ko passive subject banaya jata hai, toh Indirect Object se pehle suitable preposition ('to' ya 'for') lagana mandatory hota hai.\nFormula: Direct Object + be + V3 + to/for + Indirect Object + (by + Subject)."
+            },
+            {
+              "name": "Example with 'to'",
+              "detail": "Active: 'The officer gave the applicant a certificate.'\nPassive 2: 'A certificate was given TO the applicant by the officer.'\n(Trap Warning: 'A certificate was given the applicant' likhna bina 'to' ke fatal error hai)."
+            },
+            {
+              "name": "Example with 'for' (Verbs of Making / Buying)",
+              "detail": "Active: 'My father bought me a new laptop.'\nPassive 1 (IO): 'I was bought a new laptop by my father.' (Unnatural in modern English)\nPassive 2 (DO): 'A new laptop was bought FOR me by my father.' (Highly preferred for verbs like buy, make, build)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Two-Object Rule: (1) IO promoted: 'The clerk was given the files.' (2) DO promoted: 'The files were given TO the clerk.' Direct Object aage laane par 'to' ya 'for' lagana compulsory hai."
+    },
+    {
+      "id": "sec-common-exam-traps",
+      "number": 12,
+      "title": "L. Comprehensive Competitive Exam Traps & Countermeasures",
+      "summary": "10 classic exam traps: Incorrect be, dropped been, missing prepositions, negative order blunders.",
+      "content": "Competitive examinations (khaaskar High Court System Assistant, RPSC, aur SSC) mein questions candidate ki formula cramming ko test karne ke liye nahi, balki un subtle boundary conditions ko test karne ke liye banaye jate hain jahan candidate careless mistake kare. Is section mein 10 high-frequency traps ki deep analysis di gayi hai, unke incorrect forms, correct forms, aur unhe spot karne ke cognitive rules ke sath.",
+      "dimensions": [
+        {
+          "name": "Traps 1 to 5: Modals, Tenses & Imperatives",
+          "description": "Modal forms aur imperative syntax se jude common traps.",
+          "categories": [
+            {
+              "name": "Trap 1: Dropping 'been' in Modal-Perfect Passive",
+              "detail": "Incorrect: 'The task should have completed by them.'\nCorrect: 'The task should have been completed by them.'\nExplanation: Modal-perfect passive mein 'have been + V3' compulsory hai. 'Been' hatane se sentence active hi reh jata hai."
+            },
+            {
+              "name": "Trap 2: Changing Modal Auxiliary (Narration Shift in Voice)",
+              "detail": "Incorrect: Active: 'They can solve this issue.' ➔ Passive: 'This issue could be solved by them.'\nCorrect: 'This issue can be solved by them.'\nExplanation: Voice mein modal backshift nahi hota! 'Can' hamesha 'can be' rahega, 'could' nahi."
+            },
+            {
+              "name": "Trap 3: Incorrect Word Order in Negative Imperatives",
+              "detail": "Incorrect: 'Let the door be not closed.'\nCorrect: 'Let the door not be closed.'\nExplanation: 'Not' hamesha auxiliary 'be' se pehle aayega ('not be + V3')."
+            },
+            {
+              "name": "Trap 4: Double Negative with 'Forbidden'",
+              "detail": "Incorrect: 'You are forbidden not to smoke here.'\nCorrect: 'You are forbidden to smoke here.'\nExplanation: 'Forbidden' already negative verb hai. Iske baad 'not' lagana double negative blunder hai."
+            },
+            {
+              "name": "Trap 5: Subjective Pronoun after 'Let'",
+              "detail": "Incorrect: 'Let he be invited to the conference.'\nCorrect: 'Let him be invited to the conference.'\nExplanation: 'Let' ke baad hamesha objective pronoun (him, her, them, us, me) aata hai."
+            }
+          ]
+        },
+        {
+          "name": "Traps 6 to 10: Prepositions, Two Objects & Distractors",
+          "description": "Preposition retention aur bi-transitive structures ke traps.",
+          "categories": [
+            {
+              "name": "Trap 6: Dropping Required Prepositions in Passive",
+              "detail": "Incorrect: 'The case was looked by the senior committee.'\nCorrect: 'The case was looked into by the senior committee.'\nExplanation: 'Look into' prepositional verb hai. Preposition 'into' ko drop karna sentence ka meaning destroy kar deta hai."
+            },
+            {
+              "name": "Trap 7: Omitting 'To' when Promoting Direct Object",
+              "detail": "Incorrect: 'A reward was promised him by the king.'\nCorrect: 'A reward was promised to him by the king.'\nExplanation: Direct object promote karne par indirect object se pehle 'to' lagana zaroori hai."
+            },
+            {
+              "name": "Trap 8: Using 'Has been' after Modals",
+              "detail": "Incorrect: 'The report must has been submitted yesterday.'\nCorrect: 'The report must have been submitted yesterday.'\nExplanation: Modal auxiliary ke baad hamesha bare infinitive base form 'have' aati hai, singular subject hone par bhi 'has' kabhi nahi lagta."
+            },
+            {
+              "name": "Trap 9: Confusing Advice with Direct Commands",
+              "detail": "Incorrect: Active: 'Obey your parents.' ➔ Passive: 'You are ordered to obey your parents.'\nCorrect: 'Your parents should be obeyed.' / 'You are advised to obey your parents.'\nExplanation: Parents ki respect advice/duty hai, police order nahi."
+            },
+            {
+              "name": "Trap 10: Passive of Intransitive Multi-Word Verbs",
+              "detail": "Incorrect: Active: 'The patient passed away peacefully.' ➔ Passive: 'The patient was passed away peacefully.'\nCorrect: No Passive Voice is Possible (Intransitive verb).\nExplanation: 'Pass away' intransitive phrasal verb hai, iska koi object nahi hai, isliye passive possible nahi hai."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Master Trap Rule: Voice questions mein 3 cheezein check karein: (1) Modal identity same hai ya nahi, (2) Fixed preposition retained hai ya nahi, aur (3) 'Been' / 'be' sahi position par hai ya nahi."
+    }
+  ]
+}

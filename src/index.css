@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 /* ============================================================================
    HSA ENGLISHMASTER — DESIGN SYSTEM TOKENS
    Phase 01: Design System & Typography
@@ -70,14 +72,15 @@
   --color-surface-600: #475569;
   --color-surface-700: #334155;
   --color-surface-800: #1e293b;
+  --color-surface-850: #172033;
   --color-surface-900: #0f172a;
   --color-surface-950: #020617;
 
   /* ─── TYPOGRAPHY ─── */
   
   /* Font Families */
-  --font-sans: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
-  --font-heading: 'Plus Jakarta Sans', 'Inter', 'Segoe UI', system-ui, sans-serif;
+  --font-sans: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-heading: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   --font-mono: 'JetBrains Mono', 'Cascadia Code', 'Fira Code', ui-monospace, monospace;
 
   /* Font Sizes — Modular Scale (1.250 ratio — Major Third) */
@@ -93,14 +96,14 @@
 
   /* Line Heights */
   --line-height-tight: 1.25;
-  --line-height-snug: 1.375;
-  --line-height-normal: 1.5;
-  --line-height-relaxed: 1.625;
-  --line-height-loose: 1.75;
+  --line-height-snug: 1.35;
+  --line-height-normal: 1.65;
+  --line-height-relaxed: 1.7;
+  --line-height-loose: 1.8;
 
   /* Letter Spacing */
-  --letter-spacing-tight: -0.025em;
-  --letter-spacing-normal: 0em;
+  --letter-spacing-tight: -0.015em;
+  --letter-spacing-normal: 0.015em;
   --letter-spacing-wide: 0.025em;
   --letter-spacing-wider: 0.05em;
   --letter-spacing-widest: 0.1em;
@@ -142,10 +145,14 @@
   --transition-slow: 300ms cubic-bezier(0.4, 0, 0.2, 1);
 
   /* ─── LAYOUT ─── */
-  --sidebar-width: 280px;
+  --sidebar-width: 260px;
   --header-height: 64px;
-  --content-max-width: 960px;
+  --content-max-width: 100%;
   --lesson-sidebar-width: 240px;
+}
+
+:root {
+  --font-scale: 100%;
 }
 
 /* ============================================================================
@@ -154,7 +161,7 @@
 
 @layer base {
   html {
-    font-size: 16px;
+    font-size: var(--font-scale, 100%);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
@@ -165,30 +172,43 @@
     font-family: var(--font-sans);
     font-size: var(--font-size-base);
     line-height: var(--line-height-normal);
+    letter-spacing: 0.015em;
+    word-spacing: 0.025em;
+    font-weight: 400;
     color: var(--color-surface-800);
     background-color: var(--color-surface-50);
     min-height: 100vh;
+    overflow-x: hidden;
   }
 
-  /* Headings use the display font */
+  /* Headings use Poppins semibold/bold with calibrated line height & letter spacing */
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-heading);
     font-weight: 700;
-    line-height: var(--line-height-tight);
-    letter-spacing: var(--letter-spacing-tight);
+    line-height: var(--line-height-snug);
+    letter-spacing: -0.015em;
+    word-spacing: normal;
     color: var(--color-surface-900);
   }
 
-  h1 { font-size: var(--font-size-4xl); }
-  h2 { font-size: var(--font-size-3xl); }
-  h3 { font-size: var(--font-size-2xl); }
-  h4 { font-size: var(--font-size-xl); }
-  h5 { font-size: var(--font-size-lg); }
-  h6 { font-size: var(--font-size-base); font-weight: 600; }
+  h1 { font-size: var(--font-size-3xl); font-weight: 800; }
+  h2 { font-size: var(--font-size-2xl); font-weight: 700; }
+  h3 { font-size: var(--font-size-xl); font-weight: 700; }
+  h4 { font-size: var(--font-size-lg); font-weight: 600; }
+  h5 { font-size: var(--font-size-base); font-weight: 600; }
+  h6 { font-size: var(--font-size-sm); font-weight: 600; }
 
-  /* Code and monospace */
+  /* Navigation, controls, buttons, badges */
+  button, [role="button"], input, select, textarea {
+    font-family: var(--font-sans);
+    letter-spacing: 0.01em;
+  }
+
+  /* Code and monospace for formulas */
   code, kbd, pre {
     font-family: var(--font-mono);
+    letter-spacing: 0em;
+    word-spacing: normal;
   }
 
   /* Focus styles for accessibility */
@@ -206,8 +226,8 @@
 
   /* Scrollbar styling for desktop */
   ::-webkit-scrollbar {
-    width: 8px;
-    height: 8px;
+    width: 7px;
+    height: 7px;
   }
   ::-webkit-scrollbar-track {
     background: var(--color-surface-100);
@@ -219,6 +239,110 @@
   ::-webkit-scrollbar-thumb:hover {
     background: var(--color-surface-400);
   }
+
+  /* ─── DARK THEME BASE OVERRIDES (Warm Neutral Graphite & Charcoal with Crisp Contrast) ─── */
+  html.dark {
+    color-scheme: dark;
+
+    /* Surfaces: Distinct charcoal elevation with crisp borders and high-legibility text */
+    --color-surface-50: #ffffff;   /* Pure white headings */
+    --color-surface-100: #f3f4f8;  /* High contrast subheadings & primary labels */
+    --color-surface-200: #e2e5ee;  /* Bright, crisp, fatigue-free body text */
+    --color-surface-300: #c5cbdb;  /* Clear secondary text & descriptions */
+    --color-surface-400: #9da3ba;  /* High-contrast muted metadata, icons & timestamps */
+    --color-surface-500: #7b8298;  /* Subdued icons & inactive controls */
+    --color-surface-600: #4a4f63;  /* Prominent borders, active card outlines, hover borders */
+    --color-surface-700: #35394a;  /* Crisp, clearly visible card borders & section dividers */
+    --color-surface-800: #252835;  /* Elevated inner containers, list items, pill badges, inputs */
+    --color-surface-850: #1d1f2a;  /* Intermediate card surface elevation */
+    --color-surface-900: #171821;  /* Primary warm charcoal cards & sidebars */
+    --color-surface-950: #0f1013;  /* Deep graphite canvas background */
+
+    /* Primary: Soft Lavender (Replaces blue/indigo in Dark Theme) */
+    --color-primary-50: #faf5ff;
+    --color-primary-100: #f3e8ff;
+    --color-primary-200: #e9d5ff;  /* Bright lavender text on dark backgrounds */
+    --color-primary-300: #d8b4fe;  /* Crisp lavender label / badge text */
+    --color-primary-400: #c4b5fd;  /* Readable lavender accent */
+    --color-primary-500: #a78bfa;  /* Vivid lavender accent */
+    --color-primary-600: #8b5cf6;  /* Primary buttons & active interactive states */
+    --color-primary-700: #7c3aed;  /* Button hover */
+    --color-primary-800: #6d28d9;  /* Button active */
+    --color-primary-900: #431f7a;  /* Elevated lavender surface */
+    --color-primary-950: #1e1338;  /* Deep lavender container background */
+
+    /* Secondary: Warm Peach & Yellow */
+    --color-secondary-50: #fffbeb;
+    --color-secondary-100: #fef3c7; /* Bright ivory-yellow text */
+    --color-secondary-200: #fde68a; /* Bright warm yellow text on dark backgrounds */
+    --color-secondary-300: #fcd34d; /* Crisp warm yellow badge & icon text */
+    --color-secondary-400: #fbbf24; /* Warning & formula accents */
+    --color-secondary-500: #f59e0b; /* Amber action */
+    --color-secondary-600: #d97706;
+    --color-secondary-700: #b45309;
+    --color-secondary-800: #78350f;
+    --color-secondary-900: #451a03; /* Deep amber container border */
+    --color-secondary-950: #2b1404; /* Deep warm amber container background */
+
+    /* Success: Fresh Mint */
+    --color-success-50: #ecfdf5;
+    --color-success-100: #d1fae5;  /* Bright mint-tinted text */
+    --color-success-200: #a7f3d0;  /* Bright readable mint on dark */
+    --color-success-300: #6ee7b7;  /* Crisp mint badge & icon text */
+    --color-success-400: #34d399;  /* Fresh mint accent */
+    --color-success-500: #10b981;  /* Emerald checkmarks */
+    --color-success-600: #059669;
+    --color-success-700: #047857;
+    --color-success-800: #064e3b;
+    --color-success-900: #043327;
+    --color-success-950: #09241b;  /* Deep mint container background */
+
+    /* Error: Soft Coral */
+    --color-error-50: #fff1f2;
+    --color-error-100: #ffe4e6;   /* Bright coral text */
+    --color-error-200: #fecdd3;   /* Bright readable coral on dark */
+    --color-error-300: #fda4af;   /* Crisp soft coral badge text */
+    --color-error-400: #fb7185;   /* Coral accent */
+    --color-error-500: #f43f5e;
+    --color-error-600: #e11d48;
+    --color-error-700: #be123c;
+    --color-error-800: #881337;
+    --color-error-900: #4c0519;
+    --color-error-950: #2c0e16;   /* Deep coral container background */
+  }
+
+  html.dark body {
+    color: var(--color-surface-200);
+    background-color: var(--color-surface-950);
+  }
+
+  html.dark h1,
+  html.dark h2,
+  html.dark h3,
+  html.dark h4,
+  html.dark h5,
+  html.dark h6 {
+    color: var(--color-surface-50);
+  }
+
+  html.dark :focus-visible {
+    outline-color: var(--color-primary-400);
+  }
+
+  html.dark ::selection {
+    background-color: rgba(139, 92, 246, 0.3);
+    color: var(--color-surface-50);
+  }
+
+  html.dark ::-webkit-scrollbar-track {
+    background: var(--color-surface-950);
+  }
+  html.dark ::-webkit-scrollbar-thumb {
+    background: var(--color-surface-700);
+  }
+  html.dark ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-surface-600);
+  }
 }
 
 /* ============================================================================
@@ -226,23 +350,33 @@
    ============================================================================ */
 
 @utility content-wrapper {
+  width: 100%;
   max-width: var(--content-max-width);
   margin-left: auto;
   margin-right: auto;
-  padding-left: var(--spacing-6);
-  padding-right: var(--spacing-6);
+  padding-left: var(--spacing-4);
+  padding-right: var(--spacing-4);
+}
+
+@utility prose-readable {
+  max-width: 85ch;
 }
 
 @utility glass-card {
-  background: rgba(255, 255, 255, 0.8);
-  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.9);
   border: 1px solid var(--color-surface-200);
   border-radius: var(--radius-xl);
   box-shadow: var(--shadow-card);
 }
 
 @utility glass-card-hover {
-  background: rgba(255, 255, 255, 0.9);
-  backdrop-filter: blur(16px);
+  background: #ffffff;
   box-shadow: var(--shadow-card-hover);
+}
+
+@utility glass-card-dark {
+  background: var(--color-surface-900);
+  border: 1px solid var(--color-surface-700);
+  border-radius: var(--radius-xl);
+  box-shadow: 0 8px 30px 0 rgb(0 0 0 / 0.45);
 }

@@ -1,0 +1,162 @@
+{
+  "id": "L17",
+  "title": "One-Word Substitutions: Categories, Meaning, Usage and Exam Practice",
+  "shortTitle": "One-Word Substitutions",
+  "topicId": "T08",
+  "topicTitle": "One-Word Substitutions",
+  "part": "1 of 1",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Intermediate",
+  "targetScore": "100% Precision",
+  "description": "One-word substitutions across 10 semantic domains: People & Personality, Beliefs & Professions, Phobias & Preferences, Government & Political Systems, Places & Institutions, Books & Literary Forms, Time & Duration, Conditions & States, Actions & Processes, Numbers & Biological Classifiers, along with precise contextual elimination and competitive exam traps ko systematically master karein.",
+  "learningObjectives": [
+    "One-word substitution aur ordinary synonym ke beech fundamental linguistic difference ko samajhein",
+    "Complete definition aur sentence context ke hisaab se sabse accurate aur precise English word select karein",
+    "People, habits, personality, aur behaviour se jude high-frequency substitutions ko accurately identify karein",
+    "Beliefs, secular/religious systems, aur specialized professions ke technical titles ko master karein",
+    "Phobias, clinical conditions, manias, aur strong lifestyle preferences ke exact medical/psychological boundaries samjhein",
+    "Government forms (Democracy, Autocracy, Oligarchy, Plutocracy) aur administrative structures ko differentiate karein",
+    "Places, repositories, enclosures (Apiary vs Aviary, Aquarium vs Arsenal), aur institutions ke specific designations pehchanein",
+    "Books, literary forms, rhetoric (Autobiography vs Biography, Epitaph vs Eulogy vs Elegy) ke distinctions ko decode karein",
+    "Time, sequence, duration (Annual, Biennial, Biannual, Predecessor vs Successor) ke exact intervals ko calculate karein",
+    "Conditions, states, physical qualities, aur action verbs (Acquit vs Absolve, Mitigate vs Exacerbate, Abdicate vs Renounce) ko master karein",
+    "Single keyword trap ko eliminate karein aur grammatical part of speech (Noun person vs Noun abstract vs Adjective) concord verify karein",
+    "8-Step Systematic Substitution Workflow apply karke High Court aur state exams ke MCQs mein 100% accuracy achieve karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Core Definition & Essence: Difference between a definition-satisfying substitution and a general near-synonym",
+      "People, Personality, Habits & Behaviour: Optimist, Pessimist, Introvert, Extrovert, Misanthrope, Philanthropist, Misogynist, Misandrist, Altruist, Egotist, Egoist, Benevolent, Malevolent, Credulous, Skeptic, Gregarious, Taciturn, Loquacious, Diligent, Indolent, Meticulous, Impartial, Imprudent, Versatile, Venerable, Audacious, Sagacious, Omniscient, Omnipotent, Omnipresent",
+      "People by Belief, Profession & Role: Atheist, Theist, Agnostic, Polyglot, Linguist, Bibliophile, Philologist, Lexicographer, Lexicologist, Orator, Novice, Veteran, Connoisseur, Arbitrator, Mediator, Iconoclast, Martyr, Patriot, Traitor",
+      "Phobias, Manias & Preferences: Claustrophobia, Acrophobia, Arachnophobia, Hydrophobia, Agoraphobia, Xenophobia, Pyromania, Kleptomania, Melomaniac, Hedonist, Ascetic",
+      "Government, Society & Political Systems: Democracy, Autocracy, Monarchy, Oligarchy, Theocracy, Bureaucracy, Anarchy, Republic, Plutocracy, Meritocracy, Aristocracy, Dictatorship, Federalism, Secularism, Amnesty, Embargo, Diplomacy, Exile",
+      "Places, Residences & Institutions: Aquarium, Apiary, Aviary, Sanatorium, Orphanage, Hospice, Dormitory, Monastery, Convent, Hermitage, Museum, Observatory, Planetarium, Arsenal, Mint, Mausoleum, Crematorium, Cemetery, Granary, Sanctuary",
+      "Books, Writings, Speech & Language: Autobiography, Biography, Bibliography, Anthology, Manuscript, Lexicon, Glossary, Epitaph, Eulogy, Elegy, Euphemism, Hyperbole, Irony, Satire, Parody, Plagiarism, Prologue, Epilogue, Dialogue, Monologue, Soliloquy, Trilogy, Truant, Anonymous, Pseudonym, Acronym, Abbreviation",
+      "Time, Frequency, Sequence & Duration: Annual, Biennial, Biannual, Decade, Century, Millennium, Contemporary, Prehistoric, Antiquity, Antediluvian, Chronology, Chronicle, Procrastination, Punctual, Perpetual, Ephemeral, Interim, Predecessor, Successor, Intermittent, Transient",
+      "Conditions, Qualities & States: Inevitable, Invincible, Indispensable, Inaudible, Illegible, Invisible, Infallible, Impeccable, Imminent, Immanent, Immigrant, Emigrant, Refugee, Expatriate, Vulnerable, Resilient, Ambiguous, Unanimous, Spontaneous, Deliberate, Unprecedented, Obsolete, Redundant, Feasible, Inexplicable, Irreversible, Perishable, Contagious",
+      "Actions, Processes & Relationships: Renovate, Demolish, Accumulate, Disseminate, Eradicate, Mitigate, Ameliorate, Aggravate, Reconcile, Arbitrate, Mediate, Consolidate, Accelerate, Decelerate, Exacerbate, Endorse, Renounce, Abdicate, Embezzle, Acquit, Convict, Absolve, Persecute, Prosecute, Evacuate, Infiltrate, Impede, Facilitate, Curtail, Abolish",
+      "Numbers, Quantities & Biological Classifiers: Bilingual, Multilingual, Polyglot, Unanimous, Bilateral, Multilateral, Quadruped, Biped, Omnivore, Herbivore, Carnivore, Nocturnal, Diurnal, Arboreal, Aquatic, Terrestrial",
+      "Grammar & Part-of-Speech Matching: Distinguishing person (noun agent) from quality (abstract noun) and descriptor (adjective)",
+      "8-Step Contextual Elimination & Verification Protocol for High Court Examination"
+    ],
+    "excluded": [
+      "Broad general synonyms and antonym exercises unrelated to specific phrase replacement (covered in Lesson 16)",
+      "Morphological affixation rules and derivational mechanics (covered in Lesson 18)",
+      "Idiomatic and figurative phrasal expressions (covered in Lesson 19)",
+      "Syntactic sentence transformation without vocabulary substitution (covered in Lessons 08 and 09)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Diagnostic Prerequisite Check",
+      "durationMinutes": 8,
+      "type": "orientation",
+      "description": "One-Word Substitution ka core principle, difference from near-synonyms, defining keyword clues, aur 2-question diagnostic readiness check.",
+      "iconName": "Compass",
+      "keyTakeaway": "Substitution ka matlab general synonym nahi, balki complete definition ko satisfy karne wala exact word hota hai."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Comprehensive Study Guide",
+      "subtitle": "12-Section Categorized Knowledge Base",
+      "durationMinutes": 20,
+      "type": "study-doc",
+      "description": "People, personality, beliefs, professions, phobias, governance, places, literature, time, states, actions aur biological terms ka deep structured guide.",
+      "iconName": "BookOpen",
+      "keyTakeaway": "Har category ke technical words ke exact defining parameters ko samajhna zaroori hai."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Interactive Diagrams, Decision Trees & Distinctions",
+      "durationMinutes": 10,
+      "type": "visuals",
+      "description": "Category map, person/place/quality comparator, substitution decision tree, confusing-pair table, word-family bridge, difficulty index, aur clue distinction visualizer.",
+      "iconName": "Eye",
+      "keyTakeaway": "Visual discrimination se confusing pairs ke subtle differences instant clear ho jate hain."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards & Formulas",
+      "subtitle": "14 Exam-Solving Strategy Cards",
+      "durationMinutes": 10,
+      "type": "rule-cards",
+      "description": "Definition vs synonym, entity vs quality, place vs occupant, part of speech matching, time mathematics, aur legal precision ke rule cards.",
+      "iconName": "Layers",
+      "keyTakeaway": "Rules apply karke distractors ko instantly eliminate kiya ja sakta hai."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Derivations",
+      "durationMinutes": 10,
+      "type": "worked-examples",
+      "description": "Definition decoding, clue isolation, distractor contrast, aur complete step-by-step reasoning ke saath 15 diverse exam examples.",
+      "iconName": "CheckCircle2",
+      "keyTakeaway": "Defining clues ko isolate karna hi correct answer tak pahunchne ka fastest tareeqa hai."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "18 High-Frequency Trap Analyses",
+      "durationMinutes": 8,
+      "type": "common-mistakes",
+      "description": "Single keyword trap, autobiography vs biography, arbitrator vs mediator, atheist vs agnostic, persecute vs prosecute, imminent vs immanent.",
+      "iconName": "AlertTriangle",
+      "keyTakeaway": "Examiner ke favourite lookalike aur near-synonym traps ko pehle se pehchano."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Questions with Progressive Clue Hints",
+      "durationMinutes": 12,
+      "type": "guided-practice",
+      "description": "Interactive question solving with progressive hints, detailed Roman Hinglish feedback, and instant explanation reveal.",
+      "iconName": "HelpCircle",
+      "keyTakeaway": "Hints ki madad se reasoning refine karein aur accuracy 100% karein."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "25 Original Exam-Level Test Questions",
+      "durationMinutes": 18,
+      "type": "independent-practice",
+      "description": "Rajasthan High Court exam pattern par based 25 unguided MCQs covering all categories, error logging, and performance analytics.",
+      "iconName": "FileText",
+      "keyTakeaway": "Real exam simulation mein speed aur precision dono maintain karein."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15 Timed Certification Questions (80% Pass)",
+      "durationMinutes": 12,
+      "type": "mastery-assessment",
+      "description": "12-minute strict countdown timer, 15 randomized questions, 80% passing threshold, and automated Error Bank routing.",
+      "iconName": "Trophy",
+      "keyTakeaway": "Certification pass karne ke liye 15 mein se kam se kam 12 correct answers zaroori hain."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Error Bank & Revision",
+      "subtitle": "Remediation, Quick Summary & Milestone Report",
+      "durationMinutes": 8,
+      "type": "error-review",
+      "description": "Mistake bank filtering, targeted retry solving, high-frequency revision checklist, and consolidated completion certificate.",
+      "iconName": "RotateCcw",
+      "keyTakeaway": "Galtiyon ko revise karke resolve karein aur lesson milestone complete karein."
+    }
+  ]
+}

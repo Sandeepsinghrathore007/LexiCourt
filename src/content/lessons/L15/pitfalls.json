@@ -1,0 +1,112 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "The Double Conjunction Pleonasm ('Although ... but' / 'Because ... therefore')",
+    "category": "Syntactic Redundancy",
+    "frequency": "High Court Recurring Trap (Very High)",
+    "description": "Examiner Subordinate clause aur Main clause dono mein alag-alag connectives daal kar double conjunction error set karta hai. Hindi mein hum bolte hain 'Yadyapi wo bimar tha, phir bhi wo aaya', jisse candidates English mein translate karke '*Although he was ill, but/yet he came' likh dete hain.",
+    "incorrectExample": "*Although the applicant submitted all required annexures, but the clerk refused to accept the petition.",
+    "correctExample": "Although the applicant submitted all required annexures, the clerk refused to accept the petition. (Or: The applicant submitted all annexures, but the clerk refused...)",
+    "whyWrong": "'Although' subordinate clause banata hai aur 'but' coordinating conjunction hai. Ek hi complex sentence mein dono ka prayog pleonastic (superfluous) hai. Dono clauses ke beech sirf ek comma aayega.",
+    "ruleAnchor": "Rule RC-02: Zero Double-Conjunction Law."
+  },
+  {
+    "id": "PIT-02",
+    "title": "Correlative Structural Asymmetry (Misplaced First Arm)",
+    "category": "Parallelism Discord",
+    "frequency": "Competitive Exam Trap (Very High)",
+    "description": "Candidates 'not only...but also' ya 'either...or' lagate waqt first conjunction ko verb se pehle rakh dete hain jabki second conjunction noun ya prepositional phrase se pehle hota hai, jisse grammatical balance toot jata hai.",
+    "incorrectExample": "*The registrar not only checked the court fee stamp but also the advocate's signature.",
+    "correctExample": "The registrar checked not only the court fee stamp but also the advocate's signature.",
+    "whyWrong": "Pehle sentence mein 'not only' ke baad verb 'checked' aati hai, jabki 'but also' ke baad noun phrase 'the advocate's signature' aata hai. Verb aur noun phrase ka mismatch fatal parallelism error hai. 'Checked' ko pehle rakh kar dono arms ko noun phrases par balance karein.",
+    "ruleAnchor": "Rule RC-04: Correlative Conjunctions & Strict Structural Parallelism."
+  },
+  {
+    "id": "PIT-03",
+    "title": "Negative Inversion Partner Discord ('Hardly ... than' / 'No sooner ... when')",
+    "category": "Connective Partner Mismatch",
+    "frequency": "Examiner Favorite Distractor (High)",
+    "description": "Examiners 'Hardly/Scarcely' ke sath 'than' laga dete hain aur 'No sooner' ke sath 'when' ya 'then' laga dete hain, jo speed reading mein easily miss ho jata hai.",
+    "incorrectExample": "*Hardly had the division bench assembled than the power failed abruptly.",
+    "correctExample": "Hardly had the division bench assembled when the power failed abruptly.",
+    "whyWrong": "'Hardly', 'Scarcely', aur 'Barely' ke sath fixed temporal partner strictly 'WHEN' hota hai ('than' kabhi nahi). 'No sooner' comparative hone ki wajah se strictly 'THAN' leta hai.",
+    "ruleAnchor": "Rules RC-06 & RC-07: Inversion Connective Partner Laws."
+  },
+  {
+    "id": "PIT-04",
+    "title": "The Fatal Comma Splice with Conjunctive Adverbs ('However / Therefore')",
+    "category": "Sentence Boundary Punctuation",
+    "frequency": "Writing & Correction Core Trap (High)",
+    "description": "Candidates 'however', 'therefore', ya 'nevertheless' ko coordinating conjunction samajh kar do independent sentences ke beech sirf ek comma se connect kar dete hain.",
+    "incorrectExample": "*The defense produced five witnesses, however, none of them withstood cross-examination.",
+    "correctExample": "The defense produced five witnesses; however, none of them withstood cross-examination. (Or: ...witnesses, but none of them...)",
+    "whyWrong": "'However' conjunctive adverb hai, conjunction nahi. Do independent clauses ke beech sirf comma lagana fatal comma splice error hai. Iske pehle SEMICOLON (;) aur baad mein comma (,) lagana zaroori hai.",
+    "ruleAnchor": "Rule RC-10: Comma Splice Elimination & Conjunctive Adverb Punctuation."
+  },
+  {
+    "id": "PIT-05",
+    "title": "The Non-Existent '*Despite of' and Prepositional Clause Trap",
+    "category": "Category Mismatch",
+    "frequency": "Recurring Rajasthan Exam Trap (Very High)",
+    "description": "Candidates 'In spite of' aur 'Despite' ko mix karke non-existent phrase '*Despite of' bana dete hain, ya fir 'Despite' ke baad finite verb clause laga dete hain.",
+    "incorrectExample": "*Despite of the judge was unwell, he completed the daily cause list.",
+    "correctExample": "Although the judge was unwell, he completed the daily cause list. (Or: Despite being unwell, he completed...)",
+    "whyWrong": "'Despite' ke sath 'of' lagana double blunder hai ('despite of' does not exist). Sath hi 'the judge was unwell' ek finite clause hai jo preposition 'despite' ke sath nahi lag sakta; iske liye conjunction 'Although' chahiye.",
+    "ruleAnchor": "Rule RC-03: Conjunction vs Preposition: 'Although' vs 'Despite' Rule."
+  },
+  {
+    "id": "PIT-06",
+    "title": "The 'Lest ... should not' Double Negative Trap",
+    "category": "Modal & Polarity Discord",
+    "frequency": "High Court Fixed-Pattern Trap (Medium)",
+    "description": "'Lest' ke clause mein candidates 'not' laga dete hain ye sochte huye ki sentence ko negative banana hai, ya fir modal 'will/would' laga dete hain.",
+    "incorrectExample": "*Take down the depositions accurately lest the record should not be challenged in appeal.",
+    "correctExample": "Take down the depositions accurately lest the record should be challenged in appeal.",
+    "whyWrong": "'Lest' ka swayam arth hota hai 'taaki aisa na ho' (for fear that). Iske clause ke andar 'not' lagana double negative blunder hai. Sath hi modal verb strictly 'should' aana chahiye.",
+    "ruleAnchor": "Rule RC-08: Purpose Connective 'Lest ... SHOULD'."
+  },
+  {
+    "id": "PIT-07",
+    "title": "Relative Pronoun Case Inversion ('Who' vs 'Whom' Object Confusion)",
+    "category": "Pronoun Case Discord",
+    "frequency": "Competitive Exam Elimination Trap (High)",
+    "description": "Examiner relative clause mein jab pronoun object role mein hota hai (action receive kar raha hota hai), tab bhi candidate 'who' mark kar deta hai.",
+    "incorrectExample": "*The senior counsel who the bar association felicitated delivered an inspiring address.",
+    "correctExample": "The senior counsel whom the bar association felicitated delivered an inspiring address.",
+    "whyWrong": "Clause mein 'the bar association' subject hai aur 'felicitated' verb hai. Relative pronoun 'felicitated' ka direct object hai ('The bar association felicitated HIM'). Object role ke liye strictly 'WHOM' lagta hai.",
+    "ruleAnchor": "Rule RC-09: Relative Pronouns & Clauses Restrictive vs Non-Restrictive."
+  },
+  {
+    "id": "PIT-08",
+    "title": "The 'Affect' vs 'Effect' Part-of-Speech Inversion Trap",
+    "category": "Word Class Discrimination",
+    "frequency": "Highest Frequency Homophone Trap (Very High)",
+    "description": "Candidates 'affect' (action verb) aur 'effect' (noun/outcome) ke syntactic role ko interchange kar dete hain, khaaskar jab sentence mein 'adverse effect' ya 'will affect' aata hai.",
+    "incorrectExample": "*The new administrative roster will seriously effect the disposal rate of urgent motions.",
+    "correctExample": "The new administrative roster will seriously affect the disposal rate of urgent motions.",
+    "whyWrong": "'Will seriously ________': Modal auxiliary 'will' ke baad base form of VERB chahiye. 'To influence/alter' ki verb 'AFFECT' hai. 'Effect' noun hota hai ('The order had a serious effect').",
+    "ruleAnchor": "Rule RC-11: Confused Words: 'Affect' vs 'Effect'."
+  },
+  {
+    "id": "PIT-09",
+    "title": "The 'Lie' vs 'Lay' Past Tense Identity Trap",
+    "category": "Transitivity & Conjugation Discord",
+    "frequency": "Grammar Trap of the Highest Order (High)",
+    "description": "Intransitive 'Lie' (letna/recline) ka past tense 'Lay' hota hai, jo transitive 'Lay' (rakhna/place) ke present tense se match karta hai. Candidates 'laid' ko 'lie' ka past samajh baithte hain.",
+    "incorrectExample": "*The forged promissory note had laid on the bench clerk's table for three days before discovery.",
+    "correctExample": "The forged promissory note had lain on the bench clerk's table for three days before discovery.",
+    "whyWrong": "Promissory note ne bina kisi object ke khud vishram kiya (intransitive). Intransitive 'Lie' ke forms hote hain: Lie - Lay - Lain. Past perfect 'had' ke baad V3 form 'LAIN' aani chahiye. 'Laid' transitive verb 'lay' ka past hota hai jiske baad direct object zaroori hai.",
+    "ruleAnchor": "Rule RC-14: Confused Verbs: 'Lie' (Intransitive) vs 'Lay' (Transitive)."
+  },
+  {
+    "id": "PIT-10",
+    "title": "Countable vs Uncountable Diction Traps ('Fewer' vs 'Less' & 'Beside' vs 'Besides')",
+    "category": "Quantifier & Diction Concord",
+    "frequency": "High Court Sentence Correction Trap (High)",
+    "description": "Plural countable nouns ke sath 'less' lagana aur 'ke bagal mein' (beside) ki jagah 'ke alawa' (besides) ka galat prayog karna.",
+    "incorrectExample": "*The registry reported that less writ petitions were filed this month beside regular criminal appeals.",
+    "correctExample": "The registry reported that fewer writ petitions were filed this month besides regular criminal appeals.",
+    "whyWrong": "'Writ petitions' plural countable noun hai jiske sath 'fewer' lagta hai ('less' nahi). Sath hi 'ke alawa' (in addition to) ke liye 'besides' (with 's') lagta hai; 'beside' ka matlab 'ke bagal mein' (next to) hota hai.",
+    "ruleAnchor": "Rules RC-10 & RC-14: Quantity and Diction Concord."
+  }
+]

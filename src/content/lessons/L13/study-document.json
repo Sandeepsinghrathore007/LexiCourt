@@ -1,0 +1,431 @@
+{
+  "id": "L13-STUDY-DOC",
+  "lessonId": "L13",
+  "title": "Subject–Verb Agreement: Core Rules, Exceptions & Sentence Correction",
+  "subtitle": "Complete Reference Guide to Syntactic Concord, Distractor Filtering, Advanced Relative Antecedents, and High Court Error Correction",
+  "overview": "English grammar mein Subject-Verb Agreement (Syntax Concord) ek foundational pillar hai. Sentence ka rule simple lagta hai: 'Singular subject takes a singular verb, aur plural subject takes a plural verb.' Lekin Rajasthan High Court System Assistant aur competitive exams mein examiners direct simple sentences nahi dete. Wo subject aur verb ke beech intervening prepositional phrases, relative clauses, correlative conjunctions (Either/Or proximity), parenthetical expressions (as well as, along with), distributive pronouns ('Each of', 'One of the'), collective nouns, measurements, aur inverted structures insert karke traps set karte hain. Is comprehensive study guide mein sabhi 11 categories ke rules, unke underlying logical exceptions, aur examination algorithms ko pure Roman Hinglish mein master karein.",
+  "sections": [
+    {
+      "id": "sec-actual-subject",
+      "number": 1,
+      "title": "A. Identifying the Actual Subject & Head Noun",
+      "summary": "Sentence mein verb se pehle aane wale nearest noun ke bajaye actual grammatical head noun ko isolate karna.",
+      "content": "Subject-Verb Agreement ka sabse pehla aur sabse critical rule ye hai ki VERB HAMESHA APNE GRAMMATICAL SUBJECT KE ACCORDING AATI HAI, NA KI VERB KE PAAS WALE NOUN (NEAREST NOUN) KE ACCORDING.\n\n1. The Head Noun Principle:\nSentence mein subject aksar ek bada noun phrase hota hai jisme ek main noun (Head Noun) hota hai aur uske sath kai modifiers, prepositional phrases ya clauses jude hote hain. Agreement strictly Head Noun ke number (singular ya plural) par depend karta hai.\n- Example: \"The quality of these mangoes is excellent.\"\nAnalysis: Yahan verb ke bilkul paas 'mangoes' (plural) hai, lekin sentence 'mangoes' ke baare mein nahi hai—sentence 'quality' (singular head noun) ke baare mein hai. Isliye singular verb 'IS' aayegi, 'are' lagana fatal error hoga.\n- Example: \"The students in the computer laboratory are completing their typing test.\"\nAnalysis: Head noun 'students' (plural) hai. 'in the computer laboratory' ek prepositional phrase hai jo subject ke number ko change nahi karta. Isliye plural verb 'ARE' aayi.\n- Example: \"The list of selected candidates has been published on the High Court website.\"\nAnalysis: Head noun 'list' (singular) hai, na ki 'candidates'. Isliye singular verb 'HAS' correct hai.\n\n2. Intervening Phrases (Distractor Phrases):\nSubject aur verb ke beech aane wale prepositional phrases (starting with of, in, with, at, for, about, from) ya embedded clauses learner ko confuse karne ke liye daale jaate hain. Rule: Preposition ke baad aane wala noun preposition ka OBJECT hota hai, wo sentence ka SUBJECT kabhi nahi ban sakta!\nFormula: [Head Noun] + (preposition + object of preposition) + [VERB matching Head Noun].\n\n3. Embedded Relative Clauses:\nRelative clauses ('who is sitting...', 'which were imported...') subject ko describe karte hain lekin main verb ke concord ko alter nahi karte.\n- Example: \"The judicial officer who reviewed multiple voluminous records was highly commended.\"\nAnalysis: Relative clause 'who reviewed...' ko bracket mein rakhkar alag karein. Core subject 'The judicial officer' (singular) hai, isliye main verb 'was' aayegi.\n\n4. Inverted Constructions (Verb Before Subject):\nEnglish mein hamesha subject pehle aur verb baad mein nahi aati. Kuch structures mein verb subject se pehle aati hai:\n- 'There' ya 'Here' se shuru hone wale sentences: \"There are several critical discrepancies in the petition.\" (Subject: 'several critical discrepancies' [plural], isliye 'are').\n- Directional / Adverbial inversions: \"Under the table sits the witness's dog.\" (Subject: 'the witness's dog' [singular], isliye 'sits').\nRule: Inverted sentences mein verb ke BAAD aane wale noun ko pehle check karein!",
+      "dimensions": [
+        {
+          "name": "Subject Isolation Diagnostic",
+          "description": "Sentence mein actual subject ko 3 steps mein isolate karne ka algorithm.",
+          "categories": [
+            {
+              "name": "Step 1: Locate the Main Verb",
+              "detail": "Sentence ki primary finite verb ko identify karein jo action ya state batati hai."
+            },
+            {
+              "name": "Step 2: Ask 'Who' or 'What'",
+              "detail": "Verb se sawal puchein: 'Who is/are doing this?' ya 'What is/are described?' Jo jawab aayega wahi true grammatical subject hai."
+            },
+            {
+              "name": "Step 3: Strip Prepositional Modifiers",
+              "detail": "Head noun ke baad lage 'of...', 'in...', 'with...' phrases ko mentally strike out karein."
+            }
+          ]
+        },
+        {
+          "name": "Common Head Noun Distractor Types",
+          "description": "Exams mein Head Noun ko conceal karne ke liye use hone wale structural distractors.",
+          "categories": [
+            {
+              "name": "Prepositional Complement",
+              "detail": "\"The box of chocolates IS on the table.\" (Head: box [singular], NOT chocolates)."
+            },
+            {
+              "name": "Appositive Explanations",
+              "detail": "\"Mr. Sharma, the father of three ambitious lawyers, IS attending the court.\" (Head: Mr. Sharma [singular])."
+            },
+            {
+              "name": "Participial Modifiers",
+              "detail": "\"The letter containing numerous legal annexures HAS reached the registry.\" (Head: letter [singular])."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "THE HEAD NOUN LAW: Never match the verb to the nearest noun. Identify the Head Noun before the prepositional phrase: [Head Noun] + [of/in/with + Object] ➔ Verb matches Head Noun."
+    },
+    {
+      "id": "sec-core-rules",
+      "number": 2,
+      "title": "B. Core Singular & Plural Agreement Rules",
+      "summary": "3rd person singular present inflection (-s/-es), auxiliary verbs (be/have/do), aur compound verb chains.",
+      "content": "Basic grammar rule: Singular subjects take singular verbs; plural subjects take plural verbs. Lekin examinees aksar noun aur verb ke inflection mein confuse ho jaate hain.\n\n1. The S-Suffix Mirror Rule:\n- Noun mein 's/es' lagne se noun PLURAL banta hai (boy ➔ boys, court ➔ courts).\n- Lekin Verb mein 's/es' lagne se verb SINGULAR banti hai (read ➔ reads, write ➔ writes, go ➔ goes).\nSimple Present Tense mein third-person singular subject (He, She, It, Ramesh, The Court) ke sath verb ki 5th form (V1 + s/es) lagti hai: \"The clerk updates the register daily.\" Plural subject (They, We, The clerks) ke sath base form (V1) lagti hai: \"The clerks update the register daily.\"\n\n2. Behavior of 'I' and 'YOU':\n- 'I' singular pronoun hai lekin Simple Present mein plural pattern follow karta hai: \"I write\", \"I have\" (NOT *has), \"I do\" (NOT *does). Sirf Past continuous mein 'was' (singular) leta hai: \"I was present.\"\n- 'YOU' singular aur plural dono ke liye same form me use hota hai, aur ye HAMESHA PLURAL VERB leta hai: \"You are qualified\", \"You were informed\", \"You have been shortlisted\" (never *You was!).\n\n3. Primary Auxiliaries Matrix (BE, HAVE, DO):\n- Verb BE: Present singular = is, am | Present plural = are | Past singular = was | Past plural = were.\n- Verb HAVE: Present singular = has | Present plural = have | Past (all numbers) = had.\n- Verb DO: Present singular = does | Present plural = do | Past (all numbers) = did.\n\n4. Auxiliary Chains in Compound Verbs:\nJab sentence mein multiple verbs (auxiliary + main verb) aati hain, toh SUBJECT-VERB AGREEMENT SIRF FIRST AUXILIARY VERB PAR APPLY HOTA HAI. Main verb auxiliary ke hisaab se freeze ho jaati hai:\n- \"The judicial assistant HAS completed the report.\" (Subject 'assistant' singular ➔ auxiliary 'has').\n- \"The judicial assistants HAVE completed the report.\" (Subject 'assistants' plural ➔ auxiliary 'have').\n- Modals (can, could, may, might, must, shall, should, will, would) ke sath number concord neutral hota hai: \"The judge can decide\" / \"The judges can decide\".",
+      "dimensions": [
+        {
+          "name": "Inflection Contrast Matrix",
+          "description": "Noun vs Verb morphological endings ka structural farq.",
+          "categories": [
+            {
+              "name": "Noun Inflection",
+              "detail": "Base Noun = Singular (file) | Noun + s/es = Plural (files)."
+            },
+            {
+              "name": "Verb Inflection (Present)",
+              "detail": "Base Verb = Plural concord (verify) | Verb + s/es = Singular concord (verifies)."
+            }
+          ]
+        },
+        {
+          "name": "Auxiliary Agreement Rules",
+          "description": "Tense aur number ke hisaab se auxiliary selection.",
+          "categories": [
+            {
+              "name": "Singular 3rd Person",
+              "detail": "He / She / It / The Registry ➔ IS, WAS, HAS, DOES, V_s/es."
+            },
+            {
+              "name": "Plural & 1st/2nd Person",
+              "detail": "They / We / You / The Registries ➔ ARE, WERE, HAVE, DO, V1."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "THE S-SUFFIX MIRROR: Noun + S = Plural, but Verb + S = Singular! Only the first auxiliary in a verb phrase agrees with the subject."
+    },
+    {
+      "id": "sec-compound-and",
+      "number": 3,
+      "title": "C. Compound Subjects Joined by 'AND'",
+      "summary": "Two separate entities (plural) vs Single unit / person / concept (singular).",
+      "content": "Jab do ya do se zyada subjects conjunction 'AND' se judte hain, toh unka agreement do alag-alag rules follow karta hai:\n\n1. General Rule: Two or More Separate Entities = PLURAL VERB\nJab do alag-alag persons, objects ya entities 'and' se judte hain, toh subject compound hokar plural ban jata hai:\n- \"Riya and Priya are preparing for the High Court examination.\"\n- \"The advocate and the public prosecutor have concluded their arguments.\"\n- \"Speed and accuracy are essential for this skill test.\"\n\n2. Exception 1: Referring to the SAME Person or Office = SINGULAR VERB\nJab do titles ya designations 'and' se jude hon lekin wo EK HI VYAKTI (same individual) ko refer kar rahe hon, toh verb strictly SINGULAR aati hai.\nHow to Detect in Exams? (The Article Clue):\n- Rule: Agar article 'The' ya possessive pronoun (my, his) SIRF PEHLE NOUN ke aage laga ho, toh dono titles ek hi vyakti ke hain ➔ SINGULAR VERB.\n  Example: \"The Director and Producer of the documentary has arrived.\" (Ek hi person Director bhi hai aur Producer bhi).\n- Rule: Agar article 'The' DONO NOUNS ke aage alag-alag laga ho, toh dono alag-alag vyakti hain ➔ PLURAL VERB.\n  Example: \"The Director and the Producer of the documentary have arrived.\" (Do alag-alag vyakti hain).\n\n3. Exception 2: Fixed Conceptual Pairs / Single Unit = SINGULAR VERB\nJab do nouns milkar ek hi dish, idea, unit ya combined notion express karte hain, toh unhe grammatically singular maana jata hai:\n- \"Bread and butter is a wholesome breakfast.\" (Ek single meal unit).\n- \"Slow and steady wins the race.\" (Ek single character quality/philosophy).\n- \"Rice and curry is his staple diet.\"\n- \"The horse and carriage is waiting outside the gate.\" (Ek single combined vehicle unit).\n- \"Crown and glory is fleeting.\"\nContrast Note: Lekin agar wahi items alag-alag commodities ke roop mein beche ya dekhe ja rahe hon, toh plural ban jayenge: \"Bread and butter are sold at different counters in the supermarket.\" Context aur meaning ko check karna zaroori hai!",
+      "dimensions": [
+        {
+          "name": "The Article Detection Clue",
+          "description": "Examiner ke favorite 'The + Noun and (The) + Noun' test ka algorithm.",
+          "categories": [
+            {
+              "name": "Single Article Pattern",
+              "detail": "\"The Poet and Philosopher IS dead.\" (Sirf ek 'The' = 1 Person ➔ Singular Verb)."
+            },
+            {
+              "name": "Double Article Pattern",
+              "detail": "\"The Poet and THE Philosopher ARE dead.\" (Do 'The' = 2 Persons ➔ Plural Verb)."
+            }
+          ]
+        },
+        {
+          "name": "Compound Notion Categories",
+          "description": "Single conceptual unit wale high-frequency pairs.",
+          "categories": [
+            {
+              "name": "Food & Meal Units",
+              "detail": "Bread and butter, Rice and curry, Bacon and eggs (treated as a dish ➔ singular)."
+            },
+            {
+              "name": "Proverbial Philosophical Units",
+              "detail": "Slow and steady (wins), Time and tide (waits / wait for no man - traditionally singular in classical idiom, though plural usage is also found; exams prefer 'waits')."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "THE ARTICLE REPETITION RULE: [The + Noun₁ + and + Noun₂] = 1 Person (Singular Verb). [The + Noun₁ + and + THE + Noun₂] = 2 Persons (Plural Verb)."
+    },
+    {
+      "id": "sec-or-nor-proximity",
+      "number": 4,
+      "title": "D. Correlative Conjunctions & The Proximity Rule ('OR' / 'NOR')",
+      "summary": "Either...or, Neither...nor, Not only...but also mein verb nearest subject ke number aur person se agree karti hai.",
+      "content": "Jab do subjects disjunctive conjunctions ya correlative pairs se judte hain, toh 'AND' wala addition rule fail ho jata hai. Yahan PROXIMITY RULE (Rule of Nearness) apply hota hai.\n\n1. Governing Correlative Pairs:\n- Either ... or\n- Neither ... nor\n- Not only ... but also\n- Simple 'or' / 'nor'\n\n2. The Proximity Rule (Rule of Nearness):\nIn constructions mein VERB HAMESHA APNE SABSE PAAS WALE (NEAREST) SUBJECT KE ACCORDING AGREE KARTI HAI. Pehla subject chahe singular ho ya plural, verb ko sirf us subject se matlab hota hai jo verb ke directly adjacent hota hai.\n\nCase Study Contrasts:\n- Case 1 (Singular first, Plural nearer to verb):\n  \"Neither the principal nor the teachers are present in the auditorium.\"\n  Analysis: Verb 'are' ke sabse paas 'the teachers' (plural) hai, isliye plural verb aayi.\n- Case 2 (Plural first, Singular nearer to verb):\n  \"Neither the teachers nor the principal is present in the auditorium.\"\n  Analysis: Yahan subjects ka order reverse kar diya gaya. Ab verb 'is' ke sabse paas 'the principal' (singular) hai, isliye singular verb aayi!\nNotice how simply swapping the subject positions changes the correct verb from 'are' to 'is'!\n\n3. 'Not only ... but also':\nSame proximity rule apply hota hai—verb 'but also' ke baad aane wale subject se agree karti hai:\n- \"Not only the software engineer but also the network administrators have detected the vulnerability.\"\n- \"Not only the network administrators but also the software engineer has detected the vulnerability.\"\n\n4. Interrogative Inversion Warning:\nInterrogative sentences (questions) mein auxiliary verb subject se PEHLE aati hai. Tab proximity rule pehle subject par shift ho jata hai kyunki auxiliary verb ab Subject 1 ke paas hoti hai!\n- \"Has either the magistrate or the advocates arrived?\" ('Has' agrees with 'magistrate' [singular], jo verb ke sabse paas hai).\n- \"Have either the advocates or the magistrate arrived?\" ('Have' agrees with 'advocates' [plural]).\nAlways look at which subject is physically closest to the verb position!",
+      "dimensions": [
+        {
+          "name": "Proximity Concord Algorithm",
+          "description": "Correlative conjunctions mein verb selection ka stepwise method.",
+          "categories": [
+            {
+              "name": "Step 1: Identify the Conjunction Pair",
+              "detail": "Check karein ki sentence mein either...or, neither...nor, ya not only...but also hai."
+            },
+            {
+              "name": "Step 2: Locate the Verb Position",
+              "detail": "Dekhein ki verb kahan place honi hai (affirmative sentence mein subject ke baad, question mein subject se pehle)."
+            },
+            {
+              "name": "Step 3: Match with Nearest Subject",
+              "detail": "Jo noun/pronoun verb ke physically closest hai, uska number (singular/plural) check karein aur verb lagayein."
+            }
+          ]
+        },
+        {
+          "name": "Style & Clarity Note",
+          "description": "Good writing practice in formal English.",
+          "categories": [
+            {
+              "name": "Plural Subject Placement",
+              "detail": "Formal style mein jab ek subject singular ho aur ek plural, toh plural subject ko second position (closer to verb) par rakhna preferred hota hai taaki sentence naturally sound kare."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "THE PROXIMITY LAW: In [Either...or / Neither...nor / Not only...but also], Verb = Agrees with the NEAREST Subject. In questions, the nearest subject is the one immediately following the auxiliary!"
+    },
+    {
+      "id": "sec-indefinite-pronouns",
+      "number": 5,
+      "title": "E. Indefinite Pronouns: Three Distinct Concord Classes",
+      "summary": "Strictly singular pronouns vs strictly plural pronouns vs variable quantity pronouns (SANAM rule).",
+      "content": "Indefinite pronouns ko ek universal rule se nahi padha ja sakta. Standard English mein indefinite pronouns teen alag-alag grammatical categories mein divide hote hain:\n\nGROUP 1: Strictly SINGULAR Indefinite Pronouns (Always Singular Verb)\nYe pronouns hamesha individuals ko refer karte hain, chahe inke baad plural modifying phrase hi kyun na laga ho:\n- The 'Body' Family: Somebody, Everybody, Nobody, Anybody.\n- The 'One' Family: Someone, Everyone, No one, Anyone, One.\n- The 'Thing' Family: Something, Everything, Nothing, Anything.\n- The Distributives: Each, Either, Neither.\nExamples:\n- \"Everyone in the courtroom has taken their seat.\" (Everyone ➔ has).\n- \"Neither of the two candidates is eligible for the post.\" (Neither ➔ is).\n- \"Somebody has left this confidential file on the desk.\" (Somebody ➔ has).\n- \"Each of the participating judicial assistants receives a certificate.\" (Each ➔ receives).\n\nGROUP 2: Strictly PLURAL Indefinite Pronouns (Always Plural Verb)\nYe pronouns inherently ek se zyada discrete countable entities ko refer karte hain:\n- Both, Few, A few, Many, Several, Others.\nExamples:\n- \"Both of the candidates are exceptionally well qualified.\" (Both ➔ are).\n- \"Several of the computer terminals were malfunctioning.\" (Several ➔ were).\n- \"Few have understood the constitutional implications.\" (Few ➔ have).\n\nGROUP 3: Variable Quantity Pronouns (The SANAM Rule: Singular OR Plural)\nYe pronouns tab tak decide nahi kiye ja sakte jab tak inka following complement noun na dekha jaye:\nMemory Acronym: SANAM = Some, All, None, Any, Most (plus Half, Percent, Fractions).\n- Rule: Agar inke baad UNCOUNTABLE NOUN aaye ➔ SINGULAR VERB.\n  Example: \"All of the evidence was examined by the forensic expert.\" (Evidence is uncountable ➔ was).\n  Example: \"Some of the milk has spoiled.\" (Milk is uncountable ➔ has).\n  Example: \"Most of the work is complete.\" (Work is uncountable ➔ is).\n- Rule: Agar inke baad PLURAL COUNTABLE NOUN aaye ➔ PLURAL VERB.\n  Example: \"All of the witnesses were cross-examined.\" (Witnesses are plural countable ➔ were).\n  Example: \"Some of the computers have been upgraded.\" (Computers are plural countable ➔ have).\n  Example: \"Most of the files are archived.\" (Files are plural countable ➔ are).\n\nSpecial Analysis of 'NONE':\n- 'None' historically 'not one' se derive hua hai, isliye strict formal / classical English mein iske sath singular verb lagayi jaati hai: \"None of the answers is correct.\"\n- Lekin modern English aur competitive examination contexts mein jab 'None of + plural noun' aata hai, toh both singular aur plural verbs widespread milti hain. Competitive exams (khaaskar Rajasthan aur SSC) mein traditional prescriptive grammar ko follow karte huye 'singular' ko strongly prefer kiya jata hai ('None of the students is...'). Lekin agar context strictly individual members ko highlight kare, toh plural bhi accepted hota hai. Exam tip: Multiple choice questions mein singular agreement safest choice hoti hai jab tak question mein specifically plural intent na ho.",
+      "dimensions": [
+        {
+          "name": "The Three Indefinite Groups",
+          "description": "Indefinite pronouns ka tripartite categorization.",
+          "categories": [
+            {
+              "name": "Group 1: Always Singular",
+              "detail": "Each, Every-, Some-, Any-, No- (body/one/thing), Either, Neither ➔ SINGULAR VERB."
+            },
+            {
+              "name": "Group 2: Always Plural",
+              "detail": "Both, Few, Many, Several, Others ➔ PLURAL VERB."
+            },
+            {
+              "name": "Group 3: SANAM Variable",
+              "detail": "Some, All, None, Any, Most ➔ Depends on the Object of Preposition (Uncountable = Singular, Plural Countable = Plural)."
+            }
+          ]
+        },
+        {
+          "name": "The 'None' Usage Nuance",
+          "description": "Prescriptive exam standard vs descriptive modern usage.",
+          "categories": [
+            {
+              "name": "Prescriptive Exam Rule",
+              "detail": "\"None of the keys IS working.\" (Formal default: none = not one)."
+            },
+            {
+              "name": "Descriptive Plural Usage",
+              "detail": "\"None of them WERE able to answer.\" (Widely accepted in informal/spoken English when emphasizing multiple entities)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "THE SANAM COMPLEMENT LAW: [Some/All/None/Any/Most] + of + [Uncountable Noun] ➔ Singular Verb. [Some/All/None/Any/Most] + of + [Plural Countable Noun] ➔ Plural Verb."
+    },
+    {
+      "id": "sec-each-every",
+      "number": 6,
+      "title": "F. Subjects Involving 'EACH' and 'EVERY'",
+      "summary": "'Each of the + plural noun', 'Every boy and girl', aur distributive singular concord.",
+      "content": "'Each' aur 'Every' English ke sabse powerful singular determiners aur pronouns hain. Ye sentence mein kitni bhi plural nouns ke sath jude hon, verb ko hamesha SINGULAR bana dete hain.\n\n1. 'Each' as Subject vs Prepositional Distractor:\nJab 'Each of' construction aati hai, toh structure hota hai: 'Each of + the + PLURAL NOUN'.\nExaminer ka favorite trap: Candidates 'plural noun' ko dekhkar plural verb laga dete hain. Lekin sentence ka subject 'Each' (singular distributive pronoun) hai!\n- \"Each of the candidates is required to show their hall ticket.\" (NOT *are required).\n- \"Each of these software programs has undergone security auditing.\" (NOT *have undergone).\n\n2. 'Every' Preceding Compound Nouns:\nJab 'Every' ya 'Each' do ya do se zyada nouns ke aage laga ho jo 'and' se jude hon, tab bhi VERB STRICTLY SINGULAR REHTI HAI! 'And' yahan plural nahi banata kyunki har item ko individually distribute kiya ja raha hai:\n- \"Every boy and every girl was given a study kit.\" (NOT *were given).\n- \"Each clerk and each assistant has signed the register.\" (NOT *have signed).\n- \"Every man, woman, and child was evacuated safely.\" (Even with three nouns, verb is singular 'was'!).\n\n3. Post-Posed 'Each' (Exception):\nJab 'each' ek plural subject ke BAAD (apposition mein) aata hai, toh subject ka number change nahi hota aur verb PLURAL rehti hai!\n- Compare:\n  \"The students each HAVE a computer.\" (Subject: 'The students' [plural] ➔ verb 'have').\n  \"Each of the students HAS a computer.\" (Subject: 'Each' [singular] ➔ verb 'has').\nNotice the position! Pre-posed 'Each of...' is singular; Post-posed 'Plural Noun + each...' is plural!",
+      "dimensions": [
+        {
+          "name": "'Each' Positioning Matrix",
+          "description": "Position badalne se syntactic subject ka shift.",
+          "categories": [
+            {
+              "name": "Pre-posed Distributive (Subject)",
+              "detail": "\"Each of the judges HAS signed.\" ➔ Subject is 'Each' (Singular Verb)."
+            },
+            {
+              "name": "Post-posed Apposition (Modifier)",
+              "detail": "\"The judges each HAVE signed.\" ➔ Subject is 'The judges' (Plural Verb)."
+            }
+          ]
+        },
+        {
+          "name": "Compound Distributive Rule",
+          "description": "'Every/Each' with multiple nouns joined by 'and'.",
+          "categories": [
+            {
+              "name": "Multiple Entities with 'Every'",
+              "detail": "\"Every teacher, student, and staff member WAS present.\" (Always Singular Verb)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "THE DISTRIBUTIVE LAW: [Each of + Plural Noun] = Singular Verb. [Every A and Every B] = Singular Verb. BUT [Plural Noun + each] = Plural Verb."
+    },
+    {
+      "id": "sec-collective-nouns",
+      "number": 7,
+      "title": "G. Collective Nouns: Single Body vs Divided Members",
+      "summary": "Jury, committee, team, audience, government, family — Unitary sense vs Member sense.",
+      "content": "Collective Nouns (jaise jury, committee, team, family, council, audience, government, staff, crowd) ek group of individuals ko single word mein represent karte hain. Inka agreement unke INTENDED MEANING aur CONTEXT par depend karta hai.\n\n1. Unitary Sense (Acting as One Whole Unit) = SINGULAR VERB\nJab poora group ek sath milkar, unanimous hokar, ek single collective body ke roop mein koi action karta hai ya decision leta hai, toh use grammatically SINGULAR treat kiya jata hai:\n- \"The jury has delivered its unanimous verdict.\" (Puri jury ne milkar ek decision diya ➔ has + its).\n- \"The committee is submitting its annual report tomorrow.\" (Poori committee ek document submit kar rahi hai ➔ is + its).\n- \"The High Court staff is committed to digitisation.\" (Staff as an organization ➔ is).\nNotice the pronouns too: Singular collective nouns take singular neuter pronouns ('it', 'its'), NOT 'they' or 'their'!\n\n2. Divided / Member Sense (Individuals Acting Separately) = PLURAL VERB\nJab group ke members aapas mein bant jayein (divided), alag-alag opinions rakhein, ya unke individual actions ko highlight kiya jaye, toh collective noun ko PLURAL treat kiya jata hai (often called 'Noun of Multitude'):\n- \"The jury were divided in their opinions.\" (Jury ke sadasya aapas mein bant gaye, alag-alag vichar hain ➔ were + their).\n- \"The committee are arguing among themselves regarding the budget allocation.\" (Sadasya aapas mein ladd rahe hain ➔ are + themselves).\n- \"The audience have taken their respective seats.\" (Audience ke log alag-alag seats par baithe ➔ have + their).\nNotice the pronouns here: Plural collective nouns take plural pronouns ('they', 'their', 'themselves')!\n\n3. British vs American English Convention:\n- British English collective nouns ke sath dono singular aur plural freely use karta hai depending on sense (jaise \"The government are planning...\").\n- American English collective nouns ko strictly singular treat karne ki taraf zyada inclined rehta hai.\n- Rajasthan High Court Exam Standard: Examination mein jab sentence mein clear indication ho ki members divided hain ('divided in their opinions', 'arguing among themselves', 'taking their seats'), tab strictly PLURAL verb chunein. Jab action unanimous ho ya unit ke roop mein ho, tab strictly SINGULAR verb chunein. Sentence ke context clues (its vs their, unanimous vs divided) ko dekhein!",
+      "dimensions": [
+        {
+          "name": "Context Clue Inspector",
+          "description": "Sentence mein unitary vs divided sense pehchanne ke marker words.",
+          "categories": [
+            {
+              "name": "Unitary Markers (Singular Verb)",
+              "detail": "unanimous, as one, its decision, its report, united, single voice ➔ SINGULAR (is, was, has)."
+            },
+            {
+              "name": "Divided Markers (Plural Verb)",
+              "detail": "divided, among themselves, their opinions, their seats, different views ➔ PLURAL (are, were, have)."
+            }
+          ]
+        },
+        {
+          "name": "Pronoun Concord Alignment",
+          "description": "Verb aur pronoun ka harmonious number concord.",
+          "categories": [
+            {
+              "name": "Singular Pair",
+              "detail": "The jury HAS given ITS verdict (Singular verb + singular pronoun)."
+            },
+            {
+              "name": "Plural Pair",
+              "detail": "The jury WERE divided in THEIR opinions (Plural verb + plural pronoun)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "THE COLLECTIVE HARMONY LAW: Unified Action = Singular Verb + 'ITS'. Divided Action / Separate Individual Actions = Plural Verb + 'THEIR'."
+    },
+    {
+      "id": "sec-quantities-measurements",
+      "number": 8,
+      "title": "H. Quantity, Measurement, Time, Distance & Money",
+      "summary": "Single combined amount/unit (singular) vs Individual discrete items (plural).",
+      "content": "Numbers aur measurements ke sath aane wale plural nouns (jaise ten miles, five thousand rupees, two hours, fifty kilograms) examinees ko sabse zyada tempt karte hain plural verb lagane ke liye. Lekin English syntax mein specific rule govern karta hai:\n\n1. Single Combined Whole / Total Amount = SINGULAR VERB\nJab koi distance, time duration, weight, ya money ka amount ek SINGLE COMBINED UNIT ya TOTAL SUM ke roop mein dekha jaye, toh verb strictly SINGULAR aati hai:\n- \"Ten kilometres is a long distance to walk on foot.\" (Ten kilometres ek single continuous distance hai ➔ is).\n- \"Fifty thousand rupees was spent on upgrading the court server.\" (Fifty thousand rupees ek single lump sum amount hai ➔ was).\n- \"Two hours is sufficient time to complete the 100 MCQs.\" (Two hours ek single time slot/duration hai ➔ is).\n- \"Five years is the maximum statutory term for this commission.\" (Five years ek single block of time hai ➔ is).\n\n2. Counted Separately as Individual Units = PLURAL VERB\nLekin jab wahi rupees, coins, years, ya kilometres individual discrete units ke roop mein alag-alag distribute ya count kiye jayein, toh verb PLURAL ban jaati hai:\n- \"Five thousand rupees were distributed among the five prize winners.\" (Rupees alag-alag logo mein baante gaye ➔ were).\n- \"Ten gold coins were found inside the sealed vault.\" (Coins individual separate items hain ➔ were).\n- \"Three years have passed since the judicial notification was issued.\" (Saal ek-ek karke beete hain ➔ have passed).\n\nKey Contrast Test:\nAsk: 'Kya ye ek single lump sum / total entity hai?' (If YES ➔ Singular Verb).\n'Kya ye alag-alag coins, notes ya pieces ke roop mein distribute/count ho rahe hain?' (If YES ➔ Plural Verb).",
+      "dimensions": [
+        {
+          "name": "Measurement Unit Concord",
+          "description": "Total sum vs discrete distribution.",
+          "categories": [
+            {
+              "name": "Total Lump Sum (Singular)",
+              "detail": "\"Ten thousand rupees IS a reasonable security deposit.\" (Total single amount)."
+            },
+            {
+              "name": "Distributed Units (Plural)",
+              "detail": "\"Ten silver coins WERE scattered on the floor.\" (Separate counted items)."
+            }
+          ]
+        },
+        {
+          "name": "Mathematical Expressions",
+          "description": "Calculations and arithmetic operations.",
+          "categories": [
+            {
+              "name": "Arithmetic Operations",
+              "detail": "\"Two plus two is / equals four\" (Standard formal English prefers singular 'is/equals'). \"Two and two make/makes four\" (both accepted, 'makes' preferred in modern grammar)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "THE QUANTITY AS A UNIT RULE: Time, Distance, Money, and Weight thought of as a single whole ➔ SINGULAR VERB (\"Ten miles IS\", \"Two hours IS\", \"Five thousand rupees WAS\")."
+    },
+    {
+      "id": "sec-titles-disciplines",
+      "number": 9,
+      "title": "I. Titles, Names, Disciplines & 'A Number of' vs 'The Number of'",
+      "summary": "Plural-looking titles/disciplines (singular) aur 'A number of' (plural) vs 'The number of' (singular).",
+      "content": "English mein kai aise nouns hote hain jinke spelling ke aakhir mein 's' hota hai jisse wo plural lagte hain, lekin wo grammatically SINGULAR hote hain. Iske sath hi 'A number of' aur 'The number of' ka polar contrast competitive exams ka gold-standard trap hai.\n\n1. Plural-Form Proper Names & Creative Works = SINGULAR VERB\nKisi book, film, novel, newspaper ya country ka naam agar plural form mein bhi ho, toh bhi wo ek single artistic/geographical work hota hai:\n- \"Gulliver's Travels was written by Jonathan Swift.\" (Ek single book ka title ➔ was).\n- \"The Arabian Nights is a world-famous collection of tales.\" (Single book title ➔ is).\n- \"The United States has signed the international extradition treaty.\" (Single nation ➔ has).\n- \"The Hindustan Times is delivered every morning.\" (Single newspaper ➔ is).\n\n2. Academic Disciplines & Subjects = SINGULAR VERB\nJin subjects aur academic fields ke aakhir mein '-ics' lagta hai, wo singular disciplines hote hain:\n- Mathematics, Physics, Economics, Civics, Statistics, Politics, Linguistics, Ethics.\n- Examples: \"Physics is a challenging subject for many candidates.\" / \"Economics has always interested him.\"\nNUANCE ALERT: Jab inhi words (khaaskar Politics, Statistics, Ethics) ke aage koi possessive pronoun (his, my, their) ya qualifying phrase lag jaye, toh ye 'academic subject' nahi rehte, balki 'personal opinions', 'data figures' ya 'moral principles' ban jaate hain aur PLURAL VERB lete hain:\n- \"His politics are questionable.\" (His political views = plural).\n- \"The statistics show a sharp decline in pending appeals.\" (The statistical data figures = plural).\n\n3. Diseases & Games with Plural Forms = SINGULAR VERB\n- Diseases: Measles, Mumps, Rickets, Shingles ➔ \"Measles is a contagious viral disease.\"\n- Games: Billiards, Darts, Dominoes, Bowls ➔ \"Billiards is played on a cloth-covered table.\"\n\n4. THE MASTER CONTRAST: 'A Number of' vs 'The Number of'\nYe rule har competitive exam mein direct question ke roop mein aata hai:\n- 'A number of + plural noun' ka matlab hota hai 'Many / Several' (Bahut saare). Yahan focus plural items par hota hai ➔ PLURAL VERB!\n  Example: \"A number of judicial assistants are undergoing training.\" (Meaning: Many assistants are... ➔ ARE).\n  Example: \"A number of petitions have been dismissed.\" (NOT *has been dismissed).\n- 'The number of + plural noun' ka matlab hota hai 'Ek specific sankhya' (A specific numerical figure). Yahan subject plural noun nahi hai, subject word 'THE NUMBER' (singular) hai ➔ SINGULAR VERB!\n  Example: \"The number of pending writ petitions is steadily increasing.\" (Focus is on the numerical count ➔ IS).\n  Example: \"The number of applicants for the post was astonishingly high.\" (NOT *were high).",
+      "dimensions": [
+        {
+          "name": "'A Number' vs 'The Number' Comparison Table",
+          "description": "Syntax aur semantic differences ka side-by-side view.",
+          "categories": [
+            {
+              "name": "'A Number of + Plural Noun'",
+              "detail": "Meaning: 'Many / Several' | True Focus: Plural entities | Verb: PLURAL (are, were, have)."
+            },
+            {
+              "name": "'The Number of + Plural Noun'",
+              "detail": "Meaning: 'The numerical count' | True Focus: 'The number' (singular head) | Verb: SINGULAR (is, was, has)."
+            }
+          ]
+        },
+        {
+          "name": "'-ICS' Subject Concord Test",
+          "description": "Subject vs practical application.",
+          "categories": [
+            {
+              "name": "Academic Field (Singular)",
+              "detail": "\"Mathematics IS an exact science.\" (The academic discipline)."
+            },
+            {
+              "name": "Possessive / Practical Data (Plural)",
+              "detail": "\"Her mathematics ARE weak.\" (Her calculation skills = plural)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "THE NUMBER RULE: 'A number of' = PLURAL VERB (a number = many). 'The number of' = SINGULAR VERB (the number = singular count)."
+    },
+    {
+      "id": "sec-special-structures",
+      "number": 10,
+      "title": "J. Special Structures & Frequently Confused Patterns",
+      "summary": "Parenthetical connectives (as well as), 'One of the + plural noun + who' relative clause concord, 'Many a', 'There is/are', and Gerund subjects.",
+      "content": "Is section mein wo 6 advanced patterns hain jahan 90% candidates exam hall mein traps mein phanste hain:\n\n1. Parenthetical Connectives (The FIRST SUBJECT Rule):\nJab do subjects in expressions se judte hain:\n- as well as\n- along with\n- together with\n- with\n- in addition to\n- accompanied by\n- besides\n- like / unlike\n- including / excluding\nRULE: Ye expressions coordinate conjunctions ('and') nahi hain, ye PARENTHETICAL PREPOSITIONAL PHRASES hain. Inka aane se pehla subject plural nahi banta. VERB HAMESHA PEHLE WALE SUBJECT (FIRST SUBJECT) KE ACCORDING AATI HAI!\n- \"The Chief Justice, along with two senior judges, has arrived at the conference.\" (Subject is 'The Chief Justice' [singular] ➔ has).\n- \"The advocates, as well as the client, are waiting in the registry.\" (Subject is 'The advocates' [plural] ➔ are).\n- \"The computer system, in addition to all peripheral devices, is covered under warranty.\" (Subject is 'The computer system' [singular] ➔ is).\n\n2. 'One of the + Plural Noun' vs Relative Pronoun ('Who / Which / That'):\nYahan do distinct structures bante hain:\nPattern A: 'One of the + Plural Noun' (Bina Relative Clause ke) = SINGULAR VERB\n- \"One of the judges is on medical leave.\" (Subject 'One' hai ➔ is).\nPattern B: 'One of the + Plural Noun + WHO / WHICH / THAT' = PLURAL VERB\nJab 'who/which/that' aata hai, toh relative pronoun apne theek pehle aane wale noun (ANTECEDENT) ko represent karta hai. Antecedent yahan plural noun hai, isliye relative clause ke andar ki verb PLURAL hogi!\n- \"He is one of those advocates who HAVE argued constitutional cases.\" (Antecedent is 'advocates' [plural] ➔ have argued, NOT *has argued!).\nPattern C: 'THE ONLY ONE OF THE + Plural Noun + WHO' = SINGULAR VERB\nLekin agar sentence mein 'THE ONLY' lag jaye, toh iska matlab hai ki pure group mein se sirf wahi EK vyakti hai jisne wo kaam kiya hai. Ab antecedent 'Only one' ban jata hai ➔ SINGULAR VERB!\n- \"She is the only one of the applicants who HAS qualified the typing test.\" (Because of 'the only one' ➔ has qualified).\n\n3. 'Many a' and 'More than one':\n- 'Many a + singular noun' hamesha SINGULAR VERB leta hai (meaning plural hota hai par grammatical form singular hoti hai):\n  \"Many a candidate has failed due to lack of speed.\" (NOT *have failed).\n- 'More than one + singular noun' hamesha SINGULAR VERB leta hai:\n  \"More than one computer was damaged during the transit.\" (NOT *were damaged).\n- Lekin agar structure 'More + plural noun + than one' ho, toh PLURAL VERB lagti hai: \"More computers than one were damaged.\"\n\n4. Dummy 'There' and Inverted Word Order:\n'There' kabhi sentence ka subject nahi hota; ye sirf ek dummy introductory adverb hota hai. True subject verb ke BAAD aata hai:\n- \"There is a pending file on the desk.\" (True subject: 'a pending file' [singular] ➔ is).\n- \"There are five pending files on the desk.\" (True subject: 'five pending files' [plural] ➔ are).\n- \"There has been a sudden surge in filings.\" (True subject: 'a sudden surge' [singular] ➔ has been).\n- \"There have been numerous complaints regarding the network.\" (True subject: 'numerous complaints' [plural] ➔ have been).\n\n5. Gerunds, Infinitives & Clauses as Subjects = SINGULAR VERB\nJab koi Gerund phrase (-ing), Infinitive phrase (to + V1), ya Noun Clause sentence ka subject banta hai, toh use hamesha ek SINGULAR ABSTRACT ENTITY maana jata hai:\n- \"Maintaining server security requires constant vigilance.\" (Gerund phrase 'Maintaining server security' ➔ requires [singular]).\n- \"To err is human; to forgive is divine.\" (Infinitive phrase ➔ is).\n- \"What the committee decided remains confidential.\" (Noun clause ➔ remains [singular]).",
+      "dimensions": [
+        {
+          "name": "'One of the' Relative Clause Matrix",
+          "description": "Antecedent vs 'The Only' differentiation.",
+          "categories": [
+            {
+              "name": "Standard 'One of those who...'",
+              "detail": "\"He is one of the candidates who HAVE cleared.\" ➔ Antecedent is 'candidates' (Plural Verb)."
+            },
+            {
+              "name": "'The ONLY one of those who...'",
+              "detail": "\"He is THE ONLY ONE of the candidates who HAS cleared.\" ➔ Focus is on 'the only one' (Singular Verb)."
+            }
+          ]
+        },
+        {
+          "name": "Parenthetical Connectives vs 'And'",
+          "description": "First subject rule vs compound addition.",
+          "categories": [
+            {
+              "name": "Joined by 'And'",
+              "detail": "Ramesh AND his brothers ARE coming (1 + 3 = 4 ➔ Plural Verb)."
+            },
+            {
+              "name": "Joined by 'Along with / As well as'",
+              "detail": "Ramesh, ALONG WITH his brothers, IS coming (Subject is only Ramesh ➔ Singular Verb)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "THE PARENTHETICAL & RELATIVE TRIPLE LAW: (1) 'As well as / Along with' ➔ Verb agrees with SUBJECT 1. (2) 'One of the [Plural Noun] + who' ➔ PLURAL VERB. (3) 'The only one of the [Plural Noun] + who' ➔ SINGULAR VERB."
+    },
+    {
+      "id": "sec-sentence-correction-method",
+      "number": 11,
+      "title": "K. The 7-Step Sentence Correction & Error Spotting Algorithm",
+      "summary": "High Court exam questions ko 100% accuracy se solve karne ka systematic diagnostic workflow.",
+      "content": "Exam hall mein guesswork ya 'sunne mein kaisa lagta hai' (auditory bias) ke sahare question solve karna sabse badi galti hoti hai. Examiners questions aise construct karte hain jahan incorrect option naturally fluent lagta hai aur correct option unaccustomed lagta hai. Isliye is 7-Step Algorithm ko follow karein:\n\nStep 1: Isolate the Main Clause & Finite Verb\nSentence mein auxiliary ya main verb ko pinpoint karein jo tense carry kar rahi hai (is/are, was/were, has/have, V_s/V1).\n\nStep 2: Ask 'Who' or 'What' to Find the Grammatical Subject\nVerb se directly puchein: kaun ye action kar raha hai ya kiske baare mein statement hai? Prepositional phrases ko mentally remove karein.\n\nStep 3: Strip Intervening Phrases & Prepositional Modifiers\nAgar subject ke baad 'of...', 'in...', 'with...', 'along with...', 'together with...' laga hai, toh use parentheses (...) mein daal kar ignore karein. Head Noun ko underline karein.\n\nStep 4: Check Conjunction Type (Coordinate vs Correlative vs Parenthetical)\n- Agar 'AND' hai: Check karein do separate entities hain (plural) ya same person / single dish hai (singular).\n- Agar 'OR / NOR / NEITHER...NOR / NOT ONLY...BUT ALSO' hai: Proximity rule apply karein (verb ke paas wala subject dekhein).\n- Agar 'AS WELL AS / ALONG WITH' hai: First subject rule apply karein.\n\nStep 5: Check Indefinite Pronoun / Distributive Concord\n- Agar Each / Everyone / Neither of / Either of hai: Strictly singular verb.\n- Agar SANAM pronoun (All, Some, Most, None) hai: Following complement noun ka countability status dekhein.\n- Agar 'A number of' hai: Plural verb | Agar 'The number of' hai: Singular verb.\n\nStep 6: Verify Relative Clause Antecedents\nAgar 'who/which/that' aaya hai: Check karein ki iska antecedent plural noun hai ('who have') ya 'the only one' laga hai ('who has').\n\nStep 7: Reread for Syntactic Concord & Coherence\nFinal sentence ko verify karein ki Subject ka Number aur Verb ka Number 100% match kar rahe hain.\n\nBefore & After Exam Corrections:\n1. Trap: \"The quality of these computer terminals were substandard.\"\n   Correction: Strip 'of these computer terminals'. Head noun is 'quality' (singular). Sahi sentence: \"The quality of these computer terminals WAS substandard.\"\n2. Trap: \"The judge, together with his stenographers, have arrived at the chamber.\"\n   Correction: 'Together with' parenthetical connective hai. Subject is 'The judge' (singular). Sahi sentence: \"The judge, together with his stenographers, HAS arrived at the chamber.\"\n3. Trap: \"Neither the administrative officer nor the clerks was present.\"\n   Correction: Correlative 'nor' mein proximity rule lagta hai. Nearest subject is 'the clerks' (plural). Sahi sentence: \"Neither the administrative officer nor the clerks WERE present.\"\n4. Trap: \"The number of cyber security violations have decreased.\"\n   Correction: 'The number of' ek singular figure hai. Sahi sentence: \"The number of cyber security violations HAS decreased.\"",
+      "dimensions": [
+        {
+          "name": "The 7-Step Error Spotting Checklist",
+          "description": "Exam hall execution checklist.",
+          "categories": [
+            {
+              "name": "Phase 1: Identification",
+              "detail": "1. Find Finite Verb ➔ 2. Trace True Subject ➔ 3. Strip Prepositional Distractors."
+            },
+            {
+              "name": "Phase 2: Classification",
+              "detail": "4. Classify Conjunction ➔ 5. Apply Pronoun Concord ➔ 6. Check Relative Antecedents."
+            },
+            {
+              "name": "Phase 3: Verification",
+              "detail": "7. Final Subject-Verb Agreement check across all coordinated clauses."
+            }
+          ]
+        },
+        {
+          "name": "Auditory Bias Elimination",
+          "description": "Kyun 'sunne mein sahi lagna' exam mein fail hota hai.",
+          "categories": [
+            {
+              "name": "Proximity Distortion",
+              "detail": "\"A bouquet of yellow roses SMELL/SMELLS sweet.\" Ear says 'roses smell', but grammar demands 'bouquet SMELLS'. Always trust the head noun, never your ear!"
+            }
+          ]
+        }
+      ],
+      "formulaNote": "THE 7-STEP REPEATABLE METHOD: Find Verb ➔ Find Head Noun ➔ Strip Prepositional Phrases ➔ Check Conjunction Rule ➔ Verify Pronoun/Antecedent ➔ Select Correct Verb Form ➔ Eliminate Auditory Distractor."
+    }
+  ]
+}

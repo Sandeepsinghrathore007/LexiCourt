@@ -1,0 +1,144 @@
+{
+  "id": "L07",
+  "title": "Narration — Interrogative, Imperative, Exclamatory & Optative Sentences",
+  "shortTitle": "Interrogative, Imperative, Exclamatory & Optative",
+  "topicId": "T03",
+  "topicTitle": "Narration: Direct and Indirect",
+  "part": "2 of 2",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Advanced",
+  "targetScore": "100% Structural Accuracy",
+  "description": "Yes/No questions (if/whether), Wh-questions mein auxiliary inversion ka removal, imperative commands, requests aur advice ('to + V1' / 'not to + V1'), negative commands aur forbade rules, exclamatory sentences ('exclaimed with joy/sorrow/wonder'), aur optative wishes aur prayers ('prayed/wished that... might') ko master karein.",
+  "learningObjectives": [
+    "Yes/No questions ko Direct Speech se Indirect Speech mein 'if' ya 'whether' use karke accurately convert karein",
+    "Wh-questions ko convert karte waqt original question word retain karein aur auxiliary inversion remove karke statement word order banayein",
+    "Context ke hisaab se correct reporting verbs ('asked', 'enquired of', 'wanted to know') aur clause structures choose karein",
+    "Imperative sentences (commands, requests, advice, instructions) ko 'Reporting verb + object + to + V1' formula se accurately report karein",
+    "Negative imperatives ko 'not to + V1' aur 'forbade + object + to + V1' (bina double negative ke) correctly transform karein",
+    "Exclamatory sentences ko emotion ke hisaab se 'exclaimed with joy / sorrow / wonder / regret' aur conjunction 'that' ke sath report karein",
+    "Optative sentences (wishes, prayers, blessings, curses) ko 'wished / prayed that + subject + might + V1' structure mein convert karein",
+    "Polite words ('please', 'kindly') aur exclamatory interjections ('Hurrah!', 'Alas!') ko Indirect Speech mein drop karna seekhein",
+    "Original speaker ka intended communicative purpose aur tone bina distortion ke preserve karein",
+    "Rajasthan High Court exams ke recurring narration traps (inversion retention, double conjunction 'that if', forbidden + not, question mark in reported clause) ko eliminate karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Prerequisite recap: Direct vs Indirect Speech, reporting clause vs reported clause, pronoun shifts (SON rule), tense backshift, and adverbial shifts",
+      "Interrogative sentences: Yes/No questions using 'if' or 'whether'",
+      "Wh-questions: What, Why, Where, When, Who, Whom, Whose, Which, How retaining the question word",
+      "Removal of question-style auxiliary inversion: converting inverted order (Aux + S + V) into statement order (S + V)",
+      "Punctuation shift: replacing question mark (?) with a full stop (.) in reported questions",
+      "Reporting verbs for questions: asked, enquired of, wanted to know, demanded of, wondered",
+      "Imperative sentences: commands, orders, requests, instructions, and advice",
+      "Core imperative pattern: Reporting verb + object + to + V1",
+      "Contextual reporting verbs for imperatives: ordered, commanded, requested, advised, instructed, told, warned, urged",
+      "Negative imperatives: 'not to + V1' structure vs 'forbade + object + to + V1' without double negation",
+      "Imperatives with suggestions and advice: 'suggested that + subject + should + V1' and 'suggested + V-ing'",
+      "Exclamatory sentences: expressing joy, sorrow, surprise, wonder, admiration, applause, and regret",
+      "Exclamatory reporting formulas: exclaimed with joy/sorrow/wonder/regret that..., applauded... saying that...",
+      "Conversion of exclamations (What a...! / How...!) into assertive statements with 'very' or 'great'",
+      "Optative sentences: wishes, prayers, blessings, curses, and greetings/farewells",
+      "Optative reporting formulas: wished, prayed that + subject + might + V1; bade farewell / good night",
+      "Common examination pitfalls: inversion errors, double connectives (*that if, *that why), dropped prepositions (*enquired me), forbidden double negatives, and retained polite words"
+    ],
+    "excluded": [
+      "Assertive sentence fundamentals, basic pronoun charts, and core tense backshift tables (covered in Lesson 06)",
+      "Active and Passive Voice transformations (covered in Lessons 04 & 05)",
+      "Conditional sentences and inversions (covered in Lesson 03)",
+      "Sentence transformations regarding polarity and degree of comparison (covered in Lessons 08 & 09)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Learning Objectives",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Interrogative, Imperative, Exclamatory, aur Optative sentences ke scope, exam weightage, aur transformation rules ko samajhein."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Advanced Narration Architecture & Rules Reference",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "Yes/No questions, Wh-questions, inversion removal, commands, requests, negative imperatives, exclamations, aur optative wishes par complete reference."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Interactive Diagrams & Transformation Flow",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Yes/No question flow, Wh-question inversion removal diagram, imperative verb selector, negative imperative flow, aur exclamatory/optative emotion matrix."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "10 Precision Advanced Narration Formulas",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "If/whether rule, Wh-word retention, inversion removal, imperative to-infinitive, negative imperative, forbade prohibition, exclaimed emotions, optative prayer formula, polite word drop, aur enquiry preposition rules."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Exam Derivations",
+      "durationMin": 15,
+      "type": "worked-examples",
+      "summary": "Interrogative, imperative, exclamatory, aur optative sentences ka step-by-step cognitive derivation algorithm with annotated Roman Hinglish reasoning."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "6 High-Frequency Exam Distractors",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "Inversion retention, double connective 'that if', forbidden + not double negative, missing 'of' after enquired, retained question mark, aur polite word duplication traps."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Scaffolded Questions with Instant Feedback",
+      "durationMin": 15,
+      "type": "guided-practice",
+      "summary": "Immediate hint support, step-by-step reasoning, aur rule references ke sath guided advanced narration practice."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "20 High Court Exam-Caliber MCQs",
+      "durationMin": 20,
+      "type": "independent-practice",
+      "summary": "Unassisted test simulation across Yes/No questions, Wh-questions, commands, requests, exclamations, optatives, aur error spotting."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15-Question Timed Certification Test",
+      "durationMin": 12,
+      "type": "mastery-assessment",
+      "summary": "Strict 12-minute exam timer, 80% passing standard (12/15), shuffle support, aur official scoring."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Revision & Completion",
+      "subtitle": "Quick Reference & Error Remediation",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Advanced Narration summary sheet, weakness diagnostics, Error Bank re-testing, aur permanent milestone completion."
+    }
+  ]
+}

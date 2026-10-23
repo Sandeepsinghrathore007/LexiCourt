@@ -1,0 +1,194 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Head Noun Isolation vs Intervening Prepositional Phrases",
+    "time": "Subject Identification",
+    "aspect": "Core Concord",
+    "formula": "[Head Noun] + (prepositional phrase: of/in/with/for + Noun) + [VERB matching Head Noun]",
+    "auxiliary": "prepositional distractor filtering",
+    "usage": "Verb hamesha apne grammatical Head Noun ke number ke according select hoti hai, na ki verb ke paas aane wale nearest noun ke according. Preposition ke baad aane wala noun preposition ka object hota hai, wo kabhi sentence ka subject nahi ban sakta. Exam mein intervening phrase ko mentally strip out karein.",
+    "patterns": {
+      "affirmative": "Singular Head Noun with Plural Prepositional Complement: \"The quality of these newly delivered computer monitors is outstanding.\"",
+      "negative": "Plural Head Noun with Singular Prepositional Complement: \"The members of the inquiry commission were not convinced by the witness's testimony.\"",
+      "interrogative": "Inverted Verification: \"Has the complete list of eligible candidates been verified by the registrar?\""
+    },
+    "timeMarkers": ["quality of", "list of", "box of", "students in", "members of", "variety of"],
+    "keyTip": "THE HEAD NOUN LAW: 'The list of items has been updated' (NOT *have been). 'List' singular hai, 'items' preposition 'of' ka object hai!"
+  },
+  {
+    "id": "RC-02",
+    "tense": "Compound Subjects with 'AND': Two Entities vs Single Notion",
+    "time": "Compound Subjects",
+    "aspect": "Conjunction Concord",
+    "formula": "Person₁ AND Person₂ ➔ PLURAL VERB || Single Dish / Same Office / Combined Idea ➔ SINGULAR VERB",
+    "auxiliary": "addition vs unified concept",
+    "usage": "Jab do alag-alag persons ya objects 'and' se judte hain toh plural verb aati hai. Lekin agar do nouns milkar ek hi concept, food dish ya single office represent karein, toh singular verb lagti hai. Article Clue: 'The + Noun₁ and Noun₂' = 1 person (singular); 'The + Noun₁ and THE + Noun₂' = 2 persons (plural).",
+    "patterns": {
+      "affirmative": "Single Conceptual Dish: \"Bread and butter is considered a wholesome breakfast in the hostel mess.\"",
+      "negative": "Two Distinct Offices with Two Articles: \"The Director and the Producer were not present at the official screening.\"",
+      "interrogative": "Single Officeholder Check: \"Has the District Magistrate and Collector approved the security arrangements?\""
+    },
+    "timeMarkers": ["bread and butter", "slow and steady", "rice and curry", "the poet and philosopher", "the director and the producer"],
+    "keyTip": "ARTICLE REPETITION RULE: 'The Chairman and Secretary HAS signed' (1 Person). 'The Chairman and THE Secretary HAVE signed' (2 Persons)."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Correlative Conjunctions & The Proximity Rule (Either/Or, Neither/Nor)",
+    "time": "Correlative Conjunctions",
+    "aspect": "Proximity Concord",
+    "formula": "Either/Neither [Subject 1] or/nor [Subject 2] + [VERB matching Subject 2]",
+    "auxiliary": "nearer subject agreement",
+    "usage": "Either...or, Neither...nor, Not only...but also, aur simple or/nor mein verb apne physically closest (nearest) subject ke number aur person se agree karti hai. Pehla subject chahe singular ho ya plural, verb sirf dusre (paas wale) subject ke hisaab se choose hoti hai.",
+    "patterns": {
+      "affirmative": "Plural Nearer Subject: \"Neither the superintendent nor the clerks are responsible for the procedural delay.\"",
+      "negative": "Singular Nearer Subject: \"Either the stenographers or the section officer was not informed about the urgent bench hearing.\"",
+      "interrogative": "Inverted Auxiliary Proximity: \"Has either the judicial officer or the practicing advocates arrived in court?\""
+    },
+    "timeMarkers": ["either...or", "neither...nor", "not only...but also", "or", "nor"],
+    "keyTip": "PROXIMITY RULE: 'Neither the teacher nor the students ARE...' Lekin order reverse karne par: 'Neither the students nor the teacher IS...'. Verb paas wale subject ko dekhti hai!"
+  },
+  {
+    "id": "RC-04",
+    "tense": "Parenthetical Connectives & The First-Subject Rule",
+    "time": "Parenthetical Connectives",
+    "aspect": "First-Subject Concord",
+    "formula": "[Subject 1] + (as well as / along with / together with / in addition to + Subject 2) + [VERB matching Subject 1]",
+    "auxiliary": "parenthetical expression filtering",
+    "usage": "'As well as', 'along with', 'together with', 'in addition to', 'accompanied by', 'besides', aur 'including' coordinate conjunctions nahi hain. Ye parenthetical phrases hain jo additional information dete hain. Sentence ka verb strictly FIRST SUBJECT ke number ke hisaab se decide hota hai.",
+    "patterns": {
+      "affirmative": "Singular First Subject with Plural Parenthetical: \"The Chief Justice, along with three senior judges, has inaugurated the new digital library.\"",
+      "negative": "Plural First Subject with Singular Parenthetical: \"The defense advocates, as well as the client, were not present in the morning session.\"",
+      "interrogative": "First-Subject Interrogation: \"Does the main server, together with its backup units, require immediate maintenance?\""
+    },
+    "timeMarkers": ["as well as", "along with", "together with", "in addition to", "accompanied by", "besides"],
+    "keyTip": "FIRST SUBJECT LAW: 'The teacher, along with twenty students, WAS present' (NOT *were). Ignore the 'along with' phrase completely when selecting the verb!"
+  },
+  {
+    "id": "RC-05",
+    "tense": "Distributive Singular Pronouns: Each, Every, Either of, Neither of",
+    "time": "Distributive Pronouns",
+    "aspect": "Distributive Concord",
+    "formula": "[Each / Every / Either of / Neither of + Plural Noun] + [SINGULAR VERB]",
+    "auxiliary": "individual distributive focus",
+    "usage": "Each, Every, Either of, aur Neither of hamesha ek-ek individual ko alag karke focus karte hain. Inke baad aane wala noun plural ho sakta hai ('Each of the boys', 'Neither of the plans'), lekin main verb STRICTLY SINGULAR hoti hai. 'Every' ke sath multiple nouns 'and' se judne par bhi singular verb aati hai.",
+    "patterns": {
+      "affirmative": "Distributive 'Each of': \"Each of the shortlisted candidates has received an official appointment letter.\"",
+      "negative": "Neither of Plural Choice: \"Neither of the two proposed network routes is secure against unauthorized intrusion.\"",
+      "interrogative": "Every Boy and Girl Concord: \"Was every clerk and every assistant given adequate training on the new filing portal?\""
+    },
+    "timeMarkers": ["each of", "neither of", "either of", "every boy and every girl", "one of"],
+    "keyTip": "EACH OF = SINGULAR VERB: 'Each of the computers IS functioning' (never *are). Even with 'and': 'Every boy and every girl IS present' (never *are)."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Variable Quantity Indefinite Pronouns: The SANAM Complement Law",
+    "time": "Variable Indefinite Pronouns",
+    "aspect": "Complement Concord",
+    "formula": "[Some / All / None / Any / Most] + of + [Uncountable ➔ SINGULAR VERB | Plural Countable ➔ PLURAL VERB]",
+    "auxiliary": "complement noun governing concord",
+    "usage": "SANAM pronouns (Some, All, None, Any, Most) ka apna koi fixed grammatical number nahi hota. Inka agreement inke baad aane wale prepositional complement noun par depend karta hai. Agar complement uncountable noun hai toh singular verb; agar plural countable noun hai toh plural verb.",
+    "patterns": {
+      "affirmative": "Uncountable Complement: \"All of the critical digital evidence was preserved in the secure evidence locker.\"",
+      "negative": "Plural Countable Complement: \"Some of the confidential files were not uploaded to the centralized cloud repository.\"",
+      "interrogative": "None Usage Concord: \"Is none of the administrative personnel available to certify these documents?\""
+    },
+    "timeMarkers": ["some of", "all of", "none of", "most of", "any of", "half of", "percent of"],
+    "keyTip": "SANAM RULE: 'All of the water IS pure' (water is uncountable ➔ is). 'All of the students ARE present' (students are plural ➔ are)."
+  },
+  {
+    "id": "RC-07",
+    "tense": "'A Number of' (Plural) vs 'The Number of' (Singular)",
+    "time": "Numerical Expressions",
+    "aspect": "Quantifier Concord",
+    "formula": "A number of + Plural Noun ➔ PLURAL VERB || The number of + Plural Noun ➔ SINGULAR VERB",
+    "auxiliary": "many vs numerical count",
+    "usage": "'A number of' ka matlab hota hai 'many/several' (bahut saare), iska focus plural entities par hota hai ➔ PLURAL VERB. 'The number of' ka matlab hota hai ek specific 'numerical count' (sankhya), iska subject word 'The number' (singular) hota hai ➔ SINGULAR VERB.",
+    "patterns": {
+      "affirmative": "A Number of Plural Concord: \"A number of senior advocates have expressed serious concerns regarding the new courtroom acoustics.\"",
+      "negative": "The Number of Singular Concord: \"The number of pending writ appeals has not decreased despite dedicated special sittings.\"",
+      "interrogative": "Comparative Inquiry: \"Has the number of successful applicants exceeded the departmental vacancy estimate?\""
+    },
+    "timeMarkers": ["a number of", "the number of", "a large number of", "the total number of"],
+    "keyTip": "THE NUMBER CONTRAST: 'A number of students ARE absent' (a number = many). 'THE number of absent students IS ten' (the number = specific figure)."
+  },
+  {
+    "id": "RC-08",
+    "tense": "'One of the' Relative Clause Concord vs 'The Only One'",
+    "time": "Relative Clauses",
+    "aspect": "Antecedent Concord",
+    "formula": "One of the [Plural Noun] + WHO/THAT + [PLURAL VERB] || THE ONLY ONE of the [Plural Noun] + WHO/THAT + [SINGULAR VERB]",
+    "auxiliary": "relative pronoun antecedent concord",
+    "usage": "In 'One of the + plural noun + who/which/that', relative pronoun 'who' ka antecedent theek pehle aane wala plural noun hota hai, isliye relative clause ke andar ki verb PLURAL aati hai. Lekin agar sentence mein 'THE ONLY' lag jaye, toh reference pure group mein se sirf us ek vyakti par restrict ho jata hai aur verb SINGULAR aati hai.",
+    "patterns": {
+      "affirmative": "Plural Antecedent Concord: \"He is one of those dedicated judicial officers who have consistently delivered prompt rulings.\"",
+      "negative": "The Only One Singular Concord: \"She is the only one of the applicants who has not made a single clerical error in the typing test.\"",
+      "interrogative": "Antecedent Verification: \"Is he one of the employees who were transferred to the Jodhpur bench last month?\""
+    },
+    "timeMarkers": ["one of those who", "one of the people who", "the only one of those who", "the only one of the"],
+    "keyTip": "ANTECEDENT LAW: 'He is one of the boys who HAVE played' (boys have). BUT: 'He is THE ONLY ONE of the boys who HAS played' (the only one has)."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Collective Nouns: Unitary Sense vs Divided Members",
+    "time": "Collective Nouns",
+    "aspect": "Meaning-Dependent Concord",
+    "formula": "Collective Noun (Acting as One Whole Unit) ➔ SINGULAR VERB + 'its' || Collective Noun (Members Divided/Separate) ➔ PLURAL VERB + 'their'",
+    "auxiliary": "unified vs divided sense",
+    "usage": "Jury, committee, team, council, audience, family jab ek unified single entity ke roop mein kaam karte hain toh singular verb aur singular pronoun ('its') lete hain. Jab members aapas mein bant jayein (divided in their opinions) ya alag-alag individual acts karein (taking their seats), toh plural verb aur plural pronoun ('their') lagti hai.",
+    "patterns": {
+      "affirmative": "Unitary Action with 'its': \"The parliamentary committee has submitted its comprehensive report on judicial reforms.\"",
+      "negative": "Divided Members with 'their': \"The jury were not unanimous in their final assessment of the disputed forensic evidence.\"",
+      "interrogative": "Audience Seating Action: \"Have the audience taken their respective seats before the Chief Justice's address?\""
+    },
+    "timeMarkers": ["jury", "committee", "team", "audience", "council", "family", "government"],
+    "keyTip": "COLLECTIVE CONTEXT CLUES: 'The jury HAS delivered ITS verdict' (unanimous ➔ singular). 'The jury WERE divided in THEIR opinions' (divided ➔ plural)."
+  },
+  {
+    "id": "RC-09A",
+    "tense": "Quantities, Measurements, Time, Distance & Money as Single Units",
+    "time": "Measurements & Sums",
+    "aspect": "Unitary Sum Concord",
+    "formula": "[Amount / Distance / Time / Weight as Single Block] ➔ SINGULAR VERB || [Discrete Counted Items] ➔ PLURAL VERB",
+    "auxiliary": "lump sum vs discrete items",
+    "usage": "Jab koi distance (ten miles), time period (two hours), money amount (five thousand rupees), ya weight (fifty kilograms) ek single combined package ya total lump sum represent kare, toh verb SINGULAR aati hai. Jab individual coins, notes, ya units separate roop se count ya distribute hon, tab plural verb aati hai.",
+    "patterns": {
+      "affirmative": "Single Sum of Money: \"Ten thousand rupees is a reasonable monthly remuneration for this part-time technical role.\"",
+      "negative": "Continuous Distance: \"Fifteen kilometres is not an insurmountable distance for a trained judicial police escort.\"",
+      "interrogative": "Distributed Currency Units: \"Were the five hundred rupee notes distributed among the flood relief victims?\""
+    },
+    "timeMarkers": ["ten kilometres is", "five thousand rupees was", "two hours is", "three years is", "fifty kilograms is"],
+    "keyTip": "LUMP SUM RULE: 'Five thousand rupees IS enough' (single amount). BUT 'Five thousand rupees WERE scattered on the road' (individual notes)."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Inverted Word Order & Dummy 'There' Concord",
+    "time": "Inverted Constructions",
+    "aspect": "Inversion Concord",
+    "formula": "There + [VERB matching following noun] + [Actual Subject] || [Adverb/Prepositional Phrase] + [VERB] + [Subject]",
+    "auxiliary": "post-verbal subject matching",
+    "usage": "'There' kabhi bhi grammatical subject nahi hota. Ye introductory dummy word hai. True grammatical subject verb ke theek BAAD aata hai. Verb ke baad aane wale noun ko pehle analyze karein aur uske number ke hisaab se verb chun-ne ka decision lein.",
+    "patterns": {
+      "affirmative": "Plural Post-Verbal Subject: \"There are several critical discrepancies in the official charge sheet filed by the police.\"",
+      "negative": "Singular Post-Verbal Subject: \"There was not a single valid objection raised by the public prosecutor during the hearing.\"",
+      "interrogative": "Compound Inversion: \"Are there any technical assistants available in the server room right now?\""
+    },
+    "timeMarkers": ["there is", "there are", "there was", "there were", "there has been", "there have been"],
+    "keyTip": "DUMMY 'THERE' RULE: 'There IS a pen on the desk' (pen is singular). 'There ARE three pens on the desk' (three pens are plural). Verb matches the noun AFTER it!"
+  },
+  {
+    "id": "RC-11",
+    "tense": "'Many a' & 'More than one' Idiomatic Concord",
+    "time": "Idiomatic Quantifiers",
+    "aspect": "Special Idiomatic Concord",
+    "formula": "Many a + Singular Noun ➔ SINGULAR VERB || More than one + Singular Noun ➔ SINGULAR VERB",
+    "auxiliary": "grammatical form over notional plural",
+    "usage": "'Many a' ka semantic meaning plural hota hai ('many candidates'), lekin iski grammatical structure 'Many a + Singular Noun' strictly SINGULAR VERB leti hai. 'More than one + Singular Noun' bhi formal grammar mein strictly singular verb leta hai ('More than one candidate was...').",
+    "patterns": {
+      "affirmative": "Many a Singular Concord: \"Many a promising aspirant has failed the High Court test due to insufficient keyboard speed.\"",
+      "negative": "More than one Singular Concord: \"More than one server was not configured in accordance with the national cybersecurity mandate.\"",
+      "interrogative": "Many a Interrogation: \"Has many a landmark judgment originated from this historic High Court courtroom?\""
+    },
+    "timeMarkers": ["many a candidate has", "many a soldier has", "more than one person was"],
+    "keyTip": "FORM TRUMPS MEANING: 'Many a man HAS died' (NOT *have). 'More than one clerk WAS absent' (NOT *were). Keep both noun and verb strictly singular!"
+  }
+]

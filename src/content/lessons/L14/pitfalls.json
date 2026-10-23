@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "Double Comparatives and Double Superlatives (Pleonasm)",
+    "category": "Syntax Redundancy & Pleonasm Trap",
+    "frequency": "Extremely High (Number 1 Error Spotting Item in High Court Exams)",
+    "explanation": "Hindi speakers aksar emphasis dene ke liye do comparison markers ek sath use kar dete hain (jaise: 'aur bhi zyada behtar' ➔ candidate likhta hai '*more better'). Lekin English grammar mein double comparatives aur double superlatives strictly prohibited hain. Jab adjective already '-er' lagakar (taller, easier, faster) ya irregular root se (better, worse) comparative ban chuka ho, toh uske pehle 'more' lagana redundant pleonasm hai. Isi tarah '-est' ke sath 'most' lagana fatal error hai (*most fastest, *most cleverest).",
+    "incorrectExample": "Incorrect: The newly upgraded High Court database server is more faster and more better than the previous version.",
+    "correctExample": "Correct: The newly upgraded High Court database server is faster and better than the previous version.",
+    "trapRule": "The Single Marker Law: Use EITHER -er OR more; EITHER -est OR most. Instantly eliminate options containing '*more better', '*more easier', '*more taller', or '*most smartest'."
+  },
+  {
+    "id": "PIT-02",
+    "title": "The Omitted 'Other' Self-Inclusion Trap in Group Comparisons",
+    "category": "Logical Category Inclusion / Exclusion Error",
+    "frequency": "Extremely High (Classic Competitive Exam Discriminator)",
+    "explanation": "Jab comparative degree mein kisi entity ko usi ke category ke doosre members se compare kiya jata hai, toh subject ko comparison group se EXCLUDE karne ke liye 'OTHER' lagana mandatory hai. Agar 'other' nahi lagaya gaya, toh subject khud hi us group mein shamil reh jata hai, jiska matlab nikalta hai ki subject khud apne aap se behtar hai (jo ek logical impossibility hai). 'Iron is more useful than any metal' galat hai kyunki iron khud ek metal hai; isliye iron ko alag karne ke liye 'any other metal' likhna zaroori hai.",
+    "incorrectExample": "Incorrect: Justice Verma is more experienced than any judge currently serving on the bench.",
+    "correctExample": "Correct: Justice Verma is more experienced than any other judge currently serving on the bench.",
+    "trapRule": "The Self-Exclusion Test: If the subject belongs to the group being compared against, 'OTHER' is mandatory: 'than ANY OTHER + singular noun' or 'than ALL OTHER + plural noun'."
+  },
+  {
+    "id": "PIT-03",
+    "title": "Faulty & Illogical Comparisons: Omitting 'That of' / 'Those of'",
+    "category": "Syntactic Parallelism & Semantic Entity Mismatch",
+    "frequency": "Very High (Recurring Error Spotting and Sentence Correction Item)",
+    "explanation": "Comparison hamesha equivalent (sam-tulya) entities ke beech hona chahiye. Kisi city ke climate, population, ya roads ka comparison doosri city se direct nahi ho sakta; doosri city ke climate ya roads se hi hona chahiye. Candidates jaldbazi mein 'than' ke baad seedhe place ya person ka naam likh dete hain, jisse illogical entity mismatch create ho jata hai. Singular noun phrase ko replace karne ke liye 'that of' aur plural noun phrase ke liye 'those of' use karna compulsory hai.",
+    "incorrectExample": "Incorrect: The judicial infrastructure of Jodhpur is more modern than Jaipur.",
+    "correctExample": "Correct: The judicial infrastructure of Jodhpur is more modern than that of Jaipur. (Or: ...than Jaipur's).",
+    "trapRule": "The Like-with-Like Law: Compare attributes to attributes, not attributes to entities. Check for 'than THAT OF' (singular) or 'than THOSE OF' (plural)."
+  },
+  {
+    "id": "PIT-04",
+    "title": "The Latin Comparative 'Than' Trap: Senior, Junior, Prior & Superior",
+    "category": "Morphological Origin & Prepositional Discord",
+    "frequency": "Extremely High (Standard Rajasthan High Court Test Item)",
+    "explanation": "Latin origin ke adjectives jo '-or' par end hote hain (senior, junior, superior, inferior, prior, anterior, posterior) English comparative structure ka general conjunction 'than' nahi lete. Inke sath hamesha preposition 'TO' lagta hai. Examiner candidates ko confuse karne ke liye 'two years senior than him' ya 'prior than the notification' likhkar deta hai. Sath hi, inke aage 'more' lagana bhi prohibited hai (*more senior than him is double error).",
+    "incorrectExample": "Incorrect: The newly appointed judicial assistant is two years senior than his administrative colleague.",
+    "correctExample": "Correct: The newly appointed judicial assistant is two years senior to his administrative colleague.",
+    "trapRule": "The -OR Latin Rule: Adjectives ending in -or (senior, junior, superior, inferior, prior) ALWAYS take 'TO', never 'THAN', and never take 'MORE'."
+  },
+  {
+    "id": "PIT-05",
+    "title": "The 'Prefer...Than' and 'More Preferable' Distortion",
+    "category": "Comparative Verbal and Adjectival Concord",
+    "frequency": "Very High (High-Yield Discriminator)",
+    "explanation": "Candidates 'taller than', 'faster than' ke comparative habit ki wajah se verb 'prefer' aur adjective 'preferable' ke sath bhi blindly 'than' laga dete hain. English grammar rule ye hai ki 'prefer' aur 'preferable' hamesha preposition 'TO' demand karte hain. Iske alawa, 'preferable' already inherently comparative hai, isliye iske aage 'more' lagana pleonastic error hai.",
+    "incorrectExample": "Incorrect: Most senior advocates prefer institutional arbitration than traditional court litigation.",
+    "correctExample": "Correct: Most senior advocates prefer institutional arbitration to traditional court litigation.",
+    "trapRule": "The Prefer-To Formula: Prefer [X] TO [Y] (Never THAN!). Preferable TO [Y] (Never THAN, Never MORE!)."
+  },
+  {
+    "id": "PIT-06",
+    "title": "'One of the' Superlative Followed by Singular Noun Trap",
+    "category": "Distributive Noun Number Concord Discord",
+    "frequency": "Extremely High (Number 1 Concord Trap in Competitive Exams)",
+    "explanation": "Jab sentence mein 'one of the + superlative' construction aata hai, toh candidates ka dhyan shuru ke 'one' par rehta hai aur wo aage aane wale noun ko singular likh dete hain (*one of the greatest judge). Lekin chunav (selection) hamesha MULTIPLE MEMBERS ke group mein se hi ho sakta hai. Isliye 'one of the + superlative' ke baad aane wala noun hamesha PLURAL hona chahiye.",
+    "incorrectExample": "Incorrect: Justice Mathur is recognized as one of the most dedicated judge in the state judiciary.",
+    "correctExample": "Correct: Justice Mathur is recognized as one of the most dedicated judges in the state judiciary.",
+    "trapRule": "The 'One of the' Plural Noun Concord: 'One of the + Superlative + PLURAL NOUN' (one of the best judges, one of the finest officers)."
+  },
+  {
+    "id": "PIT-07",
+    "title": "Conflating 'Less' (Uncountable) and 'Fewer' (Countable)",
+    "category": "Quantifier Countability & Substantive Agreement",
+    "frequency": "Very High (High Court Sentence Correction Trap)",
+    "explanation": "General English mein bolchal ke waqt log har jagah 'less' use kar dete hain ('less people', 'less mistakes'). Lekin formal competitive examination grammar mein countability rule strictly enforce hota hai. 'FEWER' plural COUNTABLE nouns ke sath use hota hai jinhe number mein count kiya ja sake (fewer cases, fewer errors, fewer vacancies). 'LESS' UNCOUNTABLE nouns ke sath use hota hai jinki matra ya degree ho (less time, less work, less expenditure).",
+    "incorrectExample": "Incorrect: Due to the new e-filing system, there were less errors in the cause list today.",
+    "correctExample": "Correct: Due to the new e-filing system, there were fewer errors in the cause list today.",
+    "trapRule": "The Countability Divider: Countable Plural Nouns = FEWER (fewer files, fewer applicants). Uncountable Nouns = LESS (less delay, less effort)."
+  },
+  {
+    "id": "PIT-08",
+    "title": "Adjective vs Adverb Comparison Misuse with Action Verbs",
+    "category": "Part of Speech Modifier Discord",
+    "frequency": "High (Subtle Error Spotting Discriminator)",
+    "explanation": "Jab sentence mein comparison kisi action verb ke manner ka ho raha ho, toh comparative adjective use karna grammatical error hai; comparative ADVERB use karna zaroori hai. Candidates 'drove more careful', 'argued more persuasive', ya 'ran quicker' likh dete hain. Action verbs ke sath '-ly' wale adverbs 'more + adverb' ke sath aate hain (more carefully, more persuasively).",
+    "incorrectExample": "Incorrect: The defense counsel argued more persuasive than the public prosecutor in yesterday's hearing.",
+    "correctExample": "Correct: The defense counsel argued more persuasively than the public prosecutor in yesterday's hearing.",
+    "trapRule": "The Action-Modifier Concord: If modifying an action verb, use a comparative ADVERB ('spoke more clearly', 'argued more persuasively', 'worked more diligently')."
+  }
+]

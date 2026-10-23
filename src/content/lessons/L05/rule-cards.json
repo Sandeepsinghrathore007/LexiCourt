@@ -1,0 +1,162 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Standard Transitive Imperative (Commands & Direct Orders)",
+    "time": "Imperatives",
+    "aspect": "Commands & Instructions",
+    "formula": "Let + Object + be + V3",
+    "auxiliary": "Let + ... + be (auxiliary 'be' base form mein aati hai)",
+    "usage": "Direct commands, administrative instructions, aur objective actions jahan active sentence mein transitive object present ho. Subject 'You' implied hota hai.",
+    "patterns": {
+      "affirmative": "Open the official inquiry file. ➔ Let the official inquiry file be opened.",
+      "negative": "Do not open the sealed envelope. ➔ Let the sealed envelope not be opened.",
+      "interrogative": "Will you open the door? ➔ Will the door be opened by you?"
+    },
+    "timeMarkers": ["immediately", "at once", "forthwith", "now", "duly", "before 5 PM"],
+    "keyTip": "PRONOUN CASE ALERT: 'Let' ke baad agar pronoun lagana ho, toh wo hamesha objective case (him, her, them, us, me) mein hoga. 'Let he be told' galat hai; 'Let him be told' sahi hai."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Situational Requests & Formal Courtesy (Polite Requests)",
+    "time": "Imperatives",
+    "aspect": "Requests & Politeness",
+    "formula": "You are requested to + V1 + Object",
+    "auxiliary": "are requested to (main verb base infinitive 'to + V1' mein transform hoti hai)",
+    "usage": "Jab active imperative sentence mein 'Please' ya 'Kindly' laga ho, ya tone polite request ki ho. In sentences mein 'Let' lagana unnatural hota hai.",
+    "patterns": {
+      "affirmative": "Please verify my digital documents. ➔ You are requested to verify my digital documents.",
+      "negative": "Please do not disturb the court proceedings. ➔ You are requested not to disturb the court proceedings.",
+      "interrogative": "Could you please verify this? ➔ You are requested to verify this."
+    },
+    "timeMarkers": ["please", "kindly", "with respect", "humbly", "urgently"],
+    "keyTip": "REDUNDANCY ELIMINATION: Passive sentence mein 'please' ya 'kindly' dobara nahi likha jata. 'You are requested to please help' likhna superfluous error hai."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Negative Imperatives & Formal Prohibitions (Negative Syntax)",
+    "time": "Imperatives",
+    "aspect": "Negative & Prohibitions",
+    "formula": "Let + Object + not + be + V3  /  You are forbidden to + V1",
+    "auxiliary": "not + be + V3  /  are forbidden to + V1",
+    "usage": "Aise sentences jinme kisi kaam ko karne se strictly mana kiya gaya ho ya negative instruction ho. 'Not' ki placement exam ka top checking point hai.",
+    "patterns": {
+      "affirmative": "Keep off the grass. ➔ You are ordered to keep off the grass.",
+      "negative": "Do not touch the electrical switchboard. ➔ Let the electrical switchboard not be touched.",
+      "interrogative": "Why touch the switchboard? ➔ Why should the switchboard be touched?"
+    },
+    "timeMarkers": ["never", "do not", "under no circumstances", "on no account", "strictly"],
+    "keyTip": "DOUBLE NEGATIVE TRAP: 'Forbidden' khud ek negative verb hai. Agar option mein 'You are forbidden not to touch' likha ho, toh wo fatal double-negative blunder hai. Correct form strictly 'forbidden to touch' hogi."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Moral Obligations, Advice & Civic Duties (Advice Structures)",
+    "time": "Imperatives",
+    "aspect": "Advice & Moral Duties",
+    "formula": "Object + should / must + be + V3",
+    "auxiliary": "should be + V3 (advice/duty) / must be + V3 (mandatory obligation)",
+    "usage": "Aise imperatives jinme command nahi balki naitik kartavya, samajik salah, ya compassion ho (jaise 'Help the poor', 'Respect elders', 'Obey court orders'). Inhe 'Let' se convert karna unnatural hota hai.",
+    "patterns": {
+      "affirmative": "Obey the judicial orders. ➔ The judicial orders must be obeyed.",
+      "negative": "Do not mock the helpless. ➔ The helpless should not be mocked.",
+      "interrogative": "Should we not obey the orders? ➔ Should the orders not be obeyed?"
+    },
+    "timeMarkers": ["always", "sincerely", "duly", "punctually", "ethically"],
+    "keyTip": "TONE MATCHING: 'Respect your parents' ko 'You are ordered to respect your parents' banana option-setting trap hai. Parents ki respect duty/advice hai, isliye 'Your parents should be respected' sabse accurate option hai."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Simple Modal Auxiliaries (Ability, Obligation & Possibility)",
+    "time": "Modals",
+    "aspect": "Simple Modals",
+    "formula": "Object + Modal + be + V3 + (by + Subject)",
+    "auxiliary": "can / could / may / might / must / should / will / would / ought to + be",
+    "usage": "Present aur future ki ability, possibility, permission, necessity, aur obligation express karne wale modal sentences ka standard passive conversion.",
+    "patterns": {
+      "affirmative": "The High Court may revise the minimum qualification criteria. ➔ The minimum qualification criteria may be revised by the High Court.",
+      "negative": "The registry cannot entertain late submissions. ➔ Late submissions cannot be entertained by the registry.",
+      "interrogative": "Can the IT team restore the corrupted database? ➔ Can the corrupted database be restored by the IT team?"
+    },
+    "timeMarkers": ["easily", "certainly", "definitely", "possibly", "without fail", "tomorrow"],
+    "keyTip": "VOICE IS NOT NARRATION: Direct-Indirect narration ki tarah modal backshift mat karein ('can' ko 'could' ya 'may' ko 'might' na banayein). Active ka modal passive mein strictly preserve rehta hai."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Modal Perfect Passive (Unfulfilled Past Actions & Deductions)",
+    "time": "Modals",
+    "aspect": "Modal Perfects",
+    "formula": "Object + Modal + have been + V3 + (by + Subject)",
+    "auxiliary": "modal + have been (modal ke baad hamesha base 'have' aayega, 'has' kabhi nahi)",
+    "usage": "Past ki unfulfilled duties (should have been), strong past logical deductions (must have been), aur unrealized possibilities (could have been) ka passive transformation.",
+    "patterns": {
+      "affirmative": "The investigating officer should have seized the forged seal. ➔ The forged seal should have been seized by the investigating officer.",
+      "negative": "The department could not have anticipated this server crash. ➔ This server crash could not have been anticipated by the department.",
+      "interrogative": "Would they have accepted our compromise deed? ➔ Would our compromise deed have been accepted by them?"
+    },
+    "timeMarkers": ["yesterday", "last week", "earlier", "in the past", "before the deadline"],
+    "keyTip": "BEEN OMISSION BLUNDER: Agar option mein se 'been' gayab ho (jaise 'should have seized'), toh sentence active hi reh jata hai. Modal Perfect Passive ke liye 'modal + have been + V3' compulsory hai."
+  },
+  {
+    "id": "RC-07",
+    "tense": "Negative & Interrogative Modal Syntax (Inverted Word Order)",
+    "time": "Modals",
+    "aspect": "Syntax & Inversion",
+    "formula": "Negative: Modal + not + be / have been + V3  |  Question: Modal + Obj + be + V3?",
+    "auxiliary": "modal + not (negation) / Modal ... be + V3 (question inversion)",
+    "usage": "Modal sentences mein complex auxiliary chain mein 'not' ki exact placement aur direct interrogative word order coordinate karna.",
+    "patterns": {
+      "affirmative": "The magistrate can grant bail today. ➔ Bail can be granted by the magistrate today.",
+      "negative": "The clerk should not have altered the case diary. ➔ The case diary should not have been altered by the clerk.",
+      "interrogative": "Why should the court dismiss this revision petition? ➔ Why should this revision petition be dismissed by the court?"
+    },
+    "timeMarkers": ["why", "how", "when", "where", "never", "under no pretext"],
+    "keyTip": "WORD ORDER DISCORD: Interrogative modal sentence mein modal helping verb hamesha object se pehle aayega: 'Can the problem be solved?' (CORRECT), 'Can be the problem solved?' (FATAL ERROR)."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Prepositional Verbs & Preposition Retention (Fixed Prepositions)",
+    "time": "Prepositions",
+    "aspect": "Fixed Prepositions",
+    "formula": "Object + appropriate be + V3 + Preposition + (by + Subject)",
+    "auxiliary": "be + V3 + fixed preposition (preposition verb ka inseparable hissa hai)",
+    "usage": "Aisi verbs jo kisi specific preposition ke sath judkar composite idiomatic meaning banati hain (laugh at, look into, deal with, listen to, care for, approve of). Preposition kabhi drop nahi hoti.",
+    "patterns": {
+      "affirmative": "The committee looked into the administrative anomaly. ➔ The administrative anomaly was looked into by the committee.",
+      "negative": "The bench did not agree to the preliminary objection. ➔ The preliminary objection was not agreed to by the bench.",
+      "interrogative": "Did everyone laugh at his pronunciation? ➔ Was his pronunciation laughed at by everyone?"
+    },
+    "timeMarkers": ["thoroughly", "carefully", "duly", "fairly", "promptly"],
+    "keyTip": "DOUBLE PREPOSITION IS VALID: 'The matter was looked into by the police' mein 'into by' dekar ghabrayein nahi. 'into' verb ka hissa hai aur 'by' agent ka preposition hai. Dono saath aana perfectly valid hai."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Phrasal & Prepositional-Phrasal Verbs (Multi-Word Verbs)",
+    "time": "Prepositions",
+    "aspect": "Multi-Word Verbs",
+    "formula": "Object + appropriate be + V3 + Particle + (Preposition) + (by + Subject)",
+    "auxiliary": "be + V3 + particle (call off ➔ called off, put up with ➔ put up with)",
+    "usage": "Transitive multi-word verbs (verb + particle / preposition) ka passive transformation. Multi-word verb ka compound particle structure intact rehta hai.",
+    "patterns": {
+      "affirmative": "The union called off the statewide protest. ➔ The statewide protest was called off by the union.",
+      "negative": "We cannot put up with such misconduct. ➔ Such misconduct cannot be put up with by us.",
+      "interrogative": "Did the board turn down his application? ➔ Was his application turned down by the board?"
+    },
+    "timeMarkers": ["indefinitely", "finally", "unanimously", "abruptly", "completely"],
+    "keyTip": "INTRANSITIVE PHRASAL VERBS: 'The patient passed away' ya 'The car broke down' intransitive multi-word verbs hain. Inka koi object nahi hota, isliye inka passive voice impossible hota hai."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Bi-Transitive Passives with Two Objects (Direct vs Indirect)",
+    "time": "Two Objects",
+    "aspect": "Bi-transitive Verbs",
+    "formula": "IO Promoted: IO + be + V3 + DO  |  DO Promoted: DO + be + V3 + to/for + IO",
+    "auxiliary": "be + V3 (appropriate number and tense concord)",
+    "usage": "Jab active sentence mein do objects hon (Indirect Object = person, Direct Object = thing). Dono se alag-alag passive banaye ja sakte hain, lekin Indirect Object promote karna natural English mein zyada preferred hota hai.",
+    "patterns": {
+      "affirmative": "The registrar gave the candidate an acknowledgment slip. ➔ The candidate was given an acknowledgment slip by the registrar.",
+      "negative": "The management did not offer him any compensation. ➔ He was not offered any compensation by the management.",
+      "interrogative": "Did the court grant the petitioner anticipatory bail? ➔ Was the petitioner granted anticipatory bail by the court?"
+    },
+    "timeMarkers": ["yesterday", "formally", "promptly", "in writing", "last month"],
+    "keyTip": "DIRECT OBJECT PREPOSITION: Agar Direct Object (thing) ko subject banayein, toh Indirect Object se pehle 'to' ya 'for' lagana compulsory hai: 'An acknowledgment slip was given TO the candidate' (not 'given the candidate')."
+  }
+]

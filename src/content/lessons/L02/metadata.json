@@ -1,0 +1,130 @@
+{
+  "id": "L02",
+  "title": "Sequence of Tenses & Tense Harmony",
+  "shortTitle": "Sequence of Tenses",
+  "topicId": "T01",
+  "topicTitle": "Tenses/Sequences of Tenses",
+  "part": "2 of 3",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Advanced",
+  "targetScore": "100% Structural Accuracy",
+  "description": "Main clause aur subordinate clause ke beech cross-clause tense agreement, General Rule of Past Harmony, earlier/simultaneous/posterior time relationships, aur universal truth exceptions ko master karein.",
+  "learningObjectives": [
+    "Governing main clauses aur dependent subordinate/reported clauses ko identify karna seekhein",
+    "General Rule of Past Harmony apply karein: past main verbs subordinate clause mein backshifting demand karte hain",
+    "Teeno temporal relationships coordinate karein: Simultaneous (Past Simple/Cont), Earlier (Past Perfect), aur Later (Future-in-the-Past with would/should)",
+    "Present aur Future main clauses ke saath subordinate tense ki open flexibility ko samajhein",
+    "Universal Truths, Scientific Laws, aur Permanent Facts ke backshift exceptions ko identify aur apply karein",
+    "Continuing current facts ko temporary ya historical past states se distinguish karna seekhein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Main clause vs subordinate/reported clause ka syntactic relationship",
+      "Present aur Future main clauses ke saath tense sequence (Open Sequence Principle)",
+      "General Rule of Past Harmony (Simultaneous, Earlier [Past Perfect], Later [would/should])",
+      "Universal truths, scientific laws, geographical aur mathematical facts ke rules",
+      "Habitual actions, continuing current facts, aur historical facts ka comparison",
+      "Clauses of purpose ('so that... may/might') aur comparison ('than/as') mein tense sequence",
+      "Competitive exams ke high-frequency backshifting traps aur distractor elimination strategies"
+    ],
+    "excluded": [
+      "Full Direct/Indirect Narration rules (reporting verb changes, pronoun shift tables, punctuation — Lesson 06 & 07 mein covered hain)",
+      "Conditional sentences aur 'if / unless / provided that' clauses (Lesson 03 mein covered hain)",
+      "Passive voice transformations (Lesson 04 & 05 mein covered hain)",
+      "Subject-Verb concord jo tense harmony se unrelated hai (Lesson 13 mein covered hai)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Learning Objectives",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Samajhein ki complex sentences mein clauses apne verbs ko kaise coordinate karte hain aur tense harmony High Court exams ke liye decisive kyun hai."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Comprehensive Tense Harmony Theory",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "Governing clauses, past harmony laws, anterior/simultaneous/posterior timelines, aur universal truth exceptions par in-depth reference."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Clause Hierarchies & Timelines",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Interactive clause relationship diagrams, past reference timelines, aur backshift decision flowcharts se concept visualize karein."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "Tense Coordination Quick Reference",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Past harmony, purpose clauses, universal truths, aur comparison clauses par 10 precision decision cards."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "Clause Derivation Logic",
+      "durationMin": 10,
+      "type": "worked-examples",
+      "summary": "15 step-by-step analyzed multi-clause sentences jo main vs subordinate clause concord ko break down karte hain."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "Backshift Traps & Exam Distractors",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "Classic exam traps ka breakdown, jaise eternal truths ka false backshift aur 'will' vs 'would' confusion."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Questions with Instant Explanations",
+      "durationMin": 15,
+      "type": "guided-practice",
+      "summary": "Interactive MCQs with immediate feedback, cross-clause concord links, aur distractor elimination tips."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "20 Questions with Summary Review",
+      "durationMin": 20,
+      "type": "independent-practice",
+      "summary": "Exam-style question set testing error spotting, fill-in-the-blanks, aur clause coordination bina timer pressure ke."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15 Questions Timed Simulation (12 Mins)",
+      "durationMin": 12,
+      "type": "mastery-assessment",
+      "summary": "Strict timed certification exam (target: ≥80% accuracy) jo Lesson 02 certified mastery ke liye zaroori hai."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Review & Error Bank",
+      "subtitle": "Harmony Revision & Error Retakes",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Tense harmony rules ka curated revision aur galat huye questions ka targeted remediation."
+    }
+  ]
+}

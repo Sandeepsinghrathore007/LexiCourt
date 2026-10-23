@@ -1,0 +1,247 @@
+{
+  "id": "L02-STUDY-DOC",
+  "title": "Comprehensive Study Guide: Sequence of Tenses & Tense Harmony",
+  "subtitle": "Rajasthan High Court System Assistant Exam ke liye Authoritative Grammatical Architecture",
+  "overview": "Sequence of Tenses (jise 'Tense Harmony' ya 'Concord of Tenses' bhi kaha jata hai) principal (main) clause aur subordinate (dependent/reported) clause ke verbs ke beech grammatical relation govern karta hai. Rajasthan High Court System Assistant examination ke Part-B mein cross-clause tense coordination ke questions aksar aate hain — jaise valid backshifting, mandatory anterior past (Past Perfect), future-in-the-past (would/should), aur inviolable universal truth exceptions.",
+  "sections": [
+    {
+      "id": "sec-foundations",
+      "number": 1,
+      "title": "Foundations of Tense Coordination & Clause Architecture",
+      "summary": "Har complex sentence mein governing main clause aur dependent subordinate clause ke beech ek hierarchical relationship hota hai.",
+      "content": "Simple sentence mein tense sirf speaking ke moment ke relative decide hota hai. Lekin complex sentences mein, jahan do ya do se zyada clauses hote hain, main clause ka verb primary temporal anchor ka kaam karta hai. Subordinate clause ke verb ko logically is anchor ke sath harmonise hona padta hai.",
+      "dimensions": [
+        {
+          "name": "Structural Clause Classification",
+          "description": "Tense concord samajhne ke liye clause hierarchy ko identify karna sabse pehla zaroori step hai.",
+          "categories": [
+            {
+              "name": "Principal / Main Clause",
+              "detail": "Ek independent syntactic unit jiska apna subject aur finite verb hota hai aur jo akele ek complete sentence ban sakta hai. Iska verb (often a reporting verb jaise said, knows, announced, proved) main temporal frame set karta hai."
+            },
+            {
+              "name": "Subordinate / Dependent Clause",
+              "detail": "Ek clause jo main clause se subordinating connective (that, because, although, when, if, so that) ke through judti hai. Iska finite verb main clause anchor ke sath harmonise hona chahiye."
+            },
+            {
+              "name": "Speech Time vs. Event Time",
+              "detail": "Physical time (action reality mein kab hua) aur grammatical tense mechanical roop se same nahi hote. Tense harmony governing reference point par speaker ke perspective ko reflect karti hai."
+            }
+          ]
+        },
+        {
+          "name": "The Three Relative Temporal Axes",
+          "description": "Governing main clause ke anchor point ke hisaab se subordinate action sirf teen temporal relationships mein ho sakta hai.",
+          "categories": [
+            {
+              "name": "Simultaneous (Co-occurring)",
+              "detail": "Subordinate event theek usi waqt hota hai jab main clause ka action ho raha hota hai."
+            },
+            {
+              "name": "Anterior (Earlier / Prior)",
+              "detail": "Subordinate event main clause ke action se pehle complete ho chuka tha."
+            },
+            {
+              "name": "Posterior (Later / Subsequent)",
+              "detail": "Subordinate event main clause ke action ke baad hona projected ya expected tha."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Core Premise: Governing Main Verb = Temporal Reference Anchor. Subordinate Verb = Relative Position (Simultaneous, Earlier, ya Later)."
+    },
+    {
+      "id": "sec-present-future-governing",
+      "number": 2,
+      "title": "Sequence with Present & Future Main Clauses (The Open Sequence Principle)",
+      "summary": "Jab governing verb Present ya Future tense mein hota hai, toh subordinate clause par koi backshift rule lagu nahi hota.",
+      "content": "Bahut se candidates ye galat assume kar lete hain ki har complex sentence ke dono clauses ka tense match hona zaroori hai. English mein, agar main clause verb Present tense (Simple Present, Present Continuous, Present Perfect) ya Future tense mein ho, toh subordinate clause mein meaning ke hisaab se KOI BHI tense aa sakta hai. Isko Principle of Open Sequence kehte hain.",
+      "rules": [
+        {
+          "condition": "Main Clause in Present / Future → Subordinate expressing Current State / Routine",
+          "subordinateTense": "Present Tense (Simple Present / Present Continuous)",
+          "example": "The Registrar says that the bench is currently hearing urgent petitions.",
+          "analysis": "Governing verb 'says' Simple Present mein hai. Subordinate action right now chal raha hai, isliye Present Continuous 'is hearing' bilkul sahi hai."
+        },
+        {
+          "condition": "Main Clause in Present / Future → Subordinate expressing Prior Completed Action",
+          "subordinateTense": "Past Tense (Simple Past / Present Perfect)",
+          "example": "The Chief Justice states that the committee submitted its recommendations yesterday.",
+          "analysis": "Governing verb 'states' Simple Present hai. Subordinate action past ke definite time par hua ('yesterday'), isliye Simple Past 'submitted' aayega. Action past ka ho toh subordinate verb ko zabardasti present mein na badlein!"
+        },
+        {
+          "condition": "Main Clause in Present / Future → Subordinate expressing Future Intention / Projection",
+          "subordinateTense": "Future Tense (will / shall + V1)",
+          "example": "The administrative officer has confirmed that the examination will commence next week.",
+          "analysis": "Governing verb 'has confirmed' Present Perfect hai (jo present frame mein hi aata hai). Subordinate action future ka hai, isliye 'will commence' use karna bilkul sahi hai."
+        }
+      ],
+      "goldenRule": "CRITICAL EXAM AXIOM: Present / Future Main Verb = Open Subordinate Sequence. Sirf 'that' aane par subordinate verb ko past mein shift mat karein!"
+    },
+    {
+      "id": "sec-past-governing",
+      "number": 3,
+      "title": "The General Rule of Past Harmony (Past Main Clauses)",
+      "summary": "Jab principal clause ka verb Past tense mein hota hai, toh subordinate clause ka verb aamtaur par corresponding Past tense mein shift hona ZAROORI hai.",
+      "content": "Competitive exam grammar ka golden foundation hai General Rule of Past Harmony: Principal clause mein Past tense aane par subordinate clause mein bhi Past tense aata hai. Ek baar jab main verb past frame set kar deta hai, toh poora narrative past mein chala jata hai. Lekin kaun sa past tense lagega, ye relative time relation par depend karta hai: simultaneous, earlier, ya later.",
+      "relationships": [
+        {
+          "type": "1. Simultaneous Past Action",
+          "relationship": "Subordinate action past mein main action ke sath theek usi waqt chal raha tha.",
+          "formula": "Main Clause: Simple Past (V2) → Subordinate Clause: Simple Past (V2) or Past Continuous (was/were + V-ing)",
+          "example": "The petitioner understood that the bench was dissatisfied with the affidavit.",
+          "detailedAnalysis": "Dono actions 'understood' aur 'was dissatisfied' past mein ek hi samay huye. 'The petitioner understood that the bench is dissatisfied' likhna standard exam grammar mein fatal tense discord hai."
+        },
+        {
+          "type": "2. Anterior (Earlier) Past Action",
+          "relationship": "Subordinate action main past action se PEHLE hi complete ho chuka tha.",
+          "formula": "Main Clause: Simple Past (V2) → Subordinate Clause: Past Perfect (had + V3)",
+          "example": "The registrar discovered that the clerk had misplaced the original case file.",
+          "detailedAnalysis": "Clerk dwara case file misplace karne ka kaam registrar ki discovery se pehle ho chuka tha. Pehle complete huye past action ke liye Past Perfect ('had misplaced') aayega, aur baad wale past action ke liye Simple Past ('discovered')."
+        },
+        {
+          "type": "3. Posterior (Later) Action / Future-in-the-Past",
+          "relationship": "Subordinate action past main action ke baad hona expected ya projected tha (Future-in-the-Past).",
+          "formula": "Main Clause: Simple Past (V2) → Subordinate Clause: would / should + V1 (Future-in-the-Past)",
+          "example": "The advocate assured the magistrate that he would furnish the requisite surety the following morning.",
+          "detailedAnalysis": "'Assured' ke past reference point se dekhein toh surety furnish karne ka action future mein hona tha. Past sequence mein 'will' hamesha 'would' mein backshift hota hai, aur 'shall' 'should' mein. Yahan 'will furnish' likhne se severe modal tense discord ban jata hai."
+        }
+      ],
+      "goldenRule": "EXAM PITFALL: Past narrative mein subordinate clause ke andar 'will', 'can', ya 'may' kabhi use na karein. Inki jagah inke past equivalents use karein: 'would', 'could', aur 'might'."
+    },
+    {
+      "id": "sec-universal-truths",
+      "number": 4,
+      "title": "The Universal Truth & Scientific Fact Exception",
+      "summary": "Jab subordinate clause eternal universal truth, scientific law, ya mathematical axiom express karta hai, toh main verb past mein hone par bhi subordinate clause Simple Present mein hi REHTA hai.",
+      "content": "High Court aur state competitive exams mein sabse zyada pucha jane wala exception hai Universal Truth Exception. Agar subordinate clause koi permanent truth, unchangeable scientific law, mathematical theorem, ya geographical fact batata hai, toh uska verb past mein backshift NAHI hota. Wo Simple Present mein hi rehta hai, kyunki ye baat kal bhi sach thi, aaj bhi sach hai, aur kal bhi sach rahegi.",
+      "categories": [
+        {
+          "category": "Scientific Laws & Physical Realities",
+          "correct": "The science lecturer demonstrated that water boils at 100 degrees Celsius.",
+          "incorrect": "The science lecturer demonstrated that water boiled at 100 degrees Celsius.",
+          "explanation": "Paani ka 100°C par boil hona ek immutable scientific law hai. 'Boiled' use karne se ye galat meaning niklega ki paani ab is temperature par boil nahi hota."
+        },
+        {
+          "category": "Astronomical & Cosmological Facts",
+          "correct": "Copernicus established that the earth revolves round the sun.",
+          "incorrect": "Copernicus established that the earth revolved round the sun.",
+          "explanation": "Planets ka sun ke chakkar lagana ek continuous cosmological reality hai. Isliye verb 'revolves' Simple Present mein hi rahega."
+        },
+        {
+          "category": "Mathematical & Geometric Axioms",
+          "correct": "The tutor explained that parallel lines never intersect.",
+          "incorrect": "The tutor explained that parallel lines never intersected.",
+          "explanation": "Mathematical axioms timeless realities hote hain. Isliye 'never intersect' present form mein hi rahega."
+        },
+        {
+          "category": "Geographical Constants",
+          "correct": "The geography professor noted that the Thar Desert covers a vast portion of western Rajasthan.",
+          "incorrect": "The geography professor noted that the Thar Desert covered a vast portion of western Rajasthan.",
+          "explanation": "Desert ki geographical location ek permanent reality hai jo change nahi hoti, isliye Simple Present use hota hai."
+        },
+        {
+          "category": "Proverbs & Universal Moral Maxims",
+          "correct": "Our teacher reminded us that honesty is the best policy.",
+          "incorrect": "Our teacher reminded us that honesty was the best policy.",
+          "explanation": "Proverbs aur moral maxims universal ethical truths hote hain, isliye ye hamesha Simple Present mein hi rehte hain."
+        }
+      ],
+      "goldenRule": "CRITICAL DISCRIMINATION: Universal Truth = Simple Present (revolves, boils). Historical Event = Simple Past (India gained independence in 1947). Temporary State = Past (He said he was unwell)."
+    },
+    {
+      "id": "sec-habits-and-continuing-facts",
+      "number": 5,
+      "title": "Habitual Actions, Permanent Characteristics & Continuing Present Facts",
+      "summary": "Continuing habits ya situations jo speech ke waqt bhi true hain, unke liye careful contextual understanding zaroori hoti hai.",
+      "content": "Competitive exams mein aksar aise questions aate hain jahan reported situation speech ke time par bhi true ho sakti hai, ya phir action kisi person ki past habit thi. Candidates ko universal truths, continuing personal facts, aur past finished states ke beech clear farq samajhna aana chahiye.",
+      "comparisons": [
+        {
+          "type": "Continuing Personal Fact vs. Ceased State",
+          "sentenceA": "Rohit told me that his brother works in the High Court Registry. (Acceptable agar brother aaj bhi wahan kaam karta hai)",
+          "sentenceB": "Rohit told me that his brother worked in the High Court Registry. (Standard traditional exam backshift, mandatory agar job chhoot chuki hai)",
+          "examRecommendation": "Competitive exams mein jab tak sentence explicitly present persistence na dikhaye (jaise 'and he is still working there'), standard exam convention traditional backshifted past tense ('worked') ko hi prefer karta hai."
+        },
+        {
+          "type": "Ongoing Habitual Action vs. Past Habit",
+          "sentenceA": "The doctor observed that the patient drinks green tea every morning.",
+          "sentenceB": "The doctor observed that the patient drank green tea every morning.",
+          "examRecommendation": "Agar habitual marker 'every morning' ek aisi routine batata hai jo aaj bhi jari hai, toh Simple Present valid hai. Lekin agar habit past lifestyle ya kisi deceased person se related ho, toh Simple Past ya 'used to' mandatory hota hai."
+        },
+        {
+          "type": "Historical Past Fact (Never Shift to Present!)",
+          "sentenceA": "INCORRECT: The historian argued that Akbar rules wisely.",
+          "sentenceB": "CORRECT: The historian argued that Akbar ruled wisely.",
+          "examRecommendation": "Historical facts past ke finished time period mein huye the. Chahe history mein recorded hon, Akbar ka shasan koi universal truth nahi hai. Yahan Simple Past ('ruled') lagna mandatory hai."
+        }
+      ],
+      "goldenRule": "KEY DISTINCTION: Historical Past Fact ko kabhi Universal Truth ke sath confuse mat karein. Historical facts mein hamesha Simple Past (V2) lagta hai, Simple Present kabhi nahi!"
+    },
+    {
+      "id": "sec-special-clauses",
+      "number": 6,
+      "title": "Sequence of Tenses in Purpose, Comparison & Adverbial Clauses",
+      "summary": "Kuch specific subordinating conjunctions ke modal aur tense rules strictly defined hote hain.",
+      "content": "Kuch clause types ke specialized tense-harmony rules hote hain jo general sequence se thode alag hote hain aur specific modal auxiliaries demand karte hain.",
+      "clauses": [
+        {
+          "name": "Clauses of Purpose ('so that' / 'in order that')",
+          "rule": "Purpose clause ka modal auxiliary main clause ke verb par strictly depend karta hai:",
+          "pattern1": "Present / Future Main Verb → so that / in order that + Subject + may / can + V1",
+          "example1": "The system assistant works diligently so that he may earn a promotion.",
+          "pattern2": "Past Main Verb → so that / in order that + Subject + might / could + V1",
+          "example2": "The system assistant worked diligently so that he might earn a promotion. (NOT 'may earn')",
+          "trap": "EXAM TRAP: Past verb ke baad 'may' use karna ('worked so that he may') state exams ka sabse common error-spotting trap hai. Past ke sath hamesha 'might' lagta hai."
+        },
+        {
+          "name": "Clauses of Comparison ('than' / 'as...as')",
+          "rule": "Comparison clauses par rule of past harmony lagu NAHI hota. Sense aur context ke hisaab se comparison clause mein koi bhi tense aa sakta hai:",
+          "pattern1": "Past Main Verb + than / as + ANY Tense",
+          "example1": "He liked the Jodhpur judicial bench better than he likes the administrative tribunal now. (Past followed by Present)",
+          "example2": "The senior advocate helped me more than he will help you tomorrow. (Past followed by Future)",
+          "trap": "Agar comparison present ya future state se ho raha ho, toh 'than' ke baad wale verb ko zabardasti past mein mat badlein."
+        },
+        {
+          "name": "Clauses of Reason / Cause ('because' / 'since' / 'as')",
+          "rule": "Clauses of reason cause and effect ke chronological order ko follow karte hain. Agar cause past main event se pehle hua tha, toh Past Perfect use karein:",
+          "example": "The petitioner was penalized because he had violated the court's restraining order.",
+          "trap": "Colloquial English mein Simple Past ('because he violated') log bol dete hain, lekin competitive exams pehle huye cause ke liye strictly Past Perfect ('had violated') ko correct maante hain."
+        }
+      ],
+      "goldenRule": "PURPOSE FORMULA: Present Main → may + V1 | Past Main → might + V1. Past Main ke sath 'may' kabhi pair na karein!"
+    },
+    {
+      "id": "sec-exam-decision-matrix",
+      "number": 7,
+      "title": "Competitive Exam Decision Matrix & Solving Heuristics",
+      "summary": "Tense sequence ke MCQs ko 100% accuracy ke sath solve karne aur distractors eliminate karne ke liye ek deterministic 4-step algorithm.",
+      "content": "High Court Part-B English mein time limit ke andar questions solve karne ke liye intuitive 'sound' par rely karne ke bajaye ek structured 4-step algorithm follow karein.",
+      "algorithm": [
+        {
+          "step": "Step 1: Main Verb ko Isolate aur Identify karein",
+          "action": "Principal clause dhundein. Governing verb Present, Future, ya Past mein hai? (jaise 'said' = Past; 'claims' = Present; 'will prove' = Future)."
+        },
+        {
+          "step": "Step 2: Universal Truths aur Comparisons Check karein",
+          "action": "Kya subordinate clause koi universal/scientific truth hai ya 'than' se start ho raha hai? Agar YES → Simple Present (ya logical tense) lagayein aur yahin ruk jayein. Agar NO → Step 3 par proceed karein."
+        },
+        {
+          "step": "Step 3: Main Anchor ke hisaab se Chronological Alignment check karein",
+          "action": "Main verb ke mukable subordinate action pehle hua tha (Earlier)? Sath-sath hua tha (Simultaneous)? Ya baad mein hona tha (Later)?"
+        },
+        {
+          "step": "Step 4: Select Deterministic Verb Structure",
+          "action": "Earlier → had + V3 (Past Perfect) | Simultaneous → V2 / was, were + V-ing | Later → would / should + V1 | Purpose → might + V1."
+        }
+      ],
+      "summaryTable": [
+        { "mainTense": "Present / Future", "relation": "Any Relation", "subTense": "Any Tense (Open Sequence)" },
+        { "mainTense": "Past", "relation": "Simultaneous", "subTense": "Simple Past (V2) or Past Continuous" },
+        { "mainTense": "Past", "relation": "Earlier (Anterior)", "subTense": "Past Perfect (had + V3)" },
+        { "mainTense": "Past", "relation": "Later (Posterior)", "subTense": "Future-in-the-Past (would + V1)" },
+        { "mainTense": "Past", "relation": "Universal / Scientific Truth", "subTense": "Simple Present (V1 / V_s/es)" },
+        { "mainTense": "Past", "relation": "Purpose (so that)", "subTense": "might / could + V1" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Equality Comparison: 'as + Positive Adjective + as'",
+    "time": "Binary Transformations",
+    "aspect": "Equality & Disparity",
+    "formula": "Subject 1 + Verb + as + Positive Adjective + as + Subject 2",
+    "auxiliary": "as...as (affirmative parity) / not as/so...as (negative disparity)",
+    "usage": "Jab do persons, objects ya places kisi quality mein bilkul equal level par hote hain, toh affirmative sentence mein 'as + adjective + as' use hota hai. Transformed comparative sentence mein negative polarity aati hai ('is not taller than') taaki equality preserve rahe.",
+    "patterns": {
+      "affirmative": "Original Equality: \"Ramesh is as intelligent as Suresh.\"",
+      "negative": "Transformed Comparative: \"Suresh is not more intelligent than Ramesh.\"",
+      "interrogative": "Exam Pattern: \"Chandigarh is as clean as Jaipur.\" ➔ \"Jaipur is not cleaner than Chandigarh.\""
+    },
+    "timeMarkers": ["as...as", "not as...as", "not so...as", "equal degree", "parity"],
+    "keyTip": "MEANING EQUIVALENCE: 'A is as tall as B' ka matlab dono barabar hain. Agar option mein 'B is taller than A' de diya jaye, toh meaning ulta ho jayega. Sahi transformation negative comparative hogi: 'B is not taller than A'."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Binary Disparity: Comparative 'Than' ➔ 'Not as/so...as'",
+    "time": "Binary Transformations",
+    "aspect": "Equality & Disparity",
+    "formula": "S1 + Verb + Comparative + than + S2  ➔  S2 + Verb + NOT as/so + Positive + as + S1",
+    "auxiliary": "Comparative + than ➔ not as/so + Positive + as",
+    "usage": "Jab do entities ke beech ek entity superior hoti hai, toh comparative degree se positive degree mein badalte waqt: (1) Subject 2 ko sentence ke shuru mein layein; (2) Sentence ko negative banayein; (3) Adjective ko base form mein 'not as/so...as' ke beech rakhein.",
+    "patterns": {
+      "affirmative": "Original Comparative: \"An aeroplane flies faster than birds.\"",
+      "negative": "Transformed Positive: \"Birds do not fly as/so fast as an aeroplane.\"",
+      "interrogative": "Exam Pattern: \"Kolkata is larger than Jaipur.\" ➔ \"Jaipur is not as large as Kolkata.\""
+    },
+    "timeMarkers": ["comparative + than", "not as...as", "not so...as", "subject swap"],
+    "keyTip": "SUBJECT REVERSAL LAW: Binary comparison mein comparative se positive banate waqt subjects ki position swap hona zaroori hai. 'A is taller than B' ko '*A is not as tall as B' likhna 180-degree semantic disaster hai!"
+  },
+  {
+    "id": "RC-03",
+    "tense": "Regular Inflections & CVC Consonant Doubling",
+    "time": "Inflection & Special Rules",
+    "aspect": "Morphology & Latin Rules",
+    "formula": "Monosyllabic: Adj + -er / -est  |  CVC Doubling: Big ➔ Bigger ➔ Biggest  |  Silent -e: Wise ➔ Wiser",
+    "auxiliary": "-er / -est suffixes with mandatory spelling shifts",
+    "usage": "Single-syllable adjectives mein '-er' aur '-est' lagta hai. Short vowel + single consonant (CVC pattern) hone par final consonant double hota hai (big ➔ bigger, hot ➔ hotter). Consonant + 'y' hone par 'y' badal kar 'i' ban jata hai (heavy ➔ heavier ➔ heaviest).",
+    "patterns": {
+      "affirmative": "CVC Rule: \"Today is hotter than yesterday.\" (hot + t + er)",
+      "negative": "Consonant + Y Rule: \"The legal brief was heavier than expected.\" (heavy ➔ heavier)",
+      "interrogative": "Silent -e Rule: \"Justice Verma is wiser than his peers.\" (wise ➔ wiser)"
+    },
+    "timeMarkers": ["-er / -est", "bigger/biggest", "hotter/hottest", "heavier/heaviest", "wiser/wisest"],
+    "keyTip": "SPELLING TRAPS: Options mein examiner '*biger', '*hoter', ya '*heavyer' likhkar distract karta hai. Consonant doubling aur 'y' to 'i' rules verify karna pehla step hona chahiye."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Irregular Adjectives & Suppletive Grading",
+    "time": "Inflection & Special Rules",
+    "aspect": "Morphology & Latin Rules",
+    "formula": "Good/Well ➔ Better ➔ Best  |  Bad/Ill ➔ Worse ➔ Worst  |  Little ➔ Less ➔ Least",
+    "auxiliary": "Irregular root shifts (no regular -er/-est additions)",
+    "usage": "In adjectives ke comparative aur superlative forms completely alag root words se bante hain. Inme kabhi bhi '-er', '-est', ya 'more/most' add nahi kiya jata. Exam mein frequently tested pairs: bad/worse/worst, far/farther/further, late/later/latter, old/older/elder.",
+    "patterns": {
+      "affirmative": "Root Shift 1: \"His health is worse today than yesterday.\" (bad ➔ worse, NOT: *badder)",
+      "negative": "Root Shift 2: \"This requires further investigation.\" (additional info, NOT: *farther)",
+      "interrogative": "Root Shift 3: \"Suresh is my elder brother.\" (family member; never followed by than)"
+    },
+    "timeMarkers": ["better/best", "worse/worst", "less/least", "farther/further", "elder/eldest"],
+    "keyTip": "ELDER VS OLDER: 'Elder' sirf family relations ke liye noun se pehle use hota hai ('my elder brother'). Iske baad kabhi bhi 'than' nahi lagta! 'He is older than me' correct hai, '*He is elder than me' strict error hai."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Unique Apex Superlative: 'The + Superlative' Triad",
+    "time": "Universal Transformations",
+    "aspect": "Unique Apex",
+    "formula": "Superlative: The + Superlative  ➔  Comparative: than ANY OTHER + Singular Noun  ➔  Positive: NO OTHER + Singular Noun",
+    "auxiliary": "The + Superlative ➔ than any other + Singular Noun ➔ No other + Singular Noun",
+    "usage": "Jab group mein koi ek entity sabse supreme hoti hai, toh teeno degrees convert hoti hain. Superlative 'The' leta hai; Comparative 'than any other + singular noun' leta hai; aur Positive 'No other + singular noun' se shuru hokar 'as/so...as' par end hota hai.",
+    "patterns": {
+      "affirmative": "Superlative: \"Mount Everest is the highest peak in the world.\"",
+      "negative": "Comparative: \"Mount Everest is higher than any other peak in the world.\"",
+      "interrogative": "Positive: \"No other peak in the world is as high as Mount Everest.\""
+    },
+    "timeMarkers": ["the + superlative", "than any other", "no other", "singular noun concord"],
+    "keyTip": "TRIAD SYNTAX: Superlative mein 'the' zaroor check karein; Comparative mein 'any other' ke baad singular noun ('peak', NOT '*peaks') check karein; Positive mein 'No other' ke sath singular verb check karein."
+  },
+  {
+    "id": "RC-06",
+    "tense": "The 'Any Other' Self-Exclusion Law",
+    "time": "Universal Transformations",
+    "aspect": "Unique Apex",
+    "formula": "Comparative: Subject + Verb + Comparative + than ANY OTHER + Singular Countable Noun",
+    "auxiliary": "than any other + Singular Noun (Mandatory self-exclusion)",
+    "usage": "Comparative degree mein subject ko usi ke comparison group ke remaining members se alag rakhne ke liye 'OTHER' ka lagna mandatory hai. 'Other' na lagane par subject khud se compare hone lagta hai jo logical impossibility hai. 'Any other' ke baad strictly singular noun lagta hai.",
+    "patterns": {
+      "affirmative": "Correct: \"Iron is more useful than any other metal.\"",
+      "negative": "Illogical Omission: \"*Iron is more useful than any metal.\" (Implies iron is more useful than iron!)",
+      "interrogative": "Number Concord: \"Lead is heavier than any other metal.\" (NOT: *any other metals)"
+    },
+    "timeMarkers": ["any other + singular noun", "all other + plural noun", "self-exclusion"],
+    "keyTip": "SINGULAR CONCORD: Examiner 90% times 'than any other *metals / *boys / *cities' likhkar option banata hai. 'Any other' hamesha SINGULAR noun leta hai ('any other metal / boy / city'). Plural sirf 'all other' ke sath lagta hai."
+  },
+  {
+    "id": "RC-07",
+    "tense": "'One of the' Subset Bracket: 'Very Few' Triad",
+    "time": "Universal Transformations",
+    "aspect": "Subset Bracket",
+    "formula": "Superlative: One of the + Superlative + PLURAL NOUN  ➔  Comparative: than MOST OTHER + PLURAL NOUN  ➔  Positive: VERY FEW + PLURAL NOUN",
+    "auxiliary": "One of the... Plural Noun ➔ than most other... Plural Noun ➔ Very few... Plural Noun",
+    "usage": "Jab subject group ka akela supreme member nahi hota balki top tier ke elite members mein se ek hota hai, toh: Superlative mein 'one of the + plural noun' lagta hai; Comparative mein 'than most other + plural noun' lagta hai; Positive mein 'Very few + plural noun' lagta hai.",
+    "patterns": {
+      "affirmative": "Superlative: \"Ashoka was one of the greatest kings of India.\"",
+      "negative": "Comparative: \"Ashoka was greater than most other kings of India.\"",
+      "interrogative": "Positive: \"Very few kings of India were as great as Ashoka.\""
+    },
+    "timeMarkers": ["one of the + plural noun", "than most other", "than many other", "very few"],
+    "keyTip": "THE 'NO OTHER' TRAP: Agar original sentence mein 'one of the' laga hai, toh uska transformation KABHI BHI 'No other' se shuru nahi ho sakta! 'No other' unique apex ke liye hota hai; 'one of the' ke liye strictly 'Very few' aayega."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Two-Entity Boundary: Zero-Superlative Law",
+    "time": "Binary Transformations",
+    "aspect": "Equality & Disparity",
+    "formula": "Total Entities = 2  ➔  Only Positive and Comparative Degrees are grammatically possible",
+    "auxiliary": "Comparative with 'the' for selection between two: 'the + comparative + of the two'",
+    "usage": "Superlative degree strictly teen ya teen se zyada (N >= 3) entities ke group par apply hoti hai. Agar comparison sirf do logon ya cheezon ke beech hai, toh superlative form use karna fatal error hai. Do entities ke beech specific selection mein comparative se pehle 'the' lagta hai.",
+    "patterns": {
+      "affirmative": "Selection between Two: \"Of the two candidates, Rohan is the better.\" (NOT: *the best)",
+      "negative": "Specific Pair: \"Between Anita and Sunita, Anita is the taller.\" (NOT: *the tallest)",
+      "interrogative": "Two Brothers: \"He is the wiser of the two brothers.\" (NOT: *the wisest)"
+    },
+    "timeMarkers": ["of the two", "between the two", "the + comparative", "no superlative allowed"],
+    "keyTip": "THE 'OF THE TWO' COMPARATIVE: Jab sentence mein 'of the two' aa jaye, toh superlative nahi, comparative degree use hoti hai, aur us comparative se pehle definite article 'THE' lagta hai ('the better of the two')."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Dual Qualities of Same Entity & Parallel Progression",
+    "time": "Inflection & Special Rules",
+    "aspect": "Morphology & Latin Rules",
+    "formula": "Dual Qualities: Subject + Verb + MORE + Adj 1 + than + Adj 2  |  Progression: The + Comp..., the + Comp...",
+    "auxiliary": "more + Adj (never -er for single entity) / The + Comparative..., the + Comparative...",
+    "usage": "Jab ek hi person ki do alag qualities ka comparison ho, toh monosyllabic adjective hone ke bawjood '-er' nahi lagta; strictly 'more' lagta hai ('more brave than wise'). Proportional change mein dono clauses 'The + Comparative' se start hote hain.",
+    "patterns": {
+      "affirmative": "Dual Qualities: \"Rohan is more brave than wise.\" (NOT: *braver than wise)",
+      "negative": "Dual Qualities: \"The advocate was more diligent than clever.\" (NOT: *cleverer)",
+      "interrogative": "Parallel Progression: \"The higher you climb, the cooler you feel.\""
+    },
+    "timeMarkers": ["more [Adj 1] than [Adj 2]", "the higher..., the cooler...", "parallel increase"],
+    "keyTip": "SINGLE ENTITY TRAP: 'Rohan is braver than wise' exam mein sabse attractive distractor hota hai. Hamesha check karein: Agar person ek hi hai aur qualities do hain, toh '-er' prohibited hai, 'more' mandatory hai."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Latin Comparatives & Preposition 'To'",
+    "time": "Inflection & Special Rules",
+    "aspect": "Morphology & Latin Rules",
+    "formula": "Subject + Verb + [senior / junior / superior / inferior / prior / preferable] + TO + Object",
+    "auxiliary": "senior to, junior to, superior to, inferior to, prior to, preferable to (NEVER 'than')",
+    "usage": "Latin origin ke adjectives jo '-or' par end hote hain, aur adjective 'preferable', conjunction 'than' ki jagah preposition 'to' lete hain. Inke pehle kabhi bhi comparative marker 'more' ya 'most' nahi lagaya jata.",
+    "patterns": {
+      "affirmative": "Seniority: \"Mr. Verma is senior to Mr. Sharma by five years.\" (NOT: *senior than)",
+      "negative": "Superiority: \"This judicial order is superior to the previous ruling.\" (NOT: *superior than)",
+      "interrogative": "Preference: \"Settlement is preferable to endless litigation.\" (NOT: *more preferable than)"
+    },
+    "timeMarkers": ["senior to", "junior to", "superior to", "inferior to", "prior to", "preferable to"],
+    "keyTip": "NEVER 'THAN', NEVER 'MORE': 'Senior', 'superior', 'preferable' ke sath examiner hamesha '*than' ya '*more preferable' deta hai. Options dekhte hi check karein: preposition strictly 'TO' hona chahiye aur 'more' absent hona chahiye."
+  }
+]

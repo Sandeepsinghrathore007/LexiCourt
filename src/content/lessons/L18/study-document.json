@@ -1,0 +1,271 @@
+{
+  "lessonId": "L18",
+  "title": "Prefixes & Suffixes: Word Formation, Meaning, Spelling and Exam Practice",
+  "overview": "English vocabulary aur sentence completion questions ko solve karne ke liye word formation ke rules ko master karein: base words aur roots ko pehchanna, prefixes se meaning modification samajhna, suffixes se grammatical word class change karna, spelling adjustments accurately apply karna, aur exam traps ko systematically eliminate karna.",
+  "sections": [
+    {
+      "id": "sec-base-roots-affixes",
+      "number": 1,
+      "title": "A. Base Words, Roots, Prefixes, and Suffixes",
+      "summary": "Morpheme structure: Base words, classical roots, prefixes, suffixes, aur derived word families ka core foundation.",
+      "content": "English language mein naye words banane ka sabse powerful aur scientific process 'Affixation' (Word Formation) kehlata hai.\n\n1. Base Word (Mool Shabd):\nEk aisa complete, standalone English word jisme kisi prefix ya suffix ke bina bhi apna independent meaning hota hai. Jaise: 'happy', 'teach', 'care', 'play'. Base words ke aage ya peeche affixes lagakar naye words banaye jaate hain.\n\n2. Classical Root (Etymological Stem):\nEk aisa core word element jo aksar ancient Latin ya Greek language se aata hai aur aamtaur par modern English mein akele standalone word ki tarah exist nahi karta. Jaise 'struct' (to build in Latin) se 'construct', 'destruct', 'instruct' bante hain; 'scrib/script' (to write) se 'describe', 'prescribe', 'manuscript' bante hain. Har root standalone word nahi hota, isliye modern base words aur etymological roots ke beech farq samajhna zaroori hai.\n\n3. Prefix (Upsarg):\nEk aisa letter ya letters ka group jo base word ya root ke START (beginning) mein attach hota hai. Prefix ka main function word ke MEANING ko modify, reverse, intensify ya qualify karna hota hai. Prefix lagane se aamtaur par word ki grammatical category (part of speech) change nahi hoti (e.g., 'happy' [adjective] + 'un-' = 'unhappy' [adjective]).\n\n4. Suffix (Pratyay):\nEk aisa letter ya letters ka group jo base word ya root ke END (aakhir) mein attach hota hai. Suffix ka primary function word ki GRAMMATICAL CATEGORY (part of speech) ko change karna hota hai. Jaise verb 'teach' mein '-er' lagane par noun 'teacher' banta hai; noun 'care' mein '-ful' lagane par adjective 'careful' banta hai.\n\n5. Derived Word (Naya Vyutpanna Shabd):\nBase word ya root mein prefix, suffix ya dono jodne ke baad jo naya word banta hai use 'derived word' (derivative) kehte hain. Jaise 'comfort' (base) -> 'uncomfortable' (derived with prefix 'un-' and suffix '-able').\n\n6. Word Family:\nEk hi common base word ya root se jude sabhi related words ke group ko 'word family' kaha jata hai. Jaise 'decide' (verb), 'decision' (noun), 'decisive' (adjective), 'decisively' (adverb), 'indecisive' (negative adjective).",
+      "dimensions": [
+        {
+          "name": "Affixation Breakdown Mechanics",
+          "description": "Base words par affixes attach hone se hone wale semantic aur grammatical changes:",
+          "categories": [
+            {
+              "name": "un + happy -> unhappy",
+              "detail": "Prefix 'un-' ne adjective 'happy' ka meaning reverse/opposite kar diya, lekin part of speech adjective hi raha."
+            },
+            {
+              "name": "re + write -> rewrite",
+              "detail": "Prefix 're-' ne verb 'write' mein 'again' (dobara) ka sense add kiya. Grammatical role verb hi raha."
+            },
+            {
+              "name": "teach + er -> teacher",
+              "detail": "Suffix '-er' ne action verb 'teach' ko person/agent noun 'teacher' mein transform kar diya."
+            },
+            {
+              "name": "care + ful -> careful",
+              "detail": "Suffix '-ful' ne noun/verb 'care' ko adjective 'careful' mein convert kar diya (full of care)."
+            },
+            {
+              "name": "quick + ly -> quickly",
+              "detail": "Suffix '-ly' ne descriptive adjective 'quick' ko manner adverb 'quickly' mein transform kar diya."
+            },
+            {
+              "name": "happy + ness -> happiness",
+              "detail": "Suffix '-ness' ne adjective 'happy' ko abstract state noun 'happiness' banaya, aur y -> i spelling change hua."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "Prefix = Meaning Modification (Word class invariant) | Suffix = Word Class Transformation (Noun, Adj, Verb, Adv)"
+    },
+    {
+      "id": "sec-negative-prefixes",
+      "number": 2,
+      "title": "B. Negative and Meaning-Reversing Prefixes",
+      "summary": "Opposites, negation, aur reversal create karne wale prefixes: un-, in-, im-, il-, ir-, dis-, non-, anti-, de-.",
+      "content": "English mein negative aur opposite words banane ke liye sabse zyada competitive exam questions negative prefixes se aate hain. Examiners aksar students ko check karte hain ki kya wo phonetic assimilation aur established word conventions jaante hain ya blindly kisi bhi word ke aage 'un-' laga dete hain.\n\n1. un- (Sabse common Germanic negative prefix):\n• happy -> unhappy\n• fair -> unfair\n• known -> unknown\n• certain -> uncertain\n• comfortable -> uncomfortable\n• able -> unable (Note: noun 'inability' mein 'in-' lagta hai, lekin adjective mein 'unable' hota hai!)\n\n2. in- (Latin origin words ke saath):\n• accurate -> inaccurate\n• complete -> incomplete\n• direct -> indirect\n• active -> inactive\n• visible -> invisible\n• formal -> informal\n\n3. im- (Phonetic Rule: 'p' ya 'm' se shuru hone wale Latin bases ke pehle 'in-' badalkar 'im-' ban jata hai):\n• possible -> impossible (p sound)\n• patient -> impatient (p sound)\n• mature -> immature (m sound)\n• perfect -> imperfect (p sound)\n• mortal -> immortal (m sound)\n• balance -> imbalance (b sound)\n\n4. il- (Phonetic Rule: 'l' se shuru hone wale Latin bases ke pehle 'in-' badalkar 'il-' ban jata hai):\n• legal -> illegal\n• logical -> illogical\n• literate -> illiterate\n• legitimate -> illegitimate\n• legible -> illegible (jise padha na ja sake)\n\n5. ir- (Phonetic Rule: 'r' se shuru hone wale Latin bases ke pehle 'in-' badalkar 'ir-' ban jata hai):\n• regular -> irregular\n• responsible -> irresponsible\n• relevant -> irrelevant\n• rational -> irrational\n• reversible -> irreversible\n• resistible -> irresistible\n\n6. dis- (Negation, separation, removal, ya opposition darshata hai):\n• agree -> disagree (opposition)\n• connect -> disconnect (reversal/separation)\n• honest -> dishonest (absence of honesty)\n• appear -> disappear (reversal of appearance)\n• order -> disorder (lack of order)\n• qualify -> disqualify (revocation of qualification)\n\n7. non- (Factual, objective negation without necessarily implying active opposition):\n• fiction -> nonfiction (factual writing, not an attack on fiction)\n• violent -> nonviolent (absence of violence)\n• sense -> nonsense (lacking sense)\n• payment -> nonpayment (failure to pay)\n• refundable -> nonrefundable\n\n8. anti- (Against, opposing, counteracting):\n• antiwar (opposed to war)\n• antibody (substance fighting antigen)\n• antisocial (harmful to society)\n• antiseptic (preventing infection)\n• climax -> anticlimax\n\n9. de- (Reversal, removal, reduction, ya separation):\n• activate -> deactivate (turn off)\n• value -> devalue (reduce value)\n• frost -> defrost (remove frost)\n• centralize -> decentralize\n• escalate -> de-escalate\n\nCRITICAL EXAM PRINCIPLE: Har negative prefix interchangeable nahi hota! Aap '*unlegal', '*inregular', '*imfair', ya '*dishappy' nahi likh sakte. Established dictionary forms ko hi verify karein.",
+      "dimensions": [
+        {
+          "name": "Phonetic Assimilation Guide for in-",
+          "description": "Base word ke pehle sound ke mutabiq prefix badalta hai:",
+          "categories": [
+            { "name": "in- + Root starting with general consonants/vowels", "detail": "inaccurate, incomplete, indirect, inescapable, invisible" },
+            { "name": "im- + Root starting with 'P', 'M', or 'B'", "detail": "impossible, impatient, immature, immortal, imbalance, imperfect" },
+            { "name": "il- + Root starting with 'L'", "detail": "illegal, illogical, illiterate, illegitimate, illegible" },
+            { "name": "ir- + Root starting with 'R'", "detail": "irregular, irresponsible, irrelevant, irrational, irreversible" }
+          ]
+        }
+      ],
+      "formulaNote": "Assimilation: in- transforms to im- (before p/m/b), il- (before l), and ir- (before r)."
+    },
+    {
+      "id": "sec-time-position-relationship",
+      "number": 3,
+      "title": "C. Prefixes Showing Repetition, Time, Position, and Relationship",
+      "summary": "Actions ki timing, spatial position, hierarchy, degree, aur mutual coordination batane wale prefixes.",
+      "content": "Prefixes sirf ulta meaning hi nahi banate; ve actions kab huye, kahan huye, kis hadd tak huye, aur kiske saath huye, ye sab clarify karte hain.\n\n1. re- (Again, back, repetition):\n• rewrite (dobara likhna)\n• reread (dobara padhna)\n• rebuild (punarnirman karna)\n• reconsider (dobara sochna)\n• recall (wapas bulana ya yaad karna)\nNote: Kuch words mein 're-' lexicalized ho chuka hai jahan base alag nahi hota (jaise receive, retain).\n\n2. pre- (Before, earlier in time or rank):\n• preview (pehle dekhna)\n• prehistoric (recorded history se pehle ka)\n• prearranged (pehle se tai shuda)\n• preheat (pehle se garam karna)\n• prerequisite (pehle se required shart)\n\n3. post- (After, later in time):\n• postgraduate (graduation ke baad ka study)\n• postwar (yuddh ke baad ka samay)\n• postnatal (janm ke baad ka)\n• postpone (aage talna)\n\n4. mid- (Middle of):\n• midnight (madhyaratri)\n• midweek (hafte ke beech mein)\n• midterm (satr ke beech ka exam)\n\n5. fore- (Before, front, in advance):\n• foresee (bhavishya pehle se dekh lena)\n• forecast (bhavishyavani karna)\n• foreword (kitab ke shuru mein likhi prastavana)\n• forehead (matha)\n\n6. ex- (Former, previous; ya out of):\n• ex-president (purva rashtrapati)\n• ex-member (purva sadasya)\n• exhale (saans bahar chhodna)\n• exclude (bahar rakhna)\n\n7. inter- (Between, among different groups):\n• international (rashtron ke beech)\n• interconnect (aapas mein jodna)\n• interstate (rajyon ke beech ka)\n• interact (paraspar kriya karna)\n\n8. intra- (Within, inside a single entity):\n• intranet (sanstha ke andar ka private network)\n• intramural (sanstha ke boundaries ke andar hone wali activity)\n• intravenous (nas ke andar)\nDifference: 'Inter-college' do ya zyada alag colleges ke beech hota hai; 'Intra-college' usi ek college ke alag-alag departments ke beech hota hai!\n\n9. trans- (Across, beyond, through):\n• transport (ek sthan se doosre sthan le jana)\n• transfer (sthanantaran karna)\n• transcontinental (ek mahadvip ke paar)\n• translate (ek bhasha se doosri bhasha mein convert karna)\n\n10. sub- (Under, below, secondary):\n• submarine (samundar ke neeche chalne wali)\n• subdivide (chote hisson mein baantna)\n• substandard (standard level se neeche ka)\n• sub-inspector (inspector ke subordinate post)\n\n11. super- (Above, beyond, exceeding standard):\n• superhuman (manav kshamta se pare)\n• supernatural (prakriti ke niyamon se pare)\n• superstructure (zameen ke upar ka structure)\n• supersonic (sound ki speed se tez)\n\n12. over- (Too much, excessive, above):\n• overwork (hadd se zyada kaam karna)\n• overestimate (aukat ya sankhya se zyada aakna)\n• overcook (zyada paka dena)\n• overdue (samay seema se aage nikal jana)\n\n13. under- (Too little, insufficient, below):\n• underpay (zarurat ya kaam se kam payment dena)\n• underestimate (kam aakna)\n• underdeveloped (kam vikasit)\n• undercover (chupke se, gupt roop se)\n\n14. mis- (Wrongly, badly, incorrectly):\n• misunderstand (galat samajhna)\n• misinterpret (galat arth nikalna)\n• mistake (galti)\n• misplace (galat jagah rakh kar bhool jana)\n• misguide (galat rasta dikhana)\n\n15. mal- (Bad, ill, defective, wrongful):\n• malfunction (thik se kaam na karna, kharabi)\n• malnutrition (kuposhan)\n• malpractice (anaitik ya illegal aacharan)\n• malice (dur-bhavna)\n\n16. co- (Together, with, jointly):\n• co-worker (saath kaam karne wala sahayogi)\n• cooperate (milkar kaam karna)\n• coexist (ek saath astitva mein rehna)\n• co-author (sanyukt lekhak)\n\n17. counter- (Opposing, retaliatory, in response to):\n• counterattack (jawabi hamla)\n• counterproductive (ulfa parinaam dene wala)\n• counteract (prabhav ko neutralise karna)\n• counterfeit (nakli, jaali banaya hua)",
+      "dimensions": [
+        {
+          "name": "Key Spatial & Relational Distinctions",
+          "description": "Confusing prefix pairs ke exact boundaries:",
+          "categories": [
+            { "name": "inter- vs intra-", "detail": "Inter- = between distinct bodies (Interstate highway); Intra- = inside one single body (Intranet, Intramural sports)." },
+            { "name": "over- vs under-", "detail": "Over- = excess/too much (overload); Under- = deficiency/too little (understaffed)." },
+            { "name": "mis- vs mal-", "detail": "Mis- = wrong/accidental error (misread); Mal- = bad/faulty/harmful state or wrongful intent (malpractice, malnutrition)." },
+            { "name": "pre- vs post-", "detail": "Pre- = prior/before (pre-election); Post- = subsequent/after (post-election)." }
+          ]
+        }
+      ],
+      "formulaNote": "Temporal: pre- (before) -> mid- (middle) -> post- (after) | Spatial: sub- (below) < inter- (between) < super- (above)"
+    },
+    {
+      "id": "sec-number-quantity-scale",
+      "number": 4,
+      "title": "D. Prefixes Associated with Numbers, Quantity, and Scale",
+      "summary": "Mathematical, numeric, dimensional, aur magnitude scale batane wale classical affixes.",
+      "content": "Administrative notices, scientific documents, aur High Court legal terminology mein numbers aur scales se jude affixes aksar aate hain.\n\n1. uni- aur mono- (One, single):\n• unicycle (ek pahiye wali cycle)\n• uniform (ek jaisa roop)\n• unilateral (ek-pakshiya faisla; legal: involving only one party)\n• monolingual (sirf ek bhasha bolne wala)\n• monologue (ek vyakti ka bhashan)\n• monopoly (ek hi vyapari ya company ka adhikar)\n\n2. bi- aur di- (Two, double, twice):\n• bicycle (do pahiyon wali cycle)\n• bilingual (do bhashayein bolne wala)\n• bilateral (dvi-pakshiya, e.g., bilateral treaty between two states)\n• dilemma (do kathin vikalpon ke beech sthiti)\n• dioxide (do oxygen atoms wala compound)\n\n3. tri- (Three, threefold):\n• triangle (teen konon wali aakriti)\n• tricycle (teen pahiye wali cycle)\n• trilingual (teen bhashayein bolne wala)\n• tripartite (teen pakshon wala samjhauta)\n• trimester (teen mahine ka samay)\n\n4. multi- aur poly- (Many, multiple):\n• multilingual (bahubhashi, anek bhashayein janne wala)\n• multinational (anek deshon mein karyarat)\n• multitasking (ek saath anek kaam karna)\n• polygon (bahubhuj aakriti)\n• polytechnic (anek technical vidyayein sikhane wala institute)\n\n5. semi- aur hemi- (Half, partial):\n• semicircle (ardhavritta, half circle)\n• semifinal (final se theek pehle ka round)\n• semiconductor (ardh-chalak)\n• hemisphere (ardhagola, jaise Northern Hemisphere)\n\n6. micro- (Extremely small, microscopic scale):\n• microscope (sookshma cheezon ko bada karke dekhne wala yantra)\n• microscopic (jo aam aankhon se na dikhe)\n• microorganism (sookshma jeev)\n• microeconomics (vyaktigat units ka aarthik adhyayan)\n\n7. macro- (Large scale, overall system):\n• macroeconomics (desh ya badi arthvyavastha ka samagra adhyayan)\n• macroscopic (bade paimane par dikhne wala)\n\n8. mini- (Small version of standard object):\n• minibus (chhoti bus)\n• miniature (chhota roop)\n• minimize (kam se kam karna)\n\n9. mega- (Great, huge; ya metric scale mein one million [10^6]):\n• megastore (vishal dukan)\n• megabyte (1 million bytes)\n• megaphone (awaaz ko tez karne wala loundspeaker)",
+      "dimensions": [
+        {
+          "name": "Number & Scale Hierarchy",
+          "description": "Quantities aur magnitudes ka structural matrix:",
+          "categories": [
+            { "name": "Single (1)", "detail": "uni- (unilateral, uniform) | mono- (monologue, monopoly)" },
+            { "name": "Double (2)", "detail": "bi- (bilateral, bilingual) | di- (dialogue, dilemma)" },
+            { "name": "Triple (3)", "detail": "tri- (tripartite, triangle, tricycle)" },
+            { "name": "Many (Multiple)", "detail": "multi- (multinational, multilingual) | poly- (polygon, polyglot)" },
+            { "name": "Half (0.5)", "detail": "semi- (semicircle, semi-skilled) | hemi- (hemisphere)" },
+            { "name": "Scale (Small vs Large)", "detail": "micro- (individual/atomic) vs macro- (systemic/aggregate)" }
+          ]
+        }
+      ],
+      "formulaNote": "Uni-/Mono- (1) -> Bi-/Di- (2) -> Tri- (3) -> Multi-/Poly- (>3) | Micro- (sookshma) vs Macro- (samagra)"
+    },
+    {
+      "id": "sec-noun-suffixes",
+      "number": 5,
+      "title": "E. Noun-Forming Suffixes",
+      "summary": "Verbs aur adjectives ko person, process, state, quality, ya institution nouns mein badalne wale suffixes.",
+      "content": "Noun-forming suffixes English word formation ka sabse bada category hain. Sentence completion questions mein jab subject ya object position par noun required ho, tab in suffixes se sahi word class pehchani jaati hai.\n\n1. -er / -or (Agent / Doer of an action):\n• teach -> teacher (Noun: padhane wala)\n• act -> actor (Noun: abhinay karne wala)\n• inspect -> inspector\n• govern -> governor\n• conduct -> conductor\n• lead -> leader\n• operate -> operator\nNote: Latin origin roots aksar '-or' lete hain (counselor, supervisor), jabki Germanic bases '-er' lete hain (worker, builder).\n\n2. -ist (Specialist, practitioner, believer in a philosophy):\n• art -> artist (kala janne wala)\n• science -> scientist (vaigyanik)\n• journal -> journalist (patrakar)\n• legal -> legalist\n• terror -> terrorist\n\n3. -ian (Person associated with a field or place):\n• music -> musician (sangeetkar)\n• history -> historian (itihaaskar)\n• magic -> magician\n• library -> librarian\n• politics -> politician\n\n4. -ness (Quality, condition, or abstract state from adjectives):\n• kind -> kindness (dayaluta)\n• happy -> happiness (khushi; y -> i)\n• dark -> darkness (andhera)\n• aware -> awareness (jaagrukta)\n• weak -> weakness (kamzori)\n• careless -> carelessness (laparvahi)\n\n5. -ity / -ty (State, degree, or condition from adjectives):\n• active -> activity (sakriyata)\n• safe -> safety (suraksha)\n• pure -> purity (shuddhata)\n• able -> ability (kshamta)\n• creative -> creativity (rachnatmakta)\n• complex -> complexity (jatilta)\n\n6. -ment (Result of action, process, or concrete entity from verbs):\n• develop -> development (vikas)\n• achieve -> achievement (uplabdhi)\n• appoint -> appointment (niyukti)\n• judge -> judgment / judgement (faisla)\n• argue -> argument (tark; silent 'e' drops!)\n\n7. -tion / -sion (Action, process, or resulting state from verbs):\n• educate -> education (shiksha)\n• inform -> information (soochna)\n• decide -> decision (faisla; -de changes to -sion)\n• conclude -> conclusion (nishkarsh)\n• permit -> permission (anumati; -t changes to -ssion)\n• admit -> admission\n\n8. -ance / -ence (Action, state, quality, or continuous condition from verbs/adjectives):\n• perform -> performance (pradarshan)\n• assist -> assistance (madad)\n• differ -> difference (antar)\n• exist -> existence (astitva)\n• depend -> dependence / dependency\n\n9. -ship (State, relationship, skill, or status):\n• friend -> friendship (dosti)\n• leader -> leadership (netritva)\n• citizen -> citizenship (nagrikta)\n• member -> membership (sadasyata)\n\n10. -hood (State, stage of life, or collective community):\n• child -> childhood (bachpan)\n• parent -> parenthood\n• neighbour -> neighbourhood (pados)\n• brother -> brotherhood (bhaichara)\n\n11. -dom (Domain, realm, or general state of being):\n• free -> freedom (azadi)\n• wise -> wisdom (buddhimaani)\n• king -> kingdom (samrajya)\n• star -> stardom\n\n12. -ism (Belief system, doctrine, practice, or quality):\n• human -> humanism (manavtavad)\n• critic -> criticism (aalochana)\n• social -> socialism (samajwad)\n• hero -> heroism (veerta)\n\n13. -ure (Action, process, or result of action from verbs):\n• fail -> failure (asafalta)\n• depart -> departure (ravangi)\n• press -> pressure (dabav)\n• proceed -> procedure (prakriya)",
+      "dimensions": [
+        {
+          "name": "Noun Suffix Semantic Classifiers",
+          "description": "Suffix se banne wale noun ka nature:",
+          "categories": [
+            { "name": "Agent / Person Nouns", "detail": "-er (builder), -or (investor), -ist (chemist), -ian (technician)" },
+            { "name": "Quality / Abstract State", "detail": "-ness (softness), -ity (clarity), -ship (ownership), -hood (adulthood)" },
+            { "name": "Action / Process / Result", "detail": "-ment (agreement), -tion/-sion (expansion), -ance/-ence (guidance), -ure (closure)" },
+            { "name": "System / Doctrine / Domain", "detail": "-ism (patriotism), -dom (martyrdom, boredom)" }
+          ]
+        }
+      ],
+      "formulaNote": "Verb/Adj + Suffix -> Noun | Agent (-er/-or/-ist) vs Quality (-ness/-ity) vs Process (-ment/-tion)"
+    },
+    {
+      "id": "sec-adjective-suffixes",
+      "number": 6,
+      "title": "F. Adjective-Forming Suffixes",
+      "summary": "Nouns aur verbs ko descriptive adjectives mein convert karne wale high-frequency suffixes.",
+      "content": "Adjective-forming suffixes kisi noun ya pronoun ko qualify karne wale descriptive words banate hain. Sentence completion mein jab kisi noun se pehle modifier space khali ho (jaise 'a ___ decision'), tab in suffixes ki zaroorat hoti hai.\n\n1. -ful (Full of, having the quality of):\n• care -> careful (satark, savdhaan)\n• hope -> hopeful (aashawan)\n• use -> useful (upyogi)\n• peace -> peaceful (shantipurna)\n• harm -> harmful (nuksandeh)\nSpelling Rule: Suffix '-ful' mein hamesha SINGLE 'l' hota hai! Kabhi '*carefull' ya '*hopefull' na likhein.\n\n2. -less (Without, lacking the quality of):\n• care -> careless (laparvah)\n• hope -> hopeless (nirash)\n• use -> useless (vyarth)\n• harm -> harmless (ahimsaak, bina nuksan wala)\n• home -> homeless (beghar)\n\nCRITICAL OPPOSITE TRAP: '-ful' aur '-less' har word mein symmetrical opposite nahi hote! Jaise 'awful' (very bad) ka opposite '*awless' nahi hota; 'priceless' (anmol) ka opposite '*priceful' exist nahi karta; 'flawless' (bina kami ke) ka opposite '*flawful' invalid hai!\n\n3. -ous / -ious (Possessing, full of, characterized by):\n• danger -> dangerous (khatarnak)\n• fame -> famous (famous; silent 'e' drops)\n• ambition -> ambitious (mahatvakankshi)\n• courage -> courageous (sahasi; Note: silent 'e' retain hota hai 'g' ki soft sound preserve karne ke liye!)\n• mystery -> mysterious (rahasyamay; y -> i)\n\n4. -al (Relating to, having the nature of):\n• nation -> national (rashtriya)\n• culture -> cultural (sanskritik)\n• origin -> original (mool)\n• finance -> financial (vittiya)\n• person -> personal (vyaktigat)\n\n5. -ic (Having the character or form of):\n• economy -> economic (aarthik)\n• science -> scientific (vaigyanik)\n• hero -> heroic (veertapurna)\n• drama -> dramatic (natakiya)\n• artist -> artistic (kalatmak)\n\n6. -able / -ible (Capable of being, worthy of):\n• comfort -> comfortable (aaramdayak)\n• access -> accessible (pahunch yogya)\n• rely -> reliable (bharosemand; y -> i)\n• sense -> sensible (samajhdar)\n• divide -> divisible (vibhajan yogya)\n• accept -> acceptable (svikarya)\nRule of Thumb: Base agar standalone English word ho toh aksar '-able' lagta hai (dependable, acceptable); Latin root ho toh aksar '-ible' lagta hai (credible, eligible, visible).\n\n7. -ive (Having the nature of, tending to):\n• create -> creative (rachnatmak)\n• effect -> effective (prabhavshali)\n• act -> active (sakriya)\n• decide -> decisive (nirnayak)\n• defend -> defensive (rakshatmak)\n\n8. -y (Characterized by, full of):\n• rain -> rainy (barsati)\n• health -> healthy (swastha)\n• sun -> sunny (dhoop wala; consonant doubling!)\n• wind -> windy (hawaidaar)\n• ease -> easy (aasan)\n\n9. -ish (Somewhat, like, characteristic of):\n• child -> childish (bachkana; often negative)\n• green -> greenish (halke hare rang ka)\n• self -> selfish (swarthi)\n• fool -> foolish (murkhata-purna)\n\n10. -ary (Relating to, connected with):\n• imagine -> imaginary (kalpanik)\n• discipline -> disciplinary (anushasnatmak)\n• custom -> customary (rivaji)\n• honor -> honorary (manad)\n\n11. -ent / -ant (Performing an action, being in a state):\n• depend -> dependent (aashrit; Note: Noun 'dependant' hota hai British English mein!)\n• resist -> resistant (pratirodhi)\n• obey -> obedient (aagyakari)\n• signify -> significant (mahatvapurna)",
+      "dimensions": [
+        {
+          "name": "Key Adjective Suffix Patterns",
+          "description": "Noun/Verb se Adjective conversion ke primary formulas:",
+          "categories": [
+            { "name": "-ful vs -less", "detail": "Careful (full of care) vs Careless (without care) — single 'l' in -ful always." },
+            { "name": "-able vs -ible", "detail": "Understandable, washable (complete base) vs Visible, audible (incomplete stem)." },
+            { "name": "-ous / -ious", "detail": "Danger -> Dangerous, Fame -> Famous, Mystery -> Mysterious." },
+            { "name": "-ive", "detail": "Create -> Creative, Attract -> Attractive, Prevent -> Preventive." }
+          ]
+        }
+      ],
+      "formulaNote": "Noun/Verb + Suffix -> Adjective | Meaning: Capability (-able), Quality (-ful/-ous), Relation (-al/-ic)"
+    },
+    {
+      "id": "sec-verb-suffixes",
+      "number": 7,
+      "title": "G. Verb-Forming Suffixes",
+      "summary": "Nouns aur adjectives ko action verbs mein convert karne wale suffixes: -ize/-ise, -ify, -en, -ate.",
+      "content": "Verb-forming suffixes kisi quality ya noun concept ko dynamically 'karna' ya 'banana' (to make / to cause to become) mein transform karte hain.\n\n1. -ize / -ise (To make, to cause to become, to adapt):\n• modern -> modernize / modernise (aadhunik banana)\n• real -> realize / realise (ehsaas karna)\n• public -> publicize / publicise (prachar karna)\n• legal -> legalize / legalise (vaidh banana)\n• summary -> summarize / summarise (sankshep karna)\n\nSPELLING VARIANT NOTE: '-ize' American English mein standard hai aur Oxford spelling mein accepted hai; '-ise' British English mein widely use hota hai. High Court exam mein dono legitimate variants hain. Question jab tak specific country convention na maange, tab tak legitimate variant ko error mat maaniye.\n\n2. -ify (To make, to cause to be, to turn into):\n• simple -> simplify (saral banana)\n• pure -> purify (shuddh karna; e drops)\n• beauty -> beautify (sundar banana; y -> i)\n• identity -> identify (pehchanna)\n• solid -> solidify (thos banana)\n• clear -> clarify (spasht karna)\n\n3. -en (To cause to have a quality, to make more so):\n• wide -> widen (chauda karna)\n• short -> shorten (chhota karna)\n• dark -> darken (andhera karna)\n• sharp -> sharpen (tez karna)\n• strength (noun) -> strengthen (shaktishali banana)\n• length (noun) -> lengthen (lamba karna)\n• loose -> loosen (dheela karna)\n• soft -> soften (mulayam karna; 't' is silent)\n\n4. -ate (To cause to be, to act upon, to provide with):\n• active -> activate (sakriya karna)\n• valid -> validate (pramanit karna)\n• motive -> motivate (prerit karna)\n• captive -> captivate (aakarshit karna)\n• origin -> originate (utpann hona)",
+      "dimensions": [
+        {
+          "name": "Verb Formation Transformation Grid",
+          "description": "Base se action verb derive karne ke formulas:",
+          "categories": [
+            { "name": "-en pattern", "detail": "Wide -> Widen, Short -> Shorten, Dark -> Darken, Deep -> Deepen" },
+            { "name": "-ify pattern", "detail": "Simple -> Simplify, Pure -> Purify, Clear -> Clarify, False -> Falsify" },
+            { "name": "-ize / -ise pattern", "detail": "Legal -> Legalize, Modern -> Modernize, Central -> Centralize" },
+            { "name": "-ate pattern", "detail": "Active -> Activate, Liquid -> Liquidate, Valid -> Validate" }
+          ]
+        }
+      ],
+      "formulaNote": "Adjective/Noun + [-en / -ify / -ize / -ate] = Action Verb ('to make / to become')"
+    },
+    {
+      "id": "sec-adverb-suffixes",
+      "number": 8,
+      "title": "H. Adverb-Forming Suffixes and Exceptions",
+      "summary": "Adverbs of manner bananey wale patterns, -ly spelling shifts, aur high-frequency adverbial traps.",
+      "content": "Adverbs aamtaur par kisi verb ke action ka dhang (manner), kisi adjective ki intensity, ya kisi doosre adverb ki degree batate hain.\n\n1. Standard -ly Suffix (Adjective + ly = Adverb of Manner):\n• quick (adjective) -> quickly (adverb: jaldi se)\n• careful (adjective) -> carefully (adverb: savdhani se)\n• complete (adjective) -> completely (adverb: poori tarah se)\n• quiet (adjective) -> quietly (adverb: shanti se)\n• bold (adjective) -> boldly (adverb: nidarta se)\n\n2. Spelling Change with Consonant + y (y -> i before -ly):\n• happy -> happily (khushi se)\n• easy -> easily (aasani se)\n• heavy -> heavily (bhaari maatra mein)\n• angry -> angrily (gusse mein)\n• steady -> steadily (lagataar)\nException: Agar word single syllable ho (jaise 'shy', 'sly'), toh aksar y retain hota hai: 'shyly', 'slyly'.\n\n3. Ending in -le (e drops and changes to -y):\n• simple -> simply\n• gentle -> gently\n• capable -> capably\n• probable -> probably\n\n4. Ending in -ic (takes -ally, not just -ly):\n• basic -> basically\n• tragic -> tragically\n• economic -> economically\n• scientific -> scientifically\nException: 'public' takes 'publicly' (NOT '*publically')!\n\nCRITICAL EXAM TRAPS WITH ADVERBS:\n\nTrap 1: Not all words ending in -ly are adverbs!\nKuch high-frequency words '-ly' par end hone ke bawajood ADJECTIVES hote hain (Noun + ly = Adjective):\n• friend (noun) + ly = friendly (Adjective! 'A friendly demeanor')\n• love (noun) + ly = lovely (Adjective! 'A lovely evening')\n• life (noun) + ly = lively (Adjective! 'A lively debate')\n• lone + ly = lonely (Adjective! 'A lonely person')\n• brother + ly = brotherly (Adjective!)\n• cost + ly = costly (Adjective! 'A costly mistake')\nInhe adverb ki tarah use karne ke liye phrase banaya jata hai: 'in a friendly manner', 'in a lively way'.\n\nTrap 2: Flat Adverbs (Adverbs without -ly):\nKuch words adjective aur adverb dono forms mein EXACTLY SAME rehte hain:\n• fast: 'He runs fast' (Adverb, NOT '*fastly')! '*Fastly' English mein exist hi nahi karta!\n• hard: 'She works hard' (Adverb: mehnat se). Note: 'Hardly' ka matlab 'scarcely / barely' (mushkil se) hota hai, mehnat se nahi!\n• late: 'He arrived late' (Adverb). Note: 'Lately' ka matlab 'recently' (haal hi mein) hota hai!\n• well: Adjective 'good' ka standard manner adverb 'well' hota hai ('He speaks English well', NOT '*good').",
+      "dimensions": [
+        {
+          "name": "Adverb vs Adjective Disambiguation",
+          "description": "Crucial distinctions between adverbs and lookalikes:",
+          "categories": [
+            { "name": "Adjective + -ly = Adverb", "detail": "Quick + ly = Quickly (Adverb), Quiet + ly = Quietly (Adverb)" },
+            { "name": "Noun + -ly = ADJECTIVE", "detail": "Friend + ly = Friendly, Love + ly = Lovely, Cost + ly = Costly, Coward + ly = Cowardly" },
+            { "name": "Flat Adverbs (No -ly)", "detail": "Fast (never *fastly), Hard, Late, Straight, Early" },
+            { "name": "Dual Meaning Pairs", "detail": "Hard (mehnat se) vs Hardly (barely); Late (deri se) vs Lately (recently)" }
+          ]
+        }
+      ],
+      "formulaNote": "Adjective + ly = Adverb | Noun + ly = ADJECTIVE (Friendly, Lovely, Costly) | Fastly does NOT exist!"
+    },
+    {
+      "id": "sec-spelling-laws",
+      "number": 9,
+      "title": "I. Spelling Changes When Suffixes Are Added",
+      "summary": "Silent e, consonant doubling (1-1-1 rule), consonant + y, aur irregular word-family orthographic shifts.",
+      "content": "Competitive exams mein word-formation MCQs aksar spelling errors se students ko trap karte hain. Chaar universal orthographic rules ko hamesha dhyan mein rakhein:\n\n1. Rule of Final Silent 'e':\n(A) Suffix agar VOWEL (a, e, i, o, u) se shuru hota hai, toh final silent 'e' aamtaur par DROP ho jata hai:\n• hope + ing -> hoping\n• care + ing -> caring\n• create + ive -> creative (NOT *createive)\n• fame + ous -> famous (NOT *fameous)\n• use + able -> usable\n• arrive + al -> arrival\n\n(B) Suffix agar CONSONANT se shuru hota hai, toh final silent 'e' RETAIN hota hai:\n• hope + ful -> hopeful (NOT *hopful)\n• care + ful -> careful (NOT *carful)\n• use + ful -> useful\n• peace + ful -> peaceful\n• state + ment -> statement\n\nCRITICAL EXCEPTIONS TO SILENT 'E':\n• Soft 'c' aur 'g' Preservation: Jab base word '-ce' ya '-ge' par end ho, aur suffix '-able' ya '-ous' se shuru ho, tab 'e' RETAIN rehta hai taaki 'c' ki /s/ sound aur 'g' ki /dʒ/ sound bani rahe:\n- notice + able -> noticeable (NOT *noticable)\n- courage + ous -> courageous (NOT *couragous)\n- peace + able -> peaceable\n- change + able -> changeable\n• Other Exceptions: argue + ment -> argument (e drops before consonant!), true + ly -> truly, whole + ly -> wholly, judge + ment -> judgment (both judgment and judgement accepted).\n\n2. Rule of Consonant + 'y':\n(A) Jab base word CONSONANT + 'y' par end ho, toh suffix jodne par 'y' badalkar 'i' ban jata hai:\n• happy + ness -> happiness\n• beauty + ful -> beautiful\n• easy + ly -> easily\n• rely + able -> reliable\n• study + ous -> studious\nException to this: Suffix agar '-ing' ho, toh 'y' preserve rehta hai taaki double 'ii' na bane: 'study + ing -> studying', 'carry + ing -> carrying'.\n\n(B) Jab base word VOWEL + 'y' (ay, ey, oy, uy) par end ho, toh 'y' CHANGE NAHI HOTA:\n• play + ful -> playful (NOT *plaiful)\n• joy + ful -> joyful\n• employ + ment -> employment\n• annoy + ance -> annoyance\n\n3. Consonant Doubling Law (The 1-1-1 Rule):\nEk final consonant tab double hota hai jab ye teeno conditions poori hon:\n(1) One syllable ho (ya primary stress last syllable par ho),\n(2) One vowel ke theek baad One final consonant ho (CVC pattern),\n(3) Suffix vowel se shuru hota ho (-ing, -ed, -er, -able, -ance):\n• run + er -> runner\n• big + est -> biggest\n• begin + ing -> beginning (stress on -gin)\n• prefer + ed -> preferred (stress on -fer)\n• admit + ed -> admitted (stress on -mit)\n• occur + ence -> occurrence\n\nCOUNTER-RULE (When NOT to double):\n• Stress pehle syllable par ho: 'benefit + ed -> benefited' (NOT *benefitted in American, stress on ben-); 'open + ing -> opening'; 'visit + or -> visitor'.\n• Two vowels pehle hon: 'read + ing -> reading' (two vowels 'ea'); 'cool + er -> cooler'.\n• Consonant par end na ho ya consonant cluster ho: 'help + er -> helper' (two consonants 'lp').\n\n4. Irregular Family Shifts (Historical Ablaut / Stem Changes):\n• strong (adj) -> strength (noun) -> strengthen (verb)\n• long (adj) -> length (noun) -> lengthen (verb)\n• wide (adj) -> width (noun) -> widen (verb)\n• decide (verb) -> decision (noun) -> decisive (adj)\n• conclude (verb) -> conclusion (noun)\n• permit (verb) -> permission (noun)",
+      "dimensions": [
+        {
+          "name": "Orthographic Decision Matrix",
+          "description": "Suffix jodne ke universal 4 spelling check:",
+          "categories": [
+            { "name": "Silent 'e' + Vowel Suffix", "detail": "Drop 'e': Creative, Famous, Usable (Except: Noticeable, Courageous to keep soft sound)" },
+            { "name": "Silent 'e' + Consonant Suffix", "detail": "Keep 'e': Hopeful, Statement, Careless (Except: Argument, Truly)" },
+            { "name": "Consonant + y", "detail": "Change y -> i: Happiness, Beautiful, Easily (Keep y before -ing: Studying)" },
+            { "name": "1-1-1 Doubling", "detail": "CVC + Vowel suffix + Stressed syllable = Beginning, Occurrence, Preferred" }
+          ]
+        }
+      ],
+      "formulaNote": "Silent 'e': Drop before vowel, keep before consonant | Consonant + y -> i | CVC stressed -> Double consonant"
+    },
+    {
+      "id": "sec-word-families",
+      "number": 10,
+      "title": "J. Word Families and Parts of Speech",
+      "summary": "Top word families ka complete cross-POS analysis: Noun, Verb, Adjective, aur Adverb in action.",
+      "content": "English vocabulary ko separate ratne ke bajaye word families ke roop mein padhna sabse efficient approach hai. Har family ke members ka grammatical role aur sentence usage samjhein:\n\n1. DECISION Family:\n• Verb: decide ('The bench must decide the petition today.')\n• Noun: decision ('The final decision of the High Court is pending.')\n• Adjective: decisive ('She took a decisive step towards digital filing.')\n• Adverb: decisively ('The judge acted decisively to prevent procedural delay.')\n• Negative Adjective: indecisive ('An indecisive stance harms administrative efficiency.')\n\n2. CARE Family:\n• Noun/Verb: care ('Take care of the records' / 'He does not care about trifles.')\n• Adjective (Positive): careful ('A careful inspection of the roster was conducted.')\n• Adverb (Positive): carefully ('The clerk read the charge sheet carefully.')\n• Adjective (Negative): careless ('A careless oversight led to filing dismissal.')\n• Noun (Negative): carelessness ('Carelessness in court reporting is unacceptable.')\n\n3. SUCCESS Family:\n• Verb: succeed ('Dedication will help you succeed in the competitive exam.')\n• Noun: success ('Consistent revision is the key to exam success.')\n• Adjective: successful ('He was a successful advocate in appellate matters.')\n• Adverb: successfully ('The network migration was successfully completed.')\n\n4. STRENGTH Family:\n• Adjective: strong ('The petitioner presented a strong legal argument.')\n• Noun: strength ('The administrative strength of the cadre was augmented.')\n• Verb: strengthen ('The new software will strengthen court security.')\n• Adverb: strongly ('The registrar strongly opposed any postponement.')\n\n5. BEAUTY Family:\n• Noun: beauty ('The architectural beauty of the Jodhpur bench is renowned.')\n• Adjective: beautiful ('The committee prepared a beautiful presentation.')\n• Adverb: beautifully ('The judgment was beautifully drafted and articulated.')\n• Verb: beautify ('Efforts were undertaken to beautify the court complex.')\n\n6. USE Family:\n• Noun/Verb: use ('The use of technology has increased' / 'Use standard terminology.')\n• Adjective (Positive): useful ('This reference guide is extremely useful for aspirants.')\n• Adjective (Negative): useless ('Obsolete legal statutes are practically useless.')\n• Adverb: usefully ('The library budget was usefully spent on modern treatises.')\n• Noun: usefulness ('The usefulness of digital cause lists cannot be overstated.')\n\n7. DEPEND Family:\n• Verb: depend ('Court outcomes depend on statutory merit.')\n• Noun: dependence / dependency ('Heavy dependence on paper files causes delay.')\n• Adjective (Positive): dependent ('The allowance is dependent on tenure.')\n• Adjective (Independent): independent ('The judiciary is an independent institution.')\n• Adverb: independently ('The judicial magistrate acted independently.')\n\n8. CREATE Family:\n• Verb: create ('The IT department will create a secure login portal.')\n• Noun: creation / creativity ('The creation of virtual courts revolutionized justice.')\n• Adjective: creative ('The assistant found a creative solution to the bug.')\n• Adverb: creatively ('The workflow was creatively redesigned.')",
+      "dimensions": [
+        {
+          "name": "Word Family Matrix",
+          "description": "Complete cross-part-of-speech harmony:",
+          "categories": [
+            { "name": "Decide", "detail": "Decide (V) -> Decision (N) -> Decisive (Adj) -> Decisively (Adv)" },
+            { "name": "Care", "detail": "Care (V/N) -> Careful/Careless (Adj) -> Carefully/Carelessly (Adv) -> Carelessness (N)" },
+            { "name": "Success", "detail": "Succeed (V) -> Success (N) -> Successful (Adj) -> Successfully (Adv)" },
+            { "name": "Strength", "detail": "Strengthen (V) -> Strength (N) -> Strong (Adj) -> Strongly (Adv)" },
+            { "name": "Beauty", "detail": "Beautify (V) -> Beauty (N) -> Beautiful (Adj) -> Beautifully (Adv)" },
+            { "name": "Use", "detail": "Use (V/N) -> Useful/Useless (Adj) -> Usefully (Adv) -> Usefulness (N)" }
+          ]
+        }
+      ],
+      "formulaNote": "Noun (Entity/Concept) <-> Verb (Action) <-> Adjective (Descriptor) <-> Adverb (Manner)"
+    },
+    {
+      "id": "sec-sentence-completion",
+      "number": 11,
+      "title": "K. Word Formation in Sentence Completion",
+      "summary": "Sentence syntax clues se required word class identify karke correct derived form select karne ka formula.",
+      "content": "Sentence completion aur fill-in-the-blanks MCQs mein word formation questions aane par 5-step syntactic clue formula follow karein:\n\nStep 1: Determine the Required Word Class (Part of Speech):\n• Article (a, an, the) + ___ + of -> NOUN required (e.g., 'The ___ of the committee' -> appointment / decision).\n• Article + ___ + Noun -> ADJECTIVE required (e.g., 'A ___ judgment' -> decisive / historic).\n• Subject + ___ + Object -> VERB required (e.g., 'The board will ___ the policy' -> modernize / clarify).\n• Subject + Verb + Object + ___ -> ADVERB required (e.g., 'The officer completed the audit ___' -> successfully / carefully).\n• Linking Verb (is, seem, become) + ___ -> PREDICATE ADJECTIVE required (e.g., 'His explanation was ___' -> acceptable / satisfactory).\n• Possessive Pronoun (his, her, their) + ___ -> NOUN required (e.g., 'Their ___ surprised everyone' -> departure / arrival).\n\nStep 2: Check Polarity & Contextual Meaning:\nKya sentence positive sense de raha hai ya negative? Agar sentence mein 'failed to', 'problem', ya 'criticized' jaise negative markers hain, toh negative prefix wala word aayega (e.g., 'ineffective', 'disqualified', 'misconduct').\n\nStep 3: Check Spelling Rules:\nCandidate options mein lookalike spelling distractors hote hain (jaise '*carful', '*hopful', '*noticeable vs *noticable'). Established orthographic rules se sahi spelling verify karein.\n\nStep 4: Check Prepositional Collocations:\nSentence ke aage aane wala preposition bhi sahi derivative lock karta hai (jaise 'dependent ON', 'independent OF', 'success IN').\n\nStep 5: Eliminate Nonstandard Inventions:\nExaminers aksar aise words invent karke options mein daal dete hain jo dictionary mein exist hi nahi karte (jaise '*dangerful', '*beautifullize', '*carelessful'). Unhe pehle eliminate karein.",
+      "dimensions": [
+        {
+          "name": "Syntactic Clue Isolation Table",
+          "description": "Sentence structure clues jo exact word class demand karte hain:",
+          "categories": [
+            { "name": "The / A / An + [Blank] + of...", "detail": "Demand = NOUN ('The decision of the court', 'The development of the roster')" },
+            { "name": "Article + [Blank] + Noun", "detail": "Demand = ADJECTIVE ('A successful candidate', 'An active participant')" },
+            { "name": "Modal (will, must, should) + [Blank]", "detail": "Demand = BASE VERB ('The court will clarify the rule')" },
+            { "name": "Verb + Object + [Blank]", "detail": "Demand = ADVERB OF MANNER ('He answered the queries truthfully')" },
+            { "name": "Preposition + [Blank]", "detail": "Demand = NOUN or GERUND ('Prevented from entering', 'In accordance with')" }
+          ]
+        }
+      ],
+      "formulaNote": "Syntax Clue -> Word Class (N/V/Adj/Adv) -> Context Polarity (+/-) -> Valid Spelling Derivative"
+    },
+    {
+      "id": "sec-exam-strategy",
+      "number": 12,
+      "title": "L. High Court Exam-Solving Strategy",
+      "summary": "Word-formation MCQs mein 100% accuracy ke liye 9-step repeatable exam protocol.",
+      "content": "Rajasthan High Court System Assistant examination ke Part-B mein word formation aur prefix/suffix MCQs solve karne ka 9-step master workflow:\n\n1. Full Sentence Reading:\nSentence ko end tak poora padhein taaki context, tone, aur overall proposition samajh aaye.\n\n2. Clause Structure & Syntactic Slot:\nBlank space ki position identify karein—kya ye subject hai, object hai, main verb hai, noun modifier hai, ya verb adverbial hai?\n\n3. Word Class Freeze:\nOptions dekhne se pehle khud tai karein ki blank mein Noun, Verb, Adjective, ya Adverb chahiye.\n\n4. Base Word Identification:\nQuestion stem ya options mein common base word (root) ko isolate karein (jaise 'succeed'/'success', 'decide'/'decision').\n\n5. Morphological Affix Selection:\nRequired word class aur meaning ke hisaab se sahi prefix ya suffix select karein.\n\n6. Polarity & Reversal Audit:\nCheck karein ki kya sentence context negative/counterfactual sense demand kar raha hai (un-, in-, dis-, non-)?\n\n7. Orthographic / Spelling Audit:\nFinal silent e, y -> i, aur consonant doubling rules verify karein. Subtle spelling distractors ko eliminate karein.\n\n8. Grammatical Concord Verification:\nSentence mein selected word ko fit karke read karein—kya sentence naturally sound kar raha hai aur grammatical concord maintain ho raha hai?\n\n9. Nonstandard Distractor Elimination:\nAise options ko turant strike out karein jo grammatically invented hain ya inappropriate word class represent karte hain.",
+      "dimensions": [
+        {
+          "name": "9-Step Exam Solving Checklist",
+          "description": "Quick operational protocol:",
+          "categories": [
+            { "name": "Steps 1–3: Syntactic Diagnosis", "detail": "Read context -> Locate blank slot -> Freeze target word class (N, V, Adj, Adv)" },
+            { "name": "Steps 4–6: Morphological Match", "detail": "Identify base word -> Choose correct affix -> Verify polarity (+ vs -)" },
+            { "name": "Steps 7–9: Elimination & Verification", "detail": "Audit spelling -> Read in sentence -> Eliminate fabricated distractors" }
+          ]
+        }
+      ],
+      "formulaNote": "Read -> Diagnose Slot -> Freeze POS -> Match Affix -> Check Polarity & Spelling -> Verify Concord"
+    }
+  ]
+}

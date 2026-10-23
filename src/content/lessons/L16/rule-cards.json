@@ -1,0 +1,194 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "The Same Part-of-Speech Concord Law",
+    "time": "Grammatical Compatibility",
+    "aspect": "Core Semantic Rules",
+    "formula": "Target Word Class = Option Word Class (Noun ➔ Noun | Verb ➔ Verb | Adj ➔ Adj | Adv ➔ Adv)",
+    "auxiliary": "Mandatory Part-of-Speech Alignment (never accept a noun for an adjective)",
+    "usage": "Synonym ya Antonym hamesha same grammatical category se belong karna chahiye. Agar target word Adjective hai, toh option mein Noun ya Verb aane par use bina padhe foran eliminate karein. Examiner candidates ko distract karne ke liye word-family ke doosre parts of speech options mein daalta hai.",
+    "patterns": {
+      "affirmative": "Adjective Concord: \"Prudent (Adj) ➔ Wise / Judicious (Adj)\" (NOT: *Prudence - Noun)",
+      "negative": "Noun Concord: \"Adversity (Noun) ➔ Misfortune / Hardship (Noun)\" (NOT: *Adverse - Adj)",
+      "interrogative": "Verb Concord: \"Conceal (Verb) ➔ Hide / Shroud (Verb)\" (NOT: *Concealment - Noun)"
+    },
+    "timeMarkers": ["noun=noun", "verb=verb", "adj=adj", "adv=adv", "grammatical concord"],
+    "keyTip": "POS FILTER FIRST: Kisi bhi option ko test karne se pehle uska Part of Speech verify karein. Agar question mein 'generous' (adjective) hai, toh 'generosity' (noun) dekhte hi eliminate kar dein."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Contextual Sense Freezing in Polysemy",
+    "time": "Context Inference",
+    "aspect": "Core Semantic Rules",
+    "formula": "Read Sentence Context ➔ Freeze Active Word Sense ➔ Match Candidate to Active Sense",
+    "auxiliary": "Discard candidate options matching secondary dictionary senses",
+    "usage": "English mein ek word ke multiple meanings (polysemy) ho sakte hain. Sentence-based question mein examiner target word ke secondary sense ka popular synonym option mein rakhta hai taaki careless students fas sakein. Sentence ke context se pehle active sense ko lock karein.",
+    "patterns": {
+      "affirmative": "Legal/Rational Sense: \"The judge delivered a SOUND judgment.\" ➔ Valid / Solid / Robust (NOT: *noise)",
+      "negative": "Critical/Serious Sense: \"The forged stamp is a GRAVE matter.\" ➔ Serious / Critical (NOT: *tomb)",
+      "interrogative": "Clarity Sense: \"The PLAIN statutory wording is binding.\" ➔ Clear / Evident (NOT: *flat land)"
+    },
+    "timeMarkers": ["sound", "grave", "plain", "fine", "sharp", "bright"],
+    "keyTip": "FALSE SENSE ELIMINATION: Agar word 'grave' hai aur sentence mein 'grave mistake' likha hai, toh 'tomb' ya 'burial' option secondary trap hai; 'serious' hi correct answer hai."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Gradable Scale Opposites vs Intermediate Degrees",
+    "time": "Antonym Typology",
+    "aspect": "Core Semantic Rules",
+    "formula": "Target Scale Extreme <=====> Antonym Scale Extreme (Exclude Weaker / Milder Points)",
+    "auxiliary": "Milder degree is NOT an antonym (Warm is a weak degree, not an opposite of Hot)",
+    "usage": "Gradable adjectives ek continuous continuum par exist karte hain. Kisi extreme word ka antonym doosre extreme par hona chahiye. Us continuum ke intermediate ya weaker points antonyms nahi kehlate.",
+    "patterns": {
+      "affirmative": "Temperature Continuum: Hot <--> Cold (Warm and Cool are intermediate shades, NOT antonyms of Hot)",
+      "negative": "Size Continuum: Immense / Colossal <--> Tiny / Minute (Small is a weaker synonym of Tiny)",
+      "interrogative": "Anger Continuum: Furious / Enraged <--> Calm / Serene (Annoyed is a mild degree of Anger)"
+    },
+    "timeMarkers": ["gradable scale", "scale extremes", "intermediate degrees", "continuum"],
+    "keyTip": "EXTREME TO EXTREME: Extreme intensity wale word ka opposite hamesha extreme opposite hoga. 'Furious' ka antonym 'Calm' hoga, na ki 'Annoyed'."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Binary Complementary Opposition Law",
+    "time": "Antonym Typology",
+    "aspect": "Core Semantic Rules",
+    "formula": "State A IS TRUE <=====> State B IS FALSE (Zero Intermediate State)",
+    "auxiliary": "Strict mutual exclusivity: there is no middle ground between complementary pairs",
+    "usage": "Complementary antonyms mutually exclusive hote hain. Agar koi entity State A mein hai, toh wo State B mein nahi ho sakti, aur koi beech ka vikalp sambhav nahi hai.",
+    "patterns": {
+      "affirmative": "Biological Status: Alive <--> Dead (Zero middle state; one cannot be 'slightly dead')",
+      "negative": "Judicial Status: Valid <--> Void (A statutory order is either legally valid or null/void)",
+      "interrogative": "Marital/Legal Status: Single <--> Married | Pass <--> Fail | Present <--> Absent"
+    },
+    "timeMarkers": ["alive/dead", "valid/void", "pass/fail", "present/absent", "binary"],
+    "keyTip": "COMPLEMENTARY TEST: Complementary opposites mein 'more' ya 'very' nahi lag sakta—*very dead ya *more married bolna grammatically invalid hai."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Relational & Social Reciprocity Antonymy",
+    "time": "Antonym Typology",
+    "aspect": "Core Semantic Rules",
+    "formula": "Entity 1 Relation to Entity 2 <=====> Entity 2 Converse Relation to Entity 1",
+    "auxiliary": "Perspective shifts describe the same relationship from opposite points of view",
+    "usage": "Converse ya relational antonyms kisi single relationship ko do opposing perspectives se describe karte hain. Inme scale ya polarity nahi hoti, balki mutual role-exchange hota hai.",
+    "patterns": {
+      "affirmative": "Transactional: Buy <--> Sell | Lend <--> Borrow | Pay <--> Receive",
+      "negative": "Hierarchical/Social: Employer <--> Employee | Teacher <--> Student | Landlord <--> Tenant",
+      "interrogative": "Spatial/Relational: Above <--> Below | Predecessor <--> Successor | Parent <--> Child"
+    },
+    "timeMarkers": ["buy/sell", "lend/borrow", "employer/employee", "predecessor/successor"],
+    "keyTip": "RECIPROCAL ROLES: Agar A ne B ko paisa diya, toh A ne 'lend' kiya aur B ne 'borrow' kiya. Ye dono verbs mutually relational antonyms hain."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Semantic Intensity Hierarchy Alignment",
+    "time": "Intensity Calibration",
+    "aspect": "Advanced Precision",
+    "formula": "Target Intensity Rank (Level 1 to 5) = Synonym Intensity Rank (Level 1 to 5)",
+    "auxiliary": "Never substitute an extreme intensity word with a mild word",
+    "usage": "Synonyms choose karte waqt emotional force aur semantic degree match hona anivarya hai. Ek mild approval word extreme adoration word ka synonym nahi ban sakta.",
+    "patterns": {
+      "affirmative": "Dislike Continuum: Dislike (Mild) ➔ Resent (Medium) ➔ Detest / Loathe / Abhor (Extreme)",
+      "negative": "Happy Continuum: Content (Mild) ➔ Glad / Happy (Standard) ➔ Ecstatic / Jubilant (Extreme)",
+      "interrogative": "Fear Continuum: Apprehensive (Mild) ➔ Afraid (Standard) ➔ Terrified / Petrified (Extreme)"
+    },
+    "timeMarkers": ["abhor=loathe", "ecstatic=jubilant", "petrified=terrified", "intensity match"],
+    "keyTip": "INTENSITY MATCH: Agar target word 'Abhor' (Extreme hatred) hai, toh 'Dislike' (Mild) galat distractor hai; 'Loathe' ya 'Detest' hi accurate answer hai."
+  },
+  {
+    "id": "RC-07",
+    "tense": "Tone & Connotation Polarity Concord",
+    "time": "Register & Connotation",
+    "aspect": "Advanced Precision",
+    "formula": "Target Word Valence (+ / - / Neutral) = Synonym Valence (+ / - / Neutral)",
+    "auxiliary": "Positive praise cannot be synonymous with negative mockery",
+    "usage": "Kayi words identical denotation (core meaning) share karte hain lekin unka emotional charge (connotation) vipreet hota hai. Synonym ka tone target word ke tone ke sath 100% align hona chahiye.",
+    "patterns": {
+      "affirmative": "Determination: Resolute / Tenacious (Positive) vs Stubborn / Obstinate (Negative/Pejorative)",
+      "negative": "Frugality: Thrifty / Economical (Commendatory) vs Miserly / Stingy (Pejorative)",
+      "interrogative": "Confidence: Confident / Bold (Positive) vs Arrogant / Presptuous (Negative)"
+    },
+    "timeMarkers": ["resolute vs stubborn", "thrifty vs miserly", "connotation", "valence"],
+    "keyTip": "VALENCE CHECK: Context check karein: kya speaker tareef kar raha hai ya aalochana? Agar sentence tareef kar raha hai, toh 'stubborn' jaisa negative word kabhi synonym nahi banega."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Phonetic Prefix Assimilation Rules",
+    "time": "Morphological Mechanics",
+    "aspect": "Advanced Precision",
+    "formula": "im- [before p, b, m] | il- [before l] | ir- [before r] | in- [default before vowels/others]",
+    "auxiliary": "Pronunciation ease governs the negative Latin prefix form",
+    "usage": "Latin prefix 'in-' different initial consonants ke aage phonetically transform ho jata hai. Is rule ko samajhne se exam mein wrong-spelling wale distractors foran pehchane ja sakte hain.",
+    "patterns": {
+      "affirmative": "Bilabial Consonants (p, b, m): in- + prudent ➔ Imprudent | in- + mortal ➔ Immortal",
+      "negative": "Liquid Consonant (l): in- + legal ➔ Illegal | in- + literate ➔ Illiterate | in- + logical ➔ Illogical",
+      "interrogative": "Rhotic Consonant (r): in- + regular ➔ Irregular | in- + relevant ➔ Irrelevant | in- + resolute ➔ Irresolute"
+    },
+    "timeMarkers": ["im-", "il-", "ir-", "in-", "phonetic assimilation"],
+    "keyTip": "SPELLING IMMUNITY: Kabhi bhi *unlegal ya *inregular choose na karein. 'L' ke aage 'il-' aur 'R' ke aage 'ir-' ka phonetic law hamesha govern karta hai."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Negative Prefix False Friends Neutralizer",
+    "time": "Exam Trap Neutralizers",
+    "aspect": "High-Yield Traps",
+    "formula": "Invaluable = Extremely Valuable | Inflammable = Flammable | Disinterested = Impartial",
+    "auxiliary": "Do NOT treat 'in-' or 'dis-' as standard negatives in these three classic trap words",
+    "usage": "Kuch words mein negative prefix laga hota hai lekin unka meaning ordinary negative nahi hota. Examiners in teen words par repeated questions banate hain.",
+    "patterns": {
+      "affirmative": "Invaluable: 'Value cannot be measured because it is so high' ➔ Priceless (Antonym: Worthless)",
+      "negative": "Inflammable: 'In- + flame + able = catches fire easily' ➔ Flammable (Antonym: Non-flammable)",
+      "interrogative": "Disinterested: 'Free from self-interest' ➔ Impartial / Unbiased (NOT: *Uninterested = bored)"
+    },
+    "timeMarkers": ["invaluable", "inflammable", "disinterested", "false friends"],
+    "keyTip": "CLASSIC TRAP SHIELD: Agar exam mein 'Invaluable' ka antonym pucha jaye, toh 'Valuable' tick mat karna; iska antonym 'Worthless' ya 'Valueless' hota hai."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Word Family Part-of-Speech Distractor Exclusion",
+    "time": "Exam Trap Neutralizers",
+    "aspect": "High-Yield Traps",
+    "formula": "Exclude Option IF Suffix Indicates Differing Grammatical Class (-ity, -ness, -ly, -tion)",
+    "auxiliary": "A noun ending in -ence/-ance cannot serve as a synonym for an adjective ending in -ent/-ant",
+    "usage": "Examiners question word ke hi word-family ke doosre derivatives options mein daalte hain taaki hurried students confused ho jayein. Suffixes ke zariye unka POS check karein.",
+    "patterns": {
+      "affirmative": "Adjective Target: Diligent (Adj) ➔ Industrious (Adj) | Exclude: Diligence (Noun)",
+      "negative": "Noun Target: Adversity (Noun) ➔ Hardship (Noun) | Exclude: Adverse (Adj), Adversely (Adv)",
+      "interrogative": "Verb Target: Exonerate (Verb) ➔ Acquit (Verb) | Exclude: Exoneration (Noun)"
+    },
+    "timeMarkers": ["-ness", "-ity", "-ment", "-tion", "-ous", "-ful", "word family trap"],
+    "keyTip": "SUFFIX CHECK: Noun suffixes (-tion, -ment, -ness, -ity) aur Adjective suffixes (-able, -ous, -ent, -ic) se option ka POS turant pehchan kar eliminate karein."
+  },
+  {
+    "id": "RC-11",
+    "tense": "Collocational Compatibility & Register Law",
+    "time": "Collocation & Register",
+    "aspect": "High-Yield Traps",
+    "formula": "Select Candidate Matching Natural Domain Collocations (Legal / Formal / Administrative)",
+    "auxiliary": "A word may be a dictionary synonym, but if it sounds unnatural in the sentence domain, reject it",
+    "usage": "Dictionary synonyms hamesha sentence ke domain ke sath collocate nahi karte. Legal judgments, statutory orders, aur high court pleadings formal register demand karte hain.",
+    "patterns": {
+      "affirmative": "Court Context: The magistrate QUASHED the charge sheet. (NOT: *canceled, *suppressed)",
+      "negative": "Statutory Context: The Governor PROMULGATED the ordinance. (NOT: *broadcast, *published)",
+      "interrogative": "Evidence Context: The prosecution ADDUCED fresh evidence. (NOT: *brought, *supplied)"
+    },
+    "timeMarkers": ["quash", "promulgate", "adduce", "tender", "collocation"],
+    "keyTip": "FORMAL REGISTER: Informal conversational words ('put off', 'start', 'show') ko official judicial contexts mein eliminate karein aur unke formal equivalents ('adjourn', 'commence', 'adduce') ko chunein."
+  },
+  {
+    "id": "RC-12",
+    "tense": "High Court 5-Step Elimination Protocol",
+    "time": "Cognitive Workflow",
+    "aspect": "High-Yield Traps",
+    "formula": "Step 1 Polarity ➔ Step 2 POS ➔ Step 3 Context Sense ➔ Step 4 Tone ➔ Step 5 Intensity",
+    "auxiliary": "Execute all 5 filters sequentially; never guess based on surface familiarity",
+    "usage": "High Court examination hall mein 100% accuracy hasil karne ke liye har vocabulary question par ye rigid 5-step checklist execute karein.",
+    "patterns": {
+      "affirmative": "Step 1: Check Prompt (Synonym vs Antonym underline karein)",
+      "negative": "Step 2 & 3: POS match karein aur sentence context se active sense freeze karein",
+      "interrogative": "Step 4 & 5: Connotation (+ / -) aur intensity degree verify karke correct option lock karein"
+    },
+    "timeMarkers": ["5-step protocol", "elimination checklist", "high court method"],
+    "keyTip": "UNDERLINE PROMPT FIRST: Sabse pehla kaam question mein 'SYNONYM' ya 'ANTONYM' ko underline karna hai. Is aadat se aapke 2 marks free mein bach jayenge."
+  }
+]

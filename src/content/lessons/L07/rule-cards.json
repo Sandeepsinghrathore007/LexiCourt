@@ -1,0 +1,162 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Yes/No Question Transformation (If / Whether)",
+    "time": "Interrogative Narration",
+    "aspect": "Closed Questions",
+    "formula": "Subject + asked / enquired of + object + if / whether + Subject + Backshifted Verb",
+    "auxiliary": "if / whether (NO 'that', auxiliary inversion removed)",
+    "usage": "Direct speech ke Yes/No questions (jo is, are, was, were, do, does, did, has, have, can, will se shuru hote hain) ko indirect speech mein convert karne ke liye. End ka question mark (?) drop hokar full stop (.) lagta hai.",
+    "patterns": {
+      "affirmative": "He said to me, \"Are you an advocate?\" ➔ He asked me if I was an advocate.",
+      "negative": "She said to him, \"Do you not have the file?\" ➔ She asked him whether he did not have the file.",
+      "interrogative": "Original question: \"Will you attend court tomorrow?\" ➔ He enquired of me if I would attend court the next day."
+    },
+    "timeMarkers": ["is/are", "was/were", "do/does", "did", "has/have", "will/shall", "can/may"],
+    "keyTip": "INVERSION REMOVAL TRAP: Reported speech mein subject auxiliary se pehle aayega ('if I was', NOT '*if was I'). Aur conjunction 'that' ko 'if' ke sath kabhi na jodein ('*that if' is a fatal exam blunder)."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Whether vs If: The 'Or Not' and Alternative Choice Rule",
+    "time": "Interrogative Narration",
+    "aspect": "Condition & Choice",
+    "formula": "Subject + asked + whether or not + Subject + Verb  |  whether... or...",
+    "auxiliary": "whether (mandatory when immediately followed by 'or not' or presenting explicit alternatives)",
+    "usage": "Jab direct question mein alternative choices explicitly di gayi hon ya question ke turant baad 'or not' jud raha ho, tab formal English aur High Court exams mein 'whether' strictly required hota hai, 'if' use nahi hota.",
+    "patterns": {
+      "affirmative": "The judge said, \"Do you accept the terms or not?\" ➔ The judge asked whether or not he accepted the terms.",
+      "negative": "He said, \"Do you want a private counsel or a legal-aid counsel?\" ➔ He asked whether I wanted a private counsel or a legal-aid counsel.",
+      "interrogative": "Choice question: \"Will you stay or leave?\" ➔ She asked whether he would stay or leave."
+    },
+    "timeMarkers": ["or not", "or", "whether... or", "whether or not"],
+    "keyTip": "OR NOT PLACEMENT: 'Whether or not' acceptable hai, lekin '*if or not' modern standard English exams mein incorrect maana jata hai."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Wh-Questions: Retaining Question Words with Statement Syntax",
+    "time": "Interrogative Narration",
+    "aspect": "Open Questions",
+    "formula": "Subject + asked / enquired of + object + Wh-Word + Subject + Backshifted Verb",
+    "auxiliary": "What / Why / Where / When / Who / Whom / Whose / Which / How (functions as connective)",
+    "usage": "Wh-questions ko indirect speech mein badalte waqt koi naya conjunction ('that', 'if') nahi lagta. Original Wh-word hi conjunction ka kaam karta hai, aur uske turant baad subject aakar assertive statement banta hai.",
+    "patterns": {
+      "affirmative": "The lawyer said to the client, \"Where did you sign the affidavit?\" ➔ The lawyer asked the client where he had signed the affidavit.",
+      "negative": "She said to Rohan, \"Why are you not replying to the notice?\" ➔ She asked Rohan why he was not replying to the notice.",
+      "interrogative": "Original question: \"When will the registrar hear this matter?\" ➔ He enquired when the registrar would hear that matter."
+    },
+    "timeMarkers": ["what", "why", "where", "when", "who", "whom", "whose", "which", "how"],
+    "keyTip": "DOUBLE CONJUNCTION TRAP: Exam options mein aksar '*He asked that where...' ya '*She asked that why...' likha hota hai. 'That' ko Wh-word ke pehle dekhte hi us option ko turant strike out karein."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Question Reporting Verbs: 'Asked' vs 'Enquired Of' Syntax",
+    "time": "Interrogative Narration",
+    "aspect": "Reporting Verb Grammar",
+    "formula": "Asked + Person Object (no preposition)  |  Enquired + OF + Person Object",
+    "auxiliary": "asked (direct transitive) / enquired of (prepositional transitive)",
+    "usage": "Questions report karte waqt 'asked' direct object leta hai (asked me), jabki 'enquired' agar listener object le raha hai toh preposition 'of' mandatory hota hai (enquired of me). Bina object ke 'enquired' akela aa sakta hai.",
+    "patterns": {
+      "affirmative": "Correct with Asked: The magistrate asked the inspector why the case diary was delayed.",
+      "negative": "Correct with Enquired of: The magistrate enquired of the inspector why the case diary was delayed.",
+      "interrogative": "Incorrect distractor: *The magistrate enquired the inspector... (Missing 'of' is a fatal error!)."
+    },
+    "timeMarkers": ["asked me", "enquired of me", "demanded of him", "wanted to know"],
+    "keyTip": "PREPOSITION CHECK: Agar option mein 'enquired me' bina 'of' ke likha hai, toh wo option 100% wrong hai. Always check: 'enquired of + object'."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Imperative Commands & Requests: The 'To + V1' Formula",
+    "time": "Imperative Narration",
+    "aspect": "Infinitive Construction",
+    "formula": "Subject + ordered / requested / advised + object + to + V1 + Rest of Clause",
+    "auxiliary": "to + V1 (full infinitive replaces the imperative main verb)",
+    "usage": "Direct speech ke commands, requests, advice, aur instructions ko Indirect Speech mein convert karne ke liye. Imperative sentences mein standard tense backshift nahi hota; main verb seedha non-finite infinitive ('to + V1') ban jata hai.",
+    "patterns": {
+      "affirmative": "The officer said to the peon, \"Bring the registry ledger.\" ➔ The officer ordered the peon to bring the registry ledger.",
+      "negative": "Request: He said to me, \"Please lend me your bare act.\" ➔ He requested me to lend him his bare act.",
+      "interrogative": "Advice: The doctor said to him, \"Take adequate rest.\" ➔ The doctor advised him to take adequate rest."
+    },
+    "timeMarkers": ["ordered", "commanded", "requested", "advised", "instructed", "urged", "warned"],
+    "keyTip": "POLITE WORDS ELIMINATION: 'Requested' verb lagne ke baad direct speech ke polite words ('please', 'kindly') ko drop karna mandatory hai. '*He requested me to please lend' redundant distractor hai."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Negative Imperatives: 'Not to + V1' vs 'Forbade' Zero-Negative",
+    "time": "Imperative Narration",
+    "aspect": "Prohibitions",
+    "formula": "told / ordered + object + NOT to + V1  |  FORBADE + object + to + V1",
+    "auxiliary": "not to + V1 (standard) / forbade (inherently negative, takes positive infinitive)",
+    "usage": "Negative commands ('Do not + V1') ko report karne ke do valid tareeqe: (1) Standard reporting verb ke sath 'not to + V1' lagana; (2) 'Forbade' verb use karna jisme dobara 'not' lagana strictly forbidden hai.",
+    "patterns": {
+      "affirmative": "Standard pattern: The judge told the witness not to leave the town.",
+      "negative": "Forbade pattern: The judge forbade the witness to leave the town. (Correct: no 'not').",
+      "interrogative": "Fatal distractor: *The judge forbade the witness not to leave the town. (Double negative blunder!)."
+    },
+    "timeMarkers": ["do not", "don't", "never", "not to + V1", "forbade + to + V1"],
+    "keyTip": "DOUBLE NEGATIVE TRAP: 'Forbade' ka matlab hi hota hai 'mana karna'. Isliye 'forbade' ke sath agar option mein 'not' dikh jaye, toh wo option seedha galat hai!"
+  },
+  {
+    "id": "RC-07",
+    "tense": "Suggestions & Proposals: The 'Let's / Let Us' Transformation",
+    "time": "Imperative Narration",
+    "aspect": "Mutual Proposals",
+    "formula": "Subject + suggested / proposed (to + object) + that + they/we should + V1",
+    "auxiliary": "should + V1 (modal auxiliary used in proposal subordinate clause)",
+    "usage": "Jab direct sentence 'Let us' ya 'Let's' se shuru ho, toh ye order ya request nahi balki suggestion/proposal hota hai. Reporting verb 'suggested' ya 'proposed' banti hai aur subordinate clause mein 'should + V1' lagta hai.",
+    "patterns": {
+      "affirmative": "She said to her colleagues, \"Let's review the judgment.\" ➔ She suggested to her colleagues that they should review the judgment.",
+      "negative": "Gerund alternative: She suggested reviewing the judgment.",
+      "interrogative": "Distinction from permission: He said, \"Let me speak.\" ➔ He requested them to let him speak. ('Let me' permission hai, suggestion nahi!)."
+    },
+    "timeMarkers": ["let's", "let us", "suggested that", "proposed that", "should + V1"],
+    "keyTip": "LET US vs LET ME: 'Let us' = suggestion ➔ 'suggested that we/they should'. 'Let me' = permission/request ➔ 'requested to let/allow him'."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Exclamatory Sentences: Converting Emotion via 'Exclaimed With'",
+    "time": "Exclamatory Narration",
+    "aspect": "Emotional Discourse",
+    "formula": "Subject + exclaimed with [joy / sorrow / wonder / regret] + that + Subject + Verb",
+    "auxiliary": "that (declarative conjunction linking the emotion to the statement)",
+    "usage": "Sudden strong emotions (joy, grief, surprise, admiration) ko express karne wale exclamatory sentences ko report karne ke liye. Interjections ('Hurrah!', 'Alas!') drop ho jate hain aur exclamation mark (!) full stop (.) mein badal jata hai.",
+    "patterns": {
+      "affirmative": "Joy: The team said, \"Hurrah! We won!\" ➔ The team exclaimed with joy that they had won.",
+      "negative": "Sorrow: He said, \"Alas! I failed!\" ➔ He exclaimed with sorrow that he had failed.",
+      "interrogative": "Applause: The judge said, \"Bravo! Well argued!\" ➔ The judge applauded the counsel saying that he had argued well."
+    },
+    "timeMarkers": ["Hurrah!", "Alas!", "Bravo!", "Oh!", "exclaimed with joy", "exclaimed with sorrow"],
+    "keyTip": "EMOTION MISMATCH TRAP: Context ke sath emotion match karein. Exam options mein grief wale sentence ke aage 'exclaimed with joy' likhkar distract kiya jata hai."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Exclamatory 'What a / How': Conversion into Assertive with 'Very / Great'",
+    "time": "Exclamatory Narration",
+    "aspect": "Intensifier Syntax",
+    "formula": "What a + Noun ➔ a great + Noun  |  How + Adjective ➔ very + Adjective",
+    "auxiliary": "very (with adjectives) / great (with nouns)",
+    "usage": "'What a...!' aur 'How...!' wale sentences indirect speech mein assertive statements bante hain jahan intensity convey karne ke liye 'very' ya 'great' lagaya jata hai.",
+    "patterns": {
+      "affirmative": "Adjective: She said, \"How sweet the song is!\" ➔ She exclaimed that the song was very sweet.",
+      "negative": "Noun: The lawyer said, \"What a blunder you made!\" ➔ The lawyer exclaimed that he had made a great blunder.",
+      "interrogative": "Direct: \"What a beautiful painting!\" ➔ She exclaimed with admiration that the painting was very beautiful."
+    },
+    "timeMarkers": ["what a", "how", "very", "great", "exclaimed with surprise", "exclaimed with wonder"],
+    "keyTip": "INTENSIFIER RULE: 'How' general adjectives ke sath 'very' leta hai ('very difficult'), aur 'What a' nouns ke sath 'great' leta hai ('a great tragedy', 'a great fool')."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Optative Wishes & Prayers: 'May' to 'Might' Subordinate Syntax",
+    "time": "Optative Narration",
+    "aspect": "Blessings & Prayers",
+    "formula": "Subject + prayed / wished + (that) + Subject + MIGHT + V1 + Rest of Clause",
+    "auxiliary": "might (modal backshift of 'may', placed after the reported subject)",
+    "usage": "Direct speech ke optative sentences (wishes, blessings, prayers, curses jo 'May...' se shuru hote hain) ko report karne ke liye. Reporting verb 'prayed' (for God) ya 'wished' (for people) banti hai aur 'May' subject ke baad 'might' ban jata hai.",
+    "patterns": {
+      "affirmative": "Prayer to God: The mother said, \"May God save my child!\" ➔ The mother prayed that God might save her child.",
+      "negative": "General Wish: They said to me, \"May you prosper!\" ➔ They wished that I might prosper.",
+      "interrogative": "Greetings/Farewells: \"Good morning, sir!\" ➔ He wished his sir good morning. | \"Farewell!\" ➔ He bade farewell."
+    },
+    "timeMarkers": ["May God...", "May you...", "wished", "prayed", "might + V1", "bade"],
+    "keyTip": "MIGHT PLACEMENT: 'May' direct speech mein sentence ke shuru mein hota hai, lekin indirect speech mein 'might' reported subject ke BAAD aayega ('that God might bless', NOT '*that might God bless')."
+  }
+]

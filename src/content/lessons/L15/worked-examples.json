@@ -1,0 +1,467 @@
+[
+  {
+    "id": "WE-01",
+    "title": "Coordinating Conjunction Comma Placement: Independent Clauses vs Compound Predicate",
+    "question": "Identify the grammatically correct sentence from the options below:",
+    "options": [
+      "A) The bench heard the final arguments, and reserved the judgment for delivery next week.",
+      "B) The bench heard the final arguments and reserved the judgment for delivery next week.",
+      "C) The bench heard the final arguments, but reserved the judgment, for delivery next week.",
+      "D) The bench heard the final arguments, and it, reserved the judgment next week."
+    ],
+    "correctAnswer": "B",
+    "concept": "Coordinating Conjunction (FANBOYS) Punctuation Concord",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Subject and Clause Counting",
+        "description": "Sentence ka grammatical structure dekhein: 'The bench' subject hai. Iske do verbs hain: 'heard' aur 'reserved'. Ye compound predicate hai, do alag independent clauses nahi hain kyunki doosre verb se pehle koi independent subject nahi hai."
+      },
+      {
+        "step": 2,
+        "name": "Apply FANBOYS Punctuation Rule",
+        "description": "Rule RC-01 kehta hai ki jab coordinating conjunction sirf do verbs (compound predicate) ko jodta hai jinka subject common ho, toh conjunction se pehle COMMA lagana prohibited hai. Option A mein ', and reserved' galat comma use karta hai."
+      },
+      {
+        "step": 3,
+        "name": "Eliminate Distractors",
+        "description": "Option C prepositional phrase se pehle superfluous comma daalta hai. Option D pronoun 'it' ke baad ungrammatical comma lagata hai. Option B flawlessly without unnecessary comma compound predicate connect karta hai."
+      }
+    ],
+    "explanation": "Option B correct hai. 'The bench' single subject hai jo do actions perform kar raha hai ('heard' and 'reserved'). Compound verbs ke beech coordinating conjunction se pehle comma lagana prohibited hota hai. Agar 'and' ke baad doosra subject 'it' aata, tabhi comma mandatory hota."
+  },
+  {
+    "id": "WE-02",
+    "title": "Zero Double-Conjunction Error: Elimination of 'Although ... but'",
+    "question": "Find the error in the sentence:\n\"Although the prosecution produced three eyewitnesses, (A) / but the defense established (B) / that their statements were contradictory, (C) / leading to an acquittal. (D)\"",
+    "options": [
+      "A) Part A",
+      "B) Part B",
+      "C) Part C",
+      "D) Part D"
+    ],
+    "correctAnswer": "B",
+    "concept": "Zero Double-Conjunction Law (Pleonastic Connective Error)",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify Sentence Starter",
+        "description": "Sentence 'Although' (Subordinating Conjunction of Concession) se shuru ho raha hai: 'Although the prosecution produced three eyewitnesses...'."
+      },
+      {
+        "step": 2,
+        "name": "Scan Main Clause Boundary",
+        "description": "Subordinate clause ke baad Part B mein coordinating conjunction 'but' laga hua hai: 'but the defense established...'. Rule RC-02 ke anusaar, complex sentence mein subordinating aur coordinating connectives dono ek sath use karna strictly prohibited hai."
+      },
+      {
+        "step": 3,
+        "name": "Formulate Correction",
+        "description": "Part B se 'but' ko drop karein: 'Although the prosecution produced three eyewitnesses, the defense established...'. Isliye error Part B mein hai."
+      }
+    ],
+    "explanation": "Part B mein error hai. 'Although' ke sath complex sentence shuru hone par main clause mein 'but' ya 'yet' lagana double conjunction blunder hai. Sirf comma aayega."
+  },
+  {
+    "id": "WE-03",
+    "title": "Conjunction vs Preposition: 'Despite' vs 'Although' and the '*Despite of' Trap",
+    "question": "Choose the correct sentence to replace the bracketed part:\n[Despite of the magistrate issued a bailable warrant], the accused failed to surrender before the court.",
+    "options": [
+      "A) In spite of the magistrate had issued a bailable warrant",
+      "B) Despite the magistrate issuing a bailable warrant",
+      "C) Although the magistrate issued a bailable warrant",
+      "D) Despite of issuing a bailable warrant"
+    ],
+    "correctAnswer": "C",
+    "concept": "Clause-Taking Conjunction vs Noun-Phrase Preposition",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Analyze the Bracketed Structure",
+        "description": "'the magistrate issued a bailable warrant' ek complete finite clause hai (Subject = 'the magistrate', Finite Verb = 'issued')."
+      },
+      {
+        "step": 2,
+        "name": "Check Preposition Compatibility",
+        "description": "'Despite' aur 'In spite of' prepositions hain jo finite clause nahi le sakte. Sath hi '*Despite of' English mein exist hi nahi karta (double error in question stem)."
+      },
+      {
+        "step": 3,
+        "name": "Select Conjunction Option",
+        "description": "Finite clause ko introduce karne ke liye subordinating conjunction 'Although' ki zaroorat hai (Rule RC-03). Option C 'Although the magistrate issued...' perfectly accurate hai."
+      }
+    ],
+    "explanation": "Option C sahi answer hai. 'The magistrate issued...' ek full finite clause hai jise connect karne ke liye conjunction 'Although' chahiye. 'Despite' aur 'In spite of' prepositions hain jo noun phrase lete hain, aur 'despite of' completely ungrammatical hai."
+  },
+  {
+    "id": "WE-04",
+    "title": "Correlative Conjunction Parallelism with 'Not only ... but also'",
+    "question": "Select the sentence with impeccable grammatical parallelism:",
+    "options": [
+      "A) The tribunal not only ordered the reinstatement of the employee but also payment of back wages.",
+      "B) The tribunal ordered not only the reinstatement of the employee but also the payment of back wages.",
+      "C) The tribunal ordered the reinstatement of not only the employee but also paid back wages.",
+      "D) Not only the tribunal ordered reinstatement of the employee but also payment of back wages."
+    ],
+    "correctAnswer": "B",
+    "concept": "Correlative Structural Parallelism (RC-04)",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify Second Correlative Element",
+        "description": "'but also' ke baad dekhein: Option B mein 'the payment of back wages' ek Noun Phrase hai."
+      },
+      {
+        "step": 2,
+        "name": "Check First Correlative Element",
+        "description": "Option B mein 'not only' ke theek baad 'the reinstatement of the employee' (Noun Phrase) hai. Dono arms identical grammatical units (Noun Phrase + Noun Phrase) govern kar rahi hain."
+      },
+      {
+        "step": 3,
+        "name": "Analyze Option A Error",
+        "description": "Option A mein 'not only' ke baad finite verb 'ordered' hai jabki 'but also' ke baad noun phrase 'payment' hai. Verb aur noun phrase ka mismatch fatal parallelism error hai."
+      }
+    ],
+    "explanation": "Option B correct hai. 'Ordered' main verb dono objects ke liye common hai, aur 'not only' aur 'but also' dono identical noun phrases ('the reinstatement...' aur 'the payment...') ko balance karte hain."
+  },
+  {
+    "id": "WE-05",
+    "title": "Correlative Subject Concord: Proximity Rule with 'Neither ... nor'",
+    "question": "Fill in the blank with the grammatically correct auxiliary verb:\n\"Neither the chief judicial magistrate nor the bench clerks ________ aware of the amended notification.\"",
+    "options": [
+      "A) was",
+      "B) were",
+      "C) has",
+      "D) is"
+    ],
+    "correctAnswer": "B",
+    "concept": "Correlative Proximity Concord (RC-05)",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify the Correlative Subjects",
+        "description": "Subject 1 = 'the chief judicial magistrate' (Singular); Subject 2 = 'the bench clerks' (Plural)."
+      },
+      {
+        "step": 2,
+        "name": "Apply the Proximity Law",
+        "description": "Rule RC-05 kehta hai ki 'Neither...nor' mein main verb NEAREST subject ke number aur person se agree karti hai. Blank ke theek pehle Subject 2 'the bench clerks' (Plural) hai."
+      },
+      {
+        "step": 3,
+        "name": "Select Verb Form",
+        "description": "Plural subject ke liye past tense state of being verb 'were' aayegi. Option B correct hai."
+      }
+    ],
+    "explanation": "Option B ('were') correct hai. 'Neither...nor' mein verb nearest subject se agree karti hai. 'The bench clerks' plural subject hai, isliye plural auxiliary 'were' lagegi."
+  },
+  {
+    "id": "WE-06",
+    "title": "Negative Inversion: 'Hardly had ... when' Partner Mismatch",
+    "question": "Spot the error in the sentence:\n\"Hardly had the witness (A) / entered the witness box (B) / than the power supply (C) / failed abruptly. (D)\"",
+    "options": [
+      "A) Part A",
+      "B) Part B",
+      "C) Part C",
+      "D) Part D"
+    ],
+    "correctAnswer": "C",
+    "concept": "Hardly...when Fixed Connective Partner (RC-06)",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Check Sentence Inversion",
+        "description": "Sentence 'Hardly' se shuru ho raha hai aur 'had + the witness + entered' valid auxiliary inversion follow kar raha hai (Part A aur B correct hain)."
+      },
+      {
+        "step": 2,
+        "name": "Verify Correlative Partner in Part C",
+        "description": "Part C mein 'than' likha hua hai: 'than the power supply...'. Rule RC-06 ke anusaar, 'Hardly', 'Scarcely', aur 'Barely' ke sath strictly 'WHEN' ya 'BEFORE' lagta hai, 'THAN' lagana strictly prohibited hai."
+      },
+      {
+        "step": 3,
+        "name": "Correction",
+        "description": "'than' ko replace karke 'when' lagayein: 'when the power supply failed abruptly'. Isliye error Part C mein hai."
+      }
+    ],
+    "explanation": "Part C mein error hai. 'Hardly' ke sath hamesha 'when' lagta hai. 'Than' sirf 'No sooner' ke sath lagta hai."
+  },
+  {
+    "id": "WE-07",
+    "title": "Comparative Inversion: 'No sooner had ... than' Distractor Elimination",
+    "question": "Choose the option that correctly completes the sentence:\n\"No sooner had the registrar received the appellate order ________\"",
+    "options": [
+      "A) when he dispatched the certified copies to the district court.",
+      "B) then he dispatched the certified copies to the district court.",
+      "C) than he dispatched the certified copies to the district court.",
+      "D) that he dispatched the certified copies to the district court."
+    ],
+    "correctAnswer": "C",
+    "concept": "No sooner...than Partner Concord (RC-07)",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify the Initial Comparative Marker",
+        "description": "Sentence 'No sooner had...' se shuru ho raha hai. 'Soon-ER' comparative form hai."
+      },
+      {
+        "step": 2,
+        "name": "Evaluate Connecting Options",
+        "description": "Option A ('when') 'hardly/scarcely' ka partner hai. Option B ('then') temporal adverb hai, conjunction nahi. Option D ('that') ungrammatical hai."
+      },
+      {
+        "step": 3,
+        "name": "Confirm Correct Partner",
+        "description": "Comparatives hamesha 'THAN' (spelled with 'A') se correlate hote hain. Option C 'than he dispatched...' perfectly accurate hai."
+      }
+    ],
+    "explanation": "Option C correct hai. 'No sooner' hamesha 'than' ke sath correlate hota hai. 'When' ya 'then' lagana recurring exam traps hain."
+  },
+  {
+    "id": "WE-08",
+    "title": "Purpose Connective 'Lest ... should': Double Negative Elimination",
+    "question": "Which of the following sentences is grammatically sound?",
+    "options": [
+      "A) File the reply within three days lest the court should not impose costs.",
+      "B) File the reply within three days lest the court will impose costs.",
+      "C) File the reply within three days lest the court should impose costs.",
+      "D) File the reply within three days lest the court would impose costs."
+    ],
+    "correctAnswer": "C",
+    "concept": "Lest...should and Zero Negative Law (RC-08)",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Understand the Meaning of 'Lest'",
+        "description": "'Lest' means 'for fear that / taaki aisa na ho'. Ye inherently negative purpose express karta hai."
+      },
+      {
+        "step": 2,
+        "name": "Check Modal Auxiliary",
+        "description": "Rule RC-08 kehta hai ki 'lest' ke clause mein auxiliary verb strictly 'SHOULD' aani chahiye. Option B ('will') aur Option D ('would') modal discord ki wajah se eliminate ho jaate hain."
+      },
+      {
+        "step": 3,
+        "name": "Check Negative Particle 'Not'",
+        "description": "Option A mein 'should not' likha hai jo double negative blunder hai. Option C 'lest the court should impose costs' without 'not' perfectly accurate hai."
+      }
+    ],
+    "explanation": "Option C sahi hai. 'Lest' ke sath modal auxiliary 'should' aati hai aur iske clause mein 'not' lagana prohibited hota hai kyunki 'lest' khud negative hota hai."
+  },
+  {
+    "id": "WE-09",
+    "title": "Relative Pronoun Discrimination: 'That' vs 'Which' and Comma Rules",
+    "question": "Choose the grammatically accurate sentence according to restrictive/non-restrictive relative clause rules:",
+    "options": [
+      "A) The Indian Penal Code which was drafted in 1860 has undergone numerous amendments.",
+      "B) The Indian Penal Code, that was drafted in 1860, has undergone numerous amendments.",
+      "C) The Indian Penal Code, which was drafted in 1860, has undergone numerous amendments.",
+      "D) The Indian Penal Code which, was drafted in 1860 has undergone numerous amendments."
+    ],
+    "correctAnswer": "C",
+    "concept": "Non-Restrictive 'Which' Punctuation Rules (RC-09)",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Analyze the Clause Function",
+        "description": "'The Indian Penal Code' already uniquely identified specific statute hai. 'was drafted in 1860' incidental historical background detail hai, statute ki identity define karne ke liye essential nahi hai (Non-restrictive clause)."
+      },
+      {
+        "step": 2,
+        "name": "Apply Pronoun and Punctuation Rule",
+        "description": "Non-restrictive clauses 'WHICH' se introduce hote hain aur commas ke beech enclose kiye jaate hain. Option B galat hai kyunki 'that' commas ke beech nahi aata. Option A commas omit karta hai."
+      },
+      {
+        "step": 3,
+        "name": "Select Correct Option",
+        "description": "Option C dono commas ke sath 'which' correctly implement karta hai: 'The Indian Penal Code, which was drafted in 1860, has undergone...'."
+      }
+    ],
+    "explanation": "Option C correct hai. Proper noun ya unique entity ke baad aane wala relative clause non-restrictive hota hai, isliye comma + 'which' mandatory hai. 'That' commas ke sath use nahi hota."
+  },
+  {
+    "id": "WE-10",
+    "title": "Comma Splice Cure with Semicolon and Conjunctive Adverb 'However'",
+    "question": "Identify the sentence that correctly cures the comma splice error:",
+    "options": [
+      "A) The prosecution case was supported by forensic reports, however, the eyewitness turned hostile.",
+      "B) The prosecution case was supported by forensic reports; however, the eyewitness turned hostile.",
+      "C) The prosecution case was supported by forensic reports however; the eyewitness turned hostile.",
+      "D) The prosecution case was supported by forensic reports, however the eyewitness turned hostile."
+    ],
+    "correctAnswer": "B",
+    "concept": "Conjunctive Adverb Punctuation Architecture (RC-10)",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify the Independent Clauses",
+        "description": "Clause 1: 'The prosecution case was supported by forensic reports' (Independent). Clause 2: 'the eyewitness turned hostile' (Independent)."
+      },
+      {
+        "step": 2,
+        "name": "Evaluate 'However'",
+        "description": "'However' ek conjunctive adverb hai, coordinating conjunction nahi. Agar do independent clauses ke beech sirf comma lagaya jaye (Option A aur D), toh ye fatal comma splice error banta hai."
+      },
+      {
+        "step": 3,
+        "name": "Verify Punctuation Pattern",
+        "description": "Rule RC-10 kehta hai: [Clause 1] ; however , [Clause 2]. Semicolon pehle aur comma baad mein. Option B exactly is formula ko follow karta hai."
+      }
+    ],
+    "explanation": "Option B correct hai. 'However' transitional adverb hai jo do independent clauses ko connect karne ke liye pehle semicolon (;) aur baad mein comma (,) demand karta hai."
+  },
+  {
+    "id": "WE-11",
+    "title": "Confused Words: 'Affect' vs 'Effect' in Official Legal Context",
+    "question": "Fill in the blanks with the correct pair of words:\n\"The sudden transfer of the presiding officer will ________ the progress of the trial, but the final decree will take ________ from next Monday.\"",
+    "options": [
+      "A) effect, affect",
+      "B) affect, effect",
+      "C) affect, affect",
+      "D) effect, effect"
+    ],
+    "correctAnswer": "B",
+    "concept": "Affect (Verb) vs Effect (Noun) Discrimination (RC-11)",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Analyze Blank 1 Syntactic Role",
+        "description": "'will ________ the progress': Modal auxiliary 'will' ke baad base form of VERB aani chahiye. 'To influence/alter' ke liye Verb 'Affect' hai."
+      },
+      {
+        "step": 2,
+        "name": "Analyze Blank 2 Syntactic Role",
+        "description": "'will take ________ from next Monday': 'Take effect' ek standard legal idiom hai jisme 'effect' NOUN hai, meaning 'to become operative/enforceable'."
+      },
+      {
+        "step": 3,
+        "name": "Match Pair",
+        "description": "Blank 1 = affect (verb); Blank 2 = effect (noun). Option B 'affect, effect' correct answer hai."
+      }
+    ],
+    "explanation": "Option B correct hai. Pehle blank mein action perform karne ke liye verb 'affect' chahiye ('will affect'), aur doosre blank mein idiom 'take effect' (laagu hona) ke liye noun 'effect' chahiye."
+  },
+  {
+    "id": "WE-12",
+    "title": "Confused Words: 'Principal' vs 'Principle' in Statutory Doctrine",
+    "question": "Choose the option that correctly fills the blanks:\n\"The ________ legal advisor argued that the impugned order violated the fundamental ________ of natural justice.\"",
+    "options": [
+      "A) principle, principal",
+      "B) principal, principle",
+      "C) principal, principal",
+      "D) principle, principle"
+    ],
+    "correctAnswer": "B",
+    "concept": "Principal (Adjective/Head) vs Principle (Doctrine/Rule) (RC-12)",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Examine Blank 1 Context",
+        "description": "'The ________ legal advisor': 'Legal advisor' noun hai, jise modify karne ke liye Adjective chahiye meaning 'chief / main'. Chief/main ke liye word 'Principal' hota hai."
+      },
+      {
+        "step": 2,
+        "name": "Examine Blank 2 Context",
+        "description": "'the fundamental ________ of natural justice': Yahan moral/legal doctrine ya kanooni niyam ki baat ho rahi hai. Rule ya doctrine ke liye Noun 'Principle' hota hai ('principles of natural justice')."
+      },
+      {
+        "step": 3,
+        "name": "Select Pair",
+        "description": "Blank 1 = principal; Blank 2 = principle. Option B correct hai."
+      }
+    ],
+    "explanation": "Option B ('principal, principle') correct hai. 'Principal legal advisor' mein principal adjective hai meaning 'mukhya'; 'principle of natural justice' mein principle noun hai meaning 'siddhant'."
+  },
+  {
+    "id": "WE-13",
+    "title": "Confused Words: 'Complement' vs 'Compliment' in Judicial Testimony",
+    "question": "Select the correct word to complete the sentence:\n\"The scientific analysis produced by the ballistic expert ________ the eyewitness testimony, creating an unshakeable chain of evidence.\"",
+    "options": [
+      "A) complimented",
+      "B) complemented",
+      "C) compliments",
+      "D) complement"
+    ],
+    "correctAnswer": "B",
+    "concept": "Complement (Complete/Enhance) vs Compliment (Praise) (RC-13)",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Understand Contextual Meaning",
+        "description": "Sentence forensic evidence aur eyewitness testimony ke ek-doosre ko poora karne (poorak banne / enhancing each other to complete the chain of evidence) ki baat kar raha hai, tareef (praise) karne ki nahi."
+      },
+      {
+        "step": 2,
+        "name": "Differentiate Spellings",
+        "description": "Praise ke liye 'Compliment' (with 'i') hota hai. Completing/enhancing ke liye 'Complement' (with 'e') hota hai. Yahan 'poorak' sense chahiye, isliye root 'Complement' aayega."
+      },
+      {
+        "step": 3,
+        "name": "Check Tense Concord",
+        "description": "Sentence past narrative context mein hai ('produced... creating'). Past tense form 'complemented' (Option B) correct hai."
+      }
+    ],
+    "explanation": "Option B ('complemented') correct hai. 'Complement' (with 'e') ka arth hota hai kisi cheez ko complete ya mutually enhance karna ('poorak banna'). 'Compliment' (with 'i') ka arth tareef karna hota hai."
+  },
+  {
+    "id": "WE-14",
+    "title": "Confused Verbs: 'Lie' (Intransitive) vs 'Lay' (Transitive) in Past Tense",
+    "question": "Fill in the blank with the correct past tense verb form:\n\"The confidential case files ________ on the judge's chamber desk undisturbed throughout the weekend.\"",
+    "options": [
+      "A) laid",
+      "B) lay",
+      "C) lied",
+      "D) lain"
+    ],
+    "correctAnswer": "B",
+    "concept": "Lie vs Lay Transitivity and Past Forms (RC-14)",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Determine Transitivity Requirement",
+        "description": "'on the judge's chamber desk' prepositional phrase of location hai. Verb ke baad koi DIRECT OBJECT nahi hai. Files ne khud recline/rest kiya, kisi ne unhe us waqt rakha nahi. Isliye Intransitive verb 'Lie' ki zaroorat hai."
+      },
+      {
+        "step": 2,
+        "name": "Recall Conjugation Paradigm of Intransitive 'Lie'",
+        "description": "Base = Lie | Simple Past = Lay | Past Participle = Lain. Sentence completed past time 'throughout the weekend' refer kar raha hai, isliye Simple Past tense aayega."
+      },
+      {
+        "step": 3,
+        "name": "Select Form and Eliminate Distractor",
+        "description": "'Lie' ka Simple Past 'LAY' hota hai (Option B). Option A 'laid' transitive verb 'lay' ka past hai jo direct object demand karta hai ('He laid the files'). Option C 'lied' jhooth bolne ka past hai."
+      }
+    ],
+    "explanation": "Option B ('lay') correct hai. Intransitive verb 'lie' (letna/padha rehna) ka Simple Past tense 'lay' hota hai. 'Laid' transitive verb 'lay' (rakhna) ka past hota hai jiske baad direct object zaroori hota hai."
+  },
+  {
+    "id": "WE-15",
+    "title": "Confused Quantity & Diction: 'Fewer' vs 'Less' Countability Concord",
+    "question": "Find the part of the sentence containing the grammatical error:\n\"Due to digital court management, (A) / less adjournments were sought (B) / by the advocates during (C) / the current judicial session. (D)\"",
+    "options": [
+      "A) Part A",
+      "B) Part B",
+      "C) Part C",
+      "D) Part D"
+    ],
+    "correctAnswer": "B",
+    "concept": "Fewer (Countable) vs Less (Uncountable) Quantifier Concord",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Examine the Quantified Noun in Part B",
+        "description": "Part B mein noun 'adjournments' hai. 'Adjournment' ek Countable Noun hai aur yahan Plural form 'adjournments' mein use hua hai (1 adjournment, 2 adjournments...)."
+      },
+      {
+        "step": 2,
+        "name": "Apply Countability Rule",
+        "description": "Plural Countable Nouns ke sath quantifier strictly 'FEWER' lagta hai. 'LESS' sirf Uncountable Nouns (time, money, noise, patience) ke sath lagta hai."
+      },
+      {
+        "step": 3,
+        "name": "Formulate Correction",
+        "description": "Part B mein 'less adjournments' galat hai; correct phrase 'fewer adjournments' hoga. Isliye error Part B mein hai."
+      }
+    ],
+    "explanation": "Part B mein error hai. 'Adjournments' plural countable noun hai, isliye iske sath quantifier 'fewer' aana chahiye ('fewer adjournments'). 'Less' sirf uncountable nouns ke sath use hota hai."
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "id": "WE-01",
+    "title": "Success & Achievement: Disambiguating 'Pull it off' Against Severe Hurdles",
+    "question": "Select the most appropriate meaning of the underlined idiom in the given sentence:\n\"Against all administrative hurdles and a strict deadline, the young IT officer managed to pull it off.\"",
+    "options": [
+      "A) To physically detach an electronic component",
+      "B) To succeed in accomplishing a difficult task against the odds",
+      "C) To postpone the assignment indefinitely",
+      "D) To withdraw from a competitive project"
+    ],
+    "correctAnswer": "B",
+    "concept": "Success Against Difficulty",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Analyze Sentence Context & Polarity",
+        "description": "Preceding clause keh rahi hai: 'Against all administrative hurdles and a strict deadline'. Yeh hurdles aur difficulty ka context hai."
+      },
+      {
+        "step": 2,
+        "name": "Eliminate Literal Physical Fallacy",
+        "description": "Option A physical detachment ('pull off' physically) ka literal distractor hai, jise context se koi lena-dena nahi."
+      },
+      {
+        "step": 3,
+        "name": "Match Figurative Idiom Meaning",
+        "description": "'Pull it off' ka established idiomatic sense hota hai kisi mushkil ya unlikely kaam ko kamyab bana lena. Isliye Option B perfect match hai."
+      }
+    ],
+    "explanation": "Option B sahi answer hai. 'Pull it off' ka matlab hota hai kathinaiyon ke bawajood kisi task ko successfully poora kar lena. Option A literal physical trap hai; Options C aur D sentence ke positive accomplishment tone se ulte hain."
+  },
+  {
+    "id": "WE-02",
+    "title": "Effort & Work: 'Burn the midnight oil' vs Reckless Shortcuts",
+    "question": "Choose the correct idiom to complete the following sentence:\n\"In order to master all eighteen comprehensive modules of the High Court syllabus, aspirants must ________.\"",
+    "options": [
+      "A) cut corners",
+      "B) burn the midnight oil",
+      "C) sit on the fence",
+      "D) spill the beans"
+    ],
+    "correctAnswer": "B",
+    "concept": "Dedicated Academic Labor",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify Required Behavioral Trait",
+        "description": "Sentence 'mastering eighteen modules' ki demand kar raha hai, jisme rigorous aur dedicated effort ki zaroorat hoti hai."
+      },
+      {
+        "step": 2,
+        "name": "Evaluate Competing Idioms",
+        "description": "Option A ('cut corners') negative shortcut lene ke liye hai jo exam mein fail karwayega. Option C ('sit on fence') undecided rehna hai. Option D ('spill the beans') raaz ugalna hai."
+      },
+      {
+        "step": 3,
+        "name": "Confirm Meaning & Collocation",
+        "description": "'Burn the midnight oil' der raat tak jaag kar padhai/mehnat karne ko darshata hai, jo syllabus mastery ke liye exact match hai."
+      }
+    ],
+    "explanation": "Option B sahi answer hai. 'Burn the midnight oil' ka arth hai der raat tak mehnat se padhai ya kaam karna. 'Cut corners' (shortcuts lena) syllabus mastery ke context ko contradict karta hai."
+  },
+  {
+    "id": "WE-03",
+    "title": "Information Disclosure: 'Spill the beans' vs Literal Food Fallacy",
+    "question": "Identify the intended meaning of the idiom in the sentence below:\n\"The junior assistant accidentally spilled the beans regarding the confidential transfer roster before its gazette notification.\"",
+    "options": [
+      "A) Dropped food containers in the office cafeteria",
+      "B) Divulged confidential information prematurely",
+      "C) Prepared the official transfer orders with perfection",
+      "D) Delayed the gazette publication intentionally"
+    ],
+    "correctAnswer": "B",
+    "concept": "Secret Revelation vs Literal Trap",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Detect the Contextual Domain",
+        "description": "Sentence mein 'confidential transfer roster' aur 'before gazette notification' shamil hain. Domain official secrecy aur premature revelation hai."
+      },
+      {
+        "step": 2,
+        "name": "Reject Literal Food Traps",
+        "description": "Option A 'dropped food containers' literal kitchen trap hai jo candidate ko shabdon ke physical meaning se confuse karne ke liye banaya gaya hai."
+      },
+      {
+        "step": 3,
+        "name": "Confirm Established Idiomatic Sense",
+        "description": "'Spill the beans' ka universally established meaning confidential information ko galti se ujagar kar dena hota hai."
+      }
+    ],
+    "explanation": "Option B sahi answer hai. 'Spill the beans' ka established arth confidential jankari samay se pehle disclose kar dena hota hai. Option A classic literal translation trap hai jise turant eliminate karna chahiye."
+  },
+  {
+    "id": "WE-04",
+    "title": "Communication Style: 'Beat around the bush' vs Directness",
+    "question": "What does the speaker mean when he says:\n\"Stop beating around the bush and tell me the exact deficit in the treasury ledger!\"",
+    "options": [
+      "A) Clearing foliage from the administrative court gardens",
+      "B) Avoiding the core issue through irrelevant, indirect talk",
+      "C) Speaking with excessive honesty and directness",
+      "D) Refusing to perform mathematical auditing"
+    ],
+    "correctAnswer": "B",
+    "concept": "Evasion vs Directness",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Analyze the Imperative Command",
+        "description": "Speaker bol raha hai: 'Stop [X] and tell me the exact deficit'. Iska matlab [X] exact baat na batana ya mudde ko taalna hai."
+      },
+      {
+        "step": 2,
+        "name": "Distinguish Evasion from Honesty",
+        "description": "Option C 'speaking with excessive honesty' is idiom ka antonym hai (jo 'call a spade a spade' hota hai)."
+      },
+      {
+        "step": 3,
+        "name": "Select the Precise Definition",
+        "description": "'Beat around the bush' ka arth hota hai mukhya baat ko chhodkar idhar-udhar ki gol-mol baatein karna. Option B matches."
+      }
+    ],
+    "explanation": "Option B sahi answer hai. 'Beat around the bush' ka matlab mudde ko taal kar anavashyak baatein karna hota hai. Option A literal distractor hai aur Option C exact opposite trait hai."
+  },
+  {
+    "id": "WE-05",
+    "title": "Emotions & Behaviour: 'Keep one's cool' Under Provocation",
+    "question": "In the sentence:\n\"Despite repeated provocative interruptions by opposing counsel, the witness kept his cool throughout.\"\nThe underlined phrase means:",
+    "options": [
+      "A) Felt physically cold due to courtroom air-conditioning",
+      "B) Remained calm, composed, and self-controlled",
+      "C) Lost all interest in answering legal questions",
+      "D) Displayed arrogant indifference toward the judge"
+    ],
+    "correctAnswer": "B",
+    "concept": "Equanimity Under Pressure",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Examine the Adversative Trigger",
+        "description": "'Despite provocative interruptions' batata hai ki situation gussa dilane wali thi, lekin result composed raha."
+      },
+      {
+        "step": 2,
+        "name": "Eliminate Physical Temperature Trap",
+        "description": "Option A physical temperature (cold weather/AC) ka distractor hai, jiska emotional context se koi sambandh nahi."
+      },
+      {
+        "step": 3,
+        "name": "Confirm Emotional Valence",
+        "description": "'Keep one's cool' ka arth hota hai shanti aur sanyam banaye rakhna (maintained emotional composure)."
+      }
+    ],
+    "explanation": "Option B sahi answer hai. 'Keep one's cool' ka matlab uksaye jane par bhi shaant aur sanyamit rehna hota hai. Option A physical temperature ka literal trap hai."
+  },
+  {
+    "id": "WE-06",
+    "title": "Extreme Happiness: 'On cloud nine' vs 'Head in the clouds'",
+    "question": "Select the option that best explains the emotional state described:\n\"When the merit list was published and his roll number topped the judicial registry, Rohit was on cloud nine.\"",
+    "options": [
+      "A) Daydreaming and lacking practical common sense",
+      "B) Flying in an aircraft on official high court duty",
+      "C) Extremely ecstatic, thrilled, and overjoyed",
+      "D) Confused and unable to decide his future plans"
+    ],
+    "correctAnswer": "C",
+    "concept": "Ecstasy vs Impracticality Disambiguation",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Assess the Cause of the Emotion",
+        "description": "Cause hai: 'merit list topped'. Merit list top karne par vyakti atyadhik khush hoga."
+      },
+      {
+        "step": 2,
+        "name": "Disambiguate 'Cloud' Idioms",
+        "description": "'On cloud nine' = peak happiness/joy (Option C). 'Head in the clouds' = impractical daydreaming (Option A). Candidate ko in do alag-alag expressions mein confuse nahi hona chahiye."
+      },
+      {
+        "step": 3,
+        "name": "Validate Logical Fit",
+        "description": "Merit list top karne par ecstasy natural emotional response hai."
+      }
+    ],
+    "explanation": "Option C sahi answer hai. 'On cloud nine' ka matlab hota hai atyadhik khush hona (overjoyed). Option A 'head in the clouds' ka meaning hai, jo avyavaharik sapnon ke liye use hota hai."
+  },
+  {
+    "id": "WE-07",
+    "title": "Money & Resources: 'Cost an arm and a leg' vs Poverty of Agent",
+    "question": "Complete the sentence with the most contextually appropriate idiom:\n\"Purchasing proprietary legal research databases for individual practitioners can ________.\"",
+    "options": [
+      "A) live from hand to mouth",
+      "B) make ends meet",
+      "C) cost an arm and a leg",
+      "D) tighten their belt"
+    ],
+    "correctAnswer": "C",
+    "concept": "Commodity Cost vs Human Poverty",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Inspect the Subject Entity",
+        "description": "Subject hai: 'Purchasing proprietary databases' (ek expensive commodity/service purchase)."
+      },
+      {
+        "step": 2,
+        "name": "Verify Entity-to-Idiom Concord",
+        "description": "Options A, B aur D human subjects ke liye hain (e.g. 'A person lives hand to mouth', 'A family tightens its belt'). Ek database purchase khud 'hand to mouth' nahi jee sakta."
+      },
+      {
+        "step": 3,
+        "name": "Select the Commodity Price Idiom",
+        "description": "'Cost an arm and a leg' kisi vastu ke hadd se zyada mehangi hone ko describe karta hai. Grammatically aur contextually Option C perfect hai."
+      }
+    ],
+    "explanation": "Option C sahi answer hai. 'Cost an arm and a leg' vastu ki atyadhik unchi keemat ke liye use hota hai. Options A, B, aur D insaan ki aamdani aur bachat ke vyavhar hain jo database purchase par apply nahi ho sakte."
+  },
+  {
+    "id": "WE-08",
+    "title": "Time & Frequency: 'In the nick of time' vs 'At the drop of a hat'",
+    "question": "Select the idiom that correctly fills the blank:\n\"The stay order reached the local tehsildar ________, just minutes before the auction of the disputed land commenced.\"",
+    "options": [
+      "A) once in a blue moon",
+      "B) in the nick of time",
+      "C) behind the times",
+      "D) at the drop of a hat"
+    ],
+    "correctAnswer": "B",
+    "concept": "Last-Minute Crisis Prevention",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify the Critical Time Anchor",
+        "description": "Sentence mein 'just minutes before the auction commenced' diya hai. Yeh aakhri moment par aakar crisis bachane ka scenario hai."
+      },
+      {
+        "step": 2,
+        "name": "Differentiate Temporal Idioms",
+        "description": "'Once in a blue moon' frequency (rarely) ke liye hai. 'Behind the times' outdated hone ke liye hai. 'At the drop of a hat' prompt willingness ke liye hai."
+      },
+      {
+        "step": 3,
+        "name": "Match with Deadline Rescue",
+        "description": "'In the nick of time' ka exact meaning hota hai aen waqt par, theek deri hone se pehle."
+      }
+    ],
+    "explanation": "Option B sahi answer hai. 'In the nick of time' aakhri samay par pahunch kar nuksan rokne ko darshata hai. 'Just minutes before' iska decisive context clue hai."
+  },
+  {
+    "id": "WE-09",
+    "title": "Relationships & Dispute: 'Bury the hatchet' vs Routine Agreement",
+    "question": "What is the meaning of the underlined expression?\n\"After fifteen years of acrimonious boundary litigation, the two neighbouring estates finally decided to bury the hatchet.\"",
+    "options": [
+      "A) Conceal weapons used in an agrarian crime",
+      "B) Put an end to their longstanding enmity and make peace",
+      "C) File a fresh appeal before the division bench",
+      "D) Dig a foundation for a new demarcation wall"
+    ],
+    "correctAnswer": "B",
+    "concept": "Reconciliation After Prolonged Feud",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify Historical Context",
+        "description": "'Fifteen years of acrimonious boundary litigation' ek lamba, kadva vivad darshata hai."
+      },
+      {
+        "step": 2,
+        "name": "Eliminate Literal Weapon/Digging Traps",
+        "description": "Options A aur D 'hatchet' (axe) ke literal physical translation hain (weapons conceal karna ya gadda khodna), jo bilkul galat hain."
+      },
+      {
+        "step": 3,
+        "name": "Confirm Meaning of Peacemaking",
+        "description": "'Bury the hatchet' purani dushmani ko hamesha ke liye dafnakar aapsi shanti aur sulah karne ko kehte hain."
+      }
+    ],
+    "explanation": "Option B sahi answer hai. 'Bury the hatchet' ka arth purani ranjish ya mukadmebazi ko khatam karke sulah karna hota hai. Options A aur D literal physical traps hain."
+  },
+  {
+    "id": "WE-10",
+    "title": "Decisions & Timing: 'Jump the gun' Premature Action",
+    "question": "Choose the correct interpretation of the idiom:\n\"By publishing the provisional selection roster before the verification committee signed it, the clerk jumped the gun.\"",
+    "options": [
+      "A) Acted prematurely before the proper authorized time",
+      "B) Physically discharged a firearm inside the registry",
+      "C) Corrected a typographical error in the roster",
+      "D) Accused his superiors of corruption"
+    ],
+    "correctAnswer": "A",
+    "concept": "Premature Procedural Action",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Analyze Procedural Sequencing",
+        "description": "Event sequence: 'before the committee signed it'. Iska matlab official authorization se pehle hi action le liya gaya."
+      },
+      {
+        "step": 2,
+        "name": "Filter Literal Gun/Shooting Trap",
+        "description": "Option B firearm discharge ka literal physical distractor hai."
+      },
+      {
+        "step": 3,
+        "name": "Select the Temporal Meaning",
+        "description": "'Jump the gun' ka arth hota hai nirdharit samay se pehle jaldbazi mein koi kadam utha lena."
+      }
+    ],
+    "explanation": "Option A sahi answer hai. 'Jump the gun' ka established meaning kisi kaam ko samay se pehle jaldbazi mein kar dena hota hai. 'Before the committee signed it' iska direct context clue hai."
+  },
+  {
+    "id": "WE-11",
+    "title": "Honesty & Judgment: 'Turn a blind eye' Misconduct Oversight",
+    "question": "Select the closest meaning of the underlined phrase:\n\"The supervisory auditor was censured because he deliberately turned a blind eye to the inflated travel vouchers.\"",
+    "options": [
+      "A) Suffered from a progressive optical illness",
+      "B) Willfully ignored rule violations and malfeasance",
+      "C) Verified every supporting bill with extreme rigor",
+      "D) Refused to accept gifts from subordinate staff"
+    ],
+    "correctAnswer": "B",
+    "concept": "Willful Blindness to Irregularities",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Examine Censure Context",
+        "description": "Auditor ko 'censured' (daanta/saza) kiya gaya kyunki vouchers 'inflated' (farzi) the. Iska matlab usne galti ko andekha kiya."
+      },
+      {
+        "step": 2,
+        "name": "Eliminate Medical/Optical Traps",
+        "description": "Option A aankhon ki bimari ka literal meaning hai, jiska administrative censure se koi taluq nahi."
+      },
+      {
+        "step": 3,
+        "name": "Select Deliberate Neglect",
+        "description": "'Turn a blind eye' ka matlab hota hai jaanbujhkar kisi aniyamitata ko dekhkar bhi andekha karna."
+      }
+    ],
+    "explanation": "Option B sahi answer hai. 'Turn a blind eye' ka arth hota hai galti ya misconduct ko jaanbujhkar ignore karna. Option A medical trap hai aur Option C exact opposite (rigorous audit) hai."
+  },
+  {
+    "id": "WE-12",
+    "title": "Grammatical Concord: Subject-Possessive Harmony in 'Lose one's temper'",
+    "question": "Identify the grammatically correct sentence conforming to standard idiomatic usage:",
+    "options": [
+      "A) The presiding judge rarely lost one's temper during arguments.",
+      "B) The presiding judge rarely lost his temper during arguments.",
+      "C) The presiding judge rarely lost the temper during arguments.",
+      "D) The presiding judge rarely lost him temper during arguments."
+    ],
+    "correctAnswer": "B",
+    "concept": "Subject-Possessive Concord Rule",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Recall Idiom Template Formula",
+        "description": "Idiom ka base formula 'lose one's temper' hai jahan 'one's' placeholder possessive hai."
+      },
+      {
+        "step": 2,
+        "name": "Apply Subject Agreement Rule",
+        "description": "Sentence ka subject 'The presiding judge' (3rd person singular masculine/feminine) hai. Isliye 'one's' replace hokar 'his' (ya 'her') banega."
+      },
+      {
+        "step": 3,
+        "name": "Eliminate Distortions",
+        "description": "Option A mein generic 'one's' reh gaya jo ungrammatical hai. Option C mein article 'the' distort ho gaya. Option D mein objective 'him' lagaya gaya jabki possessive 'his' chahiye."
+      }
+    ],
+    "explanation": "Option B sahi answer hai. Rule RC-05 ke mutabiq, 'lose one's temper' mein possessive pronoun subject ke anusaar agree karta hai ('judge -> his temper'). Option A mein 'one's' discord hai, Option C mein article distortion hai aur Option D mein case error hai."
+  },
+  {
+    "id": "WE-13",
+    "title": "Genre Demarcation: Idiom vs Proverb Identification",
+    "question": "Which of the following expressions is a PROVERB rather than an IDIOM?",
+    "options": [
+      "A) Bite the bullet",
+      "B) Cost an arm and a leg",
+      "C) A stitch in time saves nine",
+      "D) At the eleventh hour"
+    ],
+    "correctAnswer": "C",
+    "concept": "Proverb vs Idiom Structural Boundary",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Recall Syntactic Test",
+        "description": "Proverb ek complete independent sentence hota hai jo traditional wisdom/advice state karta hai. Idiom ek phrase (fragment) hota hai jo sentence ka hissa banta hai."
+      },
+      {
+        "step": 2,
+        "name": "Evaluate Structure of Options",
+        "description": "Options A, B aur D verb phrases ya prepositional phrases hain (e.g. 'He bit the bullet', 'It cost an arm and a leg'). Ye standalone full thoughts nahi hain."
+      },
+      {
+        "step": 3,
+        "name": "Identify Autonomous Maxim",
+        "description": "Option C 'A stitch in time saves nine' ek complete grammatical sentence (Subject: A stitch in time; Verb: saves; Object: nine) hai jo samay par action lene ki traditional seekh deta hai. Isliye yeh Proverb hai."
+      }
+    ],
+    "explanation": "Option C sahi answer hai. 'A stitch in time saves nine' ek Proverb (kahawat) hai jo ek complete independent sentence ke roop mein practical guidance deta hai. Options A, B, aur D idioms hain jo doosre sentences ke andar syntactic constituents bante hain."
+  },
+  {
+    "id": "WE-14",
+    "title": "Literal vs Figurative Contextual Test in 'Break the ice'",
+    "question": "In which of the following sentences is the expression 'break the ice' used in its FIGURATIVE sense?",
+    "options": [
+      "A) The ship used its reinforced steel prow to break the ice in the frozen Siberian harbor.",
+      "B) The fishermen had to break the ice on the pond before casting their nets.",
+      "C) To break the ice among the new recruits, the superintendent organized a team trivia session.",
+      "D) The refrigeration technician had to break the ice accumulating inside the freezer compartment."
+    ],
+    "correctAnswer": "C",
+    "concept": "Contextual Metaphor Recognition",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify Physical vs Social Settings",
+        "description": "Sentences A, B, aur D physical frozen water (harbor, pond, freezer) ke barf ko physical tools se todne ki baat kar rahe hain. Ye sabhi literal hain."
+      },
+      {
+        "step": 2,
+        "name": "Detect Abstract Metaphor",
+        "description": "Sentence C mein setting hai 'new recruits' aur activity hai 'team trivia session'. Yahan 'break the ice' ka matlab social awkwardness aur shuruati khamoshi ko door karna hai."
+      },
+      {
+        "step": 3,
+        "name": "Confirm Intended Sense",
+        "description": "Sentence C figurative sense represent karta hai jo standard idiomatic usage hai."
+      }
+    ],
+    "explanation": "Option C sahi answer hai. Sentence C mein 'break the ice' ka figurative use hua hai (nayi team ke beech shuruati jhijhak todna). Baki teeno sentences (A, B, D) frozen water/ice ko physically todne ke literal descriptions hain."
+  },
+  {
+    "id": "WE-15",
+    "title": "Administrative Context: 'By the book' Regulatory Compliance",
+    "question": "Select the most appropriate idiom to complete the official judicial instruction:\n\"To ensure that no candidate can challenge the recruitment in court, every clerk must conduct the scrutiny strictly ________.\"",
+    "options": [
+      "A) off the cuff",
+      "B) by the book",
+      "C) under the table",
+      "D) behind closed doors"
+    ],
+    "correctAnswer": "B",
+    "concept": "Procedural Compliance & Regularity",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Identify the Administrative Objective",
+        "description": "Objective hai: 'no candidate can challenge recruitment in court'. Iske liye mandatory shart hai ki saare rules aur regulations aksharasah follow kiye jayein."
+      },
+      {
+        "step": 2,
+        "name": "Analyze Competing Idioms",
+        "description": "Option A 'off the cuff' bina taiyari ke bolna hai. Option C 'under the table' rishwat ya illegal kaam hai. Option D 'behind closed doors' secrecy hai jo litigation invite karegi."
+      },
+      {
+        "step": 3,
+        "name": "Confirm Exact Compliance Meaning",
+        "description": "'By the book' ka matlab hota hai established niyamon aur prescribed law ka 100% kaddai se palan karna."
+      }
+    ],
+    "explanation": "Option B sahi answer hai. 'By the book' ka arth established rules aur statutory procedure ka strictly palan karna hota hai. Recruitment ko litigation-free rakhne ke liye yehi contextually aur legally required hai."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "The 'Told to + Object' Prepositional Blunder",
+    "category": "Reporting Verb Transitiveness Trap",
+    "frequency": "Extremely High (Number One Error in Narration Multiple-Choice Options)",
+    "explanation": "Direct speech mein 'said to me' aane par candidates jante hain ki 'said to' ko 'told' mein badalna hota hai. Lekin option designers deliberately 'He told to me that...' likhte hain. 'Tell' ek transitive verb hai jiske baad directly listener object (me, him, her, us) aata hai. 'Told' ke baad preposition 'to' lagana standard English mein fatal syntax error hai. Isi tarah, 'He said me' (bina preposition ke 'say') likhna bhi invalid hai.",
+    "incorrectExample": "Direct: The clerk said to the lawyer, \"The files are ready.\" ➔ Indirect: The clerk told to the lawyer that the files were ready.",
+    "correctExample": "Direct: The clerk said to the lawyer, \"The files are ready.\" ➔ Indirect: The clerk told the lawyer that the files were ready.",
+    "trapRule": "Reporting Verb Transitiveness Rule: 'Told + Person' (never write 'told to'!). Agar preposition 'to' retain rakhna hai toh 'said to' use karein, lekin 'told to' dekhte hi us option ko turant eliminate karein."
+  },
+  {
+    "id": "PIT-02",
+    "title": "Over-Backshifting Universal Truths, Scientific Laws & Proverbs",
+    "category": "Universal Fact Invariance Violation",
+    "frequency": "Extremely High (Classic Exam Distractor in High Court Papers)",
+    "explanation": "Candidates ke dimaag mein rule baith jata hai ki 'reporting verb past mein ho toh har verb ko past mein badal do'. Exam setters jaan-boojhkar universal truths, scientific facts, ya proverbs wale sentences dete hain (jaise 'The Earth revolves around the Sun', 'Water boils at 100°C', 'Honesty is the best policy'). Agar aap 'revolves' ko 'revolved' ya 'boils' ko 'boiled' bana dete hain, toh uska matlab nikalta hai ki dharti ne ab ghoomna band kar diya ya pani ab boil nahi hota. Eternal facts hamesha Simple Present mein rehte hain.",
+    "incorrectExample": "Direct: The judge said, \"Justice delayed is justice denied.\" ➔ Indirect: The judge said that justice delayed was justice denied.",
+    "correctExample": "Direct: The judge said, \"Justice delayed is justice denied.\" ➔ Indirect: The judge said that justice delayed is justice denied.",
+    "trapRule": "Eternal Truth Rule: Reporting verb past hone ke bawajood scientific laws, geographical truths, universal realities, aur famous proverbs ka tense freeze rehta hai (Simple Present mein)."
+  },
+  {
+    "id": "PIT-03",
+    "title": "Backshifting Tenses When Reporting Verb is in Present or Future",
+    "category": "Reporting Verb Tense Governed Discord",
+    "frequency": "Very High (Top Distractor in Introductory Tests)",
+    "explanation": "Tense backshift sirf aur sirf tab apply hota hai jab reporting verb Past Tense ('said', 'told', 'remarked') mein ho. Agar reporting verb Simple Present ('says'), Present Perfect ('has said'), ya Future ('will say') mein ho, toh reported clause ka tense bilkul freeze rehta hai! Candidates reporting verb ko dhyan se padhe bina quotation ke andar ke tense ko past mein badal dete hain, jo fundamental conceptual error hai.",
+    "incorrectExample": "Direct: The registrar says, \"The server is functioning normally.\" ➔ Indirect: The registrar says that the server was functioning normally.",
+    "correctExample": "Direct: The registrar says, \"The server is functioning normally.\" ➔ Indirect: The registrar says that the server is functioning normally.",
+    "trapRule": "Reporting Verb Governs All: Reporting verb pehle check karein. Agar 'says' ya 'will say' likha hai, toh quotation ke andar sirf pronouns badlenge, tense mein ZERO backshift hoga."
+  },
+  {
+    "id": "PIT-04",
+    "title": "Failure to Backshift Simple Past (Leaving V2 as V2)",
+    "category": "Anterior Past Shift Omission",
+    "frequency": "Very High (Classic Sentence Improvement Pitfall)",
+    "explanation": "Present tenses ko past mein badalna aasan hota hai (is ➔ was, work ➔ worked), lekin jab direct speech mein pehle se hi Simple Past (V2) ho (jaise 'I submitted the file yesterday'), toh candidates confuse ho jaate hain aur indirect speech mein bhi Simple Past 'submitted' hi chhod dete hain. Past reporting verb ke sath Simple Past ki ghatna past se bhi pehle ho chuki thi, isliye standard competitive grammar mein Simple Past compulsory Past Perfect ('had + V3') mein convert hota hai.",
+    "incorrectExample": "Direct: The applicant said, \"I cleared the preliminary test last year.\" ➔ Indirect: The applicant said that he cleared the preliminary test the previous year.",
+    "correctExample": "Direct: The applicant said, \"I cleared the preliminary test last year.\" ➔ Indirect: The applicant said that he had cleared the preliminary test the previous year.",
+    "trapRule": "Simple Past Shift Rule: Simple Past (V2) ➔ Past Perfect (had + V3). Examination standard mein past reporting verb ke under Simple Past ko Past Perfect mein badalna expected hota hai."
+  },
+  {
+    "id": "PIT-05",
+    "title": "Pronoun Referent Confusion (Confusing Speaker with Listener)",
+    "category": "Semantic Perspective Distortion",
+    "frequency": "High (Top Error in Multi-Pronoun Questions)",
+    "explanation": "Jab direct sentence mein 1st aur 2nd person pronouns dono aate hain (jaise 'I told you that you are my friend'), toh jaldbazi mein candidates pronouns ko interchange kar dete hain ya speaker aur listener ke roles ko swap kar dete hain. Har pronoun ko transform karte waqt alag se verify karein: 'I/my' kisko refer kar raha hai? (Speaker ko) aur 'you/your' kisko refer kar raha hai? (Listener ko). Meaning distort karne wale options ko eliminate karein.",
+    "incorrectExample": "Direct: Kavita said to Rahul, \"I appreciate your timely submission.\" ➔ Indirect: Kavita told Rahul that he appreciated her timely submission.",
+    "correctExample": "Direct: Kavita said to Rahul, \"I appreciate your timely submission.\" ➔ Indirect: Kavita told Rahul that she appreciated his timely submission.",
+    "trapRule": "Referent Tracking Check: Indirect sentence ka meaning wahi rehna chahiye jo direct sentence ka tha. Check karein: appreciation kisne kiya tha? (Kavita = she), submission kiska tha? (Rahul = his)."
+  },
+  {
+    "id": "PIT-06",
+    "title": "Mechanical Time/Place Replacement without Context Verification",
+    "category": "Adverbial Shift Discord",
+    "frequency": "High (Recurrent MCQ Distractor Pattern)",
+    "explanation": "Exam setters options mein time expressions ke galat pairs bana kar distract karte hain—jaise 'tomorrow' ko 'yesterday' likh dena, ya 'yesterday' ko 'tomorrow' likh dena, ya 'yesterday' ko unadjusted chhod dena. Sath hi, agar option mein tense correct ho lekin time adverbial missing ya distorted ho, toh wo option galat hoga. Standard pairs yaad rakhein: today ➔ that day, yesterday ➔ the previous day / the day before, tomorrow ➔ the following day / the next day.",
+    "incorrectExample": "Direct: Mohan said, \"The court will hear the matter tomorrow.\" ➔ Indirect: Mohan said that the court would hear the matter yesterday.",
+    "correctExample": "Direct: Mohan said, \"The court will hear the matter tomorrow.\" ➔ Indirect: Mohan said that the court would hear the matter the next day.",
+    "trapRule": "Adverbial Pair Verification: Tomorrow future time hai, isliye wo 'the next day' ya 'the following day' banega. Yesterday past time hai, isliye wo 'the previous day' ya 'the day before' banega. Chronology kabhi reverse nahi ho sakti."
+  }
+]

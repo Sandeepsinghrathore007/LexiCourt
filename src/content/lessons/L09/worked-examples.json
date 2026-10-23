@@ -1,0 +1,212 @@
+[
+  {
+    "id": "WE-01",
+    "sentence": "Comparative: \"An aeroplane flies faster than birds.\"",
+    "correctAnswer": "Birds do not fly as/so fast as an aeroplane.",
+    "tense": "Binary Disparity: Comparative to Positive Degree",
+    "steps": {
+      "step1_marker": "Entities & Degree: Do entities compare ho rahi hain ('aeroplane' aur 'birds') comparative degree 'faster than' mein.",
+      "step2_time": "Target Degree & Polarity: Target Positive degree hai. Kyunki original sentence affirmative disparity show kar raha hai (aeroplane > birds), isliye positive sentence negative banega taaki birds ki speed ko lower dikhaya ja sake.",
+      "step3_aspect": "Subject Transposition: Second entity 'Birds' sentence ke shuru mein subject banegi, aur 'an aeroplane' end position par aayegi.",
+      "step4_inflection": "Auxiliary & Adjective Shift: Present tense plural subject 'Birds' ke sath dummy auxiliary 'do not fly' lagaya, aur comparative 'faster' ko base form 'fast' mein 'as...as' / 'so...as' ke beech enclose kiya.",
+      "step5_synthesis": "Final Synthesis: 'Birds do not fly as/so fast as an aeroplane.'"
+    },
+    "trapWarning": "SUBJECT MISPLACEMENT TRAP: Examiner option deta hai 'An aeroplane does not fly as fast as birds.' Ye sentence meaning ko 180 degree ulta kar deta hai. Subjects ki position swap karna mandatory hai."
+  },
+  {
+    "id": "WE-02",
+    "sentence": "Positive: \"Rohan is as diligent as Sohan.\"",
+    "correctAnswer": "Sohan is not more diligent than Rohan.",
+    "tense": "Binary Parity: Positive Degree of Equality to Comparative",
+    "steps": {
+      "step1_marker": "Entities & Quality: Rohan aur Sohan ke beech diligence ki equality ('as diligent as') compare ho rahi hai.",
+      "step2_time": "Semantic Goal: Original statement kehta hai dono barabar mehnati hain. Transformed sentence mein ye meaning preserve hona chahiye ki Sohan Rohan se zyada mehnati nahi hai.",
+      "step3_aspect": "Subject Transposition: 'Sohan' ko subject position par laya gaya aur 'Rohan' ko comparison reference banaya gaya.",
+      "step4_inflection": "Comparative Form & Negation: Multi-syllable adjective 'diligent' ke sath 'more diligent' lagaya aur helping verb ke baad 'not' lagaya ('is not more diligent than').",
+      "step5_synthesis": "Final Synthesis: 'Sohan is not more diligent than Rohan.'"
+    },
+    "trapWarning": "INEQUALITY DISTRACTOR: Options mein aksar 'Sohan is more diligent than Rohan' likha hota hai. Original sentence mein equality thi; bina 'not' ke comparative likhne se equality distort ho jati hai."
+  },
+  {
+    "id": "WE-03",
+    "sentence": "Positive: \"Aman is not as tall as Ravi.\"",
+    "correctAnswer": "Ravi is taller than Aman.",
+    "tense": "Binary Disparity: Negative Positive to Comparative",
+    "steps": {
+      "step1_marker": "Original Syntax: Negative positive sentence ('not as tall as') jo ye state kar raha hai ki Aman Ravi jitna lamba nahi hai.",
+      "step2_time": "Inferred Truth: Agar Aman Ravi jitna lamba nahi hai, toh iska direct factual matlab hai ki Ravi Aman se zyada lamba hai (Ravi > Aman).",
+      "step3_aspect": "Subject Transposition: Superior entity 'Ravi' ko primary subject position par laya gaya.",
+      "step4_inflection": "Comparative Adjective Formation: Monosyllabic adjective 'tall' mein regular comparative suffix '-er' joda gaya aur conjunction 'than' lagaya ('is taller than Aman').",
+      "step5_synthesis": "Final Synthesis: 'Ravi is taller than Aman.'"
+    },
+    "trapWarning": "POLARITY CONFUSION: Negative positive se affirmative comparative banta hai. Option mein agar 'Ravi is not taller than Aman' ho, toh wo galat hai kyunki wo dono ko equal bana deta hai."
+  },
+  {
+    "id": "WE-04",
+    "sentence": "Superlative: \"Mount Everest is the highest peak in the world.\"",
+    "correctAnswer": "Mount Everest is higher than any other peak in the world.",
+    "tense": "Unique Apex: Superlative to Comparative Degree",
+    "steps": {
+      "step1_marker": "Original Scope: Superlative 'the highest peak' group ('in the world') ke single supreme apex ko identify kar raha hai.",
+      "step2_time": "Target Comparative Mechanics: Everest ko duniya ki baaki sabhi peaks se compare karna hai aur superlative quality retain karni hai.",
+      "step3_aspect": "Self-Exclusion Application: Everest khud ek peak hai, isliye baaki peaks se alag karne ke liye 'any other' lagana compulsory hai.",
+      "step4_inflection": "Noun Concord Check: 'Any other' ke baad strictly singular noun 'peak' aayega ('than any other peak', NOT '*peaks').",
+      "step5_synthesis": "Final Synthesis: 'Mount Everest is higher than any other peak in the world.'"
+    },
+    "trapWarning": "THE OMITTED 'OTHER' BLUNDER: Option 'Mount Everest is higher than any peak in the world' bilkul galat hai kyunki Everest duniya ki peaks mein shamil hai, isliye 'other' lagakar use exclude karna mandatory hai."
+  },
+  {
+    "id": "WE-05",
+    "sentence": "Comparative: \"Lead is heavier than any other metal.\"",
+    "correctAnswer": "No other metal is as heavy as lead.",
+    "tense": "Unique Apex: Comparative to Positive Degree",
+    "steps": {
+      "step1_marker": "Original Structure: Comparative degree 'heavier than any other metal' unique superiority express kar raha hai.",
+      "step2_time": "Target Construction: Positive degree mein unique apex express karne ke liye sentence 'No other + singular noun' se start hota hai.",
+      "step3_aspect": "Subject & Reference Shift: Initial phrase 'No other metal' subject banega aur original subject 'lead' sentence ke end mein comparison object banega.",
+      "step4_inflection": "Base Adjective Formation: Consonant-doubling comparative 'heavier' wapas base positive form 'heavy' mein convert hoga aur 'as...as' / 'so...as' mein aayega.",
+      "step5_synthesis": "Final Synthesis: 'No other metal is as heavy as lead.'"
+    },
+    "trapWarning": "PLURAL NOUN DISTRACTOR: Options mein aksar '*No other metals are as heavy as lead' diya hota hai. 'No other' standard pattern mein singular noun ('metal') aur singular verb ('is') leta hai."
+  },
+  {
+    "id": "WE-06",
+    "sentence": "Positive: \"No other democracy in the world is as large as India.\"",
+    "correctAnswer": "India is the largest democracy in the world.",
+    "tense": "Unique Apex: Positive to Superlative Degree",
+    "steps": {
+      "step1_marker": "Original Structure: 'No other democracy... as large as India' state karta hai ki duniya mein koi doosri democracy India ki size ki barabari nahi kar sakti.",
+      "step2_time": "Target Superlative Goal: India ko world democracies ke apex par place karna hai.",
+      "step3_aspect": "Subject Elevation: 'India' main subject position par aayega.",
+      "step4_inflection": "Article & Superlative Suffix: Positive base 'large' silent-e adjective hai; superlative suffix '-st' lagakar 'largest' banaya aur definite article 'the' lagaya ('the largest democracy').",
+      "step5_synthesis": "Final Synthesis: 'India is the largest democracy in the world.'"
+    },
+    "trapWarning": "MISSING ARTICLE 'THE': Option mein agar 'India is largest democracy in the world' likha ho, toh article 'the' missing hone ke karan wo grammatically incomplete aur invalid option hai."
+  },
+  {
+    "id": "WE-07",
+    "sentence": "Superlative: \"Ashoka was one of the greatest kings of India.\"",
+    "correctAnswer": "Ashoka was greater than most other kings of India.",
+    "tense": "Subset Group: 'One of the' Superlative to Comparative",
+    "steps": {
+      "step1_marker": "Original Category: 'One of the greatest kings' show karta hai ki Ashoka akela supreme king nahi tha, balki top elite kings ke group mein se ek tha.",
+      "step2_time": "Comparative Logic: Kyunki wo akela top par nahi tha, isliye hum 'any other' use nahi kar sakte. Humein 'most other' (majority of kings) use karna hoga.",
+      "step3_aspect": "Adjective Inflection: 'Greatest' comparative form 'greater' mein convert hoga.",
+      "step4_inflection": "Noun Number Concord: 'Most other' ke baad strictly plural noun 'kings' aayega ('than most other kings of India').",
+      "step5_synthesis": "Final Synthesis: 'Ashoka was greater than most other kings of India.'"
+    },
+    "trapWarning": "THE 'ANY OTHER' TRAP: Agar option mein 'Ashoka was greater than any other king' diya ho, toh use turant eliminate karein! 'Any other' Ashoka ko akela number-1 king bana deta hai, jo original meaning ko alter kar deta hai."
+  },
+  {
+    "id": "WE-08",
+    "sentence": "Superlative: \"Jaipur is one of the cleanest cities in Rajasthan.\"",
+    "correctAnswer": "Very few cities in Rajasthan are as clean as Jaipur.",
+    "tense": "Subset Group: 'One of the' Superlative to Positive",
+    "steps": {
+      "step1_marker": "Original Category: 'One of the cleanest cities' subset top-bracket ranking ko represent kar raha hai.",
+      "step2_time": "Target Positive Form: 'One of the' wale superlative ka positive hamesha 'VERY FEW' se shuru hota hai.",
+      "step3_aspect": "Plural Concord: 'Very few' ke baad plural countable noun 'cities' aayega aur plural verb 'are' aayegi ('Very few cities... are').",
+      "step4_inflection": "Positive Degree Encapsulation: Superlative 'cleanest' base form 'clean' mein badlega aur 'as...as' ke beech place hoga ('as clean as Jaipur').",
+      "step5_synthesis": "Final Synthesis: 'Very few cities in Rajasthan are as clean as Jaipur.'"
+    },
+    "trapWarning": "THE 'NO OTHER' DISTRACTOR: Options mein 'No other city in Rajasthan is as clean as Jaipur' examiner ka sabse bada trap hota hai. 'No other' unique apex ke liye hota hai; 'one of the' ke liye strictly 'Very few' aata hai."
+  },
+  {
+    "id": "WE-09",
+    "sentence": "Positive: \"Very few advocates in the High Court are as eloquent as Mr. Sharma.\"",
+    "correctAnswer": "Mr. Sharma is one of the most eloquent advocates in the High Court.",
+    "tense": "Subset Group: Positive 'Very Few' to Superlative 'One of the'",
+    "steps": {
+      "step1_marker": "Original Syntax: 'Very few advocates... are as eloquent as' indicate karta hai ki High Court mein bohot kam advocates Mr. Sharma jitne eloquent hain.",
+      "step2_time": "Target Superlative Formula: 'Very few + plural noun' ka superlative transformation hamesha 'One of the + superlative + plural noun' hota hai.",
+      "step3_aspect": "Subject & Verb Agreement: 'Mr. Sharma' singular subject hai, isliye verb 'is' aayegi ('Mr. Sharma is one of the...').",
+      "step4_inflection": "Multi-syllable Adjective: 'Eloquent' (3 syllables) periphrastic superlative 'most eloquent' lega aur plural noun 'advocates' retain hoga.",
+      "step5_synthesis": "Final Synthesis: 'Mr. Sharma is one of the most eloquent advocates in the High Court.'"
+    },
+    "trapWarning": "SINGULAR NOUN BLUNDER: Options mein 'Mr. Sharma is one of the most eloquent advocate' (singular advocate) diya hota hai. 'One of the' ke baad hamesha plural noun ('advocates') aana mandatory hai."
+  },
+  {
+    "id": "WE-10",
+    "sentence": "Error Spotting: \"Iron is more useful than any metal found on earth.\"",
+    "correctAnswer": "Iron is more useful than any other metal found on earth.",
+    "tense": "The 'Any Other' Self-Exclusion Law",
+    "steps": {
+      "step1_marker": "Sentence Analysis: Comparative degree 'more useful than' do entities ya groups ke comparison ke liye use ho rahi hai.",
+      "step2_time": "Logical Error Identification: Subject 'Iron' khud ek metal hai jo earth par paya jata hai. Agar hum 'than any metal' bolte hain, toh Iron khud 'any metal' ke set mein shamil ho jata hai, jiska matlab niklega ki Iron Iron se bhi zyada useful hai!",
+      "step3_aspect": "Linguistic Compensation: Subject ko set se bahar nikalne ke liye adjective 'other' insert karna zaroori hai.",
+      "step4_inflection": "Number Verification: 'Any other' ke baad singular countable noun 'metal' hona chahiye jo yahan already singular hai.",
+      "step5_synthesis": "Final Synthesis: 'Iron is more useful than any other metal found on earth.'"
+    },
+    "trapWarning": "SELF-COMPARISON ERROR: Whenever a member of a class is compared with that same class using comparative degree, the word 'other' must be used to exclude the subject."
+  },
+  {
+    "id": "WE-11",
+    "sentence": "Comparative Nuance: \"Shakespeare is greater than any Indian dramatist.\"",
+    "correctAnswer": "Shakespeare is greater than any Indian dramatist. (Correct as written; 'other' must NOT be used).",
+    "tense": "External Group Comparison: The Zero 'Other' Rule",
+    "steps": {
+      "step1_marker": "Subject & Group: Subject 'Shakespeare' hai aur comparison group 'Indian dramatists' hai.",
+      "step2_time": "Group Membership Analysis: Shakespeare English (British) dramatist the, Indian dramatist nahi the.",
+      "step3_aspect": "Application of Self-Exclusion Rule: Kyunki Shakespeare Indian dramatists ke group ka part hi nahi hain, isliye unhe us group se exclude karne ke liye 'other' lagane ki koi zaroorat nahi hai.",
+      "step4_inflection": "Distractor Elimination: Agar hum '*Shakespeare is greater than any other Indian dramatist' likhenge, toh uska galat implication hoga ki Shakespeare ek Indian dramatist the!",
+      "step5_synthesis": "Final Synthesis: 'Shakespeare is greater than any Indian dramatist.' (Standard & grammatically flawless)."
+    },
+    "trapWarning": "BLIND 'OTHER' APPLICATION: Candidates har comparative sentence mein blind tarike se 'other' dhoondhte hain. Hamesha check karein: Agar subject group ka member nahi hai, toh 'other' lagana error hota hai."
+  },
+  {
+    "id": "WE-12",
+    "sentence": "Single Entity Dual Qualities: \"Rohan is braver than wise in court arguments.\"",
+    "correctAnswer": "Rohan is more brave than wise in court arguments.",
+    "tense": "Single Entity Two Qualities: The 'More' Law",
+    "steps": {
+      "step1_marker": "Entities Involved: Sentence mein sirf EK person hai (Rohan), aur uski DO ALAG qualities hain (bravery vs wisdom).",
+      "step2_time": "Grammatical Exception: Rule kehti hai ki jab do alag persons compare na ho rahe hon balki ek hi person ki do qualities compare ho rahi hon, toh '-er' suffix use nahi ho sakta.",
+      "step3_aspect": "Periphrastic Substitution: Single-syllable adjective 'brave' ke sath 'braver' galat hai; iski jagah strictly 'MORE BRAVE' aayega.",
+      "step4_inflection": "Parallel Base Form: Conjunction 'than' ke baad doosri quality bhi base form 'wise' mein rahegi.",
+      "step5_synthesis": "Final Synthesis: 'Rohan is more brave than wise in court arguments.'"
+    },
+    "trapWarning": "MONOSYLLABLE '-ER' REFLEX: Candidates sochte hain 'brave single syllable hai toh braver hi aayega'. Yaad rakhein: Ek hi person ki do qualities compare hone par strictly 'more [Adj 1] than [Adj 2]' use hota hai."
+  },
+  {
+    "id": "WE-13",
+    "sentence": "Selection of Two: \"Between the two advocates, Mr. Joshi is the most experienced.\"",
+    "correctAnswer": "Between the two advocates, Mr. Joshi is the more experienced.",
+    "tense": "Two-Entity Selection: 'The + Comparative' Rule",
+    "steps": {
+      "step1_marker": "Entity Boundary: Sentence clearly specify kar raha hai 'Between the two advocates' (total entities = 2).",
+      "step2_time": "Degree Restriction: Superlative degree minimum teen (N >= 3) entities demand karti hai. Do entities ke beech superlative 'the most experienced' use karna grammatical violation hai.",
+      "step3_aspect": "Selectional Article Concord: Jab do specific entities mein se kisi ek ko select kiya jaye ('of the two' / 'between the two'), toh comparative degree se pehle definite article 'THE' lagta hai.",
+      "step4_inflection": "Adjective Adjustment: Superlative 'most experienced' ko comparative 'more experienced' mein badla gaya aur article 'the' retain kiya gaya ('the more experienced').",
+      "step5_synthesis": "Final Synthesis: 'Between the two advocates, Mr. Joshi is the more experienced.'"
+    },
+    "trapWarning": "THE 'OF THE TWO' RULE: Jab sentence mein 'of the two' ya 'between the two' ho, toh 99% candidates superlative choose kar lete hain. Correct rule: Use 'THE + COMPARATIVE' for two entities."
+  },
+  {
+    "id": "WE-14",
+    "sentence": "Latin Comparative Error: \"The senior administrative officer is more senior than the bench secretary.\"",
+    "correctAnswer": "The senior administrative officer is senior to the bench secretary.",
+    "tense": "Latin Comparatives: Preposition 'To' Concord",
+    "steps": {
+      "step1_marker": "Adjective Identification: Adjective 'senior' Latin comparative hai jo '-or' par end ho raha hai.",
+      "step2_time": "Preposition Concord: Latin comparatives (senior, junior, superior, inferior, prior) conjunction 'than' nahi lete; strictly preposition 'TO' lete hain.",
+      "step3_aspect": "Redundancy Elimination: 'Senior' already comparative meaning carry karta hai, isliye iske aage comparative marker 'more' lagana double comparative redundancy hai ('more senior' is wrong).",
+      "step4_inflection": "Correction Mechanics: 'more' ko drop kiya aur 'than' ko preposition 'to' se replace kiya ('is senior to').",
+      "step5_synthesis": "Final Synthesis: 'The senior administrative officer is senior to the bench secretary.'"
+    },
+    "trapWarning": "LATIN 'THAN' DISTRACTOR: Options mein 'senior than' ya 'more senior to' examiner ke classic distractors hain. Formula yaad rakhein: Strictly 'senior TO' (no more, no than)."
+  },
+  {
+    "id": "WE-15",
+    "sentence": "Parallel Progression: \"As the magistrate climbed higher, the air felt cooler.\"",
+    "correctAnswer": "The higher the magistrate climbed, the cooler the air felt.",
+    "tense": "Proportional Progression: 'The + Comparative..., the + Comparative...'",
+    "steps": {
+      "step1_marker": "Semantic Relationship: Do parallel actions proportional relationship express kar rahi hain (altitude badhne par temperature kam ho raha hai).",
+      "step2_time": "Target Syntactic Formula: English grammar mein parallel proportional change express karne ke liye correlative structure 'The + Comparative..., the + Comparative...' use hota hai.",
+      "step3_aspect": "Clause Inversion & Article: Pehle clause mein 'The higher' front position par aayega aur second clause mein 'the cooler' front position par aayega.",
+      "step4_inflection": "Clause Symmetry: Dono clauses mein comparative adjective se pehle definite article 'THE' lagna mandatory hai.",
+      "step5_synthesis": "Final Synthesis: 'The higher the magistrate climbed, the cooler the air felt.'"
+    },
+    "trapWarning": "ARTICLE ASYMMETRY TRAP: Option mein agar 'The higher the magistrate climbed, cooler the air felt' (second clause mein 'the' missing) likha ho, toh wo grammatically defective hai. Dono clauses mein 'The' hona zaroori hai."
+  }
+]

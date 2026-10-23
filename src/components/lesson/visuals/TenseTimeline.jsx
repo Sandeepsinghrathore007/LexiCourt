@@ -41,13 +41,13 @@ export default function TenseTimeline() {
   const currentMode = TIMELINE_MODES.find((m) => m.id === activeModeId)
 
   return (
-    <Card variant="default" padding="lg" className="space-y-6 select-none border-surface-200">
+    <Card variant="default" padding="lg" className="space-y-6 select-none border-surface-200 dark:border-surface-800">
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
         <div>
-          <h3 className="font-heading font-bold text-base text-surface-900">
+          <h3 className="font-heading font-bold text-base text-surface-900 dark:text-surface-50">
             Chronological Timeline Architecture
           </h3>
-          <p className="text-xs text-surface-500">
+          <p className="text-xs text-surface-500 dark:text-surface-400">
             Observe how grammatical aspects reshape the temporal contour of events.
           </p>
         </div>
@@ -66,21 +66,21 @@ export default function TenseTimeline() {
       </div>
 
       {/* SVG Canvas */}
-      <div className="bg-surface-900 rounded-2xl p-6 text-white overflow-x-auto shadow-inner">
+      <div className="bg-surface-950 dark:bg-surface-900 rounded-2xl p-6 text-white overflow-x-auto shadow-inner border border-surface-200 dark:border-surface-700/60">
         <svg viewBox="0 0 800 240" className="w-full min-w-[650px] h-auto select-none" xmlns="http://www.w3.org/2000/svg">
           {/* Main Axis Line */}
-          <line x1="60" y1="120" x2="740" y2="120" stroke="#475569" strokeWidth="3" strokeDasharray="6 6" />
-          <line x1="60" y1="120" x2="740" y2="120" stroke="#94a3b8" strokeWidth="2" />
+          <line x1="60" y1="120" x2="740" y2="120" stroke="#525866" strokeWidth="3" strokeDasharray="6 6" />
+          <line x1="60" y1="120" x2="740" y2="120" stroke="#8b92a4" strokeWidth="2" />
 
           {/* Time Zone Dividers */}
-          <line x1="260" y1="40" x2="260" y2="200" stroke="#334155" strokeWidth="1.5" strokeDasharray="4 4" />
-          <line x1="520" y1="40" x2="520" y2="200" stroke="#334155" strokeWidth="1.5" strokeDasharray="4 4" />
+          <line x1="260" y1="40" x2="260" y2="200" stroke="#383c48" strokeWidth="1.5" strokeDasharray="4 4" />
+          <line x1="520" y1="40" x2="520" y2="200" stroke="#383c48" strokeWidth="1.5" strokeDasharray="4 4" />
 
           {/* Time Zone Labels */}
-          <text x="160" y="30" fill="#94a3b8" fontSize="13" fontWeight="700" textAnchor="middle" fontFamily="sans-serif">
+          <text x="160" y="30" fill="#fcd34d" fontSize="13" fontWeight="700" textAnchor="middle" fontFamily="sans-serif">
             PAST
           </text>
-          <text x="390" y="30" fill="#60a5fa" fontSize="14" fontWeight="800" textAnchor="middle" fontFamily="sans-serif">
+          <text x="390" y="30" fill="#c4b5fd" fontSize="14" fontWeight="800" textAnchor="middle" fontFamily="sans-serif">
             PRESENT (NOW)
           </text>
           <text x="630" y="30" fill="#34d399" fontSize="13" fontWeight="700" textAnchor="middle" fontFamily="sans-serif">
@@ -88,9 +88,9 @@ export default function TenseTimeline() {
           </text>
 
           {/* "NOW" Landmark Marker */}
-          <circle cx="390" cy="120" r="8" fill="#3b82f6" />
-          <circle cx="390" cy="120" r="14" fill="#3b82f6" opacity="0.3" />
-          <text x="390" y="150" fill="#93c5fd" fontSize="11" fontWeight="bold" textAnchor="middle" fontFamily="monospace">
+          <circle cx="390" cy="120" r="8" fill="#8b5cf6" />
+          <circle cx="390" cy="120" r="14" fill="#8b5cf6" opacity="0.3" />
+          <text x="390" y="150" fill="#e9d5ff" fontSize="11" fontWeight="bold" textAnchor="middle" fontFamily="monospace">
             [Point NOW]
           </text>
 
@@ -107,8 +107,8 @@ export default function TenseTimeline() {
               </text>
 
               {/* Present Point */}
-              <rect x="360" y="112" width="60" height="16" rx="4" fill="#60a5fa" opacity="0.8" />
-              <text x="390" y="100" fill="#bfdbfe" fontSize="11" fontWeight="bold" textAnchor="middle" fontFamily="sans-serif">
+              <rect x="360" y="112" width="60" height="16" rx="4" fill="#8b5cf6" opacity="0.8" />
+              <text x="390" y="100" fill="#e9d5ff" fontSize="11" fontWeight="bold" textAnchor="middle" fontFamily="sans-serif">
                 Habitual / Timeless
               </text>
 
@@ -135,8 +135,8 @@ export default function TenseTimeline() {
               </text>
 
               {/* Present Continuous Wave */}
-              <rect x="340" y="110" width="100" height="20" rx="10" fill="#3b82f6" opacity="0.85" />
-              <text x="390" y="95" fill="#93c5fd" fontSize="11" fontWeight="bold" textAnchor="middle">
+              <rect x="340" y="110" width="100" height="20" rx="10" fill="#8b5cf6" opacity="0.85" />
+              <text x="390" y="95" fill="#e9d5ff" fontSize="11" fontWeight="bold" textAnchor="middle">
                 Ongoing Right Now
               </text>
               <text x="390" y="150" fill="#cbd5e1" fontSize="10" textAnchor="middle" fontFamily="monospace">
@@ -168,9 +168,9 @@ export default function TenseTimeline() {
               </text>
 
               {/* Present Perfect: Past action with arrow pointing to NOW */}
-              <circle cx="290" cy="120" r="6" fill="#60a5fa" />
-              <path d="M 296 120 Q 340 70 385 115" fill="none" stroke="#60a5fa" strokeWidth="2.5" />
-              <text x="330" y="65" fill="#93c5fd" fontSize="11" fontWeight="bold" textAnchor="middle">
+              <circle cx="290" cy="120" r="6" fill="#8b5cf6" />
+              <path d="M 296 120 Q 340 70 385 115" fill="none" stroke="#8b5cf6" strokeWidth="2.5" />
+              <text x="330" y="65" fill="#e9d5ff" fontSize="11" fontWeight="bold" textAnchor="middle">
                 Completed past event impacting NOW
               </text>
               <text x="290" y="145" fill="#cbd5e1" fontSize="10" textAnchor="middle" fontFamily="monospace">
@@ -180,7 +180,7 @@ export default function TenseTimeline() {
               {/* Future Perfect: Completed by future deadline */}
               <circle cx="580" cy="120" r="6" fill="#34d399" />
               <path d="M 586 120 Q 620 75 660 115" fill="none" stroke="#34d399" strokeWidth="2" strokeDasharray="3 3" />
-              <line x1="660" y1="90" x2="660" y2="150" stroke="#f43f5e" strokeWidth="2" />
+              <line x1="660" y1="90" x2="660" y2="150" stroke="#fb7185" strokeWidth="2" />
               <text x="660" y="80" fill="#fca5a5" fontSize="10" fontWeight="bold" textAnchor="middle">
                 Deadline ("By 5 PM")
               </text>
@@ -198,7 +198,7 @@ export default function TenseTimeline() {
               <text x="230" y="100" fill="#fde68a" fontSize="10" fontWeight="bold" textAnchor="middle">
                 Origin ("Since 2018")
               </text>
-              <text x="310" y="85" fill="#93c5fd" fontSize="11" fontWeight="bold" textAnchor="middle">
+              <text x="310" y="85" fill="#e9d5ff" fontSize="11" fontWeight="bold" textAnchor="middle">
                 Unbroken Duration Span ("For 6 years...")
               </text>
               <text x="310" y="145" fill="#cbd5e1" fontSize="10" textAnchor="middle" fontFamily="monospace">
@@ -211,30 +211,30 @@ export default function TenseTimeline() {
           <defs>
             <linearGradient id="grad-pc" x1="0%" y1="0%" x2="100%" y2="0%">
               <stop offset="0%" stopColor="#f59e0b" />
-              <stop offset="100%" stopColor="#3b82f6" />
+              <stop offset="100%" stopColor="#8b5cf6" />
             </linearGradient>
           </defs>
         </svg>
       </div>
 
       {/* Description Panel */}
-      <div className="bg-surface-50 rounded-xl p-4 border border-surface-200 text-xs space-y-2">
+      <div className="bg-surface-50 dark:bg-surface-800/60 rounded-xl p-4 border border-surface-200 dark:border-surface-700 text-xs space-y-2">
         <div className="flex items-center gap-2">
           <Badge variant="primary" size="sm">{currentMode?.title}</Badge>
-          <span className="text-surface-600 font-medium">{currentMode?.description}</span>
+          <span className="text-surface-600 dark:text-surface-300 font-medium">{currentMode?.description}</span>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 border-t border-surface-200">
-          <div className="p-2 rounded bg-white border border-surface-200">
-            <span className="font-bold text-amber-700 block mb-0.5">Past Dimension:</span>
-            <span className="text-surface-700">{currentMode?.pastLabel}</span>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 border-t border-surface-200 dark:border-surface-700">
+          <div className="p-2 rounded bg-white dark:bg-surface-900/80 border border-surface-200 dark:border-surface-700">
+            <span className="font-bold text-amber-700 dark:text-amber-400 block mb-0.5">Past Dimension:</span>
+            <span className="text-surface-700 dark:text-surface-300">{currentMode?.pastLabel}</span>
           </div>
-          <div className="p-2 rounded bg-white border border-surface-200">
-            <span className="font-bold text-primary-700 block mb-0.5">Present Dimension:</span>
-            <span className="text-surface-700">{currentMode?.presentLabel}</span>
+          <div className="p-2 rounded bg-white dark:bg-surface-900/80 border border-surface-200 dark:border-surface-700">
+            <span className="font-bold text-primary-700 dark:text-primary-400 block mb-0.5">Present Dimension:</span>
+            <span className="text-surface-700 dark:text-surface-300">{currentMode?.presentLabel}</span>
           </div>
-          <div className="p-2 rounded bg-white border border-surface-200">
-            <span className="font-bold text-emerald-700 block mb-0.5">Future Dimension:</span>
-            <span className="text-surface-700">{currentMode?.futureLabel}</span>
+          <div className="p-2 rounded bg-white dark:bg-surface-900/80 border border-surface-200 dark:border-surface-700">
+            <span className="font-bold text-emerald-700 dark:text-emerald-400 block mb-0.5">Future Dimension:</span>
+            <span className="text-surface-700 dark:text-surface-300">{currentMode?.futureLabel}</span>
           </div>
         </div>
       </div>

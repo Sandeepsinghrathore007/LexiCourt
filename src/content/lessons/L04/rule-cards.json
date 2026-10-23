@@ -1,0 +1,162 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Simple Present Passive (Routine & Timeless Facts)",
+    "time": "Present & Past",
+    "aspect": "Simple Tenses",
+    "formula": "Object + is / am / are + V3 + (by + Subject)",
+    "auxiliary": "is (singular noun, he, she, it), are (plural noun, you, we, they), am (I)",
+    "usage": "Daily routines, general truths, administrative procedures, aur regular legal notices ke liye. Active ka V1/V_s/es passive mein 'is/am/are + V3' ban jata hai.",
+    "patterns": {
+      "affirmative": "The High Court registry publishes the daily cause list every evening.",
+      "negative": "The registry does not accept unsigned affidavits.",
+      "interrogative": "Does the court clerk maintain the digital case diary?"
+    },
+    "timeMarkers": ["daily", "regularly", "always", "every day", "officially", "by default"],
+    "keyTip": "EXAM TRAP: Active ke 'do/does' ko passive mein mat le jayein. Passive mein helping verb strictly 'is/am/are' hoti hai: 'The list is published', not 'The list does published'."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Present Continuous Passive (Ongoing Current Actions)",
+    "time": "Present & Past",
+    "aspect": "Continuous Tenses",
+    "formula": "Object + is / am / are + being + V3 + (by + Subject)",
+    "auxiliary": "is / am / are + being (continuous aspect ke liye 'being' mandatory hai)",
+    "usage": "Aisi situations ke liye jo bolte waqt progress mein hain. Active ka 'is/am/are + V-ing' passive mein 'is/am/are + being + V3' banta hai.",
+    "patterns": {
+      "affirmative": "The judicial committee is reviewing the pending recruitment rules right now.",
+      "negative": "The department is not updating the employee records currently.",
+      "interrogative": "Are the forensic technicians examining the hard drive?"
+    },
+    "timeMarkers": ["now", "right now", "currently", "at present", "at this moment"],
+    "keyTip": "CRITICAL KEYWORD: 'Being' ke bina continuous passive nahi ban sakta. Agar option mein sirf 'are reviewed' hai, toh wo Simple Present ban jayega. Continuous ke liye 'are being reviewed' choose karein."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Present Perfect Passive (Completed Actions with Present Relevance)",
+    "time": "Future & Perfect",
+    "aspect": "Perfect Tenses",
+    "formula": "Object + has / have + been + V3 + (by + Subject)",
+    "auxiliary": "has been (singular subject), have been (plural subject / I / we)",
+    "usage": "Actions jo haal hi mein complete huye hain aur jinka result present mein relevant hai. Active 'has/have + V3' passive mein 'has/have + been + V3' banta hai.",
+    "patterns": {
+      "affirmative": "The government has approved the new High Court service cadre.",
+      "negative": "The counsel has not submitted the vakalatnama so far.",
+      "interrogative": "Has the Chief Justice constituted the special arbitration bench?"
+    },
+    "timeMarkers": ["already", "just", "yet", "recently", "so far", "this week"],
+    "keyTip": "CONCORD ALERT: Agar active object plural hai (jaise 'rules'), toh active subject chahe singular ho, passive mein plural auxiliary 'have been' lagegi: 'The rules have been approved'."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Simple Past Passive (Definite Completed Past Events)",
+    "time": "Present & Past",
+    "aspect": "Simple Tenses",
+    "formula": "Object + was / were + V3 + (by + Subject)",
+    "auxiliary": "was (singular noun, I, he, she, it), were (plural noun, you, we, they)",
+    "usage": "Past ke kisi specific time par poore huye events ya historical milestones ke liye. Active ka V2 passive mein 'was/were + V3' banta hai.",
+    "patterns": {
+      "affirmative": "The division bench delivered the landmark judgment yesterday.",
+      "negative": "The investigating officer did not seize the forged cheques.",
+      "interrogative": "Did the district magistrate issue the prohibitory orders under Section 144?"
+    },
+    "timeMarkers": ["yesterday", "last week", "in 2022", "ago", "the other day", "then"],
+    "keyTip": "DID ELIMINATION: Active negative 'did not + V1' passive mein 'was not / were not + V3' banta hai. Passive mein 'did' kabhi use nahi hota."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Past Continuous Passive (Ongoing Past Background Actions)",
+    "time": "Present & Past",
+    "aspect": "Continuous Tenses",
+    "formula": "Object + was / were + being + V3 + (by + Subject)",
+    "auxiliary": "was / were + being + V3",
+    "usage": "Past ke kisi point par chal rahe continuous actions ke liye. Active 'was/were + V-ing' passive mein 'was/were + being + V3' banta hai.",
+    "patterns": {
+      "affirmative": "The stenographer was typing the confidential deposition when the power tripped.",
+      "negative": "The clerks were not auditing the treasury accounts yesterday morning.",
+      "interrogative": "Were the system assistants testing the server backup during the outage?"
+    },
+    "timeMarkers": ["at that time", "while", "when", "all yesterday evening", "during the trial"],
+    "keyTip": "PAST CONTINUOUS FORMULA: 'was/were + being + V3'. Option mein se 'being' gayab ho toh wo option foran eliminate kar dein."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Past Perfect Passive (Earlier of Two Past Actions)",
+    "time": "Future & Perfect",
+    "aspect": "Perfect Tenses",
+    "formula": "Object + had + been + V3 + (by + Subject)",
+    "auxiliary": "had been (sabhi singular aur plural subjects ke sath universal hai)",
+    "usage": "Past ke kisi second action se pehle complete ho chuke earlier action ke liye. Active 'had + V3' passive mein 'had been + V3' banta hai.",
+    "patterns": {
+      "affirmative": "The registry had sealed the electronic voting machines before the observers arrived.",
+      "negative": "The department had not notified the revised syllabus before the exam date.",
+      "interrogative": "Had the magistrate recorded the statement of the victim before the transfer?"
+    },
+    "timeMarkers": ["before", "by the time", "already (past)", "prior to", "until then"],
+    "keyTip": "BENEFIT OF HAD: Past Perfect mein singular/plural ka tension nahi hota; sabhi ke sath 'had been + V3' lagta hai. Bas 'been' lagana mat bhooliye."
+  },
+  {
+    "id": "RC-07",
+    "tense": "Simple Future & Future Perfect Passive",
+    "time": "Future & Perfect",
+    "aspect": "Future Tenses",
+    "formula": "Simple Future: will / shall + be + V3 | Future Perfect: will / shall + have + been + V3",
+    "auxiliary": "will be + V3 (Simple Future); will have been + V3 (Future Perfect)",
+    "usage": "Future intentions, official announcements, aur deadline-based future completions ke liye.",
+    "patterns": {
+      "affirmative": "The committee will announce the typing test schedule next Monday.",
+      "negative": "The candidates will not have completed the documentation before noon.",
+      "interrogative": "Will the High Court administration conduct the verification online?"
+    },
+    "timeMarkers": ["tomorrow", "next week", "soon", "by tomorrow evening", "by the end of this month"],
+    "keyTip": "BASE FORM INTEGRITY: Modal ke baad hamesha base form 'be' ya 'have been' lagti hai. 'Will has been' jaisa koi construction English mein exist nahi karta."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Negative Passive Sentence Architecture",
+    "time": "Questions & Negatives",
+    "aspect": "Negative Syntax",
+    "formula": "Subject + First Auxiliary + NOT + Remaining Auxiliaries + V3",
+    "auxiliary": "is not V3 | was not V3 | has not been V3 | is not being V3 | will not be V3",
+    "usage": "Negative sentences mein negation ka slot hamesha FIRST auxiliary verb ke turant baad hota hai.",
+    "patterns": {
+      "affirmative": "The administrative clerk has verified the original caste certificate.",
+      "negative": "The original caste certificate has not been verified by the administrative clerk.",
+      "interrogative": "Has the original caste certificate not been verified by the administrative clerk?"
+    },
+    "timeMarkers": ["not", "never", "no longer", "not yet", "seldom"],
+    "keyTip": "NOT PLACEMENT: Multiple helping verbs hone par 'not' hamesha pehli helping verb ke baad lagta hai: 'has NOT been verified' (sahi), 'has been not verified' (galat)."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Interrogative Passive: Yes/No & 'By Whom' Questions",
+    "time": "Questions & Negatives",
+    "aspect": "Interrogative Syntax",
+    "formula": "Yes/No: Aux + Object + V3? | Wh-: Wh-word + Aux + Object + V3? | Who: By whom + Aux + Object + V3?",
+    "auxiliary": "Tense ke hisaab se initial auxiliary inverted rehti hai",
+    "usage": "Direct questions ko passive mein convert karne ke liye. Question mark aur interrogative inversion maintain rehti hai.",
+    "patterns": {
+      "affirmative": "Did the defense counsel cross-examine the eyewitness in the court?",
+      "negative": "Why did the committee reject the application of the appellant?",
+      "interrogative": "Who drafted this comprehensive administrative circular?"
+    },
+    "timeMarkers": ["did", "do", "does", "why", "who", "when", "how", "by whom"],
+    "keyTip": "WHO TO BY WHOM: 'Who wrote the letter?' ➔ 'By whom was the letter written?'. Dhyaan rahe 'By whom' ke baad pehle auxiliary 'was' aayegi, fir object 'the letter'."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Agent Omission & Transitivity Verification Rule",
+    "time": "Special Rules",
+    "aspect": "Special Grammar",
+    "formula": "Unknown/Obvious Agent ➔ Omit 'by + agent' | Intransitive Verb (no object) ➔ No Passive Possible",
+    "auxiliary": "Standard passive auxiliary as per tense",
+    "usage": "Agar doer 'someone', 'people', 'they', ya obvious authority ('police', 'doctor') ho toh agent ko omit karein. Agar verb intransitive ho (sleep, die, arrive, go) toh passive construct na karein.",
+    "patterns": {
+      "affirmative": "Someone has stolen the case documents from the record room.",
+      "negative": "The confidential case documents have been stolen (by someone omitted).",
+      "interrogative": "The injured witness died in the district hospital (Intransitive: No Passive Possible)."
+    },
+    "timeMarkers": ["someone", "somebody", "people", "police", "sleep", "die", "arrive", "go"],
+    "keyTip": "EXAM TRAP: Agar question mein intransitive verb di ho ('He arrived yesterday'), toh option mein 'He was arrived' dekhkar tick mat karein. Intransitive ka passive nahi banta."
+  }
+]

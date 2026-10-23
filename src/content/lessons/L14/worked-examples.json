@@ -1,0 +1,212 @@
+[
+  {
+    "id": "WE-01",
+    "sentence": "Sentence Correction: \"The Rajasthan summer is hoter than any month in winter.\"",
+    "correctAnswer": "The Rajasthan summer is hotter than any month in winter.",
+    "tense": "Adjective Formation: CVC Consonant Doubling Rule",
+    "steps": {
+      "step1_marker": "Error Identification: Sentence mein adjective 'hot' ka comparative form '*hoter' likha gaya hai.",
+      "step2_time": "Morphological Check: Base adjective 'hot' monosyllabic (1-syllable) hai aur single consonant (t) se pehle single short vowel (o) aa raha hai (CVC pattern).",
+      "step3_aspect": "Spelling Law: CVC pattern par end hone wale single-syllable adjectives mein comparative '-er' add karne se pehle final consonant double hota hai (h-o-t ➔ h-o-t-t-e-r).",
+      "step4_inflection": "Inflection Shift: '*hoter' ko replace karke correct doubled spelling 'hotter' banaya gaya.",
+      "step5_synthesis": "Final Correction: 'The Rajasthan summer is hotter than any month in winter.'"
+    },
+    "trapWarning": "SPELLING TRAP: Competitive exam papers mein single consonant wale distractors (jaise *hoter, *biger, *fater, *thiner) deliberately dale jaate hain. Short vowel + single consonant hone par doubling mandatory hai."
+  },
+  {
+    "id": "WE-02",
+    "sentence": "Error Spotting: \"The police team decided to conduct farther investigation into the digital forgery case.\"",
+    "correctAnswer": "The police team decided to conduct further investigation into the digital forgery case.",
+    "tense": "Irregular Form: Farther (Physical Distance) vs Further (Additional)",
+    "steps": {
+      "step1_marker": "Contextual Semantic Analysis: Sentence digital forgery case ke 'additional' investigation/inquiry ki baat kar raha hai, kisi physical ground distance (km/miles) ki nahi.",
+      "step2_time": "Grammatical Rule: 'Farther' strictly physical measurable distance ke liye use hota hai ('10 km farther'). Abstract, additional, ya temporal progression ke liye strictly 'FURTHER' use hota hai.",
+      "step3_aspect": "Error Isolation: 'Farther investigation' metaphorical error hai; yahan inquiry ka scope badh raha hai.",
+      "step4_inflection": "Word Replacement: 'farther' ko 'further' se replace kiya gaya ('further investigation').",
+      "step5_synthesis": "Final Correction: 'The police team decided to conduct further investigation into the digital forgery case.'"
+    },
+    "trapWarning": "FARTHER vs FURTHER: Exam trick: 'Until farther orders' ➔ INCORRECT. 'Until further orders' ➔ CORRECT. 'Jodhpur is farther than Ajmer' ➔ CORRECT (physical distance)."
+  },
+  {
+    "id": "WE-03",
+    "sentence": "Transformation: \"Rohan is as diligent as Sohan.\" (Change into Comparative Degree)",
+    "correctAnswer": "Sohan is not more diligent than Rohan.",
+    "tense": "Binary Parity: Affirmative Equality to Negative Comparative",
+    "steps": {
+      "step1_marker": "Original Meaning & Parity: 'as diligent as' do entities (Rohan aur Sohan) ke beech 100% barabari (equality) express kar raha hai.",
+      "step2_time": "Target Degree & Polarity Rule: Affirmative Positive degree ko Comparative mein badalte waqt polarity negative ho jati hai taaki equality disturb na ho.",
+      "step3_aspect": "Subject Transposition: Comparison ke second subject 'Sohan' ko sentence ke shuru mein laya gaya.",
+      "step4_inflection": "Auxiliary & Comparative Form: Multi-syllable adjective 'diligent' ke sath 'more diligent' lagaya aur helping verb ke baad 'not' lagaya ('is not more diligent than').",
+      "step5_synthesis": "Final Synthesis: 'Sohan is not more diligent than Rohan.'"
+    },
+    "trapWarning": "INEQUALITY DISTRACTOR: Agar option mein 'Sohan is more diligent than Rohan' diya ho, toh wo meaning ko invert kar deta hai. Barabari preserve karne ke liye 'not more diligent' zaroori hai."
+  },
+  {
+    "id": "WE-04",
+    "sentence": "Transformation: \"Birds do not fly as fast as an aeroplane.\" (Change into Comparative Degree)",
+    "correctAnswer": "An aeroplane flies faster than birds.",
+    "tense": "Binary Disparity: Negative Inequality to Affirmative Comparative",
+    "steps": {
+      "step1_marker": "Original Syntax: Negative positive sentence ('do not fly as fast as') state kar raha hai ki birds ki speed aeroplane se kam hai.",
+      "step2_time": "Inferred Fact: Aeroplane ki speed birds se zyada hai (Aeroplane > Birds).",
+      "step3_aspect": "Subject Transposition: Superior entity 'An aeroplane' ko primary subject position par laya gaya.",
+      "step4_inflection": "Comparative Form: Base adverb 'fast' mein comparative suffix '-er' joda gaya ('flies faster than birds'). Negative marker 'do not' remove ho gaya.",
+      "step5_synthesis": "Final Synthesis: 'An aeroplane flies faster than birds.'"
+    },
+    "trapWarning": "POLARITY INVERSION LAW: Negative positive sentence se affirmative comparative sentence banta hai. 'An aeroplane does not fly faster than birds' likhna meaning distort kar dega."
+  },
+  {
+    "id": "WE-05",
+    "sentence": "Error Spotting: \"This new high-speed biometric software is more better than the previous version.\"",
+    "correctAnswer": "This new high-speed biometric software is better than the previous version.",
+    "tense": "Pleonasm Elimination: Double Comparative Ban",
+    "steps": {
+      "step1_marker": "Structure Scan: Sentence mein 'more better' construction use hua hai.",
+      "step2_time": "Grammatical Nature: 'Better' already 'good' ka irregular comparative form hai.",
+      "step3_aspect": "Pleonasm Violation: Comparative adjective ke aage additional 'more' lagana double comparative pleonasm hai.",
+      "step4_inflection": "Correction: Redundant adverb 'more' ko drop karein aur standalone comparative 'better' retain karein.",
+      "step5_synthesis": "Final Correction: 'This new high-speed biometric software is better than the previous version.'"
+    },
+    "trapWarning": "DOUBLE COMPARATIVE TRAP: Options mein '*more better', '*more easier', '*more taller', '*more wiser' dekhte hi eliminate kar dein. Standalone '-er' ya irregular form hi standard hai."
+  },
+  {
+    "id": "WE-06",
+    "sentence": "Sentence Correction: \"The newly appointed System Assistant is three years senior than the clerk.\"",
+    "correctAnswer": "The newly appointed System Assistant is three years senior to the clerk.",
+    "tense": "Latin Comparative: Senior, Junior, Superior with 'TO'",
+    "steps": {
+      "step1_marker": "Lexical Analysis: Sentence mein adjective 'senior' use hua hai jo Latin origin ka hai (ending in '-or').",
+      "step2_time": "Governing Rule: Latin adjectives ending in '-or' (senior, junior, superior, inferior, prior) comparative structure mein 'than' nahi lete.",
+      "step3_aspect": "Prepositional Concord: In adjectives ke baad mandatory preposition 'TO' lagta hai.",
+      "step4_inflection": "Replacement: Conjunction 'than' ko hata kar preposition 'TO' lagaya gaya ('senior to the clerk').",
+      "step5_synthesis": "Final Correction: 'The newly appointed System Assistant is three years senior to the clerk.'"
+    },
+    "trapWarning": "LATIN THAN TRAP: 'Senior than', 'junior than', 'superior than', 'prior than' standard English mein 100% prohibited hain. Hamesha 'TO' select karein."
+  },
+  {
+    "id": "WE-07",
+    "sentence": "Sentence Correction: \"Most senior judicial officers prefer institutional mediation than court litigation.\"",
+    "correctAnswer": "Most senior judicial officers prefer institutional mediation to court litigation.",
+    "tense": "Verbal Concord: 'Prefer...To' Comparative Structure",
+    "steps": {
+      "step1_marker": "Verb Identification: Sentence mein main verb 'prefer' aayi hai jiske do choices compare ho rahe hain: 'mediation' vs 'court litigation'.",
+      "step2_time": "Syntactic Rule: Verb 'prefer' aur adjective 'preferable' do options ke comparative link ke liye preposition 'TO' demand karte hain, 'than' nahi.",
+      "step3_aspect": "Error Isolation: Conjunction 'than' ka use 'prefer' ke sath non-standard error hai.",
+      "step4_inflection": "Correction: 'than' ko 'to' se replace karein ('prefer mediation to court litigation').",
+      "step5_synthesis": "Final Correction: 'Most senior judicial officers prefer institutional mediation to court litigation.'"
+    },
+    "trapWarning": "PREFER CONCORD: 'Prefer' ke sath 'than' kabhi nahi lagta. Aur 'preferable' ke sath na 'than' lagta hai na 'more' (*more preferable than is double error!)."
+  },
+  {
+    "id": "WE-08",
+    "sentence": "Error Spotting: \"The climate of Jaipur is hotter than Shimla in peak summer months.\"",
+    "correctAnswer": "The climate of Jaipur is hotter than that of Shimla in peak summer months.",
+    "tense": "Logical Equivalence: Singular Noun Attribute ('That of')",
+    "steps": {
+      "step1_marker": "Entity Verification: Left-hand side entity hai 'The climate of Jaipur' (City ka climate).",
+      "step2_time": "Right-hand Entity: Right-hand side entity likhi hai seedhe 'Shimla' (City ka naam).",
+      "step3_aspect": "Illogical Comparison: Climate ka comparison city se kiya ja raha hai (Climate vs City = Illogical Entity Mismatch).",
+      "step4_inflection": "Syntactic Parallelism: Comparison 'climate of Shimla' se hona chahiye. Repetition avoid karne ke liye singular noun 'climate' ke liye demonstrative pronoun 'THAT OF' lagaya gaya ('than that of Shimla').",
+      "step5_synthesis": "Final Correction: 'The climate of Jaipur is hotter than that of Shimla in peak summer months.'"
+    },
+    "trapWarning": "ILLOGICAL COMPARISON: Compare attributes with attributes! 'The population of Tokyo is larger than India' ➔ WRONG. '...larger than THAT OF India' ➔ CORRECT."
+  },
+  {
+    "id": "WE-09",
+    "sentence": "Error Spotting: \"The roads of Chandigarh are wider and cleaner than Delhi.\"",
+    "correctAnswer": "The roads of Chandigarh are wider and cleaner than those of Delhi.",
+    "tense": "Logical Equivalence: Plural Noun Attributes ('Those of')",
+    "steps": {
+      "step1_marker": "Subject Entity: Subject hai plural noun phrase 'The roads of Chandigarh'.",
+      "step2_time": "Comparison Target: Target mein seedhe 'Delhi' (city) likha gaya hai.",
+      "step3_aspect": "Plural Mismatch: 'Roads' (plural infrastructure) ka comparison ek city se ho raha hai jo syntactically illogical hai.",
+      "step4_inflection": "Parallel Marker: Plural noun 'roads' ko substitute karne ke liye plural demonstrative pronoun 'THOSE OF' lagaya gaya ('than those of Delhi').",
+      "step5_synthesis": "Final Correction: 'The roads of Chandigarh are wider and cleaner than those of Delhi.'"
+    },
+    "trapWarning": "THAT OF vs THOSE OF: Singular noun ke attribute ke liye 'THAT OF' (The water of X is cleaner than that of Y). Plural nouns ke attributes ke liye 'THOSE OF' (The courts of X are older than those of Y)."
+  },
+  {
+    "id": "WE-10",
+    "sentence": "Error Spotting: \"Iron is more useful than any metal for heavy industrial machinery.\"",
+    "correctAnswer": "Iron is more useful than any other metal for heavy industrial machinery.",
+    "tense": "Self-Exclusion Rule: 'Than Any Other + Singular Noun'",
+    "steps": {
+      "step1_marker": "Subject & Group Check: Subject hai 'Iron' aur comparison group hai 'any metal'.",
+      "step2_time": "Group Membership: Iron khud ek metal hai (Iron belongs to the category 'metals').",
+      "step3_aspect": "Logical Self-Inclusion Trap: Bina 'other' ke sentence ka matlab hai: 'Iron is more useful than iron' (Iron apne aap se zyada useful hai, jo absurd hai).",
+      "step4_inflection": "Self-Exclusion Marker: Subject 'Iron' ko remaining group se alag karne ke liye adjective 'OTHER' insert kiya gaya ('than any other metal').",
+      "step5_synthesis": "Final Correction: 'Iron is more useful than any other metal for heavy industrial machinery.'"
+    },
+    "trapWarning": "OMITTED OTHER TRAP: Agar subject usi category ka part hai, toh 'OTHER' mandatory hai. 'She is smarter than any girl in class' ➔ WRONG (She is a girl!). Correct: '...any other girl'."
+  },
+  {
+    "id": "WE-11",
+    "sentence": "Sentence Correction: \"Justice Mathur is one of the most dedicated judge in the state judiciary.\"",
+    "correctAnswer": "Justice Mathur is one of the most dedicated judges in the state judiciary.",
+    "tense": "'One of the' Superlative Concord: Plural Noun Requirement",
+    "steps": {
+      "step1_marker": "Phrase Identification: Sentence mein 'one of the + superlative' structure aaya hai ('one of the most dedicated...').",
+      "step2_time": "Grammatical Logic: 'One of the' ka matlab hota hai 'bahut saare members mein se ek'. Selection hamesha ek plural group mein se hi ho sakta hai.",
+      "step3_aspect": "Error Scan: Superlative ke baad singular noun '*judge' likha hai jo number discord create kar raha hai.",
+      "step4_inflection": "Concord Shift: Singular noun '*judge' ko plural form 'judges' mein convert kiya gaya ('one of the most dedicated judges').",
+      "step5_synthesis": "Final Correction: 'Justice Mathur is one of the most dedicated judges in the state judiciary.'"
+    },
+    "trapWarning": "ONE OF THE CONCORD: 'One of the + superlative' ke baad aane wala noun hamesha PLURAL hota hai. 'One of the best lawyer' ➔ WRONG. 'One of the best lawyers' ➔ CORRECT."
+  },
+  {
+    "id": "WE-12",
+    "sentence": "Sentence Correction: \"In the face of danger, the young officer was braver than wise.\"",
+    "correctAnswer": "In the face of danger, the young officer was more brave than wise.",
+    "tense": "Single Entity Comparison: Two Qualities of the Same Person",
+    "steps": {
+      "step1_marker": "Entity Analysis: Check karein kya do alag log compare ho rahe hain? Nahi! Ek hi officer ki do qualities compare ho rahi hain: 'brave' vs 'wise'.",
+      "step2_time": "Grammatical Law: Jab EK HI ENTITY ki DO ALAG QUALITIES compare hoti hain, toh '-er' form lagana strictly prohibited hota hai.",
+      "step3_aspect": "Formula Application: Rule demands 'MORE + Positive Adjective 1 + than + Positive Adjective 2'.",
+      "step4_inflection": "Inflection Shift: '*braver than wise' ko replace karke 'more brave than wise' likha gaya.",
+      "step5_synthesis": "Final Correction: 'In the face of danger, the young officer was more brave than wise.'"
+    },
+    "trapWarning": "TWO QUALITIES RULE: 'He is taller than fat' ➔ WRONG. 'He is more tall than fat' ➔ CORRECT. Do qualities ka comparison ho toh hamesha 'MORE + base form' lagta hai."
+  },
+  {
+    "id": "WE-13",
+    "sentence": "Error Spotting: \"The defense advocate argued more persuasive than the public prosecutor.\"",
+    "correctAnswer": "The defense advocate argued more persuasively than the public prosecutor.",
+    "tense": "Part of Speech Concord: Comparative Adverb with Action Verbs",
+    "steps": {
+      "step1_marker": "Target Identification: Sentence mein modifying word kis cheez ko qualify kar raha hai? Action verb 'argued' ke manner ko.",
+      "step2_time": "Part of Speech Rule: Action verb ke manner ko qualify karne ke liye ADVERB chahiye, adjective nahi.",
+      "step3_aspect": "Error Scan: 'Persuasive' ek adjective hai. Action verb 'argued' ke sath iska use grammatical error hai.",
+      "step4_inflection": "Adverbial Shift: Adjective 'persuasive' ko '-ly' lagakar adverb 'persuasively' banaya gaya, aur comparative form 'more persuasively' set kiya gaya.",
+      "step5_synthesis": "Final Correction: 'The defense advocate argued more persuasively than the public prosecutor.'"
+    },
+    "trapWarning": "ACTION MODIFIER: 'He runs more quick' ➔ WRONG. 'He runs more quickly' ➔ CORRECT. Linking verbs (is, seems) ke baad adjective; action verbs (speaks, runs, argues) ke baad adverb!"
+  },
+  {
+    "id": "WE-14",
+    "sentence": "Sentence Correction: \"There were less candidates present in the examination hall than expected.\"",
+    "correctAnswer": "There were fewer candidates present in the examination hall than expected.",
+    "tense": "Quantifier Concord: 'Fewer' (Countable) vs 'Less' (Uncountable)",
+    "steps": {
+      "step1_marker": "Noun Countability: Modified noun hai 'candidates' (Plural Countable Noun jo count kiya ja sakta hai).",
+      "step2_time": "Quantifier Rule: 'Less' strictly UNCOUNTABLE nouns ke sath lagta hai ('less time', 'less noise'). Plural COUNTABLE nouns ke sath strictly 'FEWER' lagta hai.",
+      "step3_aspect": "Error Isolation: Plural countable noun 'candidates' ke pehle '*less' lagana countability discord hai.",
+      "step4_inflection": "Replacement: 'less' ko replace karke countable quantifier 'fewer' lagaya gaya ('fewer candidates').",
+      "step5_synthesis": "Final Correction: 'There were fewer candidates present in the examination hall than expected.'"
+    },
+    "trapWarning": "LESS vs FEWER: 'Less applicants' ➔ WRONG. 'Fewer applicants' ➔ CORRECT. 'Fewer patience' ➔ WRONG. 'Less patience' ➔ CORRECT."
+  },
+  {
+    "id": "WE-15",
+    "sentence": "Transformation: \"Indore is the cleanest city in India.\" (Change into Positive Degree)",
+    "correctAnswer": "No other city in India is as/so clean as Indore.",
+    "tense": "Unique Apex Transformation: Superlative to Positive Degree",
+    "steps": {
+      "step1_marker": "Original Scope: Superlative sentence Indore ko unique apex ('the cleanest city') declare kar raha hai.",
+      "step2_time": "Transformation Rule: Unique Apex superlative ko positive degree mein transform karne ke liye formula hai: 'NO OTHER + Singular Noun + is as/so + Positive + as + Subject'.",
+      "step3_aspect": "Noun & Verb Concord: 'No other' ke baad singular noun 'city' aur singular verb 'is' lagaya gaya.",
+      "step4_inflection": "Enclosing Positive Adjective: Superlative 'cleanest' ko base form 'clean' mein badal kar 'as/so...as' ke beech enclose kiya gaya.",
+      "step5_synthesis": "Final Synthesis: 'No other city in India is as/so clean as Indore.'"
+    },
+    "trapWarning": "TRANSFORMATION CONCORD: Agar option mein '*Very few cities are as clean as Indore' diya ho, toh wo galat hai. 'Very few' subset bracket ('one of the') ke liye hota hai, unique apex ke liye strictly 'No other' hota hai."
+  }
+]

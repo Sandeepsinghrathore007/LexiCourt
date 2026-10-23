@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "Accidental Tense Backshifting (Narration Rule ko Voice mein Lagana)",
+    "category": "Tense Invariance Violation",
+    "frequency": "Extremely High (Number One Error in High Court Voice Questions)",
+    "explanation": "Direct-Indirect Narration padhne ke baad candidates aksar Voice mein bhi Simple Present ko Simple Past mein badal dete hain (jaise 'writes' ko 'was written'). Voice transformation ka universal rule hai: TENSE KABHI NAHI BADALTA. Agar active sentence Simple Present hai, toh passive bhi strictly Simple Present ('is/are + V3') hi rahega. Tense backshift sirf Narration mein hota hai, Voice mein strictly forbidden hai.",
+    "incorrectExample": "Active: 'The bench hears bail applications on Fridays.' ➔ Passive: 'Bail applications were heard by the bench on Fridays.'",
+    "correctExample": "Active: 'The bench hears bail applications on Fridays.' ➔ Passive: 'Bail applications are heard by the bench on Fridays.'",
+    "trapRule": "Mnemonic: Voice mein tense freeze rehta hai! Present active = Present passive ('is/are'). Past active = Past passive ('was/were')."
+  },
+  {
+    "id": "PIT-02",
+    "title": "New Subject ke Number ke Sath Auxiliary Agreement Discord",
+    "category": "Subject-Verb Concord Violation",
+    "frequency": "Extremely High (Top Distractor in Multi-Word Sentences)",
+    "explanation": "Active sentence mein subject singular hota hai aur object plural hota hai (ya vice-versa). Passive banate waqt original object naya subject ban jata hai, isliye auxiliary verb ka number aur person naye subject ke hisaab se decide hona chahiye. Candidates aksar original subject ki auxiliary copy kar lete hain.",
+    "incorrectExample": "The high court registrar (singular) has approved the recruitment rules (plural). ➔ The recruitment rules has been approved by the high court registrar.",
+    "correctExample": "The recruitment rules have been approved by the high court registrar.",
+    "trapRule": "Concord Rule: Passive auxiliary original subject ko nahi, naye subject (original object) ko agree karegi. Plural 'rules' ➔ strictly 'have been' / 'were' / 'are'."
+  },
+  {
+    "id": "PIT-03",
+    "title": "Continuous Passive mein 'Being' Omit Karna",
+    "category": "Aspectual Omission Trap",
+    "frequency": "Very High (Classic MCQ Distractor)",
+    "explanation": "Present Continuous aur Past Continuous passive mein 'is/are/was/were' ke baad 'being' lagana zaroori hai. Agar option mein se 'being' gayab ho, toh sentence continuous aspect kho deta hai aur Simple Present ya Simple Past ban jata hai.",
+    "incorrectExample": "The technician is repairing the high court server. ➔ The high court server is repaired by the technician.",
+    "correctExample": "The high court server is being repaired by the technician.",
+    "trapRule": "Formula: Continuous active (V-ing) ➔ Continuous passive ('being + V3'). 'Being' ke bina continuous passive impossible hai."
+  },
+  {
+    "id": "PIT-04",
+    "title": "Perfect Passive mein 'Been' Drop Karna",
+    "category": "Structural Incompletion Trap",
+    "frequency": "High",
+    "explanation": "Active sentence mein 'has/have/had + V3' hota hai. Passive banate waqt beech mein 'been' lagana zaroori hai. Agar 'been' chhod diya jaye, toh sentence active hi reh jata hai aur meaning bilkul ulta ho jata hai (jaise 'warrant has issued' ka matlab nikalta hai ki warrant ne kisi ko issue kiya).",
+    "incorrectExample": "The magistrate has issued the bailable warrant. ➔ The bailable warrant has issued by the magistrate.",
+    "correctExample": "The bailable warrant has been issued by the magistrate.",
+    "trapRule": "Perfect Passive Rule: 'has / have / had + been + V3'. 'Been' ke bina perfect passive grammatically incomplete rehta hai."
+  },
+  {
+    "id": "PIT-05",
+    "title": "Passive Interrogative mein Assertive Word Order ka Use",
+    "category": "Interrogative Syntax Inversion Failure",
+    "frequency": "Very High (Top Error-Spotting in High Court Papers)",
+    "explanation": "Questions ko passive banate waqt auxiliary verb ko subject se pehle inverted position mein rehna chahiye. Candidates aksar assertive word order ('Wh-word + subject + was...') likh dete hain, jo direct question mein fatal error hai.",
+    "incorrectExample": "Why the district judge dismissed the revision petition? ➔ Why the revision petition was dismissed by the district judge?",
+    "correctExample": "Why was the revision petition dismissed by the district judge?",
+    "trapRule": "Question Inversion Rule: 'Why / When / Was + Auxiliary + New Subject + V3?'. Question mark ke sath assertive word order kabhi mat lagayein."
+  },
+  {
+    "id": "PIT-06",
+    "title": "Intransitive Verbs ka Pseudo-Passive Banana",
+    "category": "Transitivity Feasibility Violation",
+    "frequency": "High (Distractor in Conceptual Grammar Papers)",
+    "explanation": "Verbs jinka koi direct object nahi hota (intransitive verbs: die, arrive, sleep, go, fall, smile) unka passive transformation theoretically aur practically impossible hai. Exam-setters 'was died', 'was arrived', 'was slept' dekar candidates ko confuse karte hain.",
+    "incorrectExample": "The patient died during surgery. ➔ The patient was died during surgery by the doctor.",
+    "correctExample": "The patient died during surgery. (No Passive Transformation is Possible).",
+    "trapRule": "Feasibility Test: Verb se 'What?' ya 'Whom?' puchhein. Agar koi object nahi milta, toh passive voice possible nahi hai."
+  }
+]

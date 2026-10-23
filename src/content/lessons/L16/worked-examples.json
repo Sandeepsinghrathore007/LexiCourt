@@ -1,0 +1,277 @@
+[
+  {
+    "id": "WE-01",
+    "question": "Choose the most appropriate SYNONYM for the word 'PRUDENT' in the following sentence:\n\"The Chief Justice observed that it was PRUDENT for the lower court to defer the verdict until forensic verification was received.\"",
+    "options": [
+      { "id": "A", "text": "Prudence" },
+      { "id": "B", "text": "Judicious" },
+      { "id": "C", "text": "Hasty" },
+      { "id": "D", "text": "Circumspection" }
+    ],
+    "correctAnswer": "B",
+    "stepByStep": [
+      { "step": 1, "action": "Analyze Target & POS", "explanation": "Target word 'PRUDENT' sentence mein 'it was [adjective] for the court...' slot mein ADJECTIVE hai. Meaning: careful, showing good foresight and judgment." },
+      { "step": 2, "action": "Check Prompt Polarity", "explanation": "Question mein 'SYNONYM' (similar meaning) pucha gaya hai." },
+      { "step": 3, "action": "Apply POS Concord Filter", "explanation": "Options A ('Prudence') aur D ('Circumspection') dono NOUNS hain (suffix -ence, -tion). Inhe POS mismatch rule ke tahat foran eliminate karein." },
+      { "step": 4, "action": "Evaluate Remaining Candidates", "explanation": "Option B ('Judicious') ek Adjective hai jiska meaning 'sensible, showing sound judgment' hai. Option C ('Hasty') Adjective hai lekin ye ANTONYM (rash) hai." },
+      { "step": 5, "action": "Lock Answer & Trap Warning", "explanation": "Option B ('Judicious') exactly matches meaning and POS. Option A examiner ka classic word-family noun trap tha." }
+    ],
+    "ruleApplied": "Rule RC-01 (Part-of-Speech Concord) & Rule RC-12 (5-Step Protocol)"
+  },
+  {
+    "id": "WE-02",
+    "question": "Select the exact ANTONYM of the capitalized word:\n\"The company director made a DISINTERESTED proposal during the mediation proceedings.\"",
+    "options": [
+      { "id": "A", "text": "Bored" },
+      { "id": "B", "text": "Uninterested" },
+      { "id": "C", "text": "Biased" },
+      { "id": "D", "text": "Neutral" }
+    ],
+    "correctAnswer": "C",
+    "stepByStep": [
+      { "step": 1, "action": "Define Target Meaning in Context", "explanation": "'DISINTERESTED' in legal/mediation context means impartial, unbiased, having no personal or financial stake in the outcome." },
+      { "step": 2, "action": "Check Prompt Polarity", "explanation": "Prompt demands the 'ANTONYM' (polar opposite)." },
+      { "step": 3, "action": "Neutralize False Friends", "explanation": "Options A ('Bored') aur B ('Uninterested') common layman traps hain jahan student 'disinterested' ko 'uninterested' samajh leta hai." },
+      { "step": 4, "action": "Distinguish Synonym vs Antonym", "explanation": "Option D ('Neutral') iska SYNONYM hai. Rushed students option D mark karte hain prompt na padhne ki wajah se." },
+      { "step": 5, "action": "Final Polar Selection", "explanation": "Impartial ka exact polar opposite 'Biased' (Option C) ya 'Prejudiced' hota hai. Hence C is the correct answer." }
+    ],
+    "ruleApplied": "Rule RC-09 (False Friends Neutralizer: Disinterested vs Uninterested)"
+  },
+  {
+    "id": "WE-03",
+    "question": "What is the true ANTONYM of 'INVALUABLE' in formal English?",
+    "options": [
+      { "id": "A", "text": "Priceless" },
+      { "id": "B", "text": "Precious" },
+      { "id": "C", "text": "Worthless" },
+      { "id": "D", "text": "Costly" }
+    ],
+    "correctAnswer": "C",
+    "stepByStep": [
+      { "step": 1, "action": "Inspect Target Word", "explanation": "'INVALUABLE' = In- + valuable. It means 'so valuable that a price cannot be assigned to it' = priceless." },
+      { "step": 2, "action": "Examine Synonym Options", "explanation": "Options A ('Priceless'), B ('Precious'), aur D ('Costly') are all synonyms or related positive terms." },
+      { "step": 3, "action": "Audit Opposite Polarity", "explanation": "If something is so precious it has infinite value, its opposite must be something that has ZERO value." },
+      { "step": 4, "action": "Eliminate Pseudo-Negative Illusion", "explanation": "Students often assume 'Invaluable' = not valuable = cheap. But the true opposite of 'Priceless' is 'Worthless'." },
+      { "step": 5, "action": "Confirm Selection", "explanation": "Option C ('Worthless') is the strictly verified antonym." }
+    ],
+    "ruleApplied": "Rule RC-09 (Invaluable Pseudo-Negative Prefix Trap)"
+  },
+  {
+    "id": "WE-04",
+    "question": "In the sentence:\n\"The High Court bench quashed the detention order, declaring that the magistrate had acted on a completely FLIMSY pretext.\"\nIdentify the most accurate ANTONYM of 'FLIMSY':",
+    "options": [
+      { "id": "A", "text": "Weak" },
+      { "id": "B", "text": "Fragile" },
+      { "id": "C", "text": "Substantial" },
+      { "id": "D", "text": "Shallow" }
+    ],
+    "correctAnswer": "C",
+    "stepByStep": [
+      { "step": 1, "action": "Contextual Sense Freezing", "explanation": "'A flimsy pretext' in judicial review means a weak, groundless, unconvincing reason lacking evidentiary weight." },
+      { "step": 2, "action": "Prompt Audit", "explanation": "Antonym (Opposite) required." },
+      { "step": 3, "action": "Filter Synonyms", "explanation": "Options A ('Weak'), B ('Fragile'), and D ('Shallow') are synonyms describing lack of strength." },
+      { "step": 4, "action": "Opposite Identification", "explanation": "An argument or pretext that is not flimsy is robust, weighty, solid, or 'Substantial'." },
+      { "step": 5, "action": "Lock Answer", "explanation": "Option C ('Substantial') perfectly satisfies the legal and adjectival opposition." }
+    ],
+    "ruleApplied": "Rule RC-02 (Contextual Sense Freezing) & Rule RC-03 (Scale Extremes)"
+  },
+  {
+    "id": "WE-05",
+    "question": "Choose the correct SYNONYM of the underlined word:\n\"The inquiry commission was appointed to examine whether the contractor had committed any NEFARIOUS irregularities.\"",
+    "options": [
+      { "id": "A", "text": "Heinous" },
+      { "id": "B", "text": "Virtuous" },
+      { "id": "C", "text": "Trivial" },
+      { "id": "D", "text": "Accidental" }
+    ],
+    "correctAnswer": "A",
+    "stepByStep": [
+      { "step": 1, "action": "Define Target Meaning", "explanation": "'NEFARIOUS' (Adjective) means wicked, villainous, criminal, or severely unethical." },
+      { "step": 2, "action": "Connotation Analysis", "explanation": "Extremely pejorative (Level 5 negative moral valence)." },
+      { "step": 3, "action": "Option Analysis", "explanation": "Option B ('Virtuous') is its polar ANTONYM. Option C ('Trivial') relates to importance, not moral wickedness. Option D ('Accidental') negates deliberate intent." },
+      { "step": 4, "action": "Match High Intensity Synonym", "explanation": "Option A ('Heinous') shares the exact severe criminal wickedness denotation." },
+      { "step": 5, "action": "Conclusion", "explanation": "Option A is the correct synonym." }
+    ],
+    "ruleApplied": "Rule RC-06 (Semantic Intensity Hierarchy) & Rule RC-07 (Tone Concord)"
+  },
+  {
+    "id": "WE-06",
+    "question": "Choose the most appropriate SYNONYM of 'MITIGATE' in the sentence:\n\"The state government introduced emergency subsidies to MITIGATE the financial distress of drought-hit farmers.\"",
+    "options": [
+      { "id": "A", "text": "Aggravate" },
+      { "id": "B", "text": "Alleviate" },
+      { "id": "C", "text": "Mitigation" },
+      { "id": "D", "text": "Militate" }
+    ],
+    "correctAnswer": "B",
+    "stepByStep": [
+      { "step": 1, "action": "Context & POS Check", "explanation": "'To MITIGATE' is an infinitive verb meaning to make less severe, lessen, or reduce distress." },
+      { "step": 2, "action": "Eliminate Distractors", "explanation": "Option C ('Mitigation') is a NOUN (POS mismatch trap). Option D ('Militate') is a lookalike verb (militate against = work against). Option A ('Aggravate') is the ANTONYM." },
+      { "step": 3, "action": "Select Direct Synonym", "explanation": "Option B ('Alleviate') is a verb meaning to make suffering or financial distress less severe." },
+      { "step": 4, "action": "Final Verification", "explanation": "Subsidies alleviate financial distress. Concord and collocation are flawless." }
+    ],
+    "ruleApplied": "Rule RC-01 (Part-of-Speech Concord) & Rule RC-10 (Distractor Exclusion)"
+  },
+  {
+    "id": "WE-07",
+    "question": "What is the precise ANTONYM of 'TACITURN'?",
+    "options": [
+      { "id": "A", "text": "Reticent" },
+      { "id": "B", "text": "Loquacious" },
+      { "id": "C", "text": "Reserved" },
+      { "id": "D", "text": "Laconic" }
+    ],
+    "correctAnswer": "B",
+    "stepByStep": [
+      { "step": 1, "action": "Define Target Word", "explanation": "'TACITURN' (Adjective) describes someone who is habitually silent, reserved, and untalkative." },
+      { "step": 2, "action": "Audit Synonyms", "explanation": "Options A ('Reticent'), C ('Reserved'), and D ('Laconic') are all direct SYNONYMS of taciturn." },
+      { "step": 3, "action": "Identify Opposite Scale Extreme", "explanation": "The polar opposite of speaking very little is speaking a great deal ('Loquacious' / 'Garrulous')." },
+      { "step": 4, "action": "Lock Answer", "explanation": "Option B ('Loquacious') is the authoritative antonym." }
+    ],
+    "ruleApplied": "Rule RC-03 (Scale Extremes) & Rule RC-12 (Underline Prompt: Antonym)"
+  },
+  {
+    "id": "WE-08",
+    "question": "Identify the word that is an accurate SYNONYM of 'CANDOR':\n\"The appellate bench was impressed by the young advocate's CANDOR in conceding a weak legal precedent.\"",
+    "options": [
+      { "id": "A", "text": "Deceit" },
+      { "id": "B", "text": "Frankness" },
+      { "id": "C", "text": "Candid" },
+      { "id": "D", "text": "Arrogance" }
+    ],
+    "correctAnswer": "B",
+    "stepByStep": [
+      { "step": 1, "action": "POS & Target Sense", "explanation": "'CANDOR' is an abstract NOUN meaning openness, honesty, and frankness in speech." },
+      { "step": 2, "action": "POS Trap Filter", "explanation": "Option C ('Candid') is an ADJECTIVE. A noun cannot be substituted with an adjective in 'impressed by his [noun]'." },
+      { "step": 3, "action": "Valence & Meaning Filter", "explanation": "Option A ('Deceit') is its ANTONYM. Option D ('Arrogance') is an unrelated negative trait." },
+      { "step": 4, "action": "Confirm Correct Noun", "explanation": "Option B ('Frankness') is an abstract noun of identical meaning." }
+    ],
+    "ruleApplied": "Rule RC-01 (Part-of-Speech Discipline: Noun ➔ Noun)"
+  },
+  {
+    "id": "WE-09",
+    "question": "In judicial administration, what is the polar opposite (ANTONYM) of 'EXONERATE'?",
+    "options": [
+      { "id": "A", "text": "Acquit" },
+      { "id": "B", "text": "Absolve" },
+      { "id": "C", "text": "Incriminate" },
+      { "id": "D", "text": "Vindicate" }
+    ],
+    "correctAnswer": "C",
+    "stepByStep": [
+      { "step": 1, "action": "Target Semantic Meaning", "explanation": "'EXONERATE' (Verb) means to officially declare free from blame or guilt (absolve, acquit)." },
+      { "step": 2, "action": "Synonym Identification", "explanation": "Options A ('Acquit'), B ('Absolve'), and D ('Vindicate') are all legal synonyms of exonerate." },
+      { "step": 3, "action": "Antonym Isolation", "explanation": "To make someone appear guilty or attach blame is to 'Incriminate' or 'Implicate'." },
+      { "step": 4, "action": "Lock Option", "explanation": "Option C ('Incriminate') is the exact legal polar antonym." }
+    ],
+    "ruleApplied": "Rule RC-04 (Binary Judicial Outcome Concord)"
+  },
+  {
+    "id": "WE-10",
+    "question": "Choose the most appropriate SYNONYM for 'PERNICIOUS' in the context of administrative governance:\n\"The spread of unverified rumors has a PERNICIOUS impact on public order.\"",
+    "options": [
+      { "id": "A", "text": "Beneficial" },
+      { "id": "B", "text": "Deleterious" },
+      { "id": "C", "text": "Transient" },
+      { "id": "D", "text": "Innocuous" }
+    ],
+    "correctAnswer": "B",
+    "stepByStep": [
+      { "step": 1, "action": "Target Word Meaning", "explanation": "'PERNICIOUS' (Adjective) means having a gradual, destructive, insidious, and harmful effect." },
+      { "step": 2, "action": "Connotation Analysis", "explanation": "Negative destructive valence." },
+      { "step": 3, "action": "Eliminate Opposites & Irrelevant", "explanation": "Option A ('Beneficial') and Option D ('Innocuous' = harmless) are ANTONYMS. Option C ('Transient' = brief) does not address destructiveness." },
+      { "step": 4, "action": "Match High Vocabulary Synonym", "explanation": "Option B ('Deleterious') means causing subtle or severe harm/damage, matching pernicious perfectly." }
+    ],
+    "ruleApplied": "Rule RC-06 (Intensity) & Rule RC-07 (Tone Concord)"
+  },
+  {
+    "id": "WE-11",
+    "question": "Select the proper negative prefix to form the authentic ANTONYM of 'RATIONAL':",
+    "options": [
+      { "id": "A", "text": "Unrational" },
+      { "id": "B", "text": "Disrational" },
+      { "id": "C", "text": "Irrational" },
+      { "id": "D", "text": "Inrational" }
+    ],
+    "correctAnswer": "C",
+    "stepByStep": [
+      { "step": 1, "action": "Phonetic Environment Check", "explanation": "Base word 'RATIONAL' starts with the liquid rhotic consonant 'R'." },
+      { "step": 2, "action": "Apply Prefix Assimilation Rule", "explanation": "Under Rule RC-08, the Latin negative prefix 'in-' assimilates to 'ir-' when preceding an initial 'r' (in- + rational ➔ irrational; in- + regular ➔ irregular)." },
+      { "step": 3, "action": "Eliminate Non-standard Forms", "explanation": "Options A ('*Unrational'), B ('*Disrational'), and D ('*Inrational') violate standard morphological assimilation." },
+      { "step": 4, "action": "Confirm Standard Lexeme", "explanation": "Option C ('Irrational') is standard and authentic." }
+    ],
+    "ruleApplied": "Rule RC-08 (Phonetic Prefix Assimilation: ir- before r)"
+  },
+  {
+    "id": "WE-12",
+    "question": "In the sentence:\n\"The Chief Minister described the new digital initiative as the ZENITH of e-governance reforms.\"\nWhat is the precise ANTONYM of 'ZENITH'?",
+    "options": [
+      { "id": "A", "text": "Apex" },
+      { "id": "B", "text": "Pinnacle" },
+      { "id": "C", "text": "Nadir" },
+      { "id": "D", "text": "Acme" }
+    ],
+    "correctAnswer": "C",
+    "stepByStep": [
+      { "step": 1, "action": "Understand Metaphorical Meaning", "explanation": "'ZENITH' (Noun) denotes the highest celestial point or peak of success/power." },
+      { "step": 2, "action": "Scan Synonyms", "explanation": "Options A ('Apex'), B ('Pinnacle'), and D ('Acme') are direct classic synonyms signifying the highest peak." },
+      { "step": 3, "action": "Find Polar Depth Extreme", "explanation": "The astronomical and metaphorical opposite of zenith (highest point) is 'Nadir' (lowest point of failure or despair)." },
+      { "step": 4, "action": "Select Correct Antonym", "explanation": "Option C ('Nadir') is the exact paired polar antonym." }
+    ],
+    "ruleApplied": "Rule RC-03 (Scale Extremes: Zenith <---> Nadir)"
+  },
+  {
+    "id": "WE-13",
+    "question": "Choose the closest SYNONYM for the word 'UBIQUITOUS':\n\"CCTV surveillance cameras have become UBIQUITOUS across court premises.\"",
+    "options": [
+      { "id": "A", "text": "Rare" },
+      { "id": "B", "text": "Omnipresent" },
+      { "id": "C", "text": "Unique" },
+      { "id": "D", "text": "Obsolete" }
+    ],
+    "correctAnswer": "B",
+    "stepByStep": [
+      { "step": 1, "action": "Examine Spatial Distribution", "explanation": "'UBIQUITOUS' (Adjective) means existing or being present everywhere at the same time." },
+      { "step": 2, "action": "Evaluate Options", "explanation": "Option A ('Rare') is an ANTONYM. Option C ('Unique') means one of a kind. Option D ('Obsolete') means outdated." },
+      { "step": 3, "action": "Match Spatial Universality", "explanation": "Option B ('Omnipresent') = Omni- (all) + present (existing everywhere), providing an exact semantic parallel." },
+      { "step": 4, "action": "Lock Answer", "explanation": "Option B is the correct synonym." }
+    ],
+    "ruleApplied": "Rule RC-06 (Semantic Degree Concord) & Rule RC-11 (Collocation)"
+  },
+  {
+    "id": "WE-14",
+    "question": "Which of the following represents the correct complementary ANTONYM pair?",
+    "options": [
+      { "id": "A", "text": "Hot — Cold" },
+      { "id": "B", "text": "Mortal — Immortal" },
+      { "id": "C", "text": "Huge — Tiny" },
+      { "id": "D", "text": "Rich — Poor" }
+    ],
+    "correctAnswer": "B",
+    "stepByStep": [
+      { "step": 1, "action": "Review Complementary Definition", "explanation": "Complementary antonyms are binary opposites with no intermediate gradations (either A is true or B is true)." },
+      { "step": 2, "action": "Test Gradable Options", "explanation": "Option A (Hot/Cold), C (Huge/Tiny), and D (Rich/Poor) are all GRADABLE scales (one can be warm, medium-sized, or middle-class)." },
+      { "step": 3, "action": "Test Binary Option", "explanation": "A living entity is either 'Mortal' (subject to death) or 'Immortal' (never dies). There is no middle ground." },
+      { "step": 4, "action": "Conclusion", "explanation": "Option B ('Mortal — Immortal') is a genuine complementary pair." }
+    ],
+    "ruleApplied": "Rule RC-04 (Binary Complementary Opposition Law)"
+  },
+  {
+    "id": "WE-15",
+    "question": "Choose the most appropriate SYNONYM of 'VACILLATE':\n\"A judicial officer should not VACILLATE once the evidence has clearly established the facts.\"",
+    "options": [
+      { "id": "A", "text": "Decide" },
+      { "id": "B", "text": "Waver" },
+      { "id": "C", "text": "Vacant" },
+      { "id": "D", "text": "Persevere" }
+    ],
+    "correctAnswer": "B",
+    "stepByStep": [
+      { "step": 1, "action": "Identify Target Verb Meaning", "explanation": "'VACILLATE' (Verb) means to waver between different opinions or actions; to be indecisive." },
+      { "step": 2, "action": "Filter Lookalikes & Opposites", "explanation": "Option C ('Vacant') is a deceptive lookalike adjective meaning empty. Option A ('Decide') and Option D ('Persevere') are ANTONYMS." },
+      { "step": 3, "action": "Select Matching Verb", "explanation": "Option B ('Waver') is a verb of identical meaning denoting fluctuation of thought or action." },
+      { "step": 4, "action": "Confirm Selection", "explanation": "Option B is the accurate synonym." }
+    ],
+    "ruleApplied": "Rule RC-01 (Verb Concord) & Rule RC-12 (Cognitive Elimination)"
+  }
+]

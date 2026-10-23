@@ -25,13 +25,13 @@
           "status": "active",
           "estimatedMinutes": 90,
           "difficulty": "Foundational",
-          "description": "Master all 12 tense structures (3 Times × 4 Aspects), auxiliary verb rules, affirmative/negative/interrogative patterns, and contextual time markers.",
+          "description": "Sabhi 12 tense structures (3 Times × 4 Aspects), auxiliary verb rules, affirmative/negative/interrogative patterns, aur contextual time markers ko master karein.",
           "learningObjectives": [
-            "Deconstruct the dual-axis tense matrix (Time × Aspect)",
-            "Master structural formulas and auxiliary verbs for all 12 tenses",
-            "Identify contextual time markers that guide correct tense choice",
-            "Disambiguate Simple Past vs Present Perfect and other confusing pairs",
-            "Construct positive, negative, and interrogative sentences accurately"
+            "Dual-axis tense matrix (Time × Aspect) ko samajhein",
+            "Sabhi 12 tenses ke structural formulas aur auxiliary verbs ko master karein",
+            "Contextual time markers ko identify karein jo sahi tense chunne mein madad karte hain",
+            "Simple Past vs Present Perfect aur doosre confusing pairs mein farq karna seekhein",
+            "Positive, negative, aur interrogative sentences bina kisi galti ke construct karein"
           ],
           "stepsCount": 10
         },
@@ -39,20 +39,37 @@
           "id": "L02",
           "title": "Sequence of Tenses & Tense Harmony",
           "part": "2 of 3",
-          "status": "locked",
+          "status": "active",
           "estimatedMinutes": 90,
           "difficulty": "Advanced",
-          "description": "Rules governing tense agreement between main and subordinate clauses, past tense harmony, and universal truth exceptions.",
+          "description": "Main clause aur subordinate clause ke beech cross-clause tense agreement, General Rule of Past Harmony, earlier/simultaneous/posterior time relationships, aur universal truth exceptions ko master karein.",
+          "learningObjectives": [
+            "Governing main clauses aur dependent subordinate/reported clauses ko identify karna seekhein",
+            "General Rule of Past Harmony apply karein: past main verbs subordinate clause mein backshifting demand karte hain",
+            "Teeno temporal relationships coordinate karein: Simultaneous, Earlier (Past Perfect), aur Later (would/should)",
+            "Present aur Future main clauses ke saath subordinate tense ki open flexibility ko samajhein",
+            "Universal Truths, Scientific Laws, aur Permanent Facts ke exceptions ko identify aur apply karein",
+            "Continuing current facts ko temporary ya historical past states se distinguish karna seekhein"
+          ],
           "stepsCount": 10
         },
         {
           "id": "L03",
-          "title": "Conditional Sentences & Future Time Clauses",
+          "title": "Conditional Sentences — Types 0, 1, 2, 3 and Inversions",
           "part": "3 of 3",
-          "status": "locked",
+          "status": "active",
           "estimatedMinutes": 105,
           "difficulty": "Advanced",
-          "description": "Types 0, 1, 2, 3 conditionals, inverted conditionals (Had I..., Were he...), and temporal conjunction constraints.",
+          "description": "Condition aur result clauses ki syntax, Types 0, 1, 2, 3 ke structural formulas, mixed conditionals, inverted structures (Had I..., Were he...), aur competitive exam traps ko master karein.",
+          "learningObjectives": [
+            "Condition clause (if-clause) aur result clause ke syntactic function aur clause ordering ko identify karein",
+            "Chaar standard conditional types (Types 0, 1, 2, aur 3) ke meaning aur verb formulas ko master karein",
+            "Factual truths, realistic future, hypothetical present, aur unreal past conditions mein accurately distinguish karein",
+            "Contextual time references ke hisaab se mixed conditionals ko analyze aur construct karein",
+            "Formal English aur exam questions mein aane wali conditional inversions (Had, Were, Should) ko master karein",
+            "Unless, provided that, as long as jaise conditional connectives ke rules aur limitations ko apply karein",
+            "High Court exams ke recurring formula traps (jaise if-clause mein 'would' ya 'will' ka use) ko eliminate karein"
+          ],
           "stepsCount": 10
         }
       ]
@@ -66,22 +83,45 @@
       "lessons": [
         {
           "id": "L04",
-          "title": "Active & Passive Voice Fundamentals",
+          "title": "Active & Passive Voice — Fundamentals and Tense Matrix",
           "part": "1 of 2",
-          "status": "locked",
+          "status": "active",
           "estimatedMinutes": 90,
           "difficulty": "Intermediate",
-          "description": "Core active-to-passive conversions across tenses, auxiliary expansion (be + V3), and untransformable tenses.",
+          "description": "Active aur Passive Voice ke core mechanics, subject-object transposition, auxiliary 'be' expansion, sabhi tenses ka transformation matrix, negative aur interrogative forms, agent ka role, aur exam traps ko master karein.",
+          "learningObjectives": [
+            "Active Voice aur Passive Voice ke beech fundamental grammatical aur functional farq ko identify karein",
+            "Sentence mein subject, verb, direct object, aur receiver of action ko accurately isolate karein",
+            "Identify karein ki kaunsi transitive verbs passive construct karti hain aur intransitive verbs passive kyun nahi banati",
+            "Active sentences ko tense aur meaning preserve karte huye passive voice mein accurately convert karein",
+            "Tense aur new subject ke number/person ke hisaab se verb 'be' ka correct auxiliary form select karein",
+            "Har passive construction mein main verb ki past participle (V3) form ka flawless use karein",
+            "Understand karein ki 'by + agent' kab zaroori hota hai, kab optional hota hai, aur kab naturally omit kiya jata hai",
+            "Basic negative aur interrogative (Yes/No aur Wh-questions) passive sentences construct aur interpret karein",
+            "High Court exams ke common voice traps (tense distortion, wrong auxiliary, missing V3, pronoun errors) ko eliminate karein"
+          ],
           "stepsCount": 10
         },
         {
           "id": "L05",
-          "title": "Advanced Voice: Imperatives, Modals & Prepositional Verbs",
+          "title": "Active & Passive Voice — Imperatives, Modals & Prepositional Verbs",
           "part": "2 of 2",
-          "status": "locked",
+          "status": "active",
           "estimatedMinutes": 90,
           "difficulty": "Advanced",
-          "description": "Imperative passives (Let + obj + be + V3), modals (modal + be + V3), and retained fixed prepositions in passive voice.",
+          "description": "Imperative sentences (commands, requests, advice, prohibitions), modal auxiliaries (simple aur modal-perfect), prepositional aur phrasal verbs mein fixed prepositions ka retention, aur two-object passive constructions ko master karein.",
+          "learningObjectives": [
+            "Imperative sentences ko unke communicative function (orders, requests, instructions, advice, prohibitions) ke hisaab se natural passive constructions mein convert karein",
+            "Textbook imperative pattern 'Let + object + be + V3' aur situational passive forms ('You are requested / ordered / advised to') ke beech accurate distinction karein",
+            "Negative imperatives aur prohibitions ke passive structures ('Let + object + not + be + V3' aur 'You are forbidden / instructed not to') ko master karein",
+            "Moral obligation aur advice wale sentences mein 'should be + V3' aur 'must be + V3' passive patterns apply karein",
+            "Modal auxiliaries (can, could, may, might, must, should, would) ke standard passive structure 'modal + be + V3' ko accurately transform karein",
+            "Modal-perfect passive structure 'modal + have been + V3' ko past unfulfilled actions aur deductions ke context mein master karein",
+            "Negative aur interrogative modal passives mein correct auxiliary chain aur inverted word order preserve karein",
+            "Prepositional aur phrasal verbs (look into, laugh at, deal with, call off) mein required prepositions ko passive voice mein retain karein",
+            "Direct aur indirect objects (two-object verbs) wale active sentences se dono alternative passive forms construct aur evaluate karein",
+            "High Court competitive exams ke advanced voice traps (missing prepositions, modal backshifting, incorrect negative order, been omission) ko eliminate karein"
+          ],
           "stepsCount": 10
         }
       ]
@@ -95,22 +135,46 @@
       "lessons": [
         {
           "id": "L06",
-          "title": "Direct & Indirect Speech Fundamentals",
+          "title": "Direct & Indirect Speech — Fundamentals, Pronouns & Tense Backshift",
           "part": "1 of 2",
-          "status": "locked",
+          "status": "active",
           "estimatedMinutes": 90,
           "difficulty": "Intermediate",
-          "description": "Reporting verbs, backshift of tenses, pronoun reference shifts (SON rule), and adverbial time/place adjustments.",
+          "description": "Direct aur Indirect Speech ke core fundamentals, reporting clause vs reported clause, reporting verbs (say vs tell), pronoun reference shifts (speaker aur listener ke hisaab se), tense backshift matrix, universal truth exceptions, aur contextual time/place adjustments ko master karein.",
+          "learningObjectives": [
+            "Direct Speech aur Indirect Speech ke beech fundamental functional aur syntactic farq ko identify karein",
+            "Sentence mein reporting clause, reporting verb, reporting subject, aur reported clause ko accurately isolate karein",
+            "Assertive statements ko quotation marks hatakar appropriate conjunction 'that' ke sath Indirect Speech mein convert karein",
+            "Reporting verbs 'say', 'tell', aur 'remark' ke syntactic patterns (said that vs told + object) ko correctly apply karein",
+            "Speaker, listener (person addressed), aur 3rd person reference ke hisaab se pronouns ko bina meaning distort kiye badlein",
+            "Past reporting verb hone par conventional tense-backshift matrix (Present to Past, Simple Past to Past Perfect) ko accurately execute karein",
+            "Universal truths, scientific facts, permanent habits, aur present/future reporting verbs mein backshift exceptions ko identify karein",
+            "Modal auxiliaries (will to would, can to could, may to might, must to had to) ke backshift rules ko systematically apply karein",
+            "Time aur place expressions (today to that day, yesterday to the previous day) ko context-dependent reporting ke hisaab se adjust karein",
+            "Rajasthan High Court exams ke common narration traps (told to me, double that, unnecessary backshift, pronoun confusion) ko eliminate karein"
+          ],
           "stepsCount": 10
         },
         {
           "id": "L07",
-          "title": "Advanced Narration: Interrogatives, Imperatives & Exclamatory",
+          "title": "Narration — Interrogative, Imperative, Exclamatory & Optative Sentences",
           "part": "2 of 2",
-          "status": "locked",
+          "status": "active",
           "estimatedMinutes": 90,
           "difficulty": "Advanced",
-          "description": "Yes/No (if/whether) and Wh- questions, question inversion removal, imperative commands/requests, and exclamations.",
+          "description": "Yes/No questions (if/whether), Wh-questions mein auxiliary inversion ka removal, imperative commands, requests aur advice ('to + V1' / 'not to + V1'), negative commands aur forbade rules, exclamatory sentences ('exclaimed with joy/sorrow/wonder'), aur optative wishes aur prayers ('prayed/wished that... might') ko master karein.",
+          "learningObjectives": [
+            "Yes/No questions ko Direct Speech se Indirect Speech mein 'if' ya 'whether' use karke accurately convert karein",
+            "Wh-questions ko convert karte waqt original question word retain karein aur auxiliary inversion remove karke statement word order banayein",
+            "Context ke hisaab se correct reporting verbs ('asked', 'enquired of', 'wanted to know') aur clause structures choose karein",
+            "Imperative sentences (commands, requests, advice, instructions) ko 'Reporting verb + object + to + V1' formula se accurately report karein",
+            "Negative imperatives ko 'not to + V1' aur 'forbade + object + to + V1' (bina double negative ke) correctly transform karein",
+            "Exclamatory sentences ko emotion ke hisaab se 'exclaimed with joy / sorrow / wonder / regret' aur conjunction 'that' ke sath report karein",
+            "Optative sentences (wishes, prayers, blessings, curses) ko 'wished / prayed that + subject + might + V1' structure mein convert karein",
+            "Polite words ('please', 'kindly') aur exclamatory interjections ('Hurrah!', 'Alas!') ko Indirect Speech mein drop karna seekhein",
+            "Original speaker ka intended communicative purpose aur tone bina distortion ke preserve karein",
+            "Rajasthan High Court exams ke recurring narration traps (inversion retention, double conjunction 'that if', forbidden + not, question mark in reported clause) ko eliminate karein"
+          ],
           "stepsCount": 10
         }
       ]
@@ -124,22 +188,46 @@
       "lessons": [
         {
           "id": "L08",
-          "title": "Sentence Transformations: Polarity & Types",
+          "title": "Transformation of Sentences — Assertive, Negative, Interrogative & Exclamatory",
           "part": "1 of 2",
-          "status": "locked",
+          "status": "active",
           "estimatedMinutes": 90,
           "difficulty": "Intermediate",
-          "description": "Assertive to Negative without meaning change, Interrogative transformations, and Exclamatory conversions.",
+          "description": "Assertive, Negative, Interrogative aur Exclamatory sentences ke structures ko bina meaning change kiye transform karna, negative constructions (antonyms, none but, too...to, no sooner), rhetorical questions ki semantic equivalence, aur exclamatory-to-assertive intensifiers ko master karein.",
+          "learningObjectives": [
+            "Assertive, Interrogative, aur Exclamatory sentence forms ko accurately identify karein",
+            "Sentence form aur semantic proposition ke beech difference samajhein aur meaning 100% preserve karein",
+            "Affirmative statements ko 'not + antonym', 'none but', 'nothing but', 'no sooner...than', aur 'so...that cannot' se negative mein transform karein",
+            "Negative statements ko accurately affirmative form mein badlein",
+            "The Golden Polarity Law apply karke assertive sentences ko interrogative forms mein transform karein",
+            "Rhetorical questions aur ordinary questions ke beech distinction identify karke semantic equivalence establish karein",
+            "Exclamatory sentences ('What a', 'How') ko assertive form mein appropriate intensifiers ('very', 'great', 'terrible') ke sath transform karein",
+            "Wishes, regrets, aur interjections ('If only', 'O that', 'Alas', 'Hurrah') ko natural assertive structures mein convert karein",
+            "Auxiliary inversion, dummy do/does/did auxiliary insertion, aur punctuation shifts (. vs ? vs !) flawlessly execute karein",
+            "Rajasthan High Court exams ke common transformation distractor traps ko eliminate karein"
+          ],
           "stepsCount": 10
         },
         {
           "id": "L09",
-          "title": "Degrees of Comparison & Clause Transformations",
+          "title": "Degrees of Comparison — Positive, Comparative, Superlative & Transformations",
           "part": "2 of 2",
-          "status": "locked",
+          "status": "active",
           "estimatedMinutes": 90,
           "difficulty": "Advanced",
-          "description": "Positive, Comparative ('any other' + singular noun), Superlative degrees, and 'Too...to' to 'So...that' conversions.",
+          "description": "Positive, Comparative aur Superlative degrees ke grammatical rules, adjective formation patterns, irregular forms, 'any other' aur 'one of the' structures, aur meaning-preserving sentence transformations ko systematically master karein.",
+          "learningObjectives": [
+            "Positive, Comparative aur Superlative degrees ke fundamental differences aur functional usage ko accurately identify karein",
+            "Sentences mein adjectives aur unki respective degree (Positive, Comparative, Superlative) ko isolate karna seekhein",
+            "Regular adjectives ke comparative (-er) aur superlative (-est) forms sahi spelling rules ke sath construct karein",
+            "Consonant doubling, -y se -ier/-iest, aur multi-syllabic 'more/most' rules ko without error apply karein",
+            "High-frequency irregular adjectives (good/better/best, bad/worse/worst, far/farther/further, late/later/latter) ko master karein",
+            "Equality ('as...as') aur inequality ('not as/so...as') comparisons ko logically coordinate karein",
+            "Two-entity comparisons mein Positive aur Comparative degree ke beech semantic truth preserve karte huye transform karein",
+            "Universal group comparisons mein 'No other + singular noun' aur 'than any other + singular noun' formulas ko flawlessly apply karein",
+            "'One of the + superlative + plural noun' ko 'Very few + plural noun' aur 'than most other + plural noun' structures mein badlein",
+            "Rajasthan High Court exams ke recurring degree traps (double comparatives, missing other, singular-plural discord, Latin comparatives with to) ko eliminate karein"
+          ],
           "stepsCount": 10
         }
       ]
@@ -153,32 +241,70 @@
       "lessons": [
         {
           "id": "L10",
-          "title": "Articles: A/An Phonetics, The & Zero Article Omission",
+          "title": "Articles & Determiners — A, An, The, Zero Article and Quantifiers",
           "part": "1 of 3",
-          "status": "locked",
+          "status": "active",
           "estimatedMinutes": 90,
           "difficulty": "Intermediate",
-          "description": "Vocalic sound rules for A/An, definite article The in legal contexts, omission of articles and particularization exceptions.",
+          "description": "A/An vocalic sound rules, definite article The in specific and official contexts, zero article omission, countable vs uncountable quantifiers (Few/A few/The few, Little/A little/The little), Some/Any, Much/Many, aur distributive determiners ko master karein.",
+          "learningObjectives": [
+            "Noun phrases mein articles aur determiners ke syntactic function ko samjhein",
+            "Indefinite (A/An), Definite (The), aur Zero Article (Omission) mein accurately distinguish karein",
+            "Written spelling ke bajaye initial spoken phonetic sound ke basis par A aur An ko select karein",
+            "Definite article The ke specific, unique, superlative, ordinal, aur geographical rules ko master karein",
+            "Plural general nouns, general uncountable nouns, languages, aur subjects ke zero article rules ko identify karein",
+            "Countable aur uncountable nouns ke beech qualitative farq aur dual-usage contexts ko samjhein",
+            "Plural countable nouns ke sath Few, A few, aur The few ke semantic differences ko master karein",
+            "Uncountable nouns ke sath Little, A little, aur The little ke meaning-altering patterns ko apply karein",
+            "Affirmative, negative, open questions, polite offers, aur requests mein Some aur Any ke contextual rules ko samjhein",
+            "Distributive determiners (Each, Every, Either, Neither) ke singular noun aur singular verb agreement rules ko master karein"
+          ],
           "stepsCount": 10
         },
         {
           "id": "L11",
-          "title": "Determiners & Quantifiers: Little vs Few Architecture",
+          "title": "Prepositions — Time, Place, Movement & Common Usage",
           "part": "2 of 3",
-          "status": "locked",
+          "status": "active",
           "estimatedMinutes": 90,
           "difficulty": "Intermediate",
-          "description": "Countable vs uncountable quantifiers (Little/A little/The little vs Few/A few/The few), Each/Every distinctions.",
+          "description": "Prepositions ke functional roles, Time aur Place ke In/On/At hierarchies, dynamic movement vectors (to, towards, into, onto), temporal boundaries (by vs until, since vs for), relational choices (between vs among), aur high-frequency zero preposition omission rules ko master karein.",
+          "learningObjectives": [
+            "Prepositions ke role aur prepositional phrase structures ko sentence mein accurately identify karein",
+            "Prepositional phrases aur unke governing nouns/pronouns ke beech syntactic relationship ko decode karein",
+            "Time contexts mein general periods, specific days, aur exact clock points ke liye In, On, aur At ka correct selection karein",
+            "Spatial dimensions mein 3D enclosure (in), 2D surface (on), aur 1D point (at) ke rules apply karein",
+            "Movement aur direction prepositions (to, towards, into, onto, through, across, along) ke directional vectors ko visualize karein",
+            "Static position (in, on) aur dynamic entry/surface movement (into, onto) ke contrast ko flawlessly distinguish karein",
+            "Deadlines ('by') aur continuing actions up to a point ('until') ke temporal differences ko accurately apply karein",
+            "Starting point ('since') aur duration ('for') ke correct tense concord aur past time distinctions ko master karein",
+            "Two-entity comparisons, multiple distinct individuals, aur group distributions mein 'between' vs 'among' ko differentiate karein",
+            "High-frequency transitive verbs (enter, discuss, order, attack, reach, resemble, marry) jahan preposition strictly omit hota hai unhe identify karein",
+            "Contextual meaning ke hisaab se nuanced preposition choices explain karein",
+            "Rajasthan High Court exams ke recurring preposition traps aur distractor patterns ko eliminate karein"
+          ],
           "stepsCount": 10
         },
         {
           "id": "L12",
-          "title": "Prepositions: Spatio-Temporal & Administrative Fixed Prepositions",
+          "title": "Fixed Prepositions — Verb, Adjective & Noun Combinations",
           "part": "3 of 3",
-          "status": "locked",
+          "status": "active",
           "estimatedMinutes": 90,
           "difficulty": "Advanced",
-          "description": "In/At/On hierarchies, transitive verbs taking no preposition, and 50+ high-frequency administrative fixed prepositions.",
+          "description": "Verb, Adjective aur Noun ke sath aane wale high-frequency fixed prepositions, confusing preposition pairs (agree with/to, apply to/for, result in/from), transitive direct-object verbs (zero preposition), preposition + gerund (-ing) constructions, aur High Court administrative/legal collocations ko master karein.",
+          "learningObjectives": [
+            "Common verb + preposition combinations ko accurately recognize aur apply karein",
+            "Common adjective + preposition combinations ko context ke hisaab se select karein",
+            "Common noun + preposition combinations ke natural sentence structures ko decode karein",
+            "Intended expression aur context ke anusaar accurate preposition select karein",
+            "Similar meaning wale confusing preposition combinations (agree with vs agree to, apply to vs apply for) mein farq karein",
+            "Direct object verbs ko identify karein jahan standard English mein extra preposition lagana strictly prohibited hota hai",
+            "Unnecessary, missing, ya incorrect prepositions se hone wale exam errors ko eliminate karein",
+            "High Court exams mein aane wale recurring administrative aur legal vocabulary combinations ko master karein",
+            "Random lists ratne ke bajaye clear grammatical reasoning aur collocation patterns se questions solve karein",
+            "Preposition followed by -ing (gerund) vs infinitive (to + V1) ke structural distinction ko accurately implement karein"
+          ],
           "stepsCount": 10
         }
       ]
@@ -192,22 +318,75 @@
       "lessons": [
         {
           "id": "L13",
-          "title": "Subject-Verb Agreement & Error Architecture",
-          "part": "1 of 2",
-          "status": "locked",
+          "title": "Subject–Verb Agreement: Core Rules, Exceptions & Sentence Correction",
+          "part": "1 of 3",
+          "status": "active",
           "estimatedMinutes": 90,
           "difficulty": "Advanced",
-          "description": "Proximity rule (Either/or), First-subject rule (as well as), distributive pronouns ('One of the' + plural noun + singular verb), collective nouns.",
+          "description": "Sentence ka actual grammatical subject aur head noun pehchanna, intervening phrases (prepositional & relative clauses), compound subjects, correlative conjunctions (Either/Or proximity), parenthetical connectives (as well as, along with), distributive pronouns ('each of', 'one of the'), collective nouns, measurements, inverted constructions ('there is/are'), aur High Court sentence correction traps ko systematically master karein.",
+          "learningObjectives": [
+            "Sentence mein main verb ka true grammatical subject aur head noun accurately identify karein",
+            "Subject aur verb ke beech aane wale intervening prepositional phrases aur relative clauses ke distractor traps ko eliminate karein",
+            "Compound subjects joined by 'and' mein two separate entities vs single conceptual unit ke farq ko samjhein",
+            "Correlative conjunctions (Either...or, Neither...nor, Not only...but also) mein Proximity Rule flawlessly apply karein",
+            "Parenthetical connectives (along with, as well as, together with, in addition to) mein First Subject Rule follow karein",
+            "Indefinite pronouns ke teeno groups (strictly singular, strictly plural, aur variable quantity SANAM) ke concord ko master karein",
+            "Distributive constructions ('Each of', 'Neither of', 'Every') ke singular verb agreement logic ko decode karein",
+            "Collective nouns (jury, committee, team) mein unified single body (singular) vs divided individual members (plural) distinguish karein",
+            "Quantity, time, distance, aur money ke units jab single combined whole represent karein toh singular verb apply karein",
+            "'A number of' (plural) aur 'The number of' (singular) ke syntactic difference ko flawlessly resolve karein",
+            "'One of the + plural noun + who/which/that' relative clause antecedent agreement aur 'The only one of the...' contrast ko master karein",
+            "Inverted sentences ('There is/are', adverbial inversions) mein verb ke baad aane wale true subject ke hisaab se correct verb select karein",
+            "Rajasthan High Court exams ke recurring error spotting aur sentence correction questions bina kisi guesswork ke solve karein"
+          ],
           "stepsCount": 10
         },
         {
           "id": "L14",
-          "title": "Connectives, Modifiers & Words Wrongly Used Table",
-          "part": "2 of 2",
-          "status": "locked",
+          "title": "Degrees of Comparison: Rules, Transformations & Error Detection",
+          "part": "2 of 3",
+          "status": "active",
           "estimatedMinutes": 90,
           "difficulty": "Advanced",
-          "description": "Correlative conjunctions (Scarcely...when, No sooner...than, Lest...should), confusing word pairs (Affect/Effect, Judicial/Judicious).",
+          "description": "Positive, Comparative aur Superlative degrees ke grammatical rules, regular aur irregular adjective/adverb formations, comparative structures with than/as...as, double comparatives elimination, illogical comparison correction ('that of' / 'those of'), 'any other' self-exclusion, 'one of the' plural noun concord, Latin comparatives with 'to', aur High Court sentence correction traps ko systematically master karein.",
+          "learningObjectives": [
+            "Positive, Comparative, aur Superlative degrees ke core grammatical principles aur entity boundaries ko master karein",
+            "Adjectives aur adverbs ke regular (-er/-est, silent -e, CVC doubling, -y shift, more/most) inflection patterns accurately form karein",
+            "High-frequency irregular comparison forms (good/better/best, bad/worse/worst, far/farther/further, little/less/least, late/later/latter) ko flawlessly apply karein",
+            "Equality ('as...as') aur inequality ('not as/so...as', 'less...than') comparisons ko logically coordinate karein",
+            "Sentences with 'than' mein equivalent entities ko compare karein aur illogical comparisons ('that of' / 'those of' omission) ko eliminate karein",
+            "Group comparisons mein self-exclusion rule apply karein: 'than any other + singular noun' vs 'all other + plural noun'",
+            "'One of the + superlative + plural noun' ke structural formula aur subject-verb agreement concord ko master karein",
+            "Latin comparatives (senior, junior, superior, inferior, prior) aur 'prefer...to' mein 'than' ke badle 'to' ka mandatory use karein",
+            "Recurring competitive exam traps: double comparatives ('more better'), double superlatives, aur 'less' vs 'fewer' misuse ko eradicate karein",
+            "Sentence transformation mein truth value aur meaning preserve karte huye degrees interchange karein",
+            "8-step sentence correction workflow se High Court exam ke error-spotting questions solve karein"
+          ],
+          "stepsCount": 10
+        },
+        {
+          "id": "L15",
+          "title": "Connectives & Commonly Confused Words: Meaning, Usage and Error Detection",
+          "part": "3 of 3",
+          "status": "active",
+          "estimatedMinutes": 90,
+          "difficulty": "Advanced",
+          "description": "Connectives ke logical relationships (contrast, concession, cause, result, condition, purpose, time), coordinating (FANBOYS), subordinating aur correlative conjunctions ki syntax aur parallelism, comma splice aur run-on punctuation rules, high-frequency commonly confused words (affect/effect, advice/advise, principal/principle, lie/lay, rise/raise, fewer/less, its/it's), aur Rajasthan High Court sentence correction traps ko systematically master karein.",
+          "learningObjectives": [
+            "Connectives aur conjunctions ke syntactic functions aur logical relationships ko accurately identify karein",
+            "Addition, Contrast, Concession, Cause, Result, Purpose, Condition, aur Time connectives ke subtle semantic differences ko decode karein",
+            "Coordinating (FANBOYS), Subordinating, aur Correlative conjunctions ke syntactic behaviors ko master karein",
+            "Correlative conjunctions (Either...or, Neither...nor, Not only...but also) mein strict grammatical parallelism enforce karein",
+            "Clause-taking conjunctions (although, because) aur preposition-like structures (despite, in spite of, because of) mein accurate distinction karein",
+            "Comma splices, run-on sentences, aur conjunctive adverb (however, therefore) punctuation traps ko eliminate karein",
+            "Double contrast markers jaise 'Although... but...' ke pleonastic exam errors ko eradicate karein",
+            "Subordinating clause initial position par mandatory comma aur terminal position par zero-comma rules ko follow karein",
+            "High-frequency homophones aur confused words (affect/effect, advice/advise, principal/principle, accept/except) ke syntactic roles ko distinguish karein",
+            "Transitive vs intransitive confusing verbs (lie/lay, rise/raise) ke verb forms aur object requirements ko master karein",
+            "Countable vs uncountable quantifiers aur diction pairs (fewer/less, beside/besides, farther/further) ko sentence context ke hisaab se correctly choose karein",
+            "Pronoun reference aur contraction homophones (its/it's, there/their/they're, whose/who's) ko instantly spot aur correct karein",
+            "7-Step Systematic Connective Workflow aur Integrated Sentence Correction Strategy se High Court competitive exam ke error spotting questions solve karein"
+          ],
           "stepsCount": 10
         }
       ]
@@ -220,13 +399,26 @@
       "officialSource": "Official Syllabus PDF, Page 3",
       "lessons": [
         {
-          "id": "L15",
-          "title": "High-Frequency & Legal/Administrative Synonyms & Antonyms",
+          "id": "L16",
+          "title": "Synonyms & Antonyms: Vocabulary, Context and Exam Practice",
           "part": "1 of 1",
-          "status": "locked",
-          "estimatedMinutes": 75,
+          "status": "active",
+          "estimatedMinutes": 90,
           "difficulty": "Intermediate",
-          "description": "100+ high-frequency vocabulary words with legal, administrative, and competitive exam contextual sentences.",
+          "description": "High-frequency vocabulary, exact vs near-synonyms, gradable aur complementary antonyms, sentence context inference, intensity aur shades of meaning, formal vs informal register, prefix clues, word-family parts of speech, polysemy traps, aur competitive exam elimination strategies ko master karein.",
+          "learningObjectives": [
+            "Synonyms aur antonyms ke precise linguistic meaning aur difference ko accurately define karein",
+            "Samajhein ki dictionary synonyms identical nahi hote aur har sentence context mein interchangeable nahi hote",
+            "Sentence ke surrounding context aur syntactic role ke hisaab se sabse appropriate synonym select karein",
+            "Direct, gradable, complementary, relational, aur context-dependent antonyms mein distinguish karein",
+            "Shades of meaning, intensity levels (annoyed vs furious), aur evaluative tone (economical vs cheap) ko pehchanein",
+            "Surrounding sentence context aur collocations ka use karke unfamiliar words ka meaning infer karein",
+            "Word families (Noun, Verb, Adjective, Adverb) ko recognize karein aur wrong grammatical roles ko eliminate karein",
+            "Common negative prefixes (un-, in-, im-, dis-, mis-) ko supporting clues ki tarah use karein aur unke limitations ko samjhein",
+            "Polysemy (multiple meanings wale words jaise sound, grave, plain, fine, sharp) ke context-specific opposites choose karein",
+            "Rajasthan High Court exams ke recurring vocabulary traps (near-synonym distractors, lookalikes, wrong intensity) ko eliminate karein",
+            "8-step exam-solving strategy apply karke vocabulary MCQs mein 100% accuracy hasil karein"
+          ],
           "stepsCount": 10
         }
       ]
@@ -239,13 +431,27 @@
       "officialSource": "Official Syllabus PDF, Page 3",
       "lessons": [
         {
-          "id": "L16",
-          "title": "One-Word Substitutions (Root Words & Court Terms)",
+          "id": "L17",
+          "title": "One-Word Substitutions: Categories, Meaning, Usage and Exam Practice",
           "part": "1 of 1",
-          "status": "locked",
-          "estimatedMinutes": 75,
+          "status": "active",
+          "estimatedMinutes": 90,
           "difficulty": "Intermediate",
-          "description": "High-yield one-word substitutions with focus on legal, judicial, administrative, and morphological roots.",
+          "description": "High-yield one-word substitutions categorized across 10 semantic domains, morphological roots and affixes (-cide, -cracy, -phobia, -mania, -ist), grammatical part-of-speech precision, lookalike pair disambiguation, single defining clue isolation, aur Rajasthan High Court exam error elimination strategies ko master karein.",
+          "learningObjectives": [
+            "One-word substitutions ke syntactic rules aur lexical functions ko accurately apply karein",
+            "Definitions aur descriptive clauses ko precise single vocabulary words mein replace karein",
+            "Substitutions ko 10 key semantic categories mein organize aur identify karein",
+            "Root words, prefixes, aur suffixes (-cide, -cracy, -phobia, -mania, -ist) se unfamiliar words ka meaning decode karein",
+            "Part of speech context match karein (Noun 'optimist' vs Adjective 'optimistic')",
+            "High-frequency confusing lookalike pairs (autobiography vs biography, arbitrator vs mediator, epitaph vs eulogy) mein clear distinction karein",
+            "Legal, court aur administrative terms (indictment, affidavit, plaintiff, perjury) ko High Court examination context mein master karein",
+            "Single defining clue isolation strategy se close distractors ko eliminate karein",
+            "Question stem context se tone, formality, aur register match karein",
+            "High Court exam ke recurring vocabulary trap patterns (wrong part of speech, morpheme misapplication, extreme modifier mismatch) ko avoid karein",
+            "Visual memory aids, decision trees, aur category maps ka use karke retention boost karein",
+            "Timed examination simulation mein 80%+ accuracy aur speed achieve karein"
+          ],
           "stepsCount": 10
         }
       ]
@@ -258,13 +464,27 @@
       "officialSource": "Official Syllabus PDF, Page 3",
       "lessons": [
         {
-          "id": "L17",
-          "title": "Prefixes & Suffixes: Morphological Word Formation",
+          "id": "L18",
+          "title": "Prefixes & Suffixes: Word Formation, Meaning, Spelling and Exam Practice",
           "part": "1 of 1",
-          "status": "locked",
-          "estimatedMinutes": 75,
+          "status": "active",
+          "estimatedMinutes": 90,
           "difficulty": "Intermediate",
-          "description": "Affixes modifying roots, legal/administrative prefixes (Juris-, Non-, Ir-, Mal-), suffixes creating nouns, adjectives, verbs.",
+          "description": "Morphological word formation, roots, prefixes (Negative, Directional, Quantifying, Administrative/Legal, Assimilating), suffixes (Noun, Verb, Adjective, Adverb forming), Latin and Greek affixes, spelling alteration rules (silent final 'e', consonant doubling, 'y' to 'i'), confusing affix pairs (-able vs -ible, -ceed vs -cede vs -sede), aur Rajasthan High Court exam error elimination strategies ko master karein.",
+          "learningObjectives": [
+            "Morphemic word architecture aur root-affix relationships ko accurately analyze karein",
+            "Functional prefix classes (Negative, Directional, Quantitative, Temporal, Intensifying, Pejorative) ko categorize karein",
+            "Grammatical category-shifting suffixes (Noun, Verb, Adjective, Adverb formers) ko identify aur apply karein",
+            "Negative prefix selection rules (un-, in-, dis-, mis-, non-, a-, anti-) aur root compatibility principles ko master karein",
+            "Latin prefix phonetic assimilation rules (in- becoming im-, il-, ir- before labials and liquids) ko accurately apply karein",
+            "Word-formation spelling rules: silent final 'e' dropping vs retention before vowel/consonant suffixes",
+            "Consonant doubling rules (1-1-1 CVC rule) aur 'y' to 'i' vowel-change conventions ko identify karein",
+            "Confusing Latin vs Anglo-Saxon suffix pairs (-able vs -ible) ke selection criteria ko master karein",
+            "Special classical verb endings (-ceed vs -cede vs -sede) ki orthographic distribution ko distinguish karein",
+            "Legal, court aur administrative affix patterns (juris-, judic-, ultra-, intra-, -ee, -or, -tion) ko master karein",
+            "High Court exam trap patterns: pseudo-prefix amputation, double-letter dropping, aur category-shift distortions ko eliminate karein",
+            "Timed certification test mein 80%+ accuracy (12/15) aur speed achieve karein"
+          ],
           "stepsCount": 10
         }
       ]
@@ -277,13 +497,28 @@
       "officialSource": "Official Syllabus PDF, Page 3",
       "lessons": [
         {
-          "id": "L18",
-          "title": "Idioms & Phrases in Administrative & Judicial Contexts",
+          "id": "L19",
+          "title": "Idioms & Phrases: Meaning, Usage, Context and Exam Practice",
           "part": "1 of 1",
-          "status": "locked",
-          "estimatedMinutes": 75,
+          "status": "active",
+          "estimatedMinutes": 90,
           "difficulty": "Intermediate",
-          "description": "50+ recurring idioms in High Court and Rajasthan exams (At the eleventh hour, Null and void, In black and white).",
+          "description": "High-yield idioms and phrases categorized across 10 situational domains (Emotions, Effort, Deception, Speech, Time, Conflict, Risk, Finance, Wisdom, and Law/Administration), figurative vs literal semantics, structural freezing, context tone alignment, lookalike pair disambiguation, binomial pairs, aur Rajasthan High Court exam error elimination strategies ko master karein.",
+          "learningObjectives": [
+            "Idioms aur phrases ke figurative vs literal semantics ke beech decisive distinction create karna",
+            "Idioms ki structural aur lexical freezing (invariance) property ko samajhna aur preserve karna",
+            "116 high-yield exam idioms ko 10 key situational categories mein categorize aur apply karna",
+            "Surrounding sentence context clues se correct idiom identify karna",
+            "Examiners ke literal physical interpretation traps ko dekhte hi eliminate karna",
+            "High-frequency lookalike idiom pairs (burn midnight oil vs candle at both ends) mein disambiguate karna",
+            "Legal, court aur administrative idioms (in black and white, null and void, ultra vires, sub judice) ko master karna",
+            "Idiomatic binominals (pros and cons, ins and outs, leaps and bounds) ke fixed sequence ko recognize karna",
+            "Body-part aur animal-based idioms ke metaphorical associations ko pinpoint karna",
+            "Prepositional aur lexical distortions (*spill the beans vs *spill over beans) ko reject karna",
+            "4-stage context elimination algorithm follow karke options eliminate karna",
+            "Visual architectures, comparator tables aur decision trees se idiom retention boost karna",
+            "Timed certification test mein 80%+ accuracy (12/15) aur speed achieve karna"
+          ],
           "stepsCount": 10
         }
       ]

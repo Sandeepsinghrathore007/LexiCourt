@@ -1,0 +1,306 @@
+{
+  "lessonId": "L15",
+  "stage": "mastery-assessment",
+  "questions": [
+    {
+      "id": "L15-MA-001",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Correction of Sentences",
+      "subtopic": "FANBOYS Compound Sentence Punctuation",
+      "conceptTags": ["connectives", "coordinating-conjunctions", "punctuation", "comma-splice"],
+      "question": "Which of the following sentences is correctly punctuated according to standard formal syntax?",
+      "options": [
+        { "id": "A", "text": "The accused admitted his guilt and, the magistrate pronounced sentence immediately." },
+        { "id": "B", "text": "The accused admitted his guilt, and the magistrate pronounced sentence immediately." },
+        { "id": "C", "text": "The accused admitted his guilt and the magistrate, pronounced sentence immediately." },
+        { "id": "D", "text": "The accused admitted his guilt, and, the magistrate pronounced sentence immediately." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-01 ke anusaar, do independent clauses ('The accused admitted his guilt' aur 'the magistrate pronounced sentence immediately') ko coordinating conjunction 'and' se jodte waqt 'and' se theek pehle COMMA aana mandatory hai. Option B perfectly accurate hai.",
+      "ruleReference": "Rule RC-01: Coordinating Conjunctions (FANBOYS) & Clause Comma Rule."
+    },
+    {
+      "id": "L15-MA-002",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Correction of Sentences",
+      "subtopic": "Zero Double-Conjunction Law: Although ... But",
+      "conceptTags": ["connectives", "double-conjunction-trap", "error-detection", "pleonasm"],
+      "question": "Identify the error in the sentence:\n\"Although the petitioner had (A) / complied with the directions, (B) / yet the municipal body refused (C) / to grant the building occupancy certificate. (D)\"",
+      "options": [
+        { "id": "A", "text": "Part A" },
+        { "id": "B", "text": "Part B" },
+        { "id": "C", "text": "Part C" },
+        { "id": "D", "text": "Part D" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Part C mein error hai. Sentence 'Although' se shuru ho raha hai; main clause mein 'yet' ya 'but' lagana pleonastic double conjunction error hai. Part C se 'yet' drop hona chahiye.",
+      "ruleReference": "Rule RC-02: Zero Double-Conjunction Law (Subordinating Trap)."
+    },
+    {
+      "id": "L15-MA-003",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Correction of Sentences",
+      "subtopic": "Conjunction vs Preposition: Despite vs Although",
+      "conceptTags": ["connectives", "despite-in-spite-of", "clause-vs-noun", "error-spotting"],
+      "question": "Select the option that correctly cures the error in the bracketed part:\n\"[In spite of the prosecution proved the motive], the trial judge acquitted the prime suspect due to lack of direct evidence.\"",
+      "options": [
+        { "id": "A", "text": "Despite of the prosecution proved the motive" },
+        { "id": "B", "text": "Although the prosecution proved the motive" },
+        { "id": "C", "text": "In spite the prosecution proved the motive" },
+        { "id": "D", "text": "Despite that the prosecution proved the motive" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'the prosecution proved the motive' ek finite clause hai (Subject = 'the prosecution', Verb = 'proved'). Finite clause ko introduce karne ke liye subordinating conjunction 'Although' chahiye. Preposition 'in spite of' finite clause nahi le sakti. Option B correct hai.",
+      "ruleReference": "Rule RC-03: Conjunction vs Preposition: 'Although' vs 'Despite' Rule."
+    },
+    {
+      "id": "L15-MA-004",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Correction of Sentences",
+      "subtopic": "Correlative Structural Parallelism: Not only ... but also",
+      "conceptTags": ["connectives", "parallelism", "not-only-but-also", "sentence-structure"],
+      "question": "Choose the sentence that demonstrates flawless grammatical parallelism:",
+      "options": [
+        { "id": "A", "text": "The division bench not only stayed the recovery notice but also directed a fresh inquiry." },
+        { "id": "B", "text": "The division bench stayed not only the recovery notice but also directed a fresh inquiry." },
+        { "id": "C", "text": "Not only the division bench stayed the recovery notice but also directed fresh inquiry." },
+        { "id": "D", "text": "The division bench not only stayed the recovery notice but also fresh inquiry was directed." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Option A mein 'not only' ke baad finite verb phrase 'stayed the recovery notice' hai aur 'but also' ke baad matching finite verb phrase 'directed a fresh inquiry' hai. Dono arms perfectly parallel hain (Verb Phrase + Verb Phrase).",
+      "ruleReference": "Rule RC-04: Correlative Conjunctions & Strict Structural Parallelism."
+    },
+    {
+      "id": "L15-MA-005",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Correction of Sentences",
+      "subtopic": "Correlative Proximity Rule: Either ... or",
+      "conceptTags": ["connectives", "proximity-rule", "subject-verb-agreement", "concord"],
+      "question": "Fill in the blank with the grammatically correct verb form:\n\"Either the court clerk or the administrative superintendents ________ responsible for the misplacement of the original case record.\"",
+      "options": [
+        { "id": "A", "text": "is" },
+        { "id": "B", "text": "are" },
+        { "id": "C", "text": "was" },
+        { "id": "D", "text": "has been" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-05 ke mutabiq, 'Either...or' mein verb nearest subject se agree karti hai. 'Or' ke theek baad aane wala subject 'the administrative superintendents' Plural hai, isliye plural verb 'are' aayegi.",
+      "ruleReference": "Rule RC-05: Proximity Agreement with Correlative Subjects."
+    },
+    {
+      "id": "L15-MA-006",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Correction of Sentences",
+      "subtopic": "Negative Inversion: Barely had ... when",
+      "conceptTags": ["connectives", "inversion", "barely-when", "partner-concord"],
+      "question": "Spot the error in the sentence:\n\"Barely had the advocate (A) / concluded his oral submissions (B) / than the division bench (C) / dictated the operative order. (D)\"",
+      "options": [
+        { "id": "A", "text": "Part A" },
+        { "id": "B", "text": "Part B" },
+        { "id": "C", "text": "Part C" },
+        { "id": "D", "text": "Part D" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Part C mein error hai. 'Barely', 'Hardly', aur 'Scarcely' ke sath correlative partner strictly 'WHEN' hota hai ('than' nahi). Part C mein 'than' ki jagah 'when' hona chahiye.",
+      "ruleReference": "Rule RC-06: Inversion with 'Hardly / Scarcely / Barely ... WHEN'."
+    },
+    {
+      "id": "L15-MA-007",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Correction of Sentences",
+      "subtopic": "Comparative Inversion: No sooner had ... than",
+      "conceptTags": ["connectives", "inversion", "no-sooner-than", "orthography"],
+      "question": "Which of the following sentences is completely error-free?",
+      "options": [
+        { "id": "A", "text": "No sooner had the gazette notification been issued when the bar association filed a writ." },
+        { "id": "B", "text": "No sooner had the gazette notification been issued then the bar association filed a writ." },
+        { "id": "C", "text": "No sooner had the gazette notification been issued than the bar association filed a writ." },
+        { "id": "D", "text": "No sooner the gazette notification had been issued than the bar association filed a writ." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Option C completely accurate hai: 'No sooner had + Subject + V3' inversion follow karta hai aur comparative connective partner 'than' (spelled with 'A') se correlate hota hai. Option D inversion omit karta hai, Option A 'when' lagata hai, aur Option B 'then' lagata hai.",
+      "ruleReference": "Rule RC-07: Inversion with 'No Sooner ... THAN'."
+    },
+    {
+      "id": "L15-MA-008",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Correction of Sentences",
+      "subtopic": "Purpose Connective: Lest ... should",
+      "conceptTags": ["connectives", "lest-should", "modal-auxiliary", "polarity"],
+      "question": "Identify the grammatically correct sentence:",
+      "options": [
+        { "id": "A", "text": "Cross-examine the forensic expert thoroughly lest crucial discrepancies should not remain unexposed." },
+        { "id": "B", "text": "Cross-examine the forensic expert thoroughly lest crucial discrepancies should remain unexposed." },
+        { "id": "C", "text": "Cross-examine the forensic expert thoroughly lest crucial discrepancies will remain unexposed." },
+        { "id": "D", "text": "Cross-examine the forensic expert thoroughly lest crucial discrepancies would remain unexposed." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Option B correct hai. 'Lest' ke sath modal auxiliary strictly 'should' aati hai aur iske clause mein doosra negative word ('not') lagana prohibited hota hai.",
+      "ruleReference": "Rule RC-08: Purpose Connective 'Lest ... SHOULD'."
+    },
+    {
+      "id": "L15-MA-009",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Correction of Sentences",
+      "subtopic": "Sentence Boundary: Comma Splice vs Semicolon",
+      "conceptTags": ["sentence-boundaries", "comma-splice", "semicolons", "conjunctive-adverbs"],
+      "question": "Choose the correctly punctuated sentence:",
+      "options": [
+        { "id": "A", "text": "The respondent failed to deposit the security amount, consequently, the stay order stood vacated." },
+        { "id": "B", "text": "The respondent failed to deposit the security amount; consequently, the stay order stood vacated." },
+        { "id": "C", "text": "The respondent failed to deposit the security amount consequently; the stay order stood vacated." },
+        { "id": "D", "text": "The respondent failed to deposit the security amount, consequently the stay order stood vacated." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Option B correct hai. 'Consequently' conjunctive adverb hai jo do independent clauses ke beech aane par pehle SEMICOLON (;) aur baad mein COMMA (,) demand karta hai.",
+      "ruleReference": "Rule RC-10: Comma Splice Elimination & Conjunctive Adverb Punctuation."
+    },
+    {
+      "id": "L15-MA-010",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "easy",
+      "topic": "Correction of Sentences",
+      "subtopic": "Confused Words: Affect vs Effect",
+      "conceptTags": ["confused-words", "affect-effect", "verb-vs-noun", "homophones"],
+      "question": "Select the correct option to fill the blanks:\n\"The new judicial reforms will ________ pendency in subordinate courts, and their long-term ________ will be felt across the entire justice system.\"",
+      "options": [
+        { "id": "A", "text": "effect, affect" },
+        { "id": "B", "text": "affect, effect" },
+        { "id": "C", "text": "affect, effects" },
+        { "id": "D", "text": "effect, effects" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Pehle blank mein modal 'will' ke baad base form of VERB 'affect' (to influence) chahiye. Doosre blank mein possessive 'their long-term ________ will be felt' ke baad plural NOUN 'effects' (results/outcomes) aayega. Isliye Option C 'affect, effects' sahi answer hai.",
+      "ruleReference": "Rule RC-11: Confused Words: 'Affect' (Verb) vs 'Effect' (Noun)."
+    },
+    {
+      "id": "L15-MA-011",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Correction of Sentences",
+      "subtopic": "Confused Words: Principal vs Principle",
+      "conceptTags": ["confused-words", "principal-principle", "legal-vocabulary", "homophones"],
+      "question": "Spot the error in the sentence:\n\"The principal debtor committed (A) / a default in payment, (B) / thereby violating the cardinal principles (C) / of the loan agreement. (D)\"",
+      "options": [
+        { "id": "A", "text": "Part A" },
+        { "id": "B", "text": "Part B" },
+        { "id": "C", "text": "Part C" },
+        { "id": "D", "text": "No Error" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sentence bilkul error-free hai ('No Error'). Part A mein 'principal debtor' mein 'principal' adjective hai meaning 'mool/mukhya den-daar'. Part C mein 'cardinal principles' mein 'principles' noun hai meaning 'mukhya niyam/siddhant'. Dono words ka prayog 100% accurate hai.",
+      "ruleReference": "Rule RC-12: Confused Words: 'Principal' (Main/Head) vs 'Principle' (Moral Rule)."
+    },
+    {
+      "id": "L15-MA-012",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Correction of Sentences",
+      "subtopic": "Confused Words: Complement vs Compliment",
+      "conceptTags": ["confused-words", "complement-compliment", "orthography", "vocabulary"],
+      "question": "Fill in the blanks with the appropriate words:\n\"The presiding judge paid a high ________ to the junior counsel whose thorough research ________ the senior advocate's oral submissions.\"",
+      "options": [
+        { "id": "A", "text": "complement, complimented" },
+        { "id": "B", "text": "compliment, complemented" },
+        { "id": "C", "text": "compliment, complimented" },
+        { "id": "D", "text": "complement, complemented" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Pehle blank mein tareef / praise ke liye Noun 'Compliment' (with 'i') aayega ('paid a high compliment'). Doosre blank mein senior advocate ki submissions ko complete / mutually enhance karne ke liye Verb 'Complemented' (with 'e') aayega. Option B correct hai.",
+      "ruleReference": "Rule RC-13: Confused Words: 'Complement' (Complete) vs 'Compliment' (Praise)."
+    },
+    {
+      "id": "L15-MA-013",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Correction of Sentences",
+      "subtopic": "Confused Verbs: Lie vs Lay Past Tense",
+      "conceptTags": ["confused-verbs", "lie-lay", "transitivity", "error-detection"],
+      "question": "Find the part of the sentence containing the grammatical error:\n\"The seized currency notes (A) / had been laying (B) / inside the court property room (C) / without proper registry sealing. (D)\"",
+      "options": [
+        { "id": "A", "text": "Part A" },
+        { "id": "B", "text": "Part B" },
+        { "id": "C", "text": "Part C" },
+        { "id": "D", "text": "Part D" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Part B mein error hai. Currency notes kisi object ke bina wahan pade huye the (intransitive action). Intransitive verb 'lie' ka present participle 'LYING' hota hai ('had been lying'). 'Laying' transitive verb 'lay' ka participle hai jo direct object demand karta hai ('laying the files'). Part B mein 'laying' ki jagah 'lying' aana chahiye.",
+      "ruleReference": "Rule RC-14: Confused Verbs: 'Lie' (Intransitive) vs 'Lay' (Transitive)."
+    },
+    {
+      "id": "L15-MA-014",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "medium",
+      "topic": "Correction of Sentences",
+      "subtopic": "Confused Words: Fewer vs Less",
+      "conceptTags": ["confused-words", "fewer-less", "quantifiers", "countability"],
+      "question": "Choose the sentence that adheres strictly to quantifier countability rules:",
+      "options": [
+        { "id": "A", "text": "There are less than twenty days remaining before the final high court recruitment examination." },
+        { "id": "B", "text": "There are fewer than twenty days remaining before the final high court recruitment examination." },
+        { "id": "C", "text": "The registry faced less appeals than the previous judicial quarter." },
+        { "id": "D", "text": "Less witnesses were examined by the defense during the retrial." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Option B correct hai. 'Days' plural countable noun hai jiske sath quantifier 'FEWER' lagta hai. Option A, C, aur D teeno mein plural countable nouns ('days', 'appeals', 'witnesses') ke sath galat tarike se 'less' lagaya gaya hai.",
+      "ruleReference": "Rule RC-10: Quantity and Diction Concord."
+    },
+    {
+      "id": "L15-MA-015",
+      "lessonId": "L15",
+      "type": "single-answer-mcq",
+      "stage": "mastery-assessment",
+      "difficulty": "hard",
+      "topic": "Correction of Sentences",
+      "subtopic": "Master Assessment Synthesis: Complex Correction",
+      "conceptTags": ["mastery-synthesis", "connectives-and-confused-words", "error-detection"],
+      "question": "Identify the only sentence that is completely free from grammatical and word-choice errors:",
+      "options": [
+        { "id": "A", "text": "Hardly had the arbitrator delivered the award than the respondent challenged it in court." },
+        { "id": "B", "text": "Although the advocate argued persuasively, but the high court dismissed the revision petition." },
+        { "id": "C", "text": "The statutory amendment had an immediate effect on the disposal of commercial appeals." },
+        { "id": "D", "text": "The police seized the illicit vehicle beside three forged registration certificates." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Option C completely flawless hai: 'had an immediate effect' mein noun 'effect' (result) perfectly accurate hai. Option A mein 'Hardly' ke sath 'than' mismatch hai (must be 'when'). Option B mein 'Although...but' double conjunction blunder hai. Option D mein 'ke alawa' ke sense ke liye 'besides' (with 's') hona chahiye tha, jabki 'beside' likha gaya hai.",
+      "ruleReference": "Rule RC-11: Confused Words: 'Affect' (Verb) vs 'Effect' (Noun)."
+    }
+  ]
+}

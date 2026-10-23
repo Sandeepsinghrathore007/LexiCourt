@@ -1,0 +1,399 @@
+{
+  "id": "L01-STUDY-DOC",
+  "title": "Comprehensive Study Guide: English Tenses Architecture & Time Markers",
+  "subtitle": "Rajasthan High Court System Assistant Exam ke liye Complete Study Guide",
+  "overview": "Tenses English grammar ka sabse zaroori foundation hain. Rajasthan High Court System Assistant (HSA) exam ke Part-B mein English ke questions aate hain jahan speed aur accuracy dono matter karti hain. Sabhi 12 tenses, unke auxiliary verb ke rules, sentence structure ke patterns aur contextual time markers ko samajhkar aap bina kisi confusion ke sahi option select kar sakte hain.",
+  "sections": [
+    {
+      "id": "sec-philosophy",
+      "number": 1,
+      "title": "Time vs. Aspect ko Samajhna",
+      "summary": "Tense sirf 'time' nahi hota. Ye Time (action kab hua) aur Aspect (action kitna complete ya ongoing hai) ka combination hota hai.",
+      "content": "Competitive exams mein aksar students 'tense' aur 'time' ko ek hi samajh lete hain. English grammar mein har verb form do alag-alag dimensions convey karta hai: Time aur Aspect.",
+      "dimensions": [
+        {
+          "name": "Dimension 1: Physical Time",
+          "description": "Ye batata hai ki action real world mein bolne ke waqt (Point NOW) ke hisaab se kab hua.",
+          "categories": [
+            { "name": "Past", "detail": "Bolne ke waqt se pehle (jo beet chuka hai)." },
+            { "name": "Present", "detail": "Bolne ke waqt ke dauran ya contemporary time." },
+            { "name": "Future", "detail": "Bolne ke waqt ke baad (jo aane wala hai)." }
+          ]
+        },
+        {
+          "name": "Dimension 2: Grammatical Aspect",
+          "description": "Ye batata hai ki speaker us action ki progress ya completion ko kis tarah dekh raha hai.",
+          "categories": [
+            { "name": "Simple (Indefinite)", "detail": "Action ko ek complete fact, routine habit ya general truth ki tarah dikhata hai, bina uski internal progress par dhyan diye." },
+            { "name": "Continuous (Progressive)", "detail": "Action kisi reference point par chal raha hai yaani incomplete aur ongoing hai (be + V-ing)." },
+            { "name": "Perfect", "detail": "Action kisi reference time se pehle complete ho chuka hai, lekin uska effect ya connection us point tak bana hua hai (have + V3)." },
+            { "name": "Perfect Continuous", "detail": "Action past mein shuru hokar kisi point tak continuous duration mein chalta raha hai (have + been + V-ing)." }
+          ]
+        }
+      ],
+      "formulaNote": "3 Times × 4 Aspects = Pure 12 Tense Structures bante hain. Is dual-axis structure ko yaad rakhne se 12 tenses ko alag-alag ratne ki zaroorat nahi padti."
+    },
+    {
+      "id": "sec-verb-forms",
+      "number": 2,
+      "title": "Verb ke Paanch Forms (V1 se V5)",
+      "summary": "Har English verb ke paanch primary forms hote hain jo 12 tenses ke alag-alag formulas mein use hote hain.",
+      "intro": "Verb inflections ko samajhna zaroori hai taaki aap auxiliary verb aur main verb ke beech ka difference jaan sakein aur double-past jaisi galtiyon se bach sakein.",
+      "forms": [
+        {
+          "notation": "V1",
+          "name": "Base Form / Bare Infinitive",
+          "regularExample": "submit",
+          "irregularExample": "write / go / take",
+          "roles": "Simple Present mein plural subjects aur 'I/You' ke saath, aur modal auxiliaries ya 'do/does/did' ke baad negative/interrogative patterns mein use hota hai."
+        },
+        {
+          "notation": "V2",
+          "name": "Simple Past Form",
+          "regularExample": "submitted",
+          "irregularExample": "wrote / went / took",
+          "roles": "Sirf Simple Past ke affirmative sentences mein lexical verb ki tarah use hota hai. Yahan koi auxiliary verb nahi lagta."
+        },
+        {
+          "notation": "V3",
+          "name": "Past Participle Form",
+          "regularExample": "submitted",
+          "irregularExample": "written / gone / taken",
+          "roles": "Sabhi Perfect tenses (has/have/had/will have ke baad) aur pure Passive Voice system (be-verbs ke baad) mein use hota hai."
+        },
+        {
+          "notation": "V4 (V-ing)",
+          "name": "Present Participle Form",
+          "regularExample": "submitting",
+          "irregularExample": "writing / going / taking",
+          "roles": "Sabhi 6 Continuous aur Perfect Continuous tenses mein continuous action dikhane ke liye use hota hai (be / been ke baad)."
+        },
+        {
+          "notation": "V5 (V-s/es)",
+          "name": "Third-Person Singular Present",
+          "regularExample": "submits",
+          "irregularExample": "writes / goes / takes",
+          "roles": "Sirf third-person singular subjects (He, She, It, singular nouns) ke saath affirmative Simple Present sentences mein use hota hai."
+        }
+      ],
+      "goldenRule": "CRITICAL EXAM RULE: Simple Past ke affirmative sentences mein main verb V2 form mein hota hai (jaise 'He wrote the report'). Lekin negative aur interrogative sentences mein 'did' auxiliary verb ban jata hai, isliye main verb hamesha base form V1 mein aana chahiye (jaise 'He did not write the report', 'did not wrote' galat hai)."
+    },
+    {
+      "id": "sec-twelve-tenses",
+      "number": 3,
+      "title": "The Master 12-Tense Reference Matrix",
+      "summary": "Sabhi 12 tenses ke formulas, auxiliary rules, sentence patterns aur exam examples.",
+      "tenses": [
+        {
+          "id": "T01",
+          "name": "Simple Present",
+          "time": "Present",
+          "aspect": "Simple",
+          "definition": "General truths, habitual routines, permanent facts, scheduled public events aur official duties ke liye use hota hai.",
+          "affirmative": "Subject + V1 / V_s/es + Object",
+          "negative": "Subject + do/does + not + V1 + Object",
+          "interrogative": "Do/Does + Subject + V1 + Object?",
+          "auxiliaryConcord": "3rd person singular (He/She/It) ke saath 'does'; plural subjects aur I/You ke saath 'do'. Auxiliary verb sirf negative aur interrogative sentences mein aata hai.",
+          "examples": [
+            {
+              "sentence": "The High Court bench convenes daily at 10:30 AM.",
+              "analysis": "'Daily' se official scheduled routine pata chalti hai; 3rd-person singular noun 'bench' ke saath V_s/es ('convenes') aayega."
+            },
+            {
+              "sentence": "The candidate does not upload incomplete certificates.",
+              "analysis": "Negative pattern mein auxiliary 'does' + 'not' + base verb V1 ('upload') use hota hai."
+            }
+          ],
+          "timeMarkers": "daily, always, usually, often, seldom, rarely, every day/week, on Mondays, generally"
+        },
+        {
+          "id": "T02",
+          "name": "Present Continuous",
+          "time": "Present",
+          "aspect": "Continuous",
+          "definition": "Bolne ke waqt chal rahe ongoing actions, temporary situations, ya 'always' ke saath irritate karne wale habits ke liye use hota hai.",
+          "affirmative": "Subject + is/am/are + V_ing + Object",
+          "negative": "Subject + is/am/are + not + V_ing + Object",
+          "interrogative": "Is/Am/Are + Subject + V_ing + Object?",
+          "auxiliaryConcord": "I ke saath 'am'; He/She/It/singular ke saath 'is'; We/You/They/plural ke saath 'are'.",
+          "examples": [
+            {
+              "sentence": "The System Assistant is configuring the local network right now.",
+              "analysis": "Time marker 'right now' batata hai ki action bolne ke time par actively chal raha hai."
+            },
+            {
+              "sentence": "He is always interrupting during judicial proceedings.",
+              "analysis": "'Always' continuous aspect ke saath speaker ka irritation ya annoyance express karta hai."
+            }
+          ],
+          "timeMarkers": "now, right now, currently, at present, at this moment, nowadays, these days"
+        },
+        {
+          "id": "T03",
+          "name": "Present Perfect",
+          "time": "Present",
+          "aspect": "Perfect",
+          "definition": "Past mein complete huye aise action ke liye jo present se juda ho, jiska result ya relevance abhi bhi exist karta ho, aur jisme koi past time marker na ho.",
+          "affirmative": "Subject + has/have + V3 + Object",
+          "negative": "Subject + has/have + not + V3 + Object",
+          "interrogative": "Has/Have + Subject + V3 + Object?",
+          "auxiliaryConcord": "3rd-person singular (He/She/It) ke saath 'has'; I/We/You/They/plural ke saath 'have'.",
+          "examples": [
+            {
+              "sentence": "The scrutiny committee has already examined the application files.",
+              "analysis": "'Already' se pata chalta hai ki action pehle complete ho chuka hai aur uska result present mein valid hai; 'committee' singular unit hai."
+            },
+            {
+              "sentence": "Have you ever administered a Linux database server?",
+              "analysis": "'Ever' present moment tak ke lifetime experience ke baare mein poochta hai."
+            }
+          ],
+          "timeMarkers": "already, just, yet, recently, lately, so far, up to now, ever, never, since + point, for + duration"
+        },
+        {
+          "id": "T04",
+          "name": "Present Perfect Continuous",
+          "time": "Present",
+          "aspect": "Perfect Continuous",
+          "definition": "Aisa action jo past mein shuru hua, continuously chalta raha, aur abhi bhi ongoing hai ya abhi-abhi khatam hua hai jiska result dikh raha hai.",
+          "affirmative": "Subject + has/have + been + V_ing + Object",
+          "negative": "Subject + has/have + not + been + V_ing + Object",
+          "interrogative": "Has/Have + Subject + been + V_ing + Object?",
+          "auxiliaryConcord": "Singular subjects ke saath 'has been'; plural subjects aur I/You ke saath 'have been'.",
+          "examples": [
+            {
+              "sentence": "The forensic engineers have been analyzing the server logs for four hours.",
+              "analysis": "'For four hours' past se shuru hokar present tak continuous chalne wali duration ko batata hai."
+            },
+            {
+              "sentence": "She has been drafting the judicial order since morning.",
+              "analysis": "'Since morning' past ke ek starting point ko mark karta hai jahan se action abhi tak chal raha hai."
+            }
+          ],
+          "timeMarkers": "since morning/yesterday, for three hours/days, all day, all morning, how long"
+        },
+        {
+          "id": "T05",
+          "name": "Simple Past",
+          "time": "Past",
+          "aspect": "Simple",
+          "definition": "Past ke kisi definite ya specific time par complete huye action ko dikhata hai, jiska present se koi direct connection nahi hota.",
+          "affirmative": "Subject + V2 + Object",
+          "negative": "Subject + did + not + V1 + Object",
+          "interrogative": "Did + Subject + V1 + Object?",
+          "auxiliaryConcord": "Affirmative sentences mein koi auxiliary verb nahi lagta (direct V2). Negative aur interrogative sentences mein sabhi subjects ke saath 'did' lagta hai, aur uske baad base verb V1 aata hai.",
+          "examples": [
+            {
+              "sentence": "The High Court issued the revised recruitment notification yesterday.",
+              "analysis": "'Yesterday' ek definite past time marker hai, isliye Simple Past V2 ('issued') mandatory hai."
+            },
+            {
+              "sentence": "The inspector did not find any discrepancy in the logs.",
+              "analysis": "Negative Simple Past mein auxiliary 'did' + 'not' + base verb V1 ('find') aayega."
+            }
+          ],
+          "timeMarkers": "yesterday, ago, last night/week/year, in 1947/2020, the other day, once, formerly"
+        },
+        {
+          "id": "T06",
+          "name": "Past Continuous",
+          "time": "Past",
+          "aspect": "Continuous",
+          "definition": "Past ke kisi specific time par chal rahe ongoing action ke liye, ya kisi background action ke liye jise doosre past action ne interrupt kiya ho.",
+          "affirmative": "Subject + was/were + V_ing + Object",
+          "negative": "Subject + was/were + not + V_ing + Object",
+          "interrogative": "Was/Were + Subject + V_ing + Object?",
+          "auxiliaryConcord": "I, He, She, It aur singular nouns ke saath 'was'; We, You, They aur plural nouns ke saath 'were'.",
+          "examples": [
+            {
+              "sentence": "At 8:00 PM yesterday, the technical officer was restoring the database.",
+              "analysis": "'At 8:00 PM yesterday' past ka ek specific moment hai jab action chal raha tha."
+            },
+            {
+              "sentence": "While the clerks were verifying documents, the server crashed.",
+              "analysis": "'While' continuous past background action ('were verifying') ko dikhata hai jise achanak huye event ('crashed') ne roka."
+            }
+          ],
+          "timeMarkers": "at that time, at 5 PM yesterday, all yesterday evening, while, when (during ongoing action)"
+        },
+        {
+          "id": "T07",
+          "name": "Past Perfect",
+          "time": "Past",
+          "aspect": "Perfect",
+          "definition": "Past-of-the-past yaani aise action ke liye jo past ke kisi doosre action ya landmark time se pehle hi complete ho chuka tha.",
+          "affirmative": "Subject + had + V3 + Object",
+          "negative": "Subject + had + not + V3 + Object",
+          "interrogative": "Had + Subject + V3 + Object?",
+          "auxiliaryConcord": "Sabhi subjects (singular aur plural) ke saath universally 'had' use hota hai.",
+          "examples": [
+            {
+              "sentence": "The bailiff had delivered the summons before the court adjourned.",
+              "analysis": "Do past actions hain: delivery pehle complete hui (Past Perfect: 'had delivered'), aur court baad mein adjourn hua (Simple Past: 'adjourned')."
+            },
+            {
+              "sentence": "By 2022, the state had digitized all administrative records.",
+              "analysis": "'By 2022' past ki ek deadline hai, isliye Past Perfect ('had digitized') aayega."
+            }
+          ],
+          "timeMarkers": "before + past event, after + past perfect, by the time (past), by 2019, until then, already (with past reference)"
+        },
+        {
+          "id": "T08",
+          "name": "Past Perfect Continuous",
+          "time": "Past",
+          "aspect": "Perfect Continuous",
+          "definition": "Past ke kisi action ki continuous duration ko highlight karta hai jo past mein shuru hokar kisi doosre past point tak chalta raha tha.",
+          "affirmative": "Subject + had + been + V_ing + Object",
+          "negative": "Subject + had + not + been + V_ing + Object",
+          "interrogative": "Had + Subject + been + V_ing + Object?",
+          "auxiliaryConcord": "Sabhi persons aur numbers ke saath universally 'had been' use hota hai.",
+          "examples": [
+            {
+              "sentence": "They had been debugging the script for three hours before finding the syntax error.",
+              "analysis": "Duration ('for three hours') accumulated prior to an interrupting past event ('before finding')."
+            }
+          ],
+          "timeMarkers": "for + duration + before/when (in past context), since + past reference"
+        },
+        {
+          "id": "T09",
+          "name": "Simple Future",
+          "time": "Future",
+          "aspect": "Simple",
+          "definition": "Future mein hone wale kisi planned, expected ya projected action ko express karta hai.",
+          "affirmative": "Subject + will/shall + V1 + Object",
+          "negative": "Subject + will/shall + not + V1 + Object",
+          "interrogative": "Will/Shall + Subject + V1 + Object?",
+          "auxiliaryConcord": "Modern English grammar mein sabhi subjects ke saath 'will' common hai; formal offers aur legal contexts mein 'I' aur 'We' ke saath 'shall' bhi use hota hai.",
+          "examples": [
+            {
+              "sentence": "The registrar will release the written examination admit cards next week.",
+              "analysis": "'Next week' clear future time marker hai, isliye Simple Future ('will release') use hoga."
+            }
+          ],
+          "timeMarkers": "tomorrow, next week/month/year, soon, shortly, in a few days, in 2028"
+        },
+        {
+          "id": "T10",
+          "name": "Future Continuous",
+          "time": "Future",
+          "aspect": "Continuous",
+          "definition": "Future ke kisi specific moment par chal rahe ongoing action ko describe karta hai.",
+          "affirmative": "Subject + will/shall + be + V_ing + Object",
+          "negative": "Subject + will/shall + not + be + V_ing + Object",
+          "interrogative": "Will/Shall + Subject + be + V_ing + Object?",
+          "auxiliaryConcord": "'will be' ya 'shall be' ke baad present participle V-ing lagta hai.",
+          "examples": [
+            {
+              "sentence": "At this time tomorrow, candidates will be attending the orientation session.",
+              "analysis": "'At this time tomorrow' future ke ek point ko mark karta hai jab action in progress hoga."
+            }
+          ],
+          "timeMarkers": "at this time tomorrow, at 10 AM next Tuesday, this time next month"
+        },
+        {
+          "id": "T11",
+          "name": "Future Perfect",
+          "time": "Future",
+          "aspect": "Perfect",
+          "definition": "Future ke kisi specific deadline ya reference time se pehle complete hone wale action ke liye use hota hai.",
+          "affirmative": "Subject + will/shall + have + V3 + Object",
+          "negative": "Subject + will/shall + not + have + V3 + Object",
+          "interrogative": "Will/Shall + Subject + have + V3 + Object?",
+          "auxiliaryConcord": "'will have' ke baad past participle V3 lagta hai.",
+          "examples": [
+            {
+              "sentence": "By 5:00 PM today, the technical team will have deployed the security patch.",
+              "analysis": "'By 5:00 PM today' future ki completion deadline hai, isliye Future Perfect ('will have deployed') aayega."
+            }
+          ],
+          "timeMarkers": "by tomorrow, by next month, by the end of this year, by 5 PM, before (in future context)"
+        },
+        {
+          "id": "T12",
+          "name": "Future Perfect Continuous",
+          "time": "Future",
+          "aspect": "Perfect Continuous",
+          "definition": "Future ke kisi point tak chalne wale action ki duration ko measure karne ke liye use hota hai.",
+          "affirmative": "Subject + will/shall + have + been + V_ing + Object",
+          "negative": "Subject + will/shall + not + have + been + V_ing + Object",
+          "interrogative": "Will/Shall + Subject + have + been + V_ing + Object?",
+          "auxiliaryConcord": "'will have been' ke baad present participle V-ing lagta hai.",
+          "examples": [
+            {
+              "sentence": "By December 2026, he will have been serving in the High Court for five years.",
+              "analysis": "Future benchmark ('By December 2026') ke saath measured duration ('for five years') di gayi hai."
+            }
+          ],
+          "timeMarkers": "by [future time] ... for [duration]"
+        }
+      ]
+    },
+    {
+      "id": "sec-time-markers",
+      "number": 4,
+      "title": "Contextual Time Markers: Signal Words aur Interpretation",
+      "summary": "Time markers sentence ka tense samajhne mein helpful clues dete hain, lekin sentence ka overall meaning aur completion context dekhna sabse zaroori hai.",
+      "caveats": [
+        {
+          "marker": "always",
+          "principle": "Sirf Simple Present tak restricted nahi hai.",
+          "explanation": "Waise toh 'always' permanent habit ya routine ke liye Simple Present mein aata hai ('She always prepares her notes meticulously'), lekin agar koi irritating habit ya annoying repeated action dikhana ho toh Present Continuous mein bhi aa sakta hai ('He is always complaining about the system')."
+        },
+        {
+          "marker": "specific past time (e.g. yesterday at 4 PM)",
+          "principle": "Aspect ke hisaab se Simple Past ya Past Continuous dono lag sakte hain.",
+          "explanation": "Agar event us specific point par ek single complete action tha, toh Simple Past aayega ('The judge signed the decree yesterday at 4 PM'). Lekin agar action us waqt chal raha tha, toh Past Continuous aayega ('The judge was reviewing the petition yesterday at 4 PM')."
+        },
+        {
+          "marker": "since / for",
+          "principle": "Ongoing duration aur completed past duration ke beech difference pehchanna.",
+          "explanation": "Jab action past mein shuru hokar present tak chal raha ho, toh Present Perfect Continuous ya Present Perfect lagta hai ('I have lived here for five years'). Lekin agar wo time period past mein hi pura khatam ho chuka hai aur present se koi connection nahi hai, toh Simple Past use hota hai ('I lived in Jodhpur for five years during my childhood')."
+        }
+      ]
+    },
+    {
+      "id": "sec-confusing-pairs",
+      "number": 5,
+      "title": "Confusing Tense Pairs aur Unka Solution",
+      "summary": "Competitive exams mein error-spotting ke recurring confusion points ko master karna.",
+      "pairs": [
+        {
+          "pair": "Simple Past vs. Present Perfect",
+          "explanation": "Jab bhi sentence mein definite past time marker (yesterday, ago, last year, in 2020) diya ho, toh Simple Past (V2) lagana zaroori hai. Present Perfect (has/have + V3) ke saath definite past time marker kabhi use nahi hota.",
+          "incorrect": "The High Court has issued the notification yesterday.",
+          "correct": "The High Court issued the notification yesterday.",
+          "reasoning": "'Yesterday' action ko beete huye time se baandhta hai, isliye yahan Present Perfect nahi aa sakta."
+        },
+        {
+          "pair": "Stative Verbs in Continuous Tenses",
+          "explanation": "Cognition, emotion, perception aur possession batane wale verbs (know, understand, believe, love, hate, see, hear, belong, own) dynamic actions nahi balki states batate hain. Isliye inka normal use Continuous aspect (-ing) mein nahi hota.",
+          "incorrect": "The judicial clerk is knowing the procedure thoroughly.",
+          "correct": "The judicial clerk knows the procedure thoroughly.",
+          "reasoning": "'Know' ek stative verb hai, isliye is sentence mein Continuous aspect galat hai."
+        },
+        {
+          "pair": "Auxiliary Redundancy with 'Did'",
+          "explanation": "Simple Past ke negative aur interrogative sentences mein 'did' pehle se past tense show karta hai. Isliye main verb hamesha base form V1 mein hona chahiye.",
+          "incorrect": "Did the applicant submitted all required annexures?",
+          "correct": "Did the applicant submit all required annexures?",
+          "reasoning": "'Did' ke saath V2 ('submitted') lagane se double past ki grammatical error hoti hai."
+        }
+      ]
+    },
+    {
+      "id": "sec-solving-algorithm",
+      "number": 6,
+      "title": "MCQ Solve Karne ka 5-Step Protocol",
+      "summary": "High Court exam ke time-frame mein questions ko bina galti ke jaldi solve karne ka systematic tareeqa.",
+      "steps": [
+        { "step": 1, "title": "Scan for Contextual Clues", "detail": "Sentence mein explicit time markers (yesterday, already, by tomorrow, since/for) ya temporal clue phrases dhoondhein." },
+        { "step": 2, "title": "Determine Time Dimension", "detail": "Check karein ki sentence ka reference time Past hai, Present hai ya Future hai." },
+        { "step": 3, "title": "Determine Aspectual Contour", "detail": "Decide karein ki action routine/fact hai (Simple), ongoing progression hai (Continuous), completed result hai (Perfect), ya duration hai (Perfect Continuous)." },
+        { "step": 4, "title": "Verify Subject-Verb Concord", "detail": "Subject ka number (singular/plural) aur person check karein taaki mismatch auxiliary wale options eliminate ho sakein (jaise singular subject ke saath 'have')." },
+        { "step": 5, "title": "Eliminate & Select", "detail": "Grammatically discordant distractors ko eliminate karke correct option select karein." }
+      ]
+    }
+  ]
+}

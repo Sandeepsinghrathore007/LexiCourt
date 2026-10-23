@@ -1,0 +1,212 @@
+[
+  {
+    "id": "WE-01",
+    "sentence": "Spot the error: \"The quality of / these newly delivered computer monitors / are exceptionally reliable. / No error\"",
+    "correctAnswer": "is exceptionally reliable (Replace 'are' with 'is')",
+    "tense": "Head Noun Isolation vs Intervening Prepositional Phrases",
+    "steps": {
+      "step1_marker": "Finite Verb & Nearest Noun: Sentence mein verb 'are' aayi hai aur uske theek pehle plural noun 'monitors' diya gaya hai.",
+      "step2_time": "Prepositional Phrase Filtering: 'of these newly delivered computer monitors' ek prepositional phrase hai jo preposition 'of' se shuru ho raha hai. 'Monitors' preposition ka object hai, sentence ka subject nahi.",
+      "step3_aspect": "Head Noun Identification: Sentence kis cheez ke baare mein hai? Answer: 'The quality'. 'Quality' ek singular abstract noun hai.",
+      "step4_inflection": "Syntactic Concord Derivation: Singular Head Noun 'quality' strictly singular verb 'IS' demand karta hai. Plural verb 'are' proximity error create kar rahi hai.",
+      "step5_synthesis": "Corrected Sentence: \"The quality of these newly delivered computer monitors IS exceptionally reliable.\""
+    },
+    "trapWarning": "THE NEAREST NOUN TRAP: Examiner verb ke theek aage plural noun ('monitors') daal kar auditory illusion paida karta hai. Preposition 'of' ke pehle aane wale Head Noun ko hi subject maanein!"
+  },
+  {
+    "id": "WE-02",
+    "sentence": "Fill in the blank: \"The Registrar General, along with two senior administrative officers, ___ the newly established IT server facility yesterday.\"",
+    "correctAnswer": "inspected / was inspecting (Singular Concord)",
+    "tense": "Parenthetical Connectives & The First-Subject Rule",
+    "steps": {
+      "step1_marker": "Connective Inspection: Sentence mein 'along with' expression use hua hai jo do noun phrases ko jodh raha hai: 'The Registrar General' aur 'two senior administrative officers'.",
+      "step2_time": "Syntactic Classification: 'Along with' coordinate conjunction ('and') nahi hai; ye ek parenthetical prepositional phrase hai.",
+      "step3_aspect": "First-Subject Rule Application: Verb hamesha pehle wale subject ('The Registrar General') ke number ke according aayegi, dusre subject chahe kitne bhi plural hon unhe ignore kiya jayega.",
+      "step4_inflection": "Subject Concord: 'The Registrar General' singular 3rd person hai, isliye verb singular hogi ('was inspecting' / 'has inspected').",
+      "step5_synthesis": "Final Output: \"The Registrar General, along with two senior administrative officers, WAS inspecting the newly established IT server facility yesterday.\""
+    },
+    "trapWarning": "THE FALSE COMPOUND TRAP: 'Along with', 'as well as', aur 'together with' aane par subjects judkar plural (1+2=3) nahi bante. Pehla subject singular hai toh verb strictly singular hi rahegi!"
+  },
+  {
+    "id": "WE-03",
+    "sentence": "Choose the correct verb: \"Neither the presiding judge nor the defense advocates (was / were) convinced by the fabricated witness testimony.\"",
+    "correctAnswer": "were",
+    "tense": "Correlative Conjunctions & The Proximity Rule (Neither...Nor)",
+    "steps": {
+      "step1_marker": "Correlative Structure: Sentence 'Neither ... nor' correlative pair se do subjects ko jodh raha hai: Subject 1 = 'the presiding judge' (singular), Subject 2 = 'the defense advocates' (plural).",
+      "step2_time": "Rule Identification: Neither...nor mein 'Proximity Rule' (Rule of Nearness) lagta hai—verb hamesha us subject se agree karti hai jo verb ke physically sabse paas hota hai.",
+      "step3_aspect": "Position Analysis: Verb blank ke directly adjacent subject 'the defense advocates' (plural) hai.",
+      "step4_inflection": "Concord Selection: Plural subject 'the defense advocates' ke sath plural past auxiliary 'WERE' aayegi.",
+      "step5_synthesis": "Final Output: \"Neither the presiding judge nor the defense advocates WERE convinced by the fabricated witness testimony.\""
+    },
+    "trapWarning": "PROXIMITY DIRECTION: Pehla subject 'judge' singular dekh kar jaldbazi mein 'was' na lagayein. Neither...nor mein pehla subject irrelevant ho jata hai, sirf second (nearer) subject matter karta hai."
+  },
+  {
+    "id": "WE-04",
+    "sentence": "Spot the error: \"Either the stenographers / or the section superintendent / are responsible / for the missing file. / No error\"",
+    "correctAnswer": "is responsible (Replace 'are' with 'is')",
+    "tense": "Inverted Proximity Concord in Either...Or",
+    "steps": {
+      "step1_marker": "Correlative Pair Analysis: Sentence mein 'Either ... or' use hua hai. Subject 1 = 'the stenographers' (plural); Subject 2 = 'the section superintendent' (singular).",
+      "step2_time": "Proximity Principle: 'Either...or' mein verb hamesha nearest subject ke hisaab se aati hai.",
+      "step3_aspect": "Nearer Subject Evaluation: Verb 'are' ke sabse paas 'the section superintendent' hai, jo singular noun hai.",
+      "step4_inflection": "Correction Derivation: Singular subject ke sath singular verb 'IS' aani chahiye, 'are' lagana proximity rule ka violation hai.",
+      "step5_synthesis": "Corrected Sentence: \"Either the stenographers or the section superintendent IS responsible for the missing file.\""
+    },
+    "trapWarning": "ORDER DEPENDENCE: Agar sentence hota 'Either the superintendent or the stenographers...', tab 'are' sahi hota. Lekin jab singular subject verb ke paas aa gaya, toh verb 'is' hona mandatory hai!"
+  },
+  {
+    "id": "WE-05",
+    "sentence": "Complete the sentence: \"Bread and butter ___ the preferred morning breakfast for the on-duty security staff.\"",
+    "correctAnswer": "is",
+    "tense": "Compound Subjects: Single Conceptual Unit",
+    "steps": {
+      "step1_marker": "Compound Inspection: Sentence mein 'Bread and butter' do nouns conjunction 'and' se jude hain.",
+      "step2_time": "Contextual Semantic Analysis: Predicate dekhein—sentence keh raha hai 'the preferred morning breakfast'. Yahan bread aur butter alag-alag commodities ke roop mein nahi, balki ek single combined food dish ke roop mein express ho rahe hain.",
+      "step3_aspect": "Grammatical Exception: Jab do nouns milkar ek single unit, meal ya concept banate hain, toh unhe singular treat kiya jata hai.",
+      "step4_inflection": "Verb Selection: Single food unit hone ke karan singular present verb 'IS' select hogi.",
+      "step5_synthesis": "Final Output: \"Bread and butter IS the preferred morning breakfast for the on-duty security staff.\""
+    },
+    "trapWarning": "THE 'AND' BLIND SPOT: Har 'and' compound plural nahi hota. Agar dono items milkar ek single dish, proverb ya combined idea represent karein, toh verb strictly singular hogi."
+  },
+  {
+    "id": "WE-06",
+    "sentence": "Choose the correct sentence:\nA) \"The Director and Producer of the documentary have arrived at the high court.\"\nB) \"The Director and Producer of the documentary has arrived at the high court.\"",
+    "correctAnswer": "B",
+    "tense": "The Single-Article / Same Person Principle",
+    "steps": {
+      "step1_marker": "Article Count Inspection: Subject phrase mein do titles hain: 'Director' aur 'Producer'. Definite article 'The' sirf pehle noun ('The Director') ke aage laga hai, 'Producer' ke aage article repeat nahi hua hai.",
+      "step2_time": "Single-Article Law: Jab do designations 'and' se jude hon aur article sirf pehle title ke aage ho, toh iska matlab dono designations EK HI VYAKTI (same person) ke hain.",
+      "step3_aspect": "Subject Number Concord: Ek hi person Director bhi hai aur Producer bhi, isliye grammatical subject SINGULAR hai.",
+      "step4_inflection": "Verb Selection: Singular subject ke sath singular auxiliary 'HAS arrived' aayega, 'have arrived' eliminate hoga.",
+      "step5_synthesis": "Verified Option: Sentence B is 100% grammatically correct."
+    },
+    "trapWarning": "ARTICLE COUNT CHECK: Ek Article = Ek Vyakti = Singular Verb ('has'). Do Articles ('The Director and THE Producer') = Do Vyakti = Plural Verb ('have')."
+  },
+  {
+    "id": "WE-07",
+    "sentence": "Spot the error: \"Each of the candidates / appearing for the System Assistant exam / have submitted / their identity proof. / No error\"",
+    "correctAnswer": "has submitted (Replace 'have' with 'has')",
+    "tense": "Distributive Singular: 'Each of' + Plural Noun",
+    "steps": {
+      "step1_marker": "Structure Breakdown: Sentence 'Each of the candidates...' se shuru ho raha hai aur verb 'have submitted' di gayi hai.",
+      "step2_time": "Grammatical Subject Identification: Preposition 'of' ke baad aane wala 'the candidates' plural complement hai, sentence ka subject nahi hai. Sentence ka true subject distributive pronoun 'EACH' hai.",
+      "step3_aspect": "Distributive Concord Rule: 'Each' hamesha har ek candidate ko individually distribute karta hai aur strictly SINGULAR VERB demand karta hai.",
+      "step4_inflection": "Correction Derivation: Plural auxiliary 'have' ko singular auxiliary 'HAS' se replace karein.",
+      "step5_synthesis": "Correct Sentence: \"Each of the candidates appearing for the System Assistant exam HAS submitted their identity proof.\""
+    },
+    "trapWarning": "THE 'EACH OF' PLURAL ILLUSION: 'Candidates' plural dekhkar candidate ka mind plural verb 'have' accept kar leta hai. Hamesha yaad rakhein: 'Each of' ka verb hamesha SINGULAR ('has/is') hoga!"
+  },
+  {
+    "id": "WE-08",
+    "sentence": "Fill in the blank with the appropriate verb: \"Ramesh is one of those hardworking assistants who ___ always completed the cause-list verification on time.\"",
+    "correctAnswer": "have",
+    "tense": "Relative Clause Antecedent Concord: 'One of those who...'",
+    "steps": {
+      "step1_marker": "Relative Clause Detection: Sentence mein relative pronoun 'WHO' aaya hai jo ek dependent clause introduce kar raha hai.",
+      "step2_time": "Antecedent Identification: Relative pronoun 'who' theek apne se pehle aane wale noun ko replace karta hai. 'Who' ke theek pehle plural noun 'those hardworking assistants' aaya hai.",
+      "step3_aspect": "Syntactic Logic: Sentence keh raha hai ki aise kai hardworking assistants hain jinhone on time kaam poora kiya hai, aur Ramesh unme se ek hai. Relative clause 'assistants' ke action ko describe kar raha hai.",
+      "step4_inflection": "Antecedent Concord: Plural antecedent 'assistants' demand karta hai ki relative clause ke andar PLURAL VERB 'HAVE' aani chahiye, 'has' nahi.",
+      "step5_synthesis": "Final Output: \"Ramesh is one of those hardworking assistants who HAVE always completed the cause-list verification on time.\""
+    },
+    "trapWarning": "THE 'ONE OF THOSE WHO' ANTECEDENT TRAP: Candidates 'Ramesh' ya 'one' dekhkar 'has' laga dete hain. Lekin relative pronoun 'who' ka agreement uske theek pehle aane wale plural noun ('assistants') se hota hai ➔ Plural Verb 'have'!"
+  },
+  {
+    "id": "WE-09",
+    "sentence": "Spot the error: \"She is the only one / of the applicants who / have scored full marks / in the computer proficiency test. / No error\"",
+    "correctAnswer": "has scored full marks (Replace 'have' with 'has')",
+    "tense": "'The Only One' Exception in Relative Clauses",
+    "steps": {
+      "step1_marker": "Key Modifier Detection: Sentence mein phrase 'THE ONLY ONE' use hui hai ('She is the only one of the applicants who...').",
+      "step2_time": "Semantic Limitation: 'The only one' ka matlab hai ki applicants ke pure group mein se sirf aur sirf WAHI EK vyakti hai jisne full marks score kiye hain.",
+      "step3_aspect": "Antecedent Shift: 'The only' lagne se relative pronoun 'who' ka antecedent pure plural group se hatkar strictly 'the only one' (singular) par shift ho jata hai.",
+      "step4_inflection": "Correction Derivation: Plural verb 'have' ko singular verb 'HAS' se replace karein.",
+      "step5_synthesis": "Corrected Sentence: \"She is the only one of the applicants who HAS scored full marks in the computer proficiency test.\""
+    },
+    "trapWarning": "'ONE OF' VS 'THE ONLY ONE': 'One of the candidates who HAVE' (plural), LEKIN 'THE ONLY ONE of the candidates who HAS' (singular). 'The only' word aate hi verb strictly singular ban jati hai!"
+  },
+  {
+    "id": "WE-10",
+    "sentence": "Choose the correct verbs for both sentences:\n1. \"A number of computer systems in the court ___ upgraded.\"\n2. \"The number of pending service matters ___ steadily rising.\"",
+    "correctAnswer": "1: have been (Plural) | 2: is (Singular)",
+    "tense": "'A Number of' (Plural) vs 'The Number of' (Singular)",
+    "steps": {
+      "step1_marker": "Contrast Analysis: Sentence 1 starts with 'A number of...', and Sentence 2 starts with 'The number of...'. Both are followed by plural nouns.",
+      "step2_time": "Sentence 1 Logic: 'A number of' ka idiomatic meaning 'many / several' hota hai. Yahan actual focus plural entities ('computer systems') par hai ➔ PLURAL VERB ('have been').",
+      "step3_aspect": "Sentence 2 Logic: 'The number of' ka subject 'The number' (singular count/figure) hota hai. Noun phrase 'of pending service matters' prepositional complement hai ➔ SINGULAR VERB ('is').",
+      "step4_inflection": "Syntactic Synthesis: Sentence 1 takes plural auxiliary 'have been'; Sentence 2 takes singular auxiliary 'is'.",
+      "step5_synthesis": "Verified Outputs: 1) \"A number of computer systems HAVE BEEN upgraded.\" 2) \"The number of pending service matters IS steadily rising.\""
+    },
+    "trapWarning": "POLAR OPPOSITE RULES: 'A number of' = PLURAL verb (A number = Many). 'THE number of' = SINGULAR verb (The number = One figure). Kabhi in dono ko confuse mat karein!"
+  },
+  {
+    "id": "WE-11",
+    "sentence": "Fill in the blank: \"The judicial committee ___ submitted its confidential report to the Chief Justice today.\"",
+    "correctAnswer": "has",
+    "tense": "Collective Nouns: Unitary Sense with 'Its'",
+    "steps": {
+      "step1_marker": "Collective Noun & Pronoun Clue: Subject 'The judicial committee' collective noun hai, aur aage possessive pronoun 'ITS' use hua hai ('its confidential report').",
+      "step2_time": "Semantic Sense: Puri committee ne milkar ek single report submit ki hai; yahan koi aapsi vivad ya division nahi hai. Poori body ek single whole ke roop mein act kar rahi hai.",
+      "step3_aspect": "Concord Law: Jab collective noun unitary sense mein act kare, toh verb singular hoti hai aur pronoun bhi singular neuter ('it/its') hota hai.",
+      "step4_inflection": "Verb Selection: Singular auxiliary 'HAS' select hogi, 'have' eliminate hoga.",
+      "step5_synthesis": "Final Output: \"The judicial committee HAS submitted its confidential report to the Chief Justice today.\""
+    },
+    "trapWarning": "PRONOUN ALIGNMENT: Sentence mein 'ITS' dekhein ➔ 100% confirmation ki collective noun singular hai ➔ Singular verb ('has') lagayein!"
+  },
+  {
+    "id": "WE-12",
+    "sentence": "Spot the error: \"The jury was divided / in their opinions regarding / the admissibility of the electronic record. / No error\"",
+    "correctAnswer": "were divided (Replace 'was' with 'were')",
+    "tense": "Collective Nouns: Divided Members (Noun of Multitude)",
+    "steps": {
+      "step1_marker": "Context Markers: Sentence mein collective noun 'The jury' ke baad 'divided' aur plural pronoun 'THEIR opinions' diya gaya hai.",
+      "step2_time": "Sense Analysis: Jury ke sadasya ek mat nahi hain, wo aapas mein bant gaye hain (divided) aur unke vichar alag-alag (their opinions) hain.",
+      "step3_aspect": "Noun of Multitude Rule: Jab collective noun ke members aapas mein divided hon ya individual capacities mein act karein, toh verb strictly PLURAL aati hai.",
+      "step4_inflection": "Correction Derivation: Singular past verb 'was' ko plural past verb 'WERE' se replace karein.",
+      "step5_synthesis": "Correct Sentence: \"The jury WERE divided in their opinions regarding the admissibility of the electronic record.\""
+    },
+    "trapWarning": "DIVIDED MARKER: 'Divided' aur 'their' dekhte hi samajh jayein ki collective noun plural ban chuka hai. Iske sath 'was' lagana standard error spotting trap hai!"
+  },
+  {
+    "id": "WE-13",
+    "sentence": "Fill in the blank: \"Ten kilometres ___ a substantial distance to patrol on foot during harsh weather.\"",
+    "correctAnswer": "is",
+    "tense": "Quantities & Measurements: Continuous Distance as a Unit",
+    "steps": {
+      "step1_marker": "Subject Evaluation: Subject 'Ten kilometres' ek numerical distance phrase hai jo visually plural lagta hai.",
+      "step2_time": "Predicate Context: Predicate mein phrase aayi hai 'a substantial distance'. 'A distance' batata hai ki pure 10 kilometres ko ek single combined stretch ke roop mein dekha ja raha hai.",
+      "step3_aspect": "Unitary Quantity Rule: Distance, time, money aur weight jab ek single block ya total unit represent karein, toh grammatical concord strictly SINGULAR hota hai.",
+      "step4_inflection": "Verb Selection: Singular present verb 'IS' aayegi, 'are' eliminate hoga.",
+      "step5_synthesis": "Final Output: \"Ten kilometres IS a substantial distance to patrol on foot during harsh weather.\""
+    },
+    "trapWarning": "THE 'KILOMETRES' DISTRACTION: 'Kilometres' mein 's' dekh kar 'are' na lagayein. Distance hamesha ek single combined journey hoti hai ➔ Singular verb 'is'!"
+  },
+  {
+    "id": "WE-14",
+    "sentence": "Spot the error: \"There is / numerous procedural irregularities / documented in the preliminary audit report. / No error\"",
+    "correctAnswer": "There are (Replace 'is' with 'are')",
+    "tense": "Inverted Word Order with Dummy 'There'",
+    "steps": {
+      "step1_marker": "Sentence Opening: Sentence dummy introductory word 'There' se shuru ho raha hai aur verb 'is' aayi hai.",
+      "step2_time": "Inversion Principle: 'There' kabhi subject nahi hota. True grammatical subject verb ke BAAD aata hai.",
+      "step3_aspect": "Post-Verbal Subject Analysis: Verb ke theek baad 'numerous procedural irregularities' aaya hai, jo plural noun phrase hai.",
+      "step4_inflection": "Correction Derivation: Plural subject 'irregularities' demand karta hai ki introductory verb PLURAL 'ARE' honi chahiye, 'is' proximity violation hai.",
+      "step5_synthesis": "Correct Sentence: \"There ARE numerous procedural irregularities documented in the preliminary audit report.\""
+    },
+    "trapWarning": "THE 'THERE IS' DEFAULT BIAS: Spoken English mein log bina soche 'there's' bol dete hain. Written exam mein hamesha verb ke baad wala noun dekhein: agar plural hai, toh strictly 'There are / There were' lagayein!"
+  },
+  {
+    "id": "WE-15",
+    "sentence": "Choose the grammatically correct sentence:\nA) \"Many a qualified candidate have failed the typing speed threshold.\"\nB) \"Many a qualified candidate has failed the typing speed threshold.\"",
+    "correctAnswer": "B",
+    "tense": "'Many a' Idiomatic Singular Concord",
+    "steps": {
+      "step1_marker": "Idiomatic Quantifier Detection: Both sentences use the construction 'Many a qualified candidate...'.",
+      "step2_time": "Grammatical Formula Analysis: 'Many a' ke baad aane wala noun hamesha SINGULAR hota hai ('candidate'), aur iske sath aane wali verb bhi STRICTLY SINGULAR hoti hai ('has failed').",
+      "step3_aspect": "Semantic vs Grammatical Discord: Bhale hi 'Many a' ka arth 'bahut saare candidates' hota hai, English grammar mein iski form strictly singular hoti hai (Form trumps meaning!).",
+      "step4_inflection": "Option Verification: Option A mein plural verb 'have failed' hai jo rule todti hai; Option B mein singular verb 'has failed' hai jo 100% compliant hai.",
+      "step5_synthesis": "Verified Option: Sentence B is the only grammatically defensible choice."
+    },
+    "trapWarning": "THE 'MANY A' TRAP: 'Many' dekhkar plural verb mat lagayein! Agar 'Many' ke baad 'a/an' jud gaya hai, toh noun bhi singular hoga ('candidate') aur verb bhi strictly singular hogi ('has')!"
+  }
+]

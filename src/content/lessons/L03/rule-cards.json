@@ -1,0 +1,162 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Type 0: Zero Conditional (Scientific & Factual Truths)",
+    "time": "Zero & First",
+    "aspect": "Factual",
+    "formula": "If / When + Simple Present (V1 / V_s/es), Simple Present (V1 / V_s/es)",
+    "auxiliary": "do / does (Negative/Interrogative mein); result mein 'will' nahi lagta",
+    "usage": "Jab condition aur result ke beech automatic, 100% predictable, ya scientific cause-and-effect relationship ho. Ye timeless facts ke liye use hota hai.",
+    "patterns": {
+      "affirmative": "If water reaches 100°C under normal pressure, it boils rapidly.",
+      "negative": "If an applicant does not sign the affidavit, the registry rejects the filing automatically.",
+      "interrogative": "Does iron rust if you expose it to moisture and oxygen?"
+    },
+    "timeMarkers": ["if", "when", "whenever", "every time that", "as a rule"],
+    "keyTip": "EXAM TRAP: Result clause mein 'will' lagana galat hai ('it will boil' nahi). Permanent laws mein dono jagah strictly Simple Present hi lagta hai."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Type 1: First Conditional (Realistic Future Possibility)",
+    "time": "Zero & First",
+    "aspect": "Realistic Future",
+    "formula": "If + Simple Present (V1 / V_s/es), Subject + will / shall + V1",
+    "auxiliary": "will / shall in result clause; do / does in negative condition",
+    "usage": "Aisi real aur possible situations ke liye jo future mein ho sakti hain, aur jinka result future mein hone ki high probability hoti hai.",
+    "patterns": {
+      "affirmative": "If the petitioner submits the surety bond tomorrow, the magistrate will issue the release order.",
+      "negative": "If the clerk does not upload the digital roster, the lawyers will not attend the virtual court.",
+      "interrogative": "Will the High Court stay the eviction if we file an urgent writ petition today?"
+    },
+    "timeMarkers": ["tomorrow", "next week", "soon", "by evening", "in the future"],
+    "keyTip": "TEMPORAL CONSTRAINT: If-clause mein future auxiliary 'will' kabhi nahi lagta. 'If he will arrive, we will start' galat hai; 'If he arrives, we will start' sahi hai."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Type 1 Variations: Modals & Imperative Commands",
+    "time": "Zero & First",
+    "aspect": "Modal Variations",
+    "formula": "If + Simple Present, can / may / must / should + V1 OR Imperative (V1)",
+    "auxiliary": "can (ability), may (permission/possibility), must/should (duty/obligation)",
+    "usage": "Jab result clause mein definite future result ki jagah ability, possibility, advice, ya direct administrative order dena ho.",
+    "patterns": {
+      "affirmative": "If the candidate clears the written test, he can sit for the Hindi typing examination.",
+      "negative": "If you do not have a valid identity card, you cannot enter the court premises.",
+      "interrogative": "If you witness tampering of evidence, report the matter to the bench immediately."
+    },
+    "timeMarkers": ["can", "may", "must", "should", "report immediately", "inform at once"],
+    "keyTip": "IMPERATIVE TIP: Agar result clause mein subject na ho aur sidha order ya instruction ho, toh base verb V1 se sentence shuru karein (jaise 'If you need bail, contact the counsel')."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Type 2: Second Conditional (Hypothetical Present / Future)",
+    "time": "Second & Third",
+    "aspect": "Hypothetical",
+    "formula": "If + Simple Past (V2 / did + V1), Subject + would + V1",
+    "auxiliary": "did in negative condition; would in result clause",
+    "usage": "Present ya future ki aisi situation jo reality ke opposite hai, ya jiske hone ki possibility practical taur par bahut kam ya imaginary hai.",
+    "patterns": {
+      "affirmative": "If the clerk knew the root password of the database, he would fix the server glitch today.",
+      "negative": "If the advocate did not have urgent hearings in Court No. 3, he would attend our conference.",
+      "interrogative": "Would the judicial committee grant an extension if we requested more time?"
+    },
+    "timeMarkers": ["today", "right now", "at present", "hypothetically", "imaginary scenario"],
+    "keyTip": "TIME DISTANCE RULE: Yahan 'Simple Past' beete huye kal ko nahi, balki reality se imaginary doori ko darshata hai. Isliye result clause mein 'would + V1' lagta hai."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Type 2 Subjunctive 'Were' (Hypothetical States)",
+    "time": "Second & Third",
+    "aspect": "Subjunctive Were",
+    "formula": "If + Subject (any person: I / he / she / it / they) + were ..., Subject + would + V1",
+    "auxiliary": "were (formal subjunctive form for all persons)",
+    "usage": "Contrary-to-fact present states aur hypothetical advice ('If I were you...') ke liye. Chahe subject singular ho ya plural, formal grammar mein 'were' lagta hai.",
+    "patterns": {
+      "affirmative": "If he were the Chief Registrar, he would modernize all court registries across Rajasthan.",
+      "negative": "If the evidence were not so fragile, the forensics team would not preserve it in cold storage.",
+      "interrogative": "If I were you, I would file an appeal against this interlocutory order immediately."
+    },
+    "timeMarkers": ["If I were you", "If he were", "If she were", "If it were not for"],
+    "keyTip": "TOP EXAM TRAP: Competitive exams mein 'If he was' distractor ke roop mein diya jata hai. Formal conditional syntax mein singular subjects ke sath bhi strictly 'were' hi choose karein."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Type 3: Third Conditional (Unreal Counterfactual Past)",
+    "time": "Second & Third",
+    "aspect": "Unreal Past",
+    "formula": "If + Past Perfect (had + V3), Subject + would have + V3",
+    "auxiliary": "had in if-clause; would have in result clause",
+    "usage": "Past ki aisi unfulfilled condition jo actually nahi hui, aur uska imagined past result jo ab kisi bhi tarah badla nahi ja sakta (past counterfactual/regret).",
+    "patterns": {
+      "affirmative": "If the prosecution had presented the forensic report, the magistrate would have convicted the accused.",
+      "negative": "If the court clerk had not verified the records, the fraudulent decree would have been executed.",
+      "interrogative": "Would the applicant have secured the job if he had scored two marks more in Part-B?"
+    },
+    "timeMarkers": ["yesterday", "last year", "in 2024", "at that time", "on that day"],
+    "keyTip": "FATAL CLAUSE CONFUSION: If-clause mein 'would have' lagana sabse badi galti hai ('If he would have studied' wrong!). If-clause mein strictly Past Perfect ('had + V3') lagta hai."
+  },
+  {
+    "id": "RC-07",
+    "tense": "Type 3 Modal Variations ('could have' / 'might have')",
+    "time": "Second & Third",
+    "aspect": "Past Modal",
+    "formula": "If + Past Perfect (had + V3), Subject + could have / might have + V3",
+    "auxiliary": "could have (past ability), might have (past possibility)",
+    "usage": "Past unreal scenario mein definite outcome ki jagah past ability (kar sakta tha) ya past weaker possibility (shayad ho jata) express karne ke liye.",
+    "patterns": {
+      "affirmative": "If the fire brigade had arrived ten minutes earlier, they could have saved the record room.",
+      "negative": "If the applicant had not forgotten his hall ticket, he might have cleared the written cutoff.",
+      "interrogative": "Could the IT staff have recovered the corrupted files if they had maintained daily tape backups?"
+    },
+    "timeMarkers": ["could have + V3", "might have + V3", "missed capability", "weaker past possibility"],
+    "keyTip": "MODAL SHADE: 'Would have' = definite hypothetical outcome; 'Could have' = ability was present; 'Might have' = speculative chance."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Mixed Conditionals (Cross-Time Past & Present)",
+    "time": "Advanced & Connectives",
+    "aspect": "Mixed Cross-Time",
+    "formula": "If + Past Perfect (had + V3), Subject + would + V1 (now / today)",
+    "auxiliary": "had in if-clause; would + V1 in result clause",
+    "usage": "Jab past ke unfulfilled action ka asar current present moment par pad raha ho: Past Unreal Condition ➔ Present Result.",
+    "patterns": {
+      "affirmative": "If the system assistant had taken the networking certification last year, he would be a senior engineer today.",
+      "negative": "If the court had not installed the solar plant in 2023, the electricity bills would be enormous now.",
+      "interrogative": "If you had accepted the transfer last month, would you be working at the principal seat now?"
+    },
+    "timeMarkers": ["last year... now", "yesterday... today", "in the past... at present"],
+    "keyTip": "TIME ADVERB CLUE: Sentence mein past time marker ('last year') aur present time marker ('today/now') dono diye honge. Result mein 'would have been' nahi, 'would be' aayega!"
+  },
+  {
+    "id": "RC-09",
+    "tense": "Conditional Inversions ('Had', 'Were', 'Should')",
+    "time": "Inversions",
+    "aspect": "Formal Inversion",
+    "formula": "Had + S + V3... | Were + S + to + V1 / comp... | Should + S + V1...",
+    "auxiliary": "Had (Type 3), Were (Type 2), Should (Type 1)",
+    "usage": "Formal English mein 'if' ko omit karke sentence ko inverted word order mein likha jata hai. Ye statements hoti hain, questions nahi.",
+    "patterns": {
+      "affirmative": "Had the registrar noticed the clerical error earlier, he would have recalled the order at once.",
+      "negative": "Had the police not recorded the dying declaration, the case would have collapsed.",
+      "interrogative": "Were the high court to order a judicial inquiry, the truth would come out."
+    },
+    "timeMarkers": ["Had I known", "Were he present", "Should you require", "Had the officer arrived"],
+    "keyTip": "NEGATIVE INVERSION RULE: Negative sentence mein 'not' hamesha subject ke baad lagta hai: 'Had the witness not testified...' ('Had not the witness...' likhna severe error hai)."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Negative Connective 'Unless' & Conditional Conjunctions",
+    "time": "Advanced & Connectives",
+    "aspect": "Connectives",
+    "formula": "Unless + Affirmative Clause (Simple Present), Result Clause (will not + V1)",
+    "auxiliary": "do / does / will (subordinate clause mein 'not' prohibited hai)",
+    "usage": "'Unless' ka matlab hota hai 'if not'. Iske clause mein koi doosra negative word nahi aa sakta kyunki ye already negative hai.",
+    "patterns": {
+      "affirmative": "Unless the applicant submits the medical fitness certificate, the appointment will remain provisional.",
+      "negative": "Unless the security team activates the firewall, unauthorized IP addresses will breach the database.",
+      "interrogative": "Provided that the original vouchers are enclosed, the reimbursement claim will be sanctioned."
+    },
+    "timeMarkers": ["unless", "provided that", "as long as", "so long as", "on condition that"],
+    "keyTip": "DOUBLE NEGATIVE PROHIBITION: 'Unless you do not hurry' bilkul galat hai. Sahi construction hai: 'Unless you hurry, you will miss the hearing' (or 'If you do not hurry...')."
+  }
+]

@@ -1,0 +1,147 @@
+{
+  "id": "L15",
+  "title": "Connectives & Commonly Confused Words: Meaning, Usage and Error Detection",
+  "shortTitle": "Connectives & Commonly Confused Words",
+  "topicId": "T06",
+  "topicTitle": "Correction of Sentences",
+  "part": "3 of 3",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Advanced",
+  "targetScore": "100% Precision",
+  "description": "Connectives ke logical relationships (contrast, concession, cause, result, condition, purpose, time), coordinating (FANBOYS), subordinating aur correlative conjunctions ki syntax aur parallelism, comma splice aur run-on punctuation rules, high-frequency commonly confused words (affect/effect, advice/advise, principal/principle, lie/lay, rise/raise, fewer/less, its/it's), aur Rajasthan High Court sentence correction traps ko systematically master karein.",
+  "learningObjectives": [
+    "Connectives aur conjunctions ke syntactic functions aur logical relationships ko accurately identify karein",
+    "Addition, Contrast, Concession, Cause, Result, Purpose, Condition, aur Time connectives ke subtle semantic differences ko decode karein",
+    "Coordinating (FANBOYS), Subordinating, aur Correlative conjunctions ke syntactic behaviors ko master karein",
+    "Correlative conjunctions (Either...or, Neither...nor, Not only...but also) mein strict grammatical parallelism enforce karein",
+    "Clause-taking conjunctions (although, because) aur preposition-like structures (despite, in spite of, because of) mein accurate distinction karein",
+    "Comma splices, run-on sentences, aur conjunctive adverb (however, therefore) punctuation traps ko eliminate karein",
+    "Double contrast markers jaise 'Although... but...' ke pleonastic exam errors ko eradicate karein",
+    "Subordinating clause initial position par mandatory comma aur terminal position par zero-comma rules ko follow karein",
+    "High-frequency homophones aur confused words (affect/effect, advice/advise, principal/principle, accept/except) ke syntactic roles ko distinguish karein",
+    "Transitive vs intransitive confusing verbs (lie/lay, rise/raise) ke verb forms aur object requirements ko master karein",
+    "Countable vs uncountable quantifiers aur diction pairs (fewer/less, beside/besides, farther/further) ko sentence context ke hisaab se correctly choose karein",
+    "Pronoun reference aur contraction homophones (its/it's, there/their/they're, whose/who's) ko instantly spot aur correct karein",
+    "7-Step Systematic Connective Workflow aur Integrated Sentence Correction Strategy se High Court competitive exam ke error spotting questions solve karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Connective Functions across 10 Logical Categories: Addition, Contrast, Concession, Cause/Reason, Result/Consequence, Purpose, Condition, Time/Sequence, Choice/Alternatives, Similarity",
+      "Coordinating Conjunctions (FANBOYS: for, and, nor, but, or, yet, so) with word, phrase, and independent clause punctuation",
+      "Subordinating Conjunctions: independent vs dependent clauses, initial clause comma rule vs terminal zero-comma rule",
+      "Clause-taking Conjunction vs Noun-phrase Preposition: 'although + clause' vs 'despite / in spite of + noun phrase / -ing', 'because + clause' vs 'because of + noun phrase'",
+      "Correlative Conjunctions: either...or, neither...nor, not only...but also, both...and, whether...or, rather...than with strict structural parallelism and proximity agreement",
+      "Conjunctive Adverbs: however, therefore, moreover, furthermore, nevertheless, consequently, hence, thus with semicolon/period and comma punctuation",
+      "Punctuation and Sentence Structure Traps: comma splices, run-ons, misused conjunctive adverbs, double contrast markers ('Although... but...')",
+      "Condition vs Precaution: 'if / unless' (actual conditional) vs 'in case' (precautionary contingency)",
+      "Confused Word Pairs — Part of Speech Diction: affect (verb) vs effect (noun/verb), advice (noun) vs advise (verb), accept (verb) vs except (prep/conj), principal (head/capital) vs principle (fundamental rule/truth), complement (complete) vs compliment (praise), lose (verb) vs loose (adj), quiet (silent) vs quite (completely/very), than (comparison) vs then (time)",
+      "Confused Pronouns and Contractions: its vs it's, there vs their vs they're, whose vs who's",
+      "Transitive vs Intransitive Action Verbs: lie (recline, intransitive: lie/lay/lain) vs lay (place, transitive: lay/laid/laid), rise (move upward, intransitive: rise/rose/risen) vs raise (elevate, transitive: raise/raised/raised)",
+      "Directional and Relational Lexemes: borrow (take temporarily) vs lend (give temporarily), bring (towards speaker) vs take (away from speaker), say (express words) vs tell (inform someone + personal object), speak (formal/languages) vs talk (conversational)",
+      "Quantity and Degree Diction: fewer (plural countable) vs less (uncountable), many (countable) vs much (uncountable), few/a few, little/a little, beside (by the side of) vs besides (in addition to), among (3+ members) vs between (2 entities or mutual relationship)",
+      "Context-Sensitive Homographs & Compounded Expressions: already vs all ready, altogether vs all together, later vs latter, farther (distance) vs further (additional), especially vs specially, everyday (adj) vs every day (adverbial), maybe (adverb) vs may be (modal verb phrase), sometime vs sometimes vs some time, hard vs hardly, late vs lately",
+      "Integrated 7-Step Sentence Correction Algorithm for Connectives and Confused Words"
+    ],
+    "excluded": [
+      "Subject-Verb Agreement non-connective concord rules (covered in Lesson 13)",
+      "Degrees of Comparison self-exclusion and transformation rules (covered in Lesson 14)",
+      "Articles and Determiners countability fundamentals (covered in Lesson 10)",
+      "Spatial and Temporal Preposition hierarchies (covered in Lessons 11 and 12)",
+      "Active and Passive Voice transformations (covered in Lessons 04 and 05)",
+      "Direct and Indirect Speech tense shifts (covered in Lessons 06 and 07)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Diagnostic Prerequisite Check",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Connectives aur context-sensitive word choice ke core purpose, competitive exam weightage, changing connectives meaning shifts, common mistake traps, aur diagnostic prerequisite check ko samjhein."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Comprehensive Theory & Sentence Correction Guide across 11 Sections",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "Connectives definition, 10 logical relationships, coordinating/subordinating/correlative conjunctions, clause compatibility, punctuation traps, 7-step workflow, 5 categories of commonly confused words, aur integrated sentence correction par exhaustive guide."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Interactive Connective Maps, Punctuation Guides & Diction Flowcharts",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Connective function map, clause connection diagram, connective selection decision tree, conjunction types contrast map, punctuation reference diagram, confused words comparator, aur word selection flowchart."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "14 Precision Connective & Word Diction Formulas",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Logical relationship concord, coordinating FANBOYS punctuation, subordinating comma rules, clause vs noun phrase compatibility, correlative parallelism, conjunctive adverbs, double contrast ban, affect/effect, advice/advise, principal/principle, its/it's, lie/lay, rise/raise, aur fewer/less cards."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Exam Derivations",
+      "durationMin": 15,
+      "type": "worked-examples",
+      "summary": "Contrast vs concession, cause vs result, condition vs precaution, coordinating vs conjunctive adverbs, correlative parallelism, double contrast elimination, affect/effect, advice/advise, principal/principle, lie/lay, borrow/lend, fewer/less, aur integrated sentence correction derivations."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "10 Critical Connective & Diction Distractor Traps",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "Double contrast ('Although... but'), despite with clause, comma splices with however, broken correlative parallelism, reversed cause/result, affect vs effect, advice vs advise, its vs it's, lie vs lay, aur fewer vs less breakdown."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "14 Scaffolded Questions with Progressive Hints",
+      "durationMin": 15,
+      "type": "guided-practice",
+      "summary": "Logical relationship identification, connective selection, comma splice correction, correlative parallelism, double contrast elimination, and commonly confused words selection with immediate Roman Hinglish cognitive feedback and rule citations."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "26 Exam-Grade Practice Questions",
+      "durationMin": 25,
+      "type": "independent-practice",
+      "summary": "Full syllabus coverage wale 26 realistic competitive questions covering connective rules, clause structures, punctuation correction, commonly confused words in context, and integrated error spotting with detailed diagnostic explanations."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15 Timed Certification Questions (80% Passing Threshold)",
+      "durationMin": 12,
+      "type": "mastery-assessment",
+      "summary": "Strictly timed 12-minute exam-condition assessment simulating Rajasthan High Court System Assistant examination standards with 80% passing threshold (12/15) to achieve official module mastery."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Error Review & Revision",
+      "subtitle": "Personalized Mistake Bank, Quick Reference & Consolidated Report",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Review logged mistakes, weak subtopics, connectives summary table, confused words quick reference matrix, mixed revision quiz, final examination checklist, and consolidated completion report."
+    }
+  ]
+}

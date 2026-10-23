@@ -1,0 +1,140 @@
+{
+  "id": "L06",
+  "title": "Direct & Indirect Speech — Fundamentals, Pronouns & Tense Backshift",
+  "shortTitle": "Narration: Fundamentals & Backshift",
+  "topicId": "T03",
+  "topicTitle": "Narration: Direct and Indirect",
+  "part": "1 of 2",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Intermediate",
+  "targetScore": "100% Structural Accuracy",
+  "description": "Direct aur Indirect Speech ke core fundamentals, reporting clause vs reported clause, reporting verbs (say vs tell), pronoun reference shifts (speaker aur listener ke hisaab se), tense backshift matrix, universal truth exceptions, aur contextual time/place adjustments ko master karein.",
+  "learningObjectives": [
+    "Direct Speech aur Indirect Speech ke beech fundamental functional aur syntactic farq ko identify karein",
+    "Sentence mein reporting clause, reporting verb, reporting subject, aur reported clause ko accurately isolate karein",
+    "Assertive statements ko quotation marks hatakar appropriate conjunction 'that' ke sath Indirect Speech mein convert karein",
+    "Reporting verbs 'say', 'tell', aur 'remark' ke syntactic patterns (said that vs told + object) ko correctly apply karein",
+    "Speaker, listener (person addressed), aur 3rd person reference ke hisaab se pronouns ko bina meaning distort kiye badlein",
+    "Past reporting verb hone par conventional tense-backshift matrix (Present to Past, Simple Past to Past Perfect) ko accurately execute karein",
+    "Universal truths, scientific facts, permanent habits, aur present/future reporting verbs mein backshift exceptions ko identify karein",
+    "Modal auxiliaries (will to would, can to could, may to might, must to had to) ke backshift rules ko systematically apply karein",
+    "Time aur place expressions (today to that day, yesterday to the previous day) ko context-dependent reporting ke hisaab se adjust karein",
+    "Rajasthan High Court exams ke common narration traps (told to me, double that, unnecessary backshift, pronoun confusion) ko eliminate karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Direct Speech vs Indirect Speech: definitions, punctuation, quotation marks, and comma conventions",
+      "Core narration anatomy: reporting subject, reporting verb, listener/object, and reported speech",
+      "Assertive sentence conversions using declarative conjunction 'that'",
+      "Reporting verb distinctions: 'said' vs 'said that' vs 'told + object' vs 'remarked'",
+      "Pronoun reference shifts: First Person (speaker), Second Person (listener), Third Person (unchanged/referent tracking)",
+      "Traditional SON reference guidelines and their semantic limitations",
+      "Tense backshift rules with past reporting verbs across all basic tenses and aspects",
+      "Modal auxiliary backshift: will/shall to would/should, can to could, may to might, must to had to",
+      "Backshift exceptions: Universal truths, established scientific facts, geographical facts, permanent habits, historical facts",
+      "Present and future reporting verbs: no backshift when reporting verb is in present (says) or future (will say)",
+      "Time and place adverbial shifts: now to then, today to that day, yesterday to the previous day, tomorrow to the next day, here to there, this/these to that/those",
+      "Context-dependent limitations of adverbial shifts"
+    ],
+    "excluded": [
+      "Interrogative sentence conversions: Yes/No questions (if/whether) and Wh- questions with inverted order removal (covered in Lesson 07)",
+      "Imperative sentences: commands, orders, requests, advice with 'to + V1' or 'not to + V1' (covered in Lesson 07)",
+      "Exclamatory sentences: 'exclaimed with joy/sorrow' and optative wishes/prayers (covered in Lesson 07)",
+      "Active and Passive Voice transformations (covered in Lessons 04 & 05)",
+      "Conditional clauses and inversions (covered in Lesson 03)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Learning Objectives",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Direct aur Indirect Speech ke scope, High Court exam weightage, aur fundamentals ko samajhein."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Narration Architecture & Rules Reference",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "Reporting verbs, assertive conversion, pronoun rules, tense backshift, universal truth exceptions, aur time/place expressions par complete study guide."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Interactive Diagrams & Transformation Flow",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Direct-to-Indirect transformation flow, speaker-listener relational diagram, pronoun mapping matrix, tense-backshift comparator, aur time/place inspector."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "10 Precision Narration Formulas",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Assertive conversions, reporting verbs, pronoun shifting, backshift matrix, universal truths, aur adverbial shifts ke concise formula reference cards."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Exam Derivations",
+      "durationMin": 15,
+      "type": "worked-examples",
+      "summary": "Direct to Indirect transformations ka 5-step cognitive derivation algorithm with annotated reasoning."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "6 High-Frequency Narration Traps",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "'Told to me' trap, universal truth unnecessary backshift, pronoun reference confusion, failure to backshift Simple Past, that redundancy, aur mechanical time replacement errors ka elimination."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Scaffolded Questions with Instant Feedback",
+      "durationMin": 15,
+      "type": "guided-practice",
+      "summary": "Immediate hint support, step-by-step reasoning, aur rule references ke sath guided narration practice."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "20 High Court Exam-Caliber MCQs",
+      "durationMin": 20,
+      "type": "independent-practice",
+      "summary": "Unassisted test simulation: Pronoun changes, tense backshift, reporting verbs, exceptions, time/place shifts, aur error spotting."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15-Question Timed Certification Test",
+      "durationMin": 12,
+      "type": "mastery-assessment",
+      "summary": "Strict 12-minute exam timer, 80% passing standard (12/15), shuffle support, aur official scoring."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Revision & Completion",
+      "subtitle": "Quick Reference & Error Remediation",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Narration summary sheet, weakness diagnostics, Error Bank re-testing, aur permanent milestone completion."
+    }
+  ]
+}

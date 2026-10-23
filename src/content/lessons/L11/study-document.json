@@ -1,0 +1,355 @@
+{
+  "id": "L11-STUDY-DOC",
+  "lessonId": "L11",
+  "title": "Prepositions: Time, Place, Movement & Common Usage Rules",
+  "subtitle": "Complete Architectural Guide to Prepositional Mechanics, Spatial Hierarchies, and Exam Omission Traps",
+  "overview": "Prepositions English language ke crucial connectors hote hain jo kisi Noun ya Pronoun ka sentence ke doosre words (verbs, adjectives, ya doosre nouns) ke sath time, place, direction, position, duration aur relationship establish karte hain. Rajasthan High Court System Assistant examination mein Prepositions time aur place ke In/On/At hierarchies, dynamic movement vectors (to, towards, into, onto), temporal boundaries (by vs until, since vs for), relational distributions (between vs among), aur sabse zyada zero-preposition transitive verbs (discuss, enter, order, attack, reach) par test hote hain. Is guide mein har rule, contextual contrast, aur high-frequency exam trap ko simple Roman Hinglish mein master karein.",
+  "sections": [
+    {
+      "id": "sec-foundation",
+      "number": 1,
+      "title": "Foundation: Understanding Prepositions & Prepositional Phrases",
+      "summary": "Preposition ka role, prepositional object ka structure, aur context-dependent selection ke fundamental mechanics.",
+      "content": "English grammar mein Preposition (Pre + Position = pehle sthit hona) ek aisa connecting word hota hai jo aamtaur par kisi Noun ya Pronoun ke pehle place kiya jata hai taaki wo sentence ke kisi doosre word (Verb, Adjective, ya Noun) ke sath uska spatio-temporal ya relational sambandh (relationship) show kare.\n\n1. Prepositional Phrase aur Prepositional Object:\nPreposition akela sentence mein nahi baithta; wo hamesha ek Noun ya Pronoun ke sath milkar ek unit banata hai jise Prepositional Phrase kehte hain:\nFormula: Preposition + Prepositional Object (Noun / Pronoun / Gerund)\n- Example: 'The judge sat on the bench.' ('on' = preposition; 'the bench' = prepositional object; 'on the bench' = prepositional phrase jo verb 'sat' ki location bata raha hai).\n- Example: 'She is confident of winning.' ('of' = preposition; 'winning' = gerund object).\n\n2. Case Rule (Objective Case Mandate):\nPreposition ke baad aane wala pronoun hamesha OBJECTIVE CASE (me, him, her, us, them, whom) mein hona chahiye, kabhi bhi Subjective Case (I, he, she, we, they, who) mein nahi ho sakta.\n- Incorrect: *Between you and I, the decision is final.\n- Correct: Between you and me, the decision is final. ('Between' preposition hai, isliye 'me' objective case aayega).\n- Incorrect: *The registrar distributed files to he and I.\n- Correct: The registrar distributed files to him and me.\n\n3. Prepositions Describe Multiple Semantic Dimensions:\nPrepositions alag-alag contextual dimensions ko express karte hain:\n- Time (Kab?): in 2026, on Monday, at 10 AM, by Friday, since morning, for two hours.\n- Place / Position (Kahan?): in Jaipur, on the wall, at the bus stop, under the table, between two desks.\n- Movement / Direction (Kis taraf?): to the court, towards the gate, into the hall, onto the stage, through the tunnel.\n- Cause / Purpose / Agency (Kyun / Kiske dwara?): by the police, with a pen, because of delay, for justice.\n\n4. Why Context Dictates Preposition Choice:\nPrepositions ko sirf Hindi translation ('mein', 'par', 'se') se yaad nahi kiya ja sakta. English mein same Hindi word 'mein' ke liye 'in', 'into', 'at', 'on', ya 'during' lag sakta hai depending on spatial dimension aur action:\n- Room ke andar baithe hain: 'in the room' (static position inside enclosure).\n- Room ke andar chal kar gaye: 'into the room' (dynamic movement entering interior).\n- Event mein maujood hain: 'at the meeting' (specific point / gathering).\n- Bus mein hain: 'on the bus' (public transport platform).\nIsliye context aur dimension samajhna exam questions solve karne ki absolute key hai.",
+      "dimensions": [
+        {
+          "name": "Prepositional Anatomy & Cases",
+          "description": "Preposition sentence mein kis element ko kis tarah govern karta hai.",
+          "categories": [
+            {
+              "name": "Prepositional Object",
+              "detail": "Preposition ke baad mandatory Noun, Pronoun ya Gerund (V-ing) aata hai. Bina object ke preposition aksar adverb ban jata hai ('He looked up' = adverb; 'He looked up the tree' = preposition)."
+            },
+            {
+              "name": "Objective Pronoun Law",
+              "detail": "Preposition ke turant baad pronoun strictly objective case leta hai (to him, for her, with us, between you and me). Subjective pronouns fatal exam errors hote hain."
+            },
+            {
+              "name": "Syntactic Functions",
+              "detail": "Prepositional phrase sentence mein Adverbial function (verb ka time/place/manner batana) ya Adjectival function (noun ko modify karna: 'The book on the desk is mine') perform karta hai."
+            }
+          ]
+        },
+        {
+          "name": "Core Preposition Types",
+          "description": "Functional classification of prepositions tested in Rajasthan competitive exams.",
+          "categories": [
+            {
+              "name": "Prepositions of Time",
+              "detail": "Action kab hua, kitni der chala, kab start hua, kab tak khatam hoga (in, on, at, since, for, by, until, during)."
+            },
+            {
+              "name": "Prepositions of Place & Position",
+              "detail": "Entity kahan sthit hai (in, on, at, above, below, under, over, behind, in front of, beside, between, among)."
+            },
+            {
+              "name": "Prepositions of Movement & Direction",
+              "detail": "Movement kis disha mein ho rahi hai aur boundaries cross ho rahi hain ya nahi (to, towards, into, onto, through, across, along, past, out of)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "GOLDEN FOUNDATION RULE: Preposition + Objective Case Pronoun (Never Subjective!). 'Between you and me' (NOT *between you and I); 'divided among them' (NOT *among they)."
+    },
+    {
+      "id": "sec-time-in-on-at",
+      "number": 2,
+      "title": "Prepositions of Time: In, On, and At Hierarchy",
+      "summary": "General periods ke liye In, specific calendar days ke liye On, aur exact clock points ke liye At ka specificity pyramid.",
+      "content": "Time expressions mein 'In', 'On', aur 'At' ka use ek natural Specificity Pyramid (Broad se Narrow) follow karta hai:\n\n1. IN — Broad / Long Periods (General Time Enclosure):\nJab time frame lamba, general ya non-specific duration ho, toh 'IN' lagta hai:\n- Centuries / Decades: in the 21st century, in the 1990s.\n- Years: in 2024, in 1947.\n- Months: in January, in August.\n- Seasons: in summer, in winter, in the rainy season.\n- Non-specific Parts of the Day: in the morning, in the afternoon, in the evening (Note: 'at night' is an exception!).\n- Future Duration (itne time ke andar): in two hours ('I will finish the file in two hours'), in a few days.\n- Historical Periods: in the Middle Ages, in ancient times.\n\n2. ON — Specific Days & Calendar Dates (Mid-Level Specificity):\nJab time frame exactly 24 ghante ka calendar day ya date ho, toh 'ON' lagta hai:\n- Days of the week: on Monday, on Friday, on Sundays.\n- Calendar Dates: on 15th August, on October 22nd, 2026.\n- Specific Named Holidays (with 'Day'): on Republic Day, on Independence Day, on Christmas Day, on New Year's Day.\n- Specific Day + Part of Day: on Monday morning, on Friday evening, on a cold winter night ('night' ke aage agar specific day/adjective jud jaye toh 'on' lagta hai: 'on the night of 15th August').\n- Special Personal Days: on my birthday, on our anniversary.\n\n3. AT — Precise Clock Times & Specific Moments (Pinpoint Specificity):\nJab time frame ek exact point ya moment ho, toh 'AT' lagta hai:\n- Exact Clock Times: at 5:00 PM, at 10:30 AM, at noon, at midnight, at dawn, at dusk.\n- Festivals / Holidays as a Season (without 'Day'): at Diwali, at Christmas, at Eid, at Easter (Note: 'on Diwali day', but 'at Diwali').\n- Fixed Time Idioms: at night, at the moment, at present, at the same time, at sunrise, at sunset.\n- Meal Times: at lunchtime, at breakfast, at dinner.\n- Weekend (British English): at the weekend (American English mein 'on the weekend' bhi chalta hai, par Rajasthan exams standard British convention follow karte hain).\n\nExceptions & Traps to Watch Out For:\n- 'in the morning' vs 'on Sunday morning' (Day add hote hi 'in' badal kar 'on' ho jata hai!).\n- 'at night' (general) vs 'in the night' (kisi specific raat ke dauran ek particular incident: 'I heard a noise in the night') vs 'on that night' (specific calendar date).\n- NO PREPOSITION before 'this', 'last', 'next', 'every':\n  - Incorrect: *I met him on last Monday. / *See you in next week.\n  - Correct: I met him last Monday. / See you next week. / He visits every year.",
+      "dimensions": [
+        {
+          "name": "Temporal Hierarchy Comparison",
+          "description": "In vs On vs At specificity breakdown for competitive exams.",
+          "categories": [
+            {
+              "name": "IN (Broadest / Enclosed Time)",
+              "detail": "Months, Years, Centuries, Seasons, Parts of Day (in July, in 2026, in summer, in the morning). Duration of time (in 10 minutes)."
+            },
+            {
+              "name": "ON (Intermediate / 24-Hour Units)",
+              "detail": "Days of week, Calendar dates, Holidays with 'Day', Specific day + part of day (on Friday, on 26th January, on Sunday evening)."
+            },
+            {
+              "name": "AT (Sharpest / Pinpoint Moments)",
+              "detail": "Exact clock time, Fixed moments, Festivals without 'Day', Noon/Midnight/Dawn/Night (at 9 AM, at noon, at midnight, at Diwali, at night)."
+            }
+          ]
+        },
+        {
+          "name": "High-Frequency Exam Time Markers",
+          "description": "Exam papers mein aane wale recurring standard combinations.",
+          "categories": [
+            {
+              "name": "Parts of Day Nuance",
+              "detail": "'in the morning', 'in the afternoon', 'in the evening' vs 'at dawn', 'at noon', 'at dusk', 'at night'."
+            },
+            {
+              "name": "Holiday / Festival Distinction",
+              "detail": "'at Christmas' (holiday period) vs 'on Christmas Day' (specific 24-hour day); 'at Diwali' vs 'on Diwali night'."
+            },
+            {
+              "name": "Zero Time Preposition",
+              "detail": "Time words se pehle this, that, next, last, every, all aane par koi preposition nahi lagta: 'call me next Friday' (NOT *on next Friday)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "TIME HIERARCHY FORMULA: IN (Year/Month/Season) > ON (Day/Date) > AT (Clock/Moment). 'In 2026, on Monday, at 10 AM'."
+    },
+    {
+      "id": "sec-place-in-on-at",
+      "number": 3,
+      "title": "Prepositions of Place: In, On, and At & Relative Positions",
+      "summary": "3D volume enclosure ke liye In, 2D physical surface ke liye On, 1D exact coordinate ke liye At, aur spatial relative positions.",
+      "content": "Place aur position describe karte waqt 'In', 'On', aur 'At' spatial dimensions (dimensions of space) par depend karte hain:\n\n1. IN — 3D Enclosed Volume / Boundary / Large Geographical Area:\n- 3D Enclosed Space (chaaron taraf se ghire huye): in the room, in the courtroom, in the building, in a car, in a box.\n- Large Geographical Territorials (Cities, States, Countries, Continents): in Jaipur, in Rajasthan, in India, in Asia.\n- Water bodies / Liquids: in the river, in the swimming pool, in the ocean.\n- Printed publications: in the book, in the newspaper, in the gazette notification.\n\n2. ON — 2D Physical Surface / Line / Public Transit Platform:\n- Flat Physical Surface (touching horizontal or vertical plane): on the table, on the floor, on the wall, on the ceiling, on the blackboard.\n- Streets / Roads / Avenues (without building number): on High Court Road, on M.I. Road, on Oxford Street.\n- Levels / Floors of a Building: on the first floor, on the ground floor.\n- Public Large Conveyances (jahan khade hokar chal sakte hain): on the bus, on the train, on the plane, on the ship (Note: personal car/taxi ke liye 'in a car / in a taxi').\n- Communication Media & Screens: on television, on the radio, on the computer, on the website, on page 45.\n\n3. AT — 1D Pinpoint Location / Point of Reference / Specific Function:\n- Specific Point or Target: at the bus stop, at the traffic light, at the door, at the entrance, at the desk.\n- Exact Address (with street number): at 42, High Court Colony, Jodhpur (Address mein number aate hi 'at' lagta hai; sirf street name ho toh 'on').\n- Public Places for an Intended Activity: at the cinema (watching movie), at school (studying), at the library, at court (judicial proceeding), at work.\n- Gatherings / Events: at the party, at the meeting, at the conference, at the judicial seminar.\n\n4. Contrastive Big vs Small Place Rule (Relative Hierarchy):\nJab ek hi sentence mein bada area aur chhota specific location dono aate hain, toh chhote place ke sath 'AT' aur bade area ke sath 'IN' lagta hai:\n- Example: 'He lives at Malviya Nagar in Jaipur.'\n- Example: 'The conference was held at the Vigyan Bhawan in New Delhi.'\n\n5. Relative Position Prepositions (Pairs to Master):\n- ABOVE vs OVER:\n  - 'Over' vertical direct alignment ya covering contact ko denote karta hai ('An umbrella over his head', 'A bridge over the river', 'Put a cloth over the table').\n  - 'Above' higher level, rank, temperature, ya elevation show karta hai bina direct vertical alignment ke ('The temperature is above 40°C', 'A captain is above a lieutenant', 'The stars above us').\n- BELOW vs UNDER:\n  - 'Under' direct vertical bottom ya physical coverage denote karta hai ('under the table', 'under the tree', 'under the bridge').\n  - 'Below' lower level, benchmark, standard, ya measurement show karta hai ('below average', 'below poverty line', 'His marks are below 50%').\n- BESIDE vs BESIDES (Classic Exam Trap!):\n  - 'Beside' means by the side of / next to (bagal mein): 'She sat beside the judge.'\n  - 'Besides' means in addition to / apart from (ke alawa): 'Besides English, he speaks Hindi and French.'\n- BEHIND vs IN FRONT OF:\n  - 'Behind' = at the back of (peeche); 'In front of' = directly facing ahead (aage).\n- BETWEEN vs AMONG:\n  - Detailed comparative mechanics in Section 8.",
+      "dimensions": [
+        {
+          "name": "Spatial Dimensions Breakdown",
+          "description": "Dimensions of place: Volume (3D) vs Surface (2D) vs Point (1D).",
+          "categories": [
+            {
+              "name": "IN (3D Space / Enclosed Area)",
+              "detail": "Inside rooms, buildings, boxes; inside cities, countries, large regions (in the office, in Jodhpur, in India)."
+            },
+            {
+              "name": "ON (2D Plane / Surface)",
+              "detail": "Contact with surface, walls, floors, named streets without numbers, public transit (on the table, on M.I. Road, on the train)."
+            },
+            {
+              "name": "AT (1D Point / Specific Spot)",
+              "detail": "Specific target point, complete address with house number, institutional event/gathering (at the door, at 12 MG Road, at the seminar)."
+            }
+          ]
+        },
+        {
+          "name": "Relative Spatial Distinctions",
+          "description": "Crucial pairs tested in high court error detection.",
+          "categories": [
+            {
+              "name": "Beside vs Besides",
+              "detail": "'Beside' = next to / by the side of (physical position). 'Besides' = in addition to (additive preposition). Never confuse them!"
+            },
+            {
+              "name": "Over vs Above",
+              "detail": "'Over' = vertically higher, covering, or moving across. 'Above' = higher level, status, temperature, or rank on a scale."
+            },
+            {
+              "name": "Under vs Below",
+              "detail": "'Under' = vertically below or physically sheltered. 'Below' = lower measurement, standard, or rank."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "PLACE FORMULA: IN (3D Volume / City) | ON (2D Surface / Street) | AT (1D Point / Full Address with Number). 'Lives at House 14 on MG Road in Jaipur'."
+    },
+    {
+      "id": "sec-movement-direction",
+      "number": 4,
+      "title": "Prepositions of Movement and Direction: Vectors & Boundaries",
+      "summary": "Physical vectors: To vs Towards, Into vs Onto, Through vs Across, Along vs Past, Out of, aur boundary traversal.",
+      "content": "Movement prepositions kisi entity ke dynamic vector (motion, direction, path) ko describe karte hain. Inme physical boundary aur destination ka status decisive hota hai:\n\n1. TO vs TOWARDS (Destination vs Direction):\n- 'TO' destination (manzil) aur end point ko indicate karta hai jahan person actually pahunchta hai:\n  - Example: 'She walked to the High Court.' (Her destination was the High Court; she reached there).\n- 'TOWARDS' sirf orientation ya direction (kis disha mein) indicate karta hai; ye guarantee nahi karta ki entity wahan pahuchegi:\n  - Example: 'She walked towards the High Court.' (She was heading in that general direction, but might have stopped somewhere earlier).\n\n2. INTO vs ONTO (Boundary Crossing Vectors):\n- 'INTO' motion from outside to the inside of a 3D enclosure/volume denote karta hai:\n  - Example: 'The swimmer jumped into the river.'\n  - Example: 'The advocate stepped into the courtroom.'\n- 'ONTO' motion towards and coming to rest on a 2D surface denote karta hai:\n  - Example: 'The cat jumped onto the roof.'\n  - Example: 'The judge stepped onto the dais.'\n\n3. THROUGH vs ACROSS (3D Enclosure Traversal vs 2D Plane Crossing):\n- 'THROUGH' tab lagta hai jab motion kisi 3D enclosed tunnel, tube, forest, crowd, ya aperture ke andar se hokar gujarti hai (surrounded on all sides):\n  - Example: 'The train passed through the tunnel.'\n  - Example: 'The sunlight filtered through the window.'\n  - Example: 'They walked through the dense forest.'\n- 'ACROSS' tab lagta hai jab motion kisi 2D surface, boundary, road, ya river ke ek kinare se doosre kinare tak hoti hai (from one side to the other):\n  - Example: 'He swam across the river.'\n  - Example: 'The lawyer walked across the street.'\n\n4. ALONG vs PAST (Parallel Linear Path vs Passing a Landmark):\n- 'ALONG' continuous linear movement parallel to a line or edge denote karta hai:\n  - Example: 'We walked along the riverbank.' / 'Trees are planted along the road.'\n- 'PAST' kisi fixed landmark ya point ke aage nikal jaane (beyond) ko denote karta hai:\n  - Example: 'She drove past the police headquarters without stopping.'\n\n5. FROM and OUT OF (Origin and Extraction):\n- 'FROM' origin ya starting point of departure show karta hai ('travelled from Delhi to Jaipur').\n- 'OUT OF' motion from inside a volume to the exterior denote karta hai ('He came out of the chamber').",
+      "dimensions": [
+        {
+          "name": "Movement Vector Matrix",
+          "description": "Directional trajectories and their geometric targets.",
+          "categories": [
+            {
+              "name": "To vs Towards",
+              "detail": "'To' reaches the exact destination point. 'Towards' moves in the general heading/direction without reaching claim."
+            },
+            {
+              "name": "Through vs Across",
+              "detail": "'Through' penetrates a 3D volume/passage (tunnel, forest). 'Across' traverses a 2D surface from one side to the other (road, river)."
+            },
+            {
+              "name": "Along vs Past",
+              "detail": "'Along' runs parallel following a line (road, riverbank). 'Past' moves beyond a stationary point or checkpoint."
+            }
+          ]
+        },
+        {
+          "name": "Boundary Penetration Matrix",
+          "description": "How entities interact with surface and volume boundaries.",
+          "categories": [
+            {
+              "name": "Into (Exterior ➔ Interior)",
+              "detail": "Penetrates boundary into 3D enclosure (jumped into the pool, poured tea into the cup)."
+            },
+            {
+              "name": "Onto (Lower ➔ Surface)",
+              "detail": "Elevates and lands on an open 2D surface (stepped onto the platform, climbed onto the roof)."
+            },
+            {
+              "name": "Out of (Interior ➔ Exterior)",
+              "detail": "Reverses 'into', exiting from within an enclosed volume (walked out of the court)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "MOVEMENT VECTOR LAW: 'To' = End Destination Reached. 'Towards' = Heading in Direction. 'Through' = Surrounded 3D Passage. 'Across' = One side to other."
+    },
+    {
+      "id": "sec-position-vs-movement",
+      "number": 5,
+      "title": "State vs Movement: In vs Into & On vs Onto",
+      "summary": "Static rest/position (In, On) aur dynamic motion with boundary transition (Into, Onto) ka comparative analysis.",
+      "content": "English grammar mein sabse frequent error static position (sthir sthiti) aur dynamic movement (gati) ko mix karne se hota hai:\n\n1. IN vs INTO:\n- 'IN' static position ya state of being inside something ko denote karta hai. Yahan koi boundary cross nahi ho rahi hoti; entity already andar maujood hai:\n  - Example: 'The case files are in the cupboard.' (Static rest)\n  - Example: 'The registrar was sitting in his office.' (No entry action)\n- 'INTO' motion from outside to inside ko denote karta hai jahan boundary cross karke interior mein entry hoti hai:\n  - Example: 'He put the case files into the cupboard.' (Action of moving inside)\n  - Example: 'The advocate rushed into the courtroom.' (Dynamic entry)\n\nVerb Flexibility Nuance:\nKuch common verbs jaise 'put', 'throw', 'drop', aur 'fall' ke sath informal English mein log 'in' bhi bolte hain, lekin competitive exams mein formal prescriptive standard demand hota hai: Entry into an enclosure strictly requires 'INTO'.\n- Formal Exam Standard: 'She threw the draft into the dustbin.' (NOT *in the dustbin).\n\n2. ON vs ONTO:\n- 'ON' static position on a surface ko denote karta hai (already touching surface):\n  - Example: 'The decree is lying on the table.' (Resting on top)\n  - Example: 'The computer is on the desk.'\n- 'ONTO' movement towards a surface and landing on top of it ko denote karta hai:\n  - Example: 'He placed the decree onto the table.' (Movement of placing on top)\n  - Example: 'The dog jumped onto the sofa.' (Dynamic upward/forward movement to surface)\n\n3. Metaphorical & Change-of-State Uses of 'Into':\n'Into' sirf physical entry ke liye nahi, balki transformation ya change of state ke liye bhi use hota hai:\n- Translation / Conversion: 'Translate this passage into English.' / 'The water turned into ice.'\n- Division: 'Divide the property into three equal parts.'\n- Investigation: 'The committee inquired into the allegations.'",
+      "dimensions": [
+        {
+          "name": "State vs Dynamic Vector Comparison",
+          "description": "Direct side-by-side contrast between static rest and dynamic vector motion.",
+          "categories": [
+            {
+              "name": "Static Enclosure (IN)",
+              "detail": "Entity is already located inside. Zero boundary transition. 'He is swimming in the pool.' / 'Keys are in the bag.'"
+            },
+            {
+              "name": "Dynamic Entry (INTO)",
+              "detail": "Movement brings entity from exterior to interior. 'He dived into the pool.' / 'Put the keys into the bag.'"
+            },
+            {
+              "name": "Static Surface (ON)",
+              "detail": "Entity is already supported by surface. 'The book is on the table.' / 'Standing on the stage.'"
+            },
+            {
+              "name": "Dynamic Surface Landing (ONTO)",
+              "detail": "Movement lands entity on top of surface. 'He tossed the file onto the table.' / 'Step onto the stage.'"
+            }
+          ]
+        }
+      ],
+      "formulaNote": "DYNAMICS FORMULA: Static Rest = IN / ON. Dynamic Boundary Traversal = INTO / ONTO. 'Sitting in the room' vs 'Walking into the room'."
+    },
+    {
+      "id": "sec-by-until",
+      "number": 6,
+      "title": "Temporal Boundaries: By vs Until / Till",
+      "summary": "Deadline or latest point in time (By) vs Continuous ongoing state up to a time (Until) ke exact differences.",
+      "content": "'By' aur 'Until' dono time boundary ko mark karte hain, lekin unka aspect aur meaning bilkul alag hota hai. Inhe interchange karna fatal exam error hai:\n\n1. BY — Deadline / Not Later Than (Latest Cut-off Time):\n'By' ka matlab hota hai 'not later than' (is samay tak ya isse pehle hi). Ye ek single, completed event ya deadline ko point karta hai:\n- Meaning: Action specified time se pehle kisi bhi moment par complete ho sakta hai, lekin deadline ke baad nahi ja sakta.\n- Standard Verbs: submit, complete, finish, arrive, return, send, pay.\n- Example: 'Submit your application by Friday 5:00 PM.'\n  (Friday 5 PM se pehle kabhi bhi submit kar sakte hain: Wednesday ko, Thursday ko, ya Friday subah. 5 PM latest cut-off hai).\n- Example: 'The court will deliver the verdict by next week.'\n\n2. UNTIL (or TILL) — Continuation up to a Point (Duration of Continuing State):\n'Until' ka matlab hota hai 'up to the time when' (us samay tak lagaatar). Ye ek continuing action, state, ya condition ko denote karta hai jo specified point par jakar end hoti hai:\n- Meaning: Action start se lekar end point tak continuously chalta rehta hai.\n- Standard Verbs: stay, wait, remain, sleep, work, continue, hold.\n- Example: 'The clerk stayed in the office until 8:00 PM.'\n  (Wo 8 PM tak lagatar office mein ruka raha. 8 PM par uska rukna khatam hua).\n- Example: 'Wait here until the judge arrives.'\n\n3. The Negative Construction Trap ('Not... Until'):\nJab sentence negative ho ('not... until'), toh iska matlab hota hai action us point se pehle shuru hi nahi hua:\n- Example: 'The judgment will not be pronounced until Friday.'\n  (Friday se pehle verdict nahi aayega; Friday par hi aayega).\n\n4. Direct Contrast Test:\n- 'You must finish the work by 6 PM.' = Action 6 PM se pehle complete ho jana chahiye (Deadline).\n- 'You must work until 6 PM.' = Aapko 6 PM tak lagatar kaam karte rehna hai (Duration).\n\nExam Alert: Hindi mein dono ka translation 'tak' ho sakta hai ('Friday tak submit karo' vs 'Friday tak ruko'), isliye Hindi translation se nahi, action ke nature (Instant Completion vs Continuous Duration) se decide karein.",
+      "dimensions": [
+        {
+          "name": "By vs Until Diagnostic Matrix",
+          "description": "How to choose between By and Until using verb semantics.",
+          "categories": [
+            {
+              "name": "BY (Deadline / Instant Finish)",
+              "detail": "Used with point-action verbs: submit, finish, arrive, reach, send, decide. Marks latest permissible threshold ('by Monday')."
+            },
+            {
+              "name": "UNTIL (Continuous State / Duration)",
+              "detail": "Used with durative verbs: stay, wait, continue, work, remain, delay. Marks the exact terminal point of continuing state ('until 5 PM')."
+            },
+            {
+              "name": "Negative Concord ('Not... until')",
+              "detail": "Indicates an action is delayed or deferred until that specific point: 'Court does not open until 10 AM'."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "BY vs UNTIL FORMULA: BY = Latest Deadline (Finish by 5 PM). UNTIL = Ongoing Duration (Wait until 5 PM). Never treat them as interchangeable synonyms!"
+    },
+    {
+      "id": "sec-since-for",
+      "number": 7,
+      "title": "Time Anchors: Since vs For & Tense Harmony",
+      "summary": "Starting point of time (Since) vs Duration period (For), perfect tense concord, aur simple past completed duration.",
+      "content": "'Since' aur 'For' dono time expressions ke sath use hote hain, lekin unka temporal reference structure completely distinct hota hai:\n\n1. SINCE — Point of Time (Starting Anchor):\n'Since' kisi action ke starting point (shuruat ke point) ko refer karta hai jahan se action shuru hokar present tak continue hua ho:\n- Temporal Nature: Exact calendar date, named day, year, time of day, event, ya past clause.\n- Markers: since 2020, since Monday, since 9:00 AM, since childhood, since his retirement, since he joined the service.\n- Tense Mandate: 'Since' standardly Perfect ya Perfect Continuous tenses ke sath co-occur karta hai kyunki action past mein shuru hokar present tak relate karta hai:\n  - Incorrect: *He is working here since 2022.\n  - Correct: He has been working here since 2022.\n  - Correct: The High Court has disposed of 500 cases since January.\n\n2. FOR — Period of Time (Total Duration):\n'For' kisi action ki total duration (lambai ya awadhi) ko denote karta hai (kitne ghante, kitne din, kitne saal):\n- Temporal Nature: Number + time unit (seconds, minutes, hours, days, weeks, months, years, decades, centuries, a long time, ages).\n- Markers: for two hours, for ten days, for five years, for a long time, for several months.\n- Tense Flexibility:\n  - Perfect Continuous / Perfect (continuing up to now): 'She has been practicing law for ten years.'\n  - Simple Past (COMPLETED past duration that no longer continues): 'He worked as a judicial clerk for three years.' (Action past mein start hua, 3 saal chala, aur past mein hi khatam ho gaya. Present se koi connection nahi hai, isliye Simple Past 100% correct hai! Examiner isme perfect tense force karke trap banata hai).\n  - Future (future duration): 'I will stay in Jodhpur for two days.'\n\n3. The Cardinal Difference:\n- 'I have known him since 2018.' (2018 starting point hai).\n- 'I have known him for eight years.' (Eight years total duration hai).\n\nExam Trap: 'Since' kabhi bhi duration ke sath nahi lagta (*since three years is fatal error!). 'For' kabhi bhi starting point ke sath nahi lagta (*for Monday is fatal error!).",
+      "dimensions": [
+        {
+          "name": "Since vs For Anchor Matrix",
+          "description": "Point in time vs Period of duration rules.",
+          "categories": [
+            {
+              "name": "SINCE (Point in Time / Origin)",
+              "detail": "Answers 'From when?'. Starting anchor: named day, month, year, clock time, life stage, clause (since 2015, since morning, since he arrived)."
+            },
+            {
+              "name": "FOR (Period of Time / Duration)",
+              "detail": "Answers 'How long?'. Measured duration: count + time unit (for 3 days, for 5 years, for a long time, for 20 minutes)."
+            },
+            {
+              "name": "Completed Past with 'For'",
+              "detail": "If duration ended in past and doesn't touch present, use Simple Past: 'Ashoka ruled for 36 years' (NOT *has ruled)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "SINCE vs FOR FORMULA: SINCE + Point in Time (Since 2020). FOR + Period of Time (For 6 years). Perfect tenses for continuing; Simple Past for closed past periods."
+    },
+    {
+      "id": "sec-between-among",
+      "number": 8,
+      "title": "Relational Distribution: Between vs Among",
+      "summary": "Two entities, multiple distinct named entities for Between; group membership and collective masses for Among.",
+      "content": "Aamtaur par school grammar mein ek oversimplified rule sikhaya jata hai ki 'Between = 2 logon ke liye' aur 'Among = 2 se zyada ke liye'. Competitive exams mein examiner isi oversimplification ka fayda uthakar traps banata hai. Iske precise grammatical rules samjhein:\n\n1. BETWEEN — Two Entities OR Distinct, Individualized Relationships:\n- Rule A (Exactly Two Entities): Jab do individuals, groups, ya parties ke beech koi relation, division ya comparison ho:\n  - Example: 'The dispute was between the petitioner and the respondent.'\n  - Example: 'Divide the property between the two brothers.'\n- Rule B (CRITICAL EXAM RULE — More Than Two Distinct, Named Entities):\n  Jab teen ya teen se zyada entities ho, LEKIN har entity individually named, distinct, aur unke beech mutual, bilateral ya reciprocal relationship ho, toh 'BETWEEN' lagta hai, 'among' nahi!\n  - Example: 'A treaty was signed between India, France, and Japan.' (Teen countries hain, lekin har country individually named hai aur unke mutual treaties hain. Yahan 'among' likhna strict error hai!).\n  - Example: 'A tri-series tournament between Australia, England, and India.'\n  - Example: 'The trade agreement between the five sovereign nations.'\n- Rule C (Choice / Difference between distinct options):\n  - Example: 'You have to choose between Harvard, Oxford, and Cambridge.'\n  - Example: 'What is the difference between these three legal terms?'\n\n2. AMONG (or AMONGST) — Three or More in an Undifferentiated Group / Mass:\nJab teen ya teen se zyada members kisi collective, non-distinct group, crowd, ya gathering ka hissa ho aur unhe individually isolate na kiya gaya ho:\n- Collective Group Distribution:\n  - Example: 'The registrar distributed sweets among the court staff.'\n  - Example: 'He felt nervous among strangers.'\n  - Example: 'Divide the prize money among the winners.' (Winners ka collective pool hai, individually name nahi kiya gaya).\n- Surrounded by a Group:\n  - Example: 'The ancient temple was hidden among the trees.'\n\n3. 'Among' vs 'Amongst':\nBoth are grammatically identical in meaning. 'Amongst' thoda archaic/literary hai, aur aksar vowel sound se pehle use hota hai ('amongst us', 'amongst ourselves'), jabki 'among' universally accepted hai.",
+      "dimensions": [
+        {
+          "name": "Between vs Among Scope Rules",
+          "description": "When entity count vs entity distinctness governs the choice.",
+          "categories": [
+            {
+              "name": "Standard Binary (Between)",
+              "detail": "Strictly two distinct parties or objects ('between Ramesh and Suresh', 'between the two decrees')."
+            },
+            {
+              "name": "Distinct Multi-Party Reciprocity (Between)",
+              "detail": "3 or more separately named individual entities having bilateral/reciprocal relations ('treaty between India, USA, and Japan')."
+            },
+            {
+              "name": "Collective Group / Mass (Among)",
+              "detail": "3 or more members viewed as an undivided collection, crowd, or collective pool ('among the students', 'among the crowd')."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "BETWEEN vs AMONG FORMULA: BETWEEN = 2 entities, OR 3+ individually named distinct entities in mutual relation. AMONG = 3+ collective undistinguished group."
+    },
+    {
+      "id": "sec-zero-preposition",
+      "number": 9,
+      "title": "Zero Preposition & High-Yield Common Contrasts",
+      "summary": "Transitive verbs taking NO prepositions, redundant preposition traps, and beside vs besides distinction.",
+      "content": "Competitive examination mein preposition ke sabse zyada marks 'Zero Preposition Omission' par test hote hain. Candidates Hindi translation ke flow mein akar verbs ke baad unnecessary prepositions jod dete hain:\n\n1. High-Frequency Transitive Verbs (NO PREPOSITION REQUIRED):\nYe verbs direct transitive hote hain aur apna object directly bina kisi preposition ke lete hain. Inke baad preposition lagana redundant aur grammatically incorrect hota hai:\n\n- DISCUSS (NO 'about'):\n  - Incorrect: *The Bench discussed about the constitutional matter.\n  - Correct: The Bench discussed the constitutional matter.\n  (Note: 'Discussion about' noun form mein possible hai, lekin verb 'discuss' ke baad 'about' strictly prohibited hai).\n\n- ENTER (NO 'into' for physical entry):\n  - Incorrect: *The judge entered into the courtroom.\n  - Correct: The judge entered the courtroom.\n  (Note: Idiomatic/Metaphorical entry mein 'enter into' valid hota hai, jaise: 'enter into an agreement / contract / discussion / alliance').\n\n- ORDER (NO 'for' when ordering food/goods):\n  - Incorrect: *He ordered for two cups of coffee.\n  - Correct: He ordered two cups of coffee.\n  (Note: 'Place an order for' noun construction mein 'for' lagta hai, par verb 'order' ke baad nahi).\n\n- ATTACK (NO 'on' as a verb):\n  - Incorrect: *The enemy attacked on the border post.\n  - Correct: The enemy attacked the border post.\n  (Note: 'Launch an attack on' noun construction mein 'on' valid hai).\n\n- REACH (NO 'to' / 'at'):\n  - Incorrect: *They reached to the High Court at 10:00 AM.\n  - Correct: They reached the High Court at 10:00 AM.\n\n- RESEMBLE (NO 'with' / 'to'):\n  - Incorrect: *She resembles with her mother.\n  - Correct: She resembles her mother.\n\n- MARRY (NO 'with' in active voice):\n  - Incorrect: *Ramesh married with Sita.\n  - Correct: Ramesh married Sita.\n  (Note: Passive voice mein 'married to' lagta hai: 'Sita was married to Ramesh').\n\n- RESIGN (NO 'from' direct post):\n  - Incorrect: *He resigned from the post.\n  - Correct: He resigned the post. (Or: He resigned from his job).\n\n- ACCOMPANY (NO 'with'):\n  - Incorrect: *He accompanied with the senior advocate.\n  - Correct: He accompanied the senior advocate.\n\n- SIGN (NO 'on'):\n  - Incorrect: *Please sign on the document.\n  - Correct: Please sign the document.\n\n- APPROACH (NO 'to'):\n  - Incorrect: *The petitioner approached to the Supreme Court.\n  - Correct: The petitioner approached the Supreme Court.\n\n2. BESIDE vs BESIDES Distinction:\n- BESIDE (by the side of / physically adjacent):\n  - 'The witness stood beside the advocate.'\n- BESIDES (in addition to / apart from):\n  - 'Besides a fine, the convict was sentenced to six months imprisonment.'\n\n3. DIE OF vs DIE FROM:\n- DIE OF = Internal disease, illness, hunger, thirst, cancer ('died of malaria', 'died of heart attack').\n- DIE FROM = External cause, wound, overwork, snakebite, poison, loss of blood ('died from a gunshot wound', 'died from exhaustion').",
+      "dimensions": [
+        {
+          "name": "Zero-Preposition Transitive Verbs",
+          "description": "Verbs that directly take objects without prepositions.",
+          "categories": [
+            {
+              "name": "Discuss / Describe",
+              "detail": "Take direct objects without 'about'. 'Discussed the matter' (NOT *discussed about)."
+            },
+            {
+              "name": "Enter (Physical)",
+              "detail": "Direct entry without 'into'. 'Entered the hall' (NOT *entered into). Note: 'enter into an agreement' is figurative exception."
+            },
+            {
+              "name": "Order / Attack / Reach",
+              "detail": "'Ordered lunch' (NOT *ordered for); 'attacked the fort' (NOT *attacked on); 'reached Delhi' (NOT *reached to)."
+            },
+            {
+              "name": "Resemble / Marry / Accompany",
+              "detail": "'Resembles her sister' (NOT *with); 'married her' (NOT *married with); 'accompanied him' (NOT *with)."
+            }
+          ]
+        },
+        {
+          "name": "Special Cause & Condition Pairs",
+          "description": "Critical paired contrasts tested in error detection.",
+          "categories": [
+            {
+              "name": "Die of vs Die from",
+              "detail": "'Die of' for diseases/illnesses (cancer, cholera). 'Die from' for external injuries, overwork, poison, or accidents."
+            },
+            {
+              "name": "Beside vs Besides",
+              "detail": "'Beside' = next to (location). 'Besides' = in addition to (additive preposition)."
+            }
+          ]
+        }
+      ],
+      "formulaNote": "ZERO-PREPOSITION LAW: Transitive verbs (discuss, enter [physical], order, attack, reach, resemble, marry [active]) strictly take ZERO preposition. Instantly spot and eliminate redundant prepositions in MCQs!"
+    }
+  ]
+}

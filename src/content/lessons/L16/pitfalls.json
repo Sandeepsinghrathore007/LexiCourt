@@ -1,0 +1,98 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "Part-of-Speech Swapping Trap",
+    "description": "Examiner question mein Adjective poochta hai aur Option A mein usi word-family ka Noun rakh deta hai.",
+    "incorrectExample": "Question: Find the synonym of PRUDENT (Adj). Candidate marks: 'Prudence' (Noun).",
+    "correctExample": "Correct Choice: 'Wise' or 'Judicious' (Both Adjectives).",
+    "trapRule": "A noun can NEVER be the synonym or antonym of an adjective. Suffix -ence/-ance indicates a noun; suffix -ent/-ant indicates an adjective."
+  },
+  {
+    "id": "PIT-02",
+    "title": "Secondary Literal Sense Trap in Polysemic Words",
+    "description": "Sentence context mein word figurative/legal hota hai, lekin candidate dictionary ka primary physical meaning tick kar deta hai.",
+    "incorrectExample": "Sentence: 'The magistrate delivered a SOUND judgment.' Candidate marks: 'Audible / Noisy'.",
+    "correctExample": "Correct Choice: 'Valid / Robust / Rational'.",
+    "trapRule": "Always freeze the active contextual sense of polysemic words (sound, grave, plain, sharp, fine) from the sentence before inspecting options."
+  },
+  {
+    "id": "PIT-03",
+    "title": "The 'Invaluable' Pseudo-Negative Trap",
+    "description": "Candidate prefix 'in-' dekhkar samajhta hai ki word negative hai, aur 'invaluable' ka meaning 'worthless' samajh leta hai.",
+    "incorrectExample": "Candidate assumption: Invaluable = Not valuable = Cheap / Worthless.",
+    "correctExample": "Fact: Invaluable = Beyond valuation, extremely precious, priceless. Antonym: 'Worthless' or 'Valueless'.",
+    "trapRule": "'Invaluable' means so precious that its monetary value cannot be computed. Its antonym is strictly 'Worthless'."
+  },
+  {
+    "id": "PIT-04",
+    "title": "The 'Inflammable' False Contrast Trap",
+    "description": "Candidate assume karta hai ki 'Flammable' aag pakadta hai aur 'Inflammable' fireproof hota hai.",
+    "incorrectExample": "Candidate assumption: Inflammable is the opposite of Flammable.",
+    "correctExample": "Fact: 'Inflammable' and 'Flammable' are exact SYNONYMS (both mean easily ignited). The true antonym is 'Non-flammable'.",
+    "trapRule": "Prefix 'in-' here is an intensive derived from Latin 'inflammare' (to inflame), NOT a negative marker."
+  },
+  {
+    "id": "PIT-05",
+    "title": "The 'Disinterested' vs 'Uninterested' Neutrality Trap",
+    "description": "Candidate 'disinterested' ko 'uninterested' (bored, not caring) samajhne ki bhool karta hai.",
+    "incorrectExample": "Sentence: 'A judge must be disinterested.' Candidate interprets: 'The judge is bored and indifferent.'",
+    "correctExample": "Fact: 'Disinterested' means impartial, unbiased, having no financial stake in the outcome. Antonym: 'Biased' or 'Prejudiced'.",
+    "trapRule": "Uninterested = lacking interest / bored. Disinterested = impartial / unbiased. In court contexts, 'disinterested' is always a virtue."
+  },
+  {
+    "id": "PIT-06",
+    "title": "Intermediate Degree vs Polar Scale Opposite Trap",
+    "description": "Gradable spectrum par candidate scale extreme ka opposite kisi weaker/intermediate point ko maan leta hai.",
+    "incorrectExample": "Question: Antonym of HOT. Candidate marks: 'Warm' or 'Tepid'.",
+    "correctExample": "Correct Choice: 'Cold' (Polar opposite extreme).",
+    "trapRule": "Intermediate shades on a continuum are not antonyms. The antonym of 'Furious' is 'Calm', not 'Annoyed'."
+  },
+  {
+    "id": "PIT-07",
+    "title": "Tone & Valence Neglect (Praise vs Criticism)",
+    "description": "Candidate denotation dekh leta hai lekin ye bhool jata hai ki ek word positive hai aur doosra derogatory insult hai.",
+    "incorrectExample": "Treating 'Economical' (sensible, positive) as synonymous with 'Miserly / Stingy' (selfish, negative).",
+    "correctExample": "'Economical' ➔ Synonym: 'Thrifty' / 'Frugal'. 'Miserly' ➔ Synonym: 'Parsimonious' / 'Stingy'.",
+    "trapRule": "Synonym selection requires matching the emotional valence (+ / - / neutral) of the target word."
+  },
+  {
+    "id": "PIT-08",
+    "title": "Out-of-Register Substitution Trap",
+    "description": "Informal conversational words ko formal legal ya administrative sentences mein swap karna.",
+    "incorrectExample": "Sentence: 'The High Court decided to ______ proceedings.' Option chosen: 'Start' (Colloquial).",
+    "correctExample": "Correct Choice: 'Commence' or 'Institute' (Formal judicial register).",
+    "trapRule": "High Court exam questions strictly assess institutional formal register. Colloquial synonyms are deliberate distractors."
+  },
+  {
+    "id": "PIT-09",
+    "title": "Prompt Polarity Inversion (Synonym vs Antonym Rushing)",
+    "description": "Question mein 'ANTONYM' manga hota hai, lekin candidate Option A mein diya gaya mashhoor synonym mark kar deta hai.",
+    "incorrectExample": "Question: Choose the ANTONYM of CANDOR. Option A: 'Frankness'. Candidate marks Option A.",
+    "correctExample": "Correct Choice: 'Deceit' or 'Duplicity' (Option D).",
+    "trapRule": "Always physically underline the words 'SYNONYM' or 'ANTONYM' in the question stem before looking at options."
+  },
+  {
+    "id": "PIT-10",
+    "title": "Phonetic Prefix Guesswork Error",
+    "description": "Phonetic assimilation rules na janne ki wajah se invalid fabricated words select karna.",
+    "incorrectExample": "Selecting *'unlegal', *'inregular', or *'disresponsible' in options.",
+    "correctExample": "Correct Forms: 'Illegal' (il- before l), 'Irregular' (ir- before r), 'Irresponsible' (ir- before r).",
+    "trapRule": "im- precedes bilabials (p, m); il- precedes l; ir- precedes r; in- precedes vowels and alveolar consonants."
+  },
+  {
+    "id": "PIT-11",
+    "title": "Context Blindness in Figurative Language",
+    "description": "Metaphorical ya abstract usage ko ignore karke literal physical option select karna.",
+    "incorrectExample": "Sentence: 'She has a LUCID mind.' Candidate marks: 'Transparent / Glass-like'.",
+    "correctExample": "Correct Choice: 'Clear / Rational / Coherent'.",
+    "trapRule": "When adjectives qualify abstract nouns (mind, argument, doctrine), their figurative intellectual sense governs."
+  },
+  {
+    "id": "PIT-12",
+    "title": "Antonym Overextension in Complementary Pairs",
+    "description": "Strict binary complementary opposites ko gradable scale ki tarah treat karna.",
+    "incorrectExample": "Thinking something can be 'partially mortal' or 'fairly dead'.",
+    "correctExample": "Complementary pairs (Alive/Dead, Valid/Void, Pass/Fail) admit zero middle ground.",
+    "trapRule": "Complementary opposites cannot take degree adverbs like 'very', 'fairly', or 'somewhat'."
+  }
+]

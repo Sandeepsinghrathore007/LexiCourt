@@ -1,0 +1,300 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Literal vs Figurative Meaning Filter",
+    "time": "Semantic Architecture",
+    "aspect": "Metaphorical Interpretation",
+    "formula": "Physical Entity Words + Figurative Context = Established Idiom Meaning (NOT Word-for-Word Translation)",
+    "auxiliary": "Always check whether the sentence depicts a physical event or an abstract metaphorical situation",
+    "usage": "Idiom ka real meaning uske component words ke physical dictionary meaning se fundamentally different hota hai. Agar sentence inquiry, court, career ya emotion ki baat kar raha hai, toh physical words (jaise beans, ice, bucket, boat) ke direct literal translation wale options 100% wrong distractors hote hain.",
+    "patterns": {
+      "affirmative": "Figurative Match: \"The clerk spilled the beans during audit = Confidential information disclose kar di.\"",
+      "negative": "Literal Fallacy: *'Dropped actual beans on the floor' is an absurd distractor to be instantly rejected.",
+      "interrogative": "Verification Test: Kya sentence physical kitchen/gardening activity describe kar raha hai ya administrative/social event?"
+    },
+    "timeMarkers": [
+      "figurative",
+      "literal-trap",
+      "translation-filter",
+      "context"
+    ],
+    "keyTip": "LITERAL ELIMINATION: Options mein agar idiom ke kisi physical word ka seedha Hindi translation ya physical action likha ho, toh use turant eliminate karein."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Sentence Context Isolation Protocol",
+    "time": "Contextual Deduction",
+    "aspect": "Clue Isolation",
+    "formula": "Subject + Trigger Adverb / Verb + Surrounding Clue = Decisive Idiom Fit",
+    "auxiliary": "Identify the situation: crisis, negotiation, celebration, or financial shortfall",
+    "usage": "Sentence mein chhipe context clues ko isolate karein. Agar sentence keh raha hai 'Despite the aggressive cross-examination, she kept her cool', toh yahan 'despite aggressive cross-examination' ek adversative clue hai jo prove karta hai ki answer 'maintained composure' hoga, na ki 'felt physically cold'.",
+    "patterns": {
+      "affirmative": "Context Match: \"Under heavy cross-examination, she kept her cool = Maintained emotional composure.\"",
+      "negative": "Decontextualized Error: Choosing an idiom without checking whether the preceding clause expresses praise or criticism.",
+      "interrogative": "Context Check: Kya sentence ka surrounding clause positive outcome darshata hai ya negative setback?"
+    },
+    "timeMarkers": [
+      "context-clues",
+      "deduction",
+      "adversative",
+      "surrounding-sentence"
+    ],
+    "keyTip": "CONTEXT IS KING: Sirf idiom ratne se kaam nahi chalega; sentence ka pehla aur aakhri clause padh kar situation ka tone pehchano."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Distinguishing Confusing Lookalike Idioms",
+    "time": "Semantic Disambiguation",
+    "aspect": "Lookalike Pair Contrast",
+    "formula": "Similar Wording != Identical Meaning (Inspect Emotional Tone & Purpose)",
+    "auxiliary": "Scrutinize slight prepositional or lexical variations that create completely distinct senses",
+    "usage": "English mein kai idioms ek jaise shabdon se shuru hote hain lekin unke arth zameen-aasmaan ka farq rakhte hain:\n- 'Break the ice' (strangers ke beech awkwardness todna) vs 'Bury the hatchet' (dushmani bhula kar sulah karna).\n- 'Put one's foot down' (sakhti se mana karna) vs 'Put one's foot in one's mouth' (embarrassing baat bol dena) vs 'Put one's best foot forward' (apna best impression dena).\n- 'Burn the midnight oil' (der raat tak padhna) vs 'Work against the clock' (deadline ke chalte tezi se kaam karna).",
+    "patterns": {
+      "affirmative": "Disambiguation Test: \"The long-standing rivals buried the hatchet = Ended their feud and reconciled.\"",
+      "negative": "Lookalike Trap: Confusing 'break the ice' (awkwardness) with 'bury the hatchet' (hostility resolution).",
+      "interrogative": "Foot Trio Check: Foot down (discipline) vs Foot in mouth (blunder) vs Best foot forward (best effort)."
+    },
+    "timeMarkers": [
+      "lookalike",
+      "confusing-pairs",
+      "foot-idioms",
+      "disambiguation"
+    ],
+    "keyTip": "PAIR DISTINCTION: Agar do options similar lag rahe hon, toh unke core target ko dekhein: kya target strangers hain ya purane dushman?"
+  },
+  {
+    "id": "RC-04",
+    "tense": "Fixed Phraseology & Non-Substitution Law",
+    "time": "Structural Grammar",
+    "aspect": "Lexical Invariance",
+    "formula": "Frozen Idiom Formula: Established Words Cannot Be Replaced with Dictionary Synonyms",
+    "auxiliary": "Preserve the historical fixed lexical collocation without arbitrary substitutions",
+    "usage": "Idioms fixed expressions hote hain. Unke kisi bhi word ko dictionary synonym se replace nahi kiya ja sakta. Agar 'A piece of cake' established idiom hai, toh aap use '*A slice of cake*' ya '*A piece of bread*' nahi bol sakte. Sentence correction mein examiner aksar ek word ko replace karke error create karta hai.",
+    "patterns": {
+      "affirmative": "Standard Form: \"The test was a piece of cake (Correct established idiom).\"",
+      "negative": "Synonym Distortion: *'The test was a slice of pastry' (Completely invalid in formal English).",
+      "interrogative": "Error Spotting: Kya idiom mein kisi noun ya adjective ko kisi lookalike synonym se replace kiya gaya hai?"
+    },
+    "timeMarkers": [
+      "frozen-structure",
+      "non-substitution",
+      "error-detection",
+      "collocation"
+    ],
+    "keyTip": "NO SYNONYM SWAPPING: Idiom ke words locked hote hain; exam mein 'hit the hammer on the nail' dikhe toh turant pehchano ki correct form 'hit the nail on the head' hai."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Subject-Possessive Concord Rule in Idioms",
+    "time": "Structural Grammar",
+    "aspect": "Pronoun Agreement",
+    "formula": "Subject (He/She/They) + Idiom with 'one's' -> Matching Possessive (his / her / their)",
+    "auxiliary": "Inflect possessive determiners to harmonize with the governing subject of the clause",
+    "usage": "Jin idioms mein template word 'one's' hota hai (jaise 'keep one's cool', 'lose one's temper', 'bite one's tongue'), wahan actual sentence mein 'one's' subject ke gender aur number se agree karega:\n- Subject 'She' -> 'She kept her cool.'\n- Subject 'They' -> 'They lost their tempers.'\n- Subject 'One' (impersonal) -> 'One should keep one's cool.'\n*Exam Trap:* 'He lost *one's* temper' likhna severe grammatical error hai.",
+    "patterns": {
+      "affirmative": "Concord Agreement: \"The defense counsel kept his cool despite hostile objections.\"",
+      "negative": "Possessive Discord: *'She kept one's cool' or *'They lost his temper' (Syntactically invalid).",
+      "interrogative": "Plural Concord: In plural subjects, noun can also pluralize: 'They held their tongues'."
+    },
+    "timeMarkers": [
+      "possessive",
+      "pronoun-concord",
+      "subject-agreement",
+      "one's"
+    ],
+    "keyTip": "CONCORD VERIFICATION: Sentence correction mein check karein ki 'one's' ki jagah subject ke hisab se his/her/their laga hai ya nahi."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Idiom vs Proverb Structural Demarcation",
+    "time": "Genre Demarcation",
+    "aspect": "Syntactic Independence",
+    "formula": "Idiom = Sentence Fragment (Phrase) | Proverb = Standalone Full Sentence (Traditional Wisdom)",
+    "auxiliary": "Distinguish an idiomatic constituent phrase from an autonomous moral maxim",
+    "usage": "Competitive exam mein aksar idioms aur proverbs ke classification par questions aate hain:\n- Idiom: Ek multi-word phrase hota hai jo sentence ke andar subject, verb, ya object ka hissa banta hai (e.g., 'cost an arm and a leg', 'jump the gun').\n- Proverb (Kahawat): Ek complete, grammatically independent sentence hota hai jo universal truth, moral guidance ya practical advice deta hai (e.g., 'A stitch in time saves nine', 'Honesty is the best policy', 'A penny saved is a penny earned').",
+    "patterns": {
+      "affirmative": "Idiom in Syntax: \"The imported legal database cost an arm and a leg (Phrase inside sentence).\"",
+      "negative": "Proverb Standalone: \"A penny saved is a penny earned (Autonomous proverb of wisdom).\"",
+      "interrogative": "Classification Test: Kya expression khud ek complete moral sentence hai ya sentence mein fit hone wala phrase?"
+    },
+    "timeMarkers": [
+      "proverb",
+      "idiom",
+      "maxim",
+      "syntactic-independence"
+    ],
+    "keyTip": "PROVERB VS IDIOM: Proverb hamesha full sentence hota hai jo advice ya seekh deta hai; idiom sentence ka ek tukda hota hai."
+  },
+  {
+    "id": "RC-07",
+    "tense": "Idiom vs Phrasal Verb Grammatical Boundary",
+    "time": "Genre Demarcation",
+    "aspect": "Verb-Particle Structure",
+    "formula": "Phrasal Verb = Base Verb + Preposition/Particle | Idiom = Broader Metaphorical Construction",
+    "auxiliary": "Differentiate verb-particle idiomatic units from broader figurative clauses and phrases",
+    "usage": "Phrasal verbs strictly 'Verb + Preposition/Adverbial Particle' structure follow karte hain jahan meaning base verb se alag ho jata hai (jaise 'look into' = investigate, 'put off' = postpone, 'call off' = cancel).\nIdioms wider structures encompass karte hain jinme nouns, adjectives, aur fixed prepositional phrases shamil hote hain (jaise 'spill the beans', 'in the nick of time', 'at the eleventh hour').",
+    "patterns": {
+      "affirmative": "Phrasal Verb: \"The magistrate will look into the delayed dispatch (Verb + Prep).\"",
+      "negative": "Idiomatic Phrase: \"The clerk pulled it off in the nick of time (Complete idiomatic clause).\"",
+      "interrogative": "Structural Check: Kya expression sirf 'Verb + Particle' hai ya usme fixed nouns aur metaphorical comparisons hain?"
+    },
+    "timeMarkers": [
+      "phrasal-verb",
+      "particle",
+      "grammar-boundary",
+      "verb-preposition"
+    ],
+    "keyTip": "PARTICLE TEST: Agar structure sirf Verb + Preposition hai (call off, give up), toh woh phrasal verb hai; agar fixed noun phrase hai (spill the beans), toh idiom hai."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Idiom Sentence Completion Strategy",
+    "time": "Exam Solving Protocol",
+    "aspect": "Blank Context Harmony",
+    "formula": "Surrounding Semantic Polarity + Grammatical Role = Optimal Idiom Selection",
+    "auxiliary": "Fill sentence blanks by matching both the grammatical slot and the emotional context",
+    "usage": "Sentence completion questions mein do cheezein verify karni hoti hain:\n1. Semantic Polarity: Agar sentence negative frustration express kar raha hai ('The negotiations collapsed and we are...'), toh positive idiom ('on cloud nine') eliminate karein; negative/reset idiom ('back to square one') select karein.\n2. Grammatical Role: Blank ke pehle verb hai toh infinitive/base form chahiye ya gerund/participle form?",
+    "patterns": {
+      "affirmative": "Polarity Harmony: \"After their main database crashed without backup, they were back to square one.\"",
+      "negative": "Tone Mismatch: *'After their server crashed, they were on cloud nine' (Complete logical contradiction).",
+      "interrogative": "Grammar Fit: Check whether the blank requires a base verb, past form, or prepositional phrase."
+    },
+    "timeMarkers": [
+      "sentence-completion",
+      "polarity-harmony",
+      "blank-filling",
+      "logic"
+    ],
+    "keyTip": "POLARITY TEST: Sentence ka positive (+) ya negative (-) sign pehchano aur opposite sign wale options ko pehle round mein eliminate karo."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Emotion & Psychological Tone Alignment",
+    "time": "Emotional Semantics",
+    "aspect": "Valence Matching",
+    "formula": "Sentence Mood (Anxiety / Joy / Grief / Anger) = Matching Emotional Idiom",
+    "auxiliary": "Identify the subtle psychological valence conveyed by surrounding adverbs and verbs",
+    "usage": "Emotions se jude idioms mein examiner aksar related emotions ke beech confuse karwata hai:\n- Nervous anticipation / Anxiety: 'Have butterflies in one's stomach'.\n- Last-minute fear / Backing out: 'Get cold feet'.\n- Uncontrolled rage: 'Lose one's temper'.\n- Resentful chronic grudge: 'Have a chip on one's shoulder'.\n- Extreme joy / Ecstasy: 'On cloud nine' / 'Over the moon'.\n- Mild depression / Gloom: 'Down in the dumps'.",
+    "patterns": {
+      "affirmative": "Anxiety Match: \"Before stepping into the oral viva, the candidate had butterflies in his stomach.\"",
+      "negative": "Emotion Confusion: Confusing anticipatory nervousness ('butterflies') with cowardice/backing out ('cold feet').",
+      "interrogative": "Tone Question: Kya subject ghabrahat mehsus kar raha hai ya dushmani paal raha hai?"
+    },
+    "timeMarkers": [
+      "emotion",
+      "psychological-valence",
+      "anxiety",
+      "joy",
+      "anger"
+    ],
+    "keyTip": "EMOTION DISCRIMINATION: 'Butterflies in stomach' test se pehle ki normal nervousness hai; 'cold feet' dar kar plan chhod dene ke liye hai."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Time & Frequency Boundary Precision",
+    "time": "Temporal Semantics",
+    "aspect": "Temporal Interval Precision",
+    "formula": "Rare Frequency != Prompt Readiness != Strict Deadline Speed",
+    "auxiliary": "Distinguish between how often an event occurs, how quickly it happens, and how close to deadline it is",
+    "usage": "Time-related idioms mein boundary conditions strict hoti hain:\n1. 'Once in a blue moon': Frequency expression (extremely rarely; lagbhag kabhi nahi).\n2. 'At the drop of a hat': Promptness/readiness expression (bina jhijhak turant taiyar).\n3. 'In the nick of time': Deadline boundary expression (aen waqt par; just before disaster).\n4. 'At the eleventh hour': Decision timing expression (aakhri moment par liya gaya faisla).\n5. 'Around the clock': Duration expression (24 ghante continuous bina ruke).",
+    "patterns": {
+      "affirmative": "Interval Precision: \"The registrar conducts surprise vault audits once in a blue moon (Rarely).\"",
+      "negative": "Temporal Confusion: Confusing 'once in a blue moon' (frequency) with 'in no time' (speed).",
+      "interrogative": "Boundary Check: Is the sentence asking about frequency, speed, or last-minute timing?"
+    },
+    "timeMarkers": [
+      "time",
+      "frequency",
+      "deadline",
+      "duration",
+      "urgency"
+    ],
+    "keyTip": "TIME MATRIX: 'Once in a blue moon' = Frequency (Rarely); 'In no time' = Speed (Fast); 'In the nick of time' = Deadline (Just in time)."
+  },
+  {
+    "id": "RC-11",
+    "tense": "Financial & Resource Context Precision",
+    "time": "Financial Semantics",
+    "aspect": "Poverty vs Price vs Frugality",
+    "formula": "Exorbitant Cost (Item) != Impoverished Income (Person) != Careful Saving (Behavior)",
+    "auxiliary": "Identify whether the sentence evaluates an object's high price or a household's scarcity of funds",
+    "usage": "Money idioms mein teen alag-alag dimensions hote hain:\n1. High Price of Commodity: 'Cost an arm and a leg' / 'Pay through the nose' (cheez bohot mehangi hai).\n2. Subsistence & Poverty of Agent: 'Make ends meet' / 'Live from hand to mouth' (kamai bohot kam hai, guzaara mushkil hai).\n3. Frugality & Budgeting: 'Tighten one's belt' / 'On a shoestring' / 'Save for a rainy day' (budget sanyam se chalana).",
+    "patterns": {
+      "affirmative": "Price Match: \"Upgrading the entire digital courtroom system will cost an arm and a leg.\"",
+      "negative": "Dimension Trap: Using 'live from hand to mouth' to describe a software purchase instead of an individual's livelihood.",
+      "interrogative": "Entity Check: Is the subject an expensive commodity or a struggling person trying to survive?"
+    },
+    "timeMarkers": [
+      "money",
+      "cost",
+      "poverty",
+      "frugality",
+      "budget"
+    ],
+    "keyTip": "FINANCE ENTITY RULE: 'Cost an arm and a leg' vastu/service ke liye lagta hai; 'Make ends meet' vyakti ki rozi-roti ke liye lagta hai."
+  },
+  {
+    "id": "RC-12",
+    "tense": "Disclosure vs Rumour Disambiguation",
+    "time": "Information Semantics",
+    "aspect": "Communication Channel Authenticity",
+    "formula": "Active Secret Revelation (Insider) != Passive Rumour Reception (Gossip Network)",
+    "auxiliary": "Determine whether the speaker is the insider divulging truth or the outsider hearing gossip",
+    "usage": "Information flow mein insider disclosure aur informal gossip ke beech clear distinction hota hai:\n- 'Spill the beans' / 'Let the cat out of the bag': Insider vyakti jo secretly janta tha, usne raaz ugal diya ya sabko bata diya.\n- 'Hear it through the grapevine': Bahar ka vyakti jisne unverified afwahon ya gossip ke zariye khabar suni.\n- 'Keep under wraps': Confidentiality maintain karke raaz ko dabakar rakhna.",
+    "patterns": {
+      "affirmative": "Insider Revelation: \"The confidential clerk spilled the beans about the sealed transfer orders.\"",
+      "negative": "Channel Confusion: Saying an auditor 'heard through grapevine' when he was the one actively confessing the secret.",
+      "interrogative": "Source Question: Is the agent disclosing the secret or merely hearing it through informal talk?"
+    },
+    "timeMarkers": [
+      "disclosure",
+      "rumour",
+      "grapevine",
+      "secrets",
+      "confidentiality"
+    ],
+    "keyTip": "DISCLOSURE SOURCE: Agar subject khud secret disclose kar raha hai toh 'spill the beans'; agar sun raha hai toh 'grapevine'."
+  },
+  {
+    "id": "RC-13",
+    "tense": "Reconciliation vs Simple Agreement",
+    "time": "Interpersonal Semantics",
+    "aspect": "Dispute History Resolution",
+    "formula": "Reconciliation (Post-Conflict Peace) != Simple Consensus (Shared Opinion)",
+    "auxiliary": "Verify if a prior feud existed that required peacemaking before common ground was found",
+    "usage": "Interpersonal relations mein examiner 'Bury the hatchet' aur 'See eye to eye' ke beech distractors create karta hai:\n- 'Bury the hatchet': Isme pehle se ek hostile feud ya lamba jhagda hona mandatory hai jise dono paksh bhula kar sulah karte hain.\n- 'See eye to eye': Isme purani dushmani zaroori nahi hai; yeh kisi specific point ya policy par aam sehmati (consensus) ko denote karta hai.\n- 'Break the ice': Isme dushmani nahi, balki strangers ke beech shuruati awkwardness hoti hai.",
+    "patterns": {
+      "affirmative": "Peace After Dispute: \"After a decade of bitter property litigation, the brothers buried the hatchet.\"",
+      "negative": "History Omission: Using 'bury the hatchet' for colleagues who simply agreed on a routine meeting date.",
+      "interrogative": "Feud Test: Did the parties have a bitter quarrel before this development?"
+    },
+    "timeMarkers": [
+      "reconciliation",
+      "agreement",
+      "feud",
+      "dispute-resolution"
+    ],
+    "keyTip": "FEUD CHECK: 'Bury the hatchet' mein pehle se dushmani hona shart hai; simple agreement ke liye 'see eye to eye' aayega."
+  },
+  {
+    "id": "RC-14",
+    "tense": "8-Step High Court MCQ Elimination Protocol",
+    "time": "Exam Solving Protocol",
+    "aspect": "Systematic Elimination Strategy",
+    "formula": "Context Analysis -> Literal Filter -> Metaphor Recall -> Tone Check -> Distractor Rejection = 100% Accuracy",
+    "auxiliary": "Execute a systematic multi-stage elimination protocol instead of impulsive intuition",
+    "usage": "High Court aur competitive exams mein idiom MCQs solve karne ka 8-step standardized procedure:\n1. Read entire sentence completely.\n2. Isolate the situation and characters.\n3. Filter out literal translation options immediately.\n4. Recall the established metaphorical root of the idiom.\n5. Match the emotional tone (positive / negative / neutral).\n6. Eliminate single-word synonym traps and distorted spellings.\n7. Check grammatical concord (tense, pronoun, article).\n8. Substitute the selected meaning back into the sentence to verify natural flow.",
+    "patterns": {
+      "affirmative": "Rigorous Elimination: Applying all 8 steps ensures zero errors on both direct and context-based questions.",
+      "negative": "Impulsive Guesswork: Choosing an option within 2 seconds purely based on one familiar word.",
+      "interrogative": "Final Validation: Does the chosen meaning make complete, natural sense in the entire context?"
+    },
+    "timeMarkers": [
+      "elimination-protocol",
+      "8-step-strategy",
+      "exam-mastery",
+      "accuracy"
+    ],
+    "keyTip": "SUBSTITUTION TEST: Option select karne ke baad us meaning ko sentence mein fit karke dekho; agar context fit ho raha hai tabhi tick karo."
+  }
+]

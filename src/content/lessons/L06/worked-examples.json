@@ -1,0 +1,212 @@
+[
+  {
+    "id": "WE-01",
+    "sentence": "Direct: Deepak said, \"I work in the High Court computer cell.\"",
+    "correctAnswer": "Deepak said that he worked in the High Court computer cell.",
+    "tense": "Simple Present ➔ Simple Past (Assertive Transformation)",
+    "steps": {
+      "step1_marker": "Speaker & Listener Analysis: Reporting subject (speaker) Deepak (male singular) hai. Listener mention nahi hai.",
+      "step2_time": "Reporting Verb & Conjunction: Reporting verb 'said' past tense mein hai aur bina object ke hai, isliye 'said' retain rahega aur quotation marks hatakar conjunction 'that' lagaya.",
+      "step3_aspect": "Pronoun Reference Shift: 1st person pronoun 'I' Deepak (speaker) ke anusaar badal kar 'he' ban gaya.",
+      "step4_inflection": "Tense Backshift: Reporting verb past hone ke karan Simple Present verb 'work' backshift hokar Simple Past 'worked' ban gayi.",
+      "step5_synthesis": "Final Synthesis: 'Deepak said that he worked in the High Court computer cell.'"
+    },
+    "trapWarning": "EXAM TRAP: Distractor options mein aksar 'Deepak said that I worked...' (pronoun change na karna) ya 'Deepak told that he worked...' (told bina object ke) diya jata hai. Dono eliminate karein."
+  },
+  {
+    "id": "WE-02",
+    "sentence": "Direct: The advocate said to the client, \"You need to submit the original affidavit.\"",
+    "correctAnswer": "The advocate told the client that he needed to submit the original affidavit.",
+    "tense": "Reporting Verb Concord & 2nd Person Pronoun Shift",
+    "steps": {
+      "step1_marker": "Speaker & Listener Analysis: Speaker 'The advocate' hai aur listener 'the client' (singular) hai.",
+      "step2_time": "Reporting Verb & Conjunction: 'Said to + listener' transform hokar 'told the client' ban gaya, quotation marks hataye gaye aur conjunction 'that' lagaya.",
+      "step3_aspect": "Pronoun Reference Shift: 2nd person pronoun 'You' listener 'the client' ke anusaar 'he' (ya contextually 'she') ban gaya.",
+      "step4_inflection": "Tense Backshift: Simple Present verb 'need' backshift hokar Simple Past 'needed' ban gayi. Infinitive 'to submit' uninflected raha.",
+      "step5_synthesis": "Final Synthesis: 'The advocate told the client that he needed to submit the original affidavit.'"
+    },
+    "trapWarning": "FATAL 'TOLD TO' BLUNDER: Option mein 'The advocate told to the client...' likha ho toh turant eliminate karein. 'Told' ke baad 'to' lagana examination standard mein fatal error hai."
+  },
+  {
+    "id": "WE-03",
+    "sentence": "Direct: Neha said, \"The technical assistants are installing the network firewall.\"",
+    "correctAnswer": "Neha said that the technical assistants were installing the network firewall.",
+    "tense": "Present Continuous ➔ Past Continuous Backshift",
+    "steps": {
+      "step1_marker": "Speaker & Subject Check: Speaker Neha hai. Quoted clause ka subject 'The technical assistants' (plural noun) hai.",
+      "step2_time": "Reporting Verb & Conjunction: Past reporting verb 'said' ke baad declarative conjunction 'that' lagaya.",
+      "step3_aspect": "Pronoun Inspection: Quoted clause mein 3rd person noun 'the technical assistants' hai jisme koi person change nahi hoga.",
+      "step4_inflection": "Tense Backshift: Present Continuous auxiliary 'are installing' plural subject ke anusaar Past Continuous 'were installing' mein convert ho gayi.",
+      "step5_synthesis": "Final Synthesis: 'Neha said that the technical assistants were installing the network firewall.'"
+    },
+    "trapWarning": "AUXILIARY NUMBER ACCORD: Distractor options mein aksar 'was installing' likhkar subject-verb discord create kiya jata hai. Plural subject 'assistants' ke sath 'were installing' aayega."
+  },
+  {
+    "id": "WE-04",
+    "sentence": "Direct: The system officers said, \"We have resolved the database deadlock.\"",
+    "correctAnswer": "The system officers said that they had resolved the database deadlock.",
+    "tense": "Present Perfect ➔ Past Perfect (Plural Pronoun Shift)",
+    "steps": {
+      "step1_marker": "Speaker & Listener Context: Speaker 'The system officers' (plural) hai. Listener unspecified hai.",
+      "step2_time": "Reporting Verb & Link: 'Said' retain raha aur subordinate clause ko connect karne ke liye 'that' lagaya.",
+      "step3_aspect": "Pronoun Reference Shift: 1st person plural pronoun 'We' officers (plural speaker) ke anusaar 'they' mein transform hua.",
+      "step4_inflection": "Tense Backshift: Present Perfect 'have resolved' past reporting verb ke karan Past Perfect 'had resolved' mein convert ho gaya.",
+      "step5_synthesis": "Final Synthesis: 'The system officers said that they had resolved the database deadlock.'"
+    },
+    "trapWarning": "PRONOUN PLURALITY TRAP: Distractor options mein aksar 'We' ko 'he' bana diya jata hai. Officers plural hain, isliye pronoun strictly 'they' hoga."
+  },
+  {
+    "id": "WE-05",
+    "sentence": "Direct: The registrar said, \"The petitioner submitted the supplementary petition yesterday.\"",
+    "correctAnswer": "The registrar said that the petitioner had submitted the supplementary petition the previous day.",
+    "tense": "Simple Past ➔ Past Perfect & Adverbial Adjustment",
+    "steps": {
+      "step1_marker": "Speaker Context: Speaker 'The registrar' hai. Quoted sentence pehle se hi Simple Past ('submitted') mein hai.",
+      "step2_time": "Reporting Verb: Past verb 'said' ke baad conjunction 'that' lagaya.",
+      "step3_aspect": "Pronoun / Noun Check: 'The petitioner' 3rd person noun hai, koi change nahi.",
+      "step4_inflection": "Tense & Time Shift: Simple Past 'submitted' Past Perfect 'had submitted' ban gaya. Time adverbial 'yesterday' convert hokar 'the previous day' ban gaya.",
+      "step5_synthesis": "Final Synthesis: 'The registrar said that the petitioner had submitted the supplementary petition the previous day.'"
+    },
+    "trapWarning": "FAILURE TO BACKSHIFT SIMPLE PAST: Candidates aksar 'submitted' ko 'submitted' hi chhod dete hain aur 'yesterday' ko change nahi karte. Examination grammar mein Simple Past compulsory 'had + V3' banta hai."
+  },
+  {
+    "id": "WE-06",
+    "sentence": "Direct: She said, \"The judicial clerks were verifying the certified copies.\"",
+    "correctAnswer": "She said that the judicial clerks had been verifying the certified copies.",
+    "tense": "Past Continuous ➔ Past Perfect Continuous Backshift",
+    "steps": {
+      "step1_marker": "Speaker Context: Speaker 'She' hai. Quoted sentence Past Continuous 'were verifying' mein hai.",
+      "step2_time": "Reporting Verb & Conjunction: 'Said' ke baad conjunction 'that' insert kiya gaya.",
+      "step3_aspect": "Subject Tracking: 'The judicial clerks' 3rd person plural noun hai, uninflected raha.",
+      "step4_inflection": "Tense Backshift: Past Continuous 'were verifying' standard narration rule ke anusaar Past Perfect Continuous 'had been verifying' mein convert ho gaya.",
+      "step5_synthesis": "Final Synthesis: 'She said that the judicial clerks had been verifying the certified copies.'"
+    },
+    "trapWarning": "ASPECT CONFUSION: Distractor options mein aksar 'were verifying' ko Simple Past Continuous hi chhod diya jata hai ya 'had verified' bana diya jata hai. Continuous aspect retain hokar 'had been + V4' banta hai."
+  },
+  {
+    "id": "WE-07",
+    "sentence": "Direct: The judge said, \"The division bench will announce the final order tomorrow.\"",
+    "correctAnswer": "The judge said that the division bench would announce the final order the next day.",
+    "tense": "Modal 'Will' ➔ 'Would' & Time Adverbial 'Tomorrow'",
+    "steps": {
+      "step1_marker": "Speaker Analysis: Speaker 'The judge' hai. Modal auxiliary 'will' aur time adverbial 'tomorrow' present hain.",
+      "step2_time": "Reporting Verb & Conjunction: Past verb 'said' ke baad conjunction 'that' lagaya.",
+      "step3_aspect": "Subject Tracking: 'The division bench' 3rd person subject hai.",
+      "step4_inflection": "Modal & Adverb Shift: Future modal 'will' past reporting verb ke under 'would' mein backshift hua (main verb 'announce' base form mein rahi). 'Tomorrow' shift hokar 'the next day' ban gaya.",
+      "step5_synthesis": "Final Synthesis: 'The judge said that the division bench would announce the final order the next day.'"
+    },
+    "trapWarning": "DOUBLE CHANGE CHECK: Is question mein do points check hote hain: (1) will ➔ would, aur (2) tomorrow ➔ the next day (ya the following day). Option mein agar 'tomorrow' unadjusted ho toh discard karein."
+  },
+  {
+    "id": "WE-08",
+    "sentence": "Direct: The clerk said to me, \"I can inspect this server log right now.\"",
+    "correctAnswer": "The clerk told me that he could inspect that server log right then.",
+    "tense": "Modal 'Can' ➔ 'Could', Demonstrative & Temporal Adverbial Shift",
+    "steps": {
+      "step1_marker": "Speaker & Listener: Speaker 'The clerk' hai, listener 'me' hai.",
+      "step2_time": "Reporting Verb & Link: 'Said to me' convert hokar 'told me' bana, conjunction 'that' lagaya.",
+      "step3_aspect": "Pronoun Reference: 1st person 'I' clerk (speaker) ke anusaar 'he' ban gaya.",
+      "step4_inflection": "Modal & Adverbial Shifts: Modal 'can' ➔ 'could' mein badla. Demonstrative 'this' ➔ 'that' bana, aur time expression 'now' ➔ 'then' mein shift hua.",
+      "step5_synthesis": "Final Synthesis: 'The clerk told me that he could inspect that server log right then.'"
+    },
+    "trapWarning": "PROXIMITY SHIFT: Options mein agar 'this' ya 'now' ko unmodified chhod diya gaya ho, toh wo option eliminate ho jayega: this ➔ that, now ➔ then."
+  },
+  {
+    "id": "WE-09",
+    "sentence": "Direct: The physics professor said, \"Light travels faster than sound.\"",
+    "correctAnswer": "The physics professor said that light travels faster than sound.",
+    "tense": "Scientific Fact Exception (Zero Tense Backshift)",
+    "steps": {
+      "step1_marker": "Clause Content Analysis: Quoted sentence 'Light travels faster than sound' ek scientifically established eternal universal truth hai.",
+      "step2_time": "Reporting Verb & Conjunction: Past reporting verb 'said' ke baad conjunction 'that' lagaya.",
+      "step3_aspect": "Subject & Pronouns: 'Light' universal scientific entity hai, no change.",
+      "step4_inflection": "Exception Rule Application: Reporting verb past hone ke bawajood scientific laws aur eternal truths ka tense backshift NAHI hota. Present Simple verb 'travels' uninflected Simple Present mein retain rahi.",
+      "step5_synthesis": "Final Synthesis: 'The physics professor said that light travels faster than sound.'"
+    },
+    "trapWarning": "CRITICAL UNIVERSAL TRUTH TRAP: Distractor options mein aksar 'light traveled faster than sound' diya jata hai. Scientific truth kabhi past nahi banti; 'travels' hi correct hai."
+  },
+  {
+    "id": "WE-10",
+    "sentence": "Direct: The geography teacher said to the students, \"The Earth rotates from west to east.\"",
+    "correctAnswer": "The geography teacher told the students that the Earth rotates from west to east.",
+    "tense": "Geographical Truth Exception with 'Told'",
+    "steps": {
+      "step1_marker": "Speaker & Listener: Speaker 'The geography teacher' hai, listener 'the students' hai.",
+      "step2_time": "Reporting Verb: 'Said to the students' ➔ 'told the students' bana, conjunction 'that' lagaya.",
+      "step3_aspect": "Statement Evaluation: Statement 'The Earth rotates from west to east' permanent geographical fact hai.",
+      "step4_inflection": "Tense Invariance: Geographical fact hone ke karan verb 'rotates' freeze rehti hai; 'rotated' nahi banti.",
+      "step5_synthesis": "Final Synthesis: 'The geography teacher told the students that the Earth rotates from west to east.'"
+    },
+    "trapWarning": "MIXED SKILL TRAP: Yahan candidate ko do baatein ek sath verify karni hain: (1) said to ➔ told the students, aur (2) rotates freeze rahega (rotated nahi hoga)."
+  },
+  {
+    "id": "WE-11",
+    "sentence": "Direct: The IT director says, \"The cloud server is fully operational.\"",
+    "correctAnswer": "The IT director says that the cloud server is fully operational.",
+    "tense": "Present Reporting Verb ('Says') — Zero Backshift",
+    "steps": {
+      "step1_marker": "Reporting Verb Tense Check: Reporting verb 'says' Simple Present Tense mein hai (Past 'said' nahi hai).",
+      "step2_time": "Conjunction Insertion: 'Says' ke baad conjunction 'that' lagaya gaya.",
+      "step3_aspect": "Subject Inspection: 'The cloud server' 3rd person subject hai.",
+      "step4_inflection": "Zero Backshift Rule: Jab reporting verb Present ya Future tense mein ho, toh reported clause ke tense mein ZERO backshift hota hai. Auxiliary 'is' 'is' hi rahega.",
+      "step5_synthesis": "Final Synthesis: 'The IT director says that the cloud server is fully operational.'"
+    },
+    "trapWarning": "PRESENT VERB OVER-BACKSHIFT: Top exam trap! Candidates mechanical aadat ke karan 'is' ko 'was' kar dete hain. Reporting verb agar 'says' hai, toh tense bilkul change nahi hoga."
+  },
+  {
+    "id": "WE-12",
+    "sentence": "Direct: The Chief Justice will say, \"The judiciary respects the constitutional mandate.\"",
+    "correctAnswer": "The Chief Justice will say that the judiciary respects the constitutional mandate.",
+    "tense": "Future Reporting Verb ('Will say') — Zero Backshift",
+    "steps": {
+      "step1_marker": "Reporting Verb Tense Check: Reporting verb 'will say' Future Tense mein hai.",
+      "step2_time": "Conjunction Link: 'Will say' ke baad conjunction 'that' lagaya.",
+      "step3_aspect": "Subject Tracking: 'The judiciary' 3rd person subject hai.",
+      "step4_inflection": "Future Verb Rule: Reporting verb future mein hone par reported speech ka tense freeze rehta hai. Verb 'respects' unchanged Simple Present mein retain rahi.",
+      "step5_synthesis": "Final Synthesis: 'The Chief Justice will say that the judiciary respects the constitutional mandate.'"
+    },
+    "trapWarning": "FUTURE REPORTING VERB: Distractor options mein 'respected' diya jata hai. Jab tak reporting verb past na ho, tab tak backshift strictly forbidden hai."
+  },
+  {
+    "id": "WE-13",
+    "sentence": "Direct: Suresh said to me, \"She has misplaced her court access badge.\"",
+    "correctAnswer": "Suresh told me that she had misplaced her court access badge.",
+    "tense": "Third Person Pronoun Invariance & Present Perfect Backshift",
+    "steps": {
+      "step1_marker": "Speaker & Listener: Speaker Suresh hai, listener 'me' hai.",
+      "step2_time": "Reporting Verb: 'Said to me' convert hokar 'told me' bana, conjunction 'that' lagaya.",
+      "step3_aspect": "Third Person Pronoun Rule: Quoted clause mein pronouns 'She' aur 'her' 3rd person hain. 3rd person pronouns mein NO PERSON CHANGE hota hai.",
+      "step4_inflection": "Tense Backshift: Reporting verb past hone ke karan Present Perfect 'has misplaced' Past Perfect 'had misplaced' mein shift ho gaya.",
+      "step5_synthesis": "Final Synthesis: 'Suresh told me that she had misplaced her court access badge.'"
+    },
+    "trapWarning": "PRONOUN OVER-MODIFICATION: Candidates 3rd person pronouns 'she/her' ko listener 'me' ke hisaab se 'I/my' mein badalne ki galti karte hain. 3rd person pronouns hamesha unchanged rehte hain."
+  },
+  {
+    "id": "WE-14",
+    "sentence": "Direct: The senior clerk said, \"I must submit the compliance report today.\"",
+    "correctAnswer": "The senior clerk said that he had to submit the compliance report that day.",
+    "tense": "Modal 'Must' (Specific Obligation) ➔ 'Had to' & 'Today' ➔ 'That day'",
+    "steps": {
+      "step1_marker": "Speaker Analysis: Speaker 'The senior clerk' (male singular) hai.",
+      "step2_time": "Reporting Verb & Conjunction: Past verb 'said' ke baad conjunction 'that' lagaya.",
+      "step3_aspect": "Pronoun Shift: 1st person 'I' clerk ke anusaar 'he' ban gaya.",
+      "step4_inflection": "Modal & Adverb Adjustment: Specific present/past obligation darshane wala modal 'must' past reporting context mein 'had to' mein badla. Time word 'today' 'that day' ban gaya.",
+      "step5_synthesis": "Final Synthesis: 'The senior clerk said that he had to submit the compliance report that day.'"
+    },
+    "trapWarning": "MUST BACKSHIFT DISTINCTION: Agar option mein 'must' retain ho aur 'had to' wala valid option available ho, toh specific deadline/obligation ke liye 'had to' exam-preferred hota hai. Saath hi 'today' ko 'that day' check karein."
+  },
+  {
+    "id": "WE-15",
+    "sentence": "Direct: Amit said to Pooja, \"I prepared the case summary, but the bench was not sitting.\"",
+    "correctAnswer": "Amit told Pooja that he had prepared the case summary, but the bench had not been sitting.",
+    "tense": "Compound Sentence Multi-Clause Backshift",
+    "steps": {
+      "step1_marker": "Speaker & Listener: Speaker Amit hai, listener Pooja hai. Sentence compound hai jisme 'but' se do coordinate clauses jude hain.",
+      "step2_time": "Reporting Verb: 'Said to Pooja' ➔ 'told Pooja' bana, conjunction 'that' lagaya.",
+      "step3_aspect": "Pronoun Reference: Clause 1 ka 1st person 'I' Amit ke anusaar 'he' ban gaya.",
+      "step4_inflection": "Dual Tense Backshift: Clause 1 mein Simple Past 'prepared' Past Perfect 'had prepared' bana. Clause 2 mein Past Continuous 'was not sitting' Past Perfect Continuous 'had not been sitting' bana.",
+      "step5_synthesis": "Final Synthesis: 'Amit told Pooja that he had prepared the case summary, but the bench had not been sitting.'"
+    },
+    "trapWarning": "COMPOUND SENTENCE CONSISTENCY: Dono clauses past reporting verb ke under hain, isliye dono clauses mein coordinated backshift aana mandatory hai. Ek clause ko backshift karna aur dusre ko chhod dena common distractor hai."
+  }
+]

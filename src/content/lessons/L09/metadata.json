@@ -1,0 +1,139 @@
+{
+  "id": "L09",
+  "title": "Degrees of Comparison — Positive, Comparative, Superlative & Transformations",
+  "shortTitle": "Degrees of Comparison & Transformations",
+  "topicId": "T04",
+  "topicTitle": "Transformation of Sentences",
+  "part": "2 of 2",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Advanced",
+  "targetScore": "100% Meaning Preservation",
+  "description": "Positive, Comparative aur Superlative degrees ke grammatical rules, adjective formation patterns, irregular forms, 'any other' aur 'one of the' structures, aur meaning-preserving sentence transformations ko systematically master karein.",
+  "learningObjectives": [
+    "Positive, Comparative aur Superlative degrees ke fundamental differences aur functional usage ko accurately identify karein",
+    "Sentences mein adjectives aur unki respective degree (Positive, Comparative, Superlative) ko isolate karna seekhein",
+    "Regular adjectives ke comparative (-er) aur superlative (-est) forms sahi spelling rules ke sath construct karein",
+    "Consonant doubling, -y se -ier/-iest, aur multi-syllabic 'more/most' rules ko without error apply karein",
+    "High-frequency irregular adjectives (good/better/best, bad/worse/worst, far/farther/further, late/later/latter) ko master karein",
+    "Equality ('as...as') aur inequality ('not as/so...as') comparisons ko logically coordinate karein",
+    "Two-entity comparisons mein Positive aur Comparative degree ke beech semantic truth preserve karte huye transform karein",
+    "Universal group comparisons mein 'No other + singular noun' aur 'than any other + singular noun' formulas ko flawlessly apply karein",
+    "'One of the + superlative + plural noun' ko 'Very few + plural noun' aur 'than most other + plural noun' structures mein badlein",
+    "Rajasthan High Court exams ke recurring degree traps (double comparatives, missing other, singular-plural discord, Latin comparatives with to) ko eliminate karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Foundational theory: Adjectives as descriptors, three degrees of comparison, comparison entities and scopes",
+      "Positive degree: Base form, comparisons of equality ('as...as'), comparisons of inequality ('not as/so...as')",
+      "Comparative degree: Two-entity comparison, '-er' suffix vs 'more' periphrastic, role of 'than', 'less' constructions",
+      "Superlative degree: Three or more entities, '-est' suffix vs 'most' periphrastic, definite article 'the', superlative omission conditions",
+      "Adjective inflection rules: 1-syllable, silent -e, CVC consonant doubling, -y to -ier/-iest, 2-syllable flexible forms, 3+ syllables",
+      "Irregular adjectives: good/better/best, bad/worse/worst, little/less/least, much/more/most, far/farther/further, late/later/latter, old/older/elder",
+      "Two-entity transformation: Positive to Comparative and Comparative to Positive with polarity flip",
+      "Universal group transformation: 'No other + singular noun' ➔ 'than any other + singular noun' ➔ 'the + superlative'",
+      "Subset group transformation: 'Very few + plural noun' ➔ 'than most/many other + plural noun' ➔ 'one of the + superlative + plural noun'",
+      "Special constructions: Parallel progression ('The higher..., the cooler...'), two qualities of same entity ('more brave than wise'), Latin comparatives with 'to' ('senior to', 'preferable to')",
+      "Common examination traps: Double comparative/superlative, missing other in self-exclusion, number agreement after any other / one of the, than with Latin adjectives"
+    ],
+    "excluded": [
+      "Assertive, Negative, Interrogative and Exclamatory transformations (covered in Lesson 08)",
+      "Simple, Compound, and Complex clause synthesis (covered in syllabus advanced modules)",
+      "Active and Passive Voice transformations (covered in Lessons 04 & 05)",
+      "Direct and Indirect Speech narration (covered in Lessons 06 & 07)",
+      "Subject-Verb Agreement non-degree error rules (covered in Lesson 13)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Learning Objectives",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Degrees of Comparison ke core principles, exam weightage, comparison boundaries, aur meaning preservation ke golden rules ko samjhein."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Degrees of Comparison Complete Theory & Transformation Rules",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "Adjective formation tables, positive-comparative-superlative structures, irregular adjectives, any other vs one of the formulas par comprehensive guide."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Interactive Diagrams & Transformation Flowcharts",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Degree relationship hierarchy, adjective formation explorer, comparison group exclusion visualizer, sentence transformation flowchart, aur equality/inequality comparator."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "10 Precision Comparison Formulas",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Equality as...as, inequality not as...as, regular inflexion, irregular forms, unique superlative, any other exclusion, one of the bracket, two-entity boundary, parallel comparison, aur Latin to-comparatives cards."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Exam Derivations",
+      "durationMin": 15,
+      "type": "worked-examples",
+      "summary": "Positive, comparative, superlative, 'any other', 'one of the', aur error-spotting questions ka cognitive derivation algorithm with annotated Roman Hinglish reasoning."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "6 Critical Degrees of Comparison Distractors",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "Double comparatives (more taller), omitted other, any other plural traps, one of the singular traps, unique vs subset confusion, aur Latin than traps ka rigorous breakdown."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Step-by-Step Practice Problems",
+      "durationMin": 20,
+      "type": "guided-practice",
+      "summary": "Degree identification, adjective spelling, equality/inequality, and transformation questions with immediate Roman Hinglish cognitive feedback and authoritative rule citations."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "20 Unassisted Test Questions",
+      "durationMin": 25,
+      "type": "independent-practice",
+      "summary": "Comprehensive 20-question test covering degree recognition, formation, transformations, any other / one of the constructions, and error-spotting."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Challenge",
+      "subtitle": "15-Question Timed Assessment (80% Pass)",
+      "durationMin": 15,
+      "type": "mastery-assessment",
+      "summary": "Strictly timed 12-minute exam-condition assessment simulating Rajasthan High Court System Assistant examination standards with 80% passing threshold."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Error Review & Revision",
+      "subtitle": "Remediation & Milestone Completion",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Review logged mistakes, weak subtopics, irregular adjective checklist, and consolidate degrees of comparison mastery with persistent progress tracking."
+    }
+  ]
+}

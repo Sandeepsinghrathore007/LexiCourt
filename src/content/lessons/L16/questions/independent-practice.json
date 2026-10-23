@@ -1,0 +1,531 @@
+{
+  "lessonId": "L16",
+  "stage": "independent-practice",
+  "questions": [
+    {
+      "id": "L16-IP-001",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Basic Synonym Identification",
+      "conceptTags": ["synonyms", "adjectives", "candid"],
+      "question": "Choose the most appropriate SYNONYM for the word 'CANDID':",
+      "options": [
+        { "id": "A", "text": "Deceptive" },
+        { "id": "B", "text": "Frank" },
+        { "id": "C", "text": "Secretive" },
+        { "id": "D", "text": "Ambiguous" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'CANDID' ek Adjective hai jiska arth 'khara, spasht aur nishkapat' (frank, forthright) hota hai. Option B ('Frank') iska direct synonym hai. Options A, C, aur D iske antonyms ya negative contrasts hain.",
+      "ruleReference": "Rule RC-01: Same Part-of-Speech Concord",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-002",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Adjective Antonym Identification",
+      "conceptTags": ["antonyms", "adjectives", "hostile"],
+      "question": "What is the correct ANTONYM of the word 'HOSTILE'?",
+      "options": [
+        { "id": "A", "text": "Antagonistic" },
+        { "id": "B", "text": "Belligerent" },
+        { "id": "C", "text": "Amicable" },
+        { "id": "D", "text": "Inimical" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'HOSTILE' ka arth shatruta-purna ya virodhi hota hai. Options A, B, aur D teeno iske synonyms hain. Option C ('Amicable') ka arth mitrata-purna (friendly) hota hai, jo iska exact polar antonym hai.",
+      "ruleReference": "Rule RC-03: Gradable Scale Extremes",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-003",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Judicial Verbs & Legal Collocations",
+      "conceptTags": ["legal-vocabulary", "verbs", "abrogate"],
+      "question": "In legislative terminology, what is the closest SYNONYM of 'ABROGATE'?",
+      "options": [
+        { "id": "A", "text": "Enact" },
+        { "id": "B", "text": "Repeal" },
+        { "id": "C", "text": "Promulgate" },
+        { "id": "D", "text": "Sanction" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'ABROGATE' ek formal legal verb hai jiska arth kisi kanoon, niyam ya treaty ko radd/nirast karna (repeal, revoke, annul) hota hai. Option B ('Repeal') iska direct legal equivalent hai. Option A ('Enact') aur Option C ('Promulgate') kanoon laagu karne ke antonyms hain.",
+      "ruleReference": "Rule RC-11: Collocational Compatibility & Register Law",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-004",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Prefix-Driven Morphological Antonyms",
+      "conceptTags": ["morphology", "prefixes", "plausible"],
+      "question": "Which word is the standard grammatical ANTONYM of 'PLAUSIBLE'?",
+      "options": [
+        { "id": "A", "text": "Unplausible" },
+        { "id": "B", "text": "Displausible" },
+        { "id": "C", "text": "Implausible" },
+        { "id": "D", "text": "Non-plausible" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Latin root ke aage bilabial 'P' hone par prefix 'in-' badal kar 'im-' ban jata hai (im- + plausible = Implausible). *Unplausible ya *displausible fabricated aur non-standard hain. Option C perfectly correct hai.",
+      "ruleReference": "Rule RC-08: Phonetic Prefix Assimilation Rules",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-005",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Tone Valence & Emotional Nuance",
+      "conceptTags": ["nuance", "valence", "frugal"],
+      "question": "Select the option that conveys a positive commendation of sensible spending, unlike 'miserly':",
+      "options": [
+        { "id": "A", "text": "Stingy" },
+        { "id": "B", "text": "Parsimonious" },
+        { "id": "C", "text": "Frugal" },
+        { "id": "D", "text": "Close-fisted" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'Frugal' (Option C) ek positive (commendatory) word hai jo vivekpurna aur samajhdari bhare kharche ko represent karta hai. Options A ('Stingy'), B ('Parsimonious'), aur D ('Close-fisted') teeno pejorative (negative) hain jo kanjoosi aur selfishness ko darshate hain.",
+      "ruleReference": "Rule RC-07: Tone & Connotation Polarity Concord",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-006",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Abstract Behavioral Adjectives",
+      "conceptTags": ["advanced-vocabulary", "antonyms", "capricious"],
+      "question": "What is the most fitting ANTONYM of 'CAPRICIOUS' in administrative law?",
+      "options": [
+        { "id": "A", "text": "Mercurial" },
+        { "id": "B", "text": "Steadfast" },
+        { "id": "C", "text": "Fickle" },
+        { "id": "D", "text": "Arbitrary" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'CAPRICIOUS' ka arth man-mauji, asthir, aur unpredictable hota hai (synonyms: mercurial, fickle, arbitrary). Iska opposite sthir, dridh aur predictable hoga, jo Option B ('Steadfast') ya 'Constant' se vyakt hota hai.",
+      "ruleReference": "Rule RC-03: Gradable Scale Extremes",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-007",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "High-Yield Verbal Synonyms",
+      "conceptTags": ["advanced-verbs", "synonyms", "belie"],
+      "question": "In the sentence: \"His nervous laughter BELIED his calm demeanor.\", choose the closest SYNONYM of 'BELIED':",
+      "options": [
+        { "id": "A", "text": "Contradicted" },
+        { "id": "B", "text": "Confirmed" },
+        { "id": "C", "text": "Exaggerated" },
+        { "id": "D", "text": "Corroborated" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "'BELIE' (Verb) ka arth galat prabhav dena, vipreet saabit karna ya jhootha dikhana (contradict, disguise, disprove) hota hai. Nervous laughter ne uske calm hone ke daawe ko jhootha saabit kiya (contradicted). Options B aur D iske antonyms hain.",
+      "ruleReference": "Rule RC-02: Contextual Sense Freezing in Polysemy",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-008",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Relational Converse Antonym Pairs",
+      "conceptTags": ["antonyms", "relational", "converse-pairs"],
+      "question": "Which of the following constitutes a RELATIONAL (converse) antonym pair?",
+      "options": [
+        { "id": "A", "text": "Predecessor — Successor" },
+        { "id": "B", "text": "Dead — Alive" },
+        { "id": "C", "text": "Hot — Cold" },
+        { "id": "D", "text": "Guilty — Innocent" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Rule RC-05 ke mutabiq, 'Predecessor — Successor' ek hi administrative position/relationship ko do alag perspectives se represent karte hain (converse relation). Option B aur D complementary pairs hain; Option C gradable pair hai.",
+      "ruleReference": "Rule RC-05: Relational & Social Reciprocity Antonymy",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-009",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Deceptive Affix Identification",
+      "conceptTags": ["prefixes", "synonyms", "inflammable"],
+      "question": "What is the exact SYNONYM of the word 'INFLAMMABLE'?",
+      "options": [
+        { "id": "A", "text": "Fireproof" },
+        { "id": "B", "text": "Flammable" },
+        { "id": "C", "text": "Non-combustible" },
+        { "id": "D", "text": "Extinguished" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-09 ke tahat, 'INFLAMMABLE' aur 'FLAMMABLE' exact synonyms hain—dono ka matlab jo aag aasani se pakad le hota hai. Prefix 'in-' yahan intensive hai, negative nahi. Options A aur C iske antonyms hain.",
+      "ruleReference": "Rule RC-09: Negative Prefix False Friends Neutralizer",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-010",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Temporal Duration Antonyms",
+      "conceptTags": ["antonyms", "adjectives", "ephemeral"],
+      "question": "Choose the most appropriate ANTONYM for 'EPHEMERAL':",
+      "options": [
+        { "id": "A", "text": "Transient" },
+        { "id": "B", "text": "Fleeting" },
+        { "id": "C", "text": "Perpetual" },
+        { "id": "D", "text": "Short-lived" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'EPHEMERAL' (Adjective) ka arth kshanik ya thodi der rehne wala hota hai (synonyms: transient, fleeting, short-lived). Iska polar antonym 'Perpetual', 'Permanent' ya 'Eternal' (Option C: nirantar chalne wala) hota hai.",
+      "ruleReference": "Rule RC-03: Gradable Scale Extremes",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-011",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Social Sycophancy Adjectives",
+      "conceptTags": ["advanced-vocabulary", "antonyms", "obsequious"],
+      "question": "Identify the word that is an ANTONYM of 'OBSEQUIOUS':",
+      "options": [
+        { "id": "A", "text": "Sycophantic" },
+        { "id": "B", "text": "Assertive" },
+        { "id": "C", "text": "Servile" },
+        { "id": "D", "text": "Fawning" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'OBSEQUIOUS' ka arth chaploos, ji-huzoori karne wala ya atyadhik dabbu (servile, fawning, sycophantic) hota hai. Iska opposite aatmavishvasi, nirdharit aur swadheen vyaktitva hota hai, jise 'Assertive' (Option B) ya 'Domineering' kehte hain.",
+      "ruleReference": "Rule RC-07: Tone & Connotation Polarity Concord",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-012",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Land Productivity Antonyms",
+      "conceptTags": ["antonyms", "adjectives", "barren"],
+      "question": "What is the true ANTONYM of 'BARREN'?",
+      "options": [
+        { "id": "A", "text": "Sterile" },
+        { "id": "B", "text": "Arid" },
+        { "id": "C", "text": "Fertile" },
+        { "id": "D", "text": "Desolate" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'BARREN' ka arth banzar ya anupjau hota hai. Options A, B, aur D iske synonyms hain. Iska direct polar opposite 'Fertile' ya 'Fecund' (Option C: upjau) hota hai.",
+      "ruleReference": "Rule RC-03: Gradable Scale Extremes",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-013",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Pervasiveness & Omnipresence",
+      "conceptTags": ["vocabulary", "synonyms", "ubiquitous"],
+      "question": "Choose the most accurate SYNONYM of 'UBIQUITOUS':",
+      "options": [
+        { "id": "A", "text": "Omnipresent" },
+        { "id": "B", "text": "Rare" },
+        { "id": "C", "text": "Insignificant" },
+        { "id": "D", "text": "Ancient" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "'UBIQUITOUS' (Adjective) ka arth har jagah paaya jaane wala ya sarvavyapi hota hai. Option A ('Omnipresent') iska exact synonym hai. Option B ('Rare') iska antonym hai.",
+      "ruleReference": "Rule RC-06: Semantic Intensity Hierarchy",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-014",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Idealism vs Practicality Antonyms",
+      "conceptTags": ["antonyms", "adjectives", "quixotic"],
+      "question": "What is the exact ANTONYM of 'QUIXOTIC'?",
+      "options": [
+        { "id": "A", "text": "Visionary" },
+        { "id": "B", "text": "Pragmatic" },
+        { "id": "C", "text": "Idealistic" },
+        { "id": "D", "text": "Romantic" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'QUIXOTIC' ka arth a-vyavaharik aur kalpanik roop se aadarshvadi hota hai (synonyms: visionary, idealistic, utopian). Competitive exams mein iska classic tested antonym 'Pragmatic' (Option B: vyavaharik aur yatharthvadi) hota hai.",
+      "ruleReference": "Rule RC-03: Gradable Scale Extremes",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-015",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Intellectual Clarity & Communication",
+      "conceptTags": ["synonyms", "adjectives", "lucid"],
+      "question": "In the phrase: \"The commission submitted a LUCID report.\", what is the meaning of 'LUCID'?",
+      "options": [
+        { "id": "A", "text": "Opaque" },
+        { "id": "B", "text": "Confusing" },
+        { "id": "C", "text": "Coherent" },
+        { "id": "D", "text": "Lengthy" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'LUCID' ka arth spasht, subodh, aur logically coherent hota hai. Option C ('Coherent' / 'Clear') iska synonym hai. Options A aur B iske antonyms hain.",
+      "ruleReference": "Rule RC-02: Contextual Sense Freezing in Polysemy",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-016",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Part-of-Speech Distractor Elimination",
+      "conceptTags": ["pos-concord", "nouns", "adversity"],
+      "question": "Select the correct SYNONYM for the noun 'ADVERSITY':",
+      "options": [
+        { "id": "A", "text": "Adverse" },
+        { "id": "B", "text": "Misfortune" },
+        { "id": "C", "text": "Prosperous" },
+        { "id": "D", "text": "Adversely" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-01 ke tahat target word 'ADVERSITY' ek abstract NOUN hai. Option B ('Misfortune') bhi Noun hai jo kathinai ya sankat ko darshata hai. Option A ('Adverse') Adjective hai aur Option D ('Adversely') Adverb hai, isliye POS mismatch ke kaaran reject hote hain.",
+      "ruleReference": "Rule RC-01: Same Part-of-Speech Concord Law",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-017",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Indecision & Wavering Verbs",
+      "conceptTags": ["verbs", "synonyms", "vacillate"],
+      "question": "Choose the most appropriate SYNONYM for 'VACILLATE':",
+      "options": [
+        { "id": "A", "text": "Resolve" },
+        { "id": "B", "text": "Waver" },
+        { "id": "C", "text": "Vacate" },
+        { "id": "D", "text": "Persist" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'VACILLATE' (Verb) ka arth do vicharon ya faislon ke beech dulamul hona ya hichkichana (waver, oscillate, dither) hota hai. Option B ('Waver') iska accurate synonym hai. Options A aur D iske antonyms hain; Option C ('Vacate' = khali karna) ek lookalike verb hai.",
+      "ruleReference": "Rule RC-01 (Verb Concord) & Rule RC-10 (Distractor Exclusion)",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-018",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Harmful Subtle Destruction",
+      "conceptTags": ["adjectives", "antonyms", "pernicious"],
+      "question": "What is the true ANTONYM of 'PERNICIOUS'?",
+      "options": [
+        { "id": "A", "text": "Deleterious" },
+        { "id": "B", "text": "Inimical" },
+        { "id": "C", "text": "Beneficial" },
+        { "id": "D", "text": "Nefarious" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'PERNICIOUS' ka arth dheere-dheere vinashak asar karne wala (harmful, deleterious) hota hai. Iska opposite kalyankari aur laabhdayak hoga, jo Option C ('Beneficial' ya 'Salubrious') se vyakt hota hai. Options A, B, aur D negative synonyms hain.",
+      "ruleReference": "Rule RC-07: Tone & Connotation Polarity Concord",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-019",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Energy & Passion Nouns",
+      "conceptTags": ["nouns", "antonyms", "zeal"],
+      "question": "What is the correct grammatical ANTONYM of the noun 'ZEAL'?",
+      "options": [
+        { "id": "A", "text": "Apathy" },
+        { "id": "B", "text": "Apathetic" },
+        { "id": "C", "text": "Fervor" },
+        { "id": "D", "text": "Ardor" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "'ZEAL' ek Noun hai (meaning: passion, fervor). Iska opposite 'Apathy' (Option A: udasin-ta) hai jo Noun form mein hai. Option B ('Apathetic') Adjective hone ke kaaran reject hota hai. Options C aur D iske synonyms hain.",
+      "ruleReference": "Rule RC-01: Same Part-of-Speech Concord Law",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-020",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Mystery & Inscrutability",
+      "conceptTags": ["adjectives", "synonyms", "enigmatic"],
+      "question": "Choose the closest SYNONYM for 'ENIGMATIC':",
+      "options": [
+        { "id": "A", "text": "Transparent" },
+        { "id": "B", "text": "Inscrutable" },
+        { "id": "C", "text": "Obvious" },
+        { "id": "D", "text": "Predictable" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'ENIGMATIC' ka arth rahasyamayee ya samajh na aane wala (mysterious, cryptic) hota hai. Option B ('Inscrutable' = unfathomable) iska exact synonym hai. Options A, C, aur D iske antonyms hain.",
+      "ruleReference": "Rule RC-06: Semantic Intensity Hierarchy Alignment",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-021",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Social Companionship Adjectives",
+      "conceptTags": ["adjectives", "antonyms", "gregarious"],
+      "question": "What is the exact ANTONYM of 'GREGARIOUS'?",
+      "options": [
+        { "id": "A", "text": "Sociable" },
+        { "id": "B", "text": "Convivial" },
+        { "id": "C", "text": "Reclusive" },
+        { "id": "D", "text": "Outgoing" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "'GREGARIOUS' ka arth milansar ya sabke sath rehne wala hota hai (synonyms: sociable, convivial, outgoing). Iska opposite akele rehne wala ya sanyasi jaisa hota hai, jise 'Reclusive' ya 'Solitary' (Option C) kehte hain.",
+      "ruleReference": "Rule RC-03: Gradable Scale Extremes",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-022",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Extreme Flattery & Servility Nouns",
+      "conceptTags": ["nouns", "synonyms", "sycophant"],
+      "question": "Which of the following is an accurate SYNONYM of 'SYCOPHANT'?",
+      "options": [
+        { "id": "A", "text": "Toady" },
+        { "id": "B", "text": "Detractor" },
+        { "id": "C", "text": "Critic" },
+        { "id": "D", "text": "Dissenter" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "'SYCOPHANT' ek Noun hai jiska arth chaploos ya khushamdi (flatterer, yes-man, toady) hota hai. Option A ('Toady') iska authentic synonym hai. Options B, C, aur D iske antonyms (aalochak ya virodhi) hain.",
+      "ruleReference": "Rule RC-01: Same Part-of-Speech Concord",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-023",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Unavoidability & Inescapability",
+      "conceptTags": ["adjectives", "antonyms", "inevitable"],
+      "question": "What is the true complementary ANTONYM of 'INEVITABLE'?",
+      "options": [
+        { "id": "A", "text": "Inescapable" },
+        { "id": "B", "text": "Avoidable" },
+        { "id": "C", "text": "Fated" },
+        { "id": "D", "text": "Certain" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'INEVITABLE' ka arth jise tala na ja sake (unavoidable) hota hai. Iska direct binary complementary opposite 'Avoidable' ya 'Preventable' (Option B) hota hai. Options A, C, aur D iske synonyms hain.",
+      "ruleReference": "Rule RC-04: Binary Complementary Opposition Law",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-024",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Precision & High Standards",
+      "conceptTags": ["adjectives", "synonyms", "fastidious"],
+      "question": "Choose the most appropriate SYNONYM of 'FASTIDIOUS':",
+      "options": [
+        { "id": "A", "text": "Sloppy" },
+        { "id": "B", "text": "Meticulous" },
+        { "id": "C", "text": "Careless" },
+        { "id": "D", "text": "Lax" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'FASTIDIOUS' ka arth har chhoti detail par dhyan dene wala aur baareekbeen (meticulous, scrupulous, punctilious) hota hai. Option B ('Meticulous') iska accurate synonym hai. Options A, C, aur D iske antonyms hain.",
+      "ruleReference": "Rule RC-06: Semantic Intensity Hierarchy Alignment",
+      "provenance": "original"
+    },
+    {
+      "id": "L16-IP-025",
+      "lessonId": "L16",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "Synonyms and Antonyms",
+      "subtopic": "Authenticity & Genuineness",
+      "conceptTags": ["adjectives", "antonyms", "genuine"],
+      "question": "In legal evidentiary terms, what is the primary ANTONYM of 'GENUINE'?",
+      "options": [
+        { "id": "A", "text": "Authentic" },
+        { "id": "B", "text": "Spurious" },
+        { "id": "C", "text": "Veritable" },
+        { "id": "D", "text": "Legitimate" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'GENUINE' (Adjective) ka arth asli, pramanik aur authentic hota hai. Legal contexts mein nakli ya farzi dastavezon ke liye 'Spurious' ya 'Counterfeit' (Option B) iska exact polar antonym hota hai. Options A, C, aur D iske synonyms hain.",
+      "ruleReference": "Rule RC-11: Collocational Compatibility & Register Law",
+      "provenance": "original"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "L05",
+  "title": "Active & Passive Voice — Imperatives, Modals & Prepositional Verbs",
+  "shortTitle": "Imperatives, Modals & Prepositional Verbs",
+  "topicId": "T02",
+  "topicTitle": "Voice: Active & Passive",
+  "part": "2 of 2",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Advanced",
+  "targetScore": "100% Structural Accuracy",
+  "description": "Imperative sentences (commands, requests, advice, prohibitions), modal auxiliaries (simple aur modal-perfect), prepositional aur phrasal verbs mein fixed prepositions ka retention, aur two-object passive constructions ko master karein.",
+  "learningObjectives": [
+    "Imperative sentences ko unke communicative function (orders, requests, instructions, advice, prohibitions) ke hisaab se natural passive constructions mein convert karein",
+    "Textbook imperative pattern 'Let + object + be + V3' aur situational passive forms ('You are requested / ordered / advised to') ke beech accurate distinction karein",
+    "Negative imperatives aur prohibitions ke passive structures ('Let + object + not + be + V3' aur 'You are forbidden / instructed not to') ko master karein",
+    "Moral obligation aur advice wale sentences mein 'should be + V3' aur 'must be + V3' passive patterns apply karein",
+    "Modal auxiliaries (can, could, may, might, must, should, would) ke standard passive structure 'modal + be + V3' ko accurately transform karein",
+    "Modal-perfect passive structure 'modal + have been + V3' ko past unfulfilled actions aur deductions ke context mein master karein",
+    "Negative aur interrogative modal passives mein correct auxiliary chain aur inverted word order preserve karein",
+    "Prepositional aur phrasal verbs (look into, laugh at, deal with, call off) mein required prepositions ko passive voice mein retain karein",
+    "Direct aur indirect objects (two-object verbs) wale active sentences se dono alternative passive forms construct aur evaluate karein",
+    "High Court competitive exams ke advanced voice traps (missing prepositions, modal backshifting, incorrect negative order, been omission) ko eliminate karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Imperatives with objects: 'Let + object + be + V3' pattern",
+      "Imperatives expressing requests: 'You are requested to + V1' pattern",
+      "Imperatives expressing orders/instructions: 'You are ordered/instructed to + V1' pattern",
+      "Imperatives expressing advice or moral duty: 'Subject + should/must + be + V3' pattern",
+      "Negative imperatives and prohibitions: 'Let + object + not + be + V3' aur 'You are forbidden to / instructed not to'",
+      "Simple modal passives: 'Modal + be + V3' across can, could, may, might, must, should, will, would, ought to",
+      "Modal perfect passives: 'Modal + have been + V3' for past unfulfilled actions or deductions",
+      "Negative and interrogative modal passive constructions",
+      "Preposition retention rule: retaining essential prepositions in prepositional verbs (looked into, laughed at, dealt with)",
+      "Multi-word and phrasal-prepositional verbs in passive constructions",
+      "Two-object active sentences: indirect object promotion vs direct object promotion with 'to/for'"
+    ],
+    "excluded": [
+      "Basic 8-tense active-to-passive matrix (covered in Lesson 04)",
+      "Direct & Indirect Narration reporting rules, backshift tables, and pronoun shifts (covered in Lessons 06 & 07)",
+      "Sentence transformations regarding polarity and degree of comparison (covered in Lessons 08 & 09)",
+      "Subject-Verb Concord non-voice rules (covered in Lesson 13)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Learning Objectives",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Imperatives, modals, fixed prepositions, aur two-object voice constructions ke scope aur exam weightage ko samajhein."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Advanced Voice Architecture & Theory",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "Imperative patterns, situational requests, advice, modals, modal-perfects, preposition retention, aur bi-transitive passives par in-depth reference."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Interactive Diagrams & Transformation Flow",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Imperative engine, modal architecture, preposition retention inspector, two-object router, aur advanced decision tree."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "10 Precision Advanced Voice Formulas",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Imperatives, requests, advice, modals, modal-perfects, preposition retention, aur two-object passives ke exact formula reference cards."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Exam Derivations",
+      "durationMin": 15,
+      "type": "worked-examples",
+      "summary": "Advanced voice transformations ka cognitive step-by-step derivation algorithm with annotated reasoning."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "6 High-Frequency Advanced Voice Traps",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "Dropped prepositions, modal backshift confusion, missing 'been' in modal-perfect, negative imperative order blunders, aur two-object preposition errors ka elimination."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Scaffolded Questions with Instant Feedback",
+      "durationMin": 15,
+      "type": "guided-practice",
+      "summary": "Immediate hint support, step-by-step reasoning, aur rule references ke sath guided advanced voice transformation practice."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "20 High Court Exam-Caliber MCQs",
+      "durationMin": 20,
+      "type": "independent-practice",
+      "summary": "Unassisted test simulation: Imperatives, modals, modal-perfects, preposition retention, two-object sentences, aur error spotting."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15-Question Timed Certification Test",
+      "durationMin": 12,
+      "type": "mastery-assessment",
+      "summary": "Strict 12-minute exam timer, 80% passing standard (12/15), shuffle support, aur official scoring."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Revision & Completion",
+      "subtitle": "Quick Reference & Error Remediation",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Advanced Voice summary sheet, weakness diagnostics, Error Bank re-testing, aur permanent milestone completion."
+    }
+  ]
+}

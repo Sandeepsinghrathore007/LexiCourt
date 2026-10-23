@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "Redundant Prepositions after Direct Transitive Verbs",
+    "category": "Syntax Redundancy & Pleonasm Trap",
+    "frequency": "Extremely High (Number 1 Error Spotting Item in High Court Exams)",
+    "explanation": "Hindi speakers aksar apni mother tongue ke prepositions ko English mein literal translate karte hain. Hindi mein hum kehte hain: 'mamle ke baare mein charcha ki' ➔ isse candidate bolta hai '*discussed about the matter'; 'khana mangwaya' ➔ '*ordered for food'; 'kile par hamla kiya' ➔ '*attacked on the fort'; 'court mein pahuncha' ➔ '*reached to the court'. Lekin English mein discuss, order, attack, reach, resemble, aur accompany direct transitive verbs hain. Inka direct object bina kisi preposition ke aata hai. Inke sath preposition lagana fatal pleonastic error hai.",
+    "incorrectExample": "Incorrect: The committee discussed about the promotion policy, and then ordered for some refreshments.",
+    "correctExample": "Correct: The committee discussed the promotion policy, and then ordered some refreshments.",
+    "trapRule": "The Direct Transitive Law: discuss (NO about), order (NO for), attack (NO on), reach (NO to), resemble (NO with/to), accompany (NO with). Instantly eliminate options containing these redundant prepositions."
+  },
+  {
+    "id": "PIT-02",
+    "title": "The Physical 'Enter Into' Spatial Error",
+    "category": "Polysemous Semantic Boundary Trap",
+    "frequency": "Very High (Classic Rajasthan Competitive Examination Trap)",
+    "explanation": "Candidates 'into' ko movement ke liye standard rule maante hain aur jab 'enter' verb aati hai, toh bina soche 'entered into the room' likh dete hain. Rule ye hai ki 'enter' ka literal meaning hi hota hai 'go/come INTO'. Isliye jab kisi physical enclosed space (room, hall, classroom, building, chamber) mein dakhil hona ho, toh 'into' lagana strictly prohibited hota hai ('entered the courtroom'). 'Enter into' sirf tab valid hota hai jab entry metaphorical, legal ya figurative ho, jaise: 'enter into an agreement / contract / negotiations / alliance'.",
+    "incorrectExample": "Incorrect: As soon as the judicial magistrate entered into the courtroom, everyone stood up.",
+    "correctExample": "Correct: As soon as the judicial magistrate entered the courtroom, everyone stood up. (Figurative: Both companies entered into an agreement).",
+    "trapRule": "Physical vs Figurative Distinction: Physical Room Entry = 'ENTER + Object' (Zero Preposition). Legal/Abstract Engagement = 'ENTER INTO + Agreement/Contract'."
+  },
+  {
+    "id": "PIT-03",
+    "title": "Conflating Deadlines ('By') with Ongoing Continuity ('Until')",
+    "category": "Aspectual Boundary Concord Error",
+    "frequency": "Extremely High (Recurring Fill-in-the-Blank Distractor)",
+    "explanation": "Hindi mein 'By' aur 'Until' dono ko bolchal mein 'tak' bol diya jata hai ('Somwar tak jama karo' vs 'Somwar tak ruko'). Lekin English grammar mein inka aspectual structure bilkul opposite hai. 'By' ek instant point-action verb ke sath lagta hai aur latest deadline (not later than) mark karta hai. 'Until' ek durative verb ke sath lagta hai aur action ki continuous ongoing duration ko denote karta hai jo us terminal point par end hoti hai. Point verb ke sath 'until' lagana (*submit until Monday) ya durative verb ke sath 'by' lagana (*waited by 5 PM) sentence ke logic ko destroy kar deta hai.",
+    "incorrectExample": "Incorrect: Candidates must submit their verification forms until 5:00 PM on Friday.",
+    "correctExample": "Correct: Candidates must submit their verification forms by 5:00 PM on Friday. (Durative: He stayed in the court until 5:00 PM).",
+    "trapRule": "The Aspect Concord Rule: Point-Action Verbs (submit, finish, complete, arrive) demand 'BY'. Continuous Durative Verbs (wait, stay, work, remain, continue) demand 'UNTIL'."
+  },
+  {
+    "id": "PIT-04",
+    "title": "The 'Between' Multi-Entity Blind Spot",
+    "category": "Oversimplification Rule Trap",
+    "frequency": "Very High (High-Yield Discriminator for Top Rankers)",
+    "explanation": "Aamtaur par candidates blindly yaad rakhte hain ki 'Between = 2' aur 'Among = 2 se zyada'. Examiner is oversimplified rule ka test lene ke liye teen countries ke beech treaty ya trade agreement ka sentence de deta hai ('treaty between India, the USA, and Japan'). Candidates teen entities dekh kar 'among' select kar lete hain jo bilkul galat ho jata hai. Standard English rule ye hai ki agar 3 ya usse zyada entities individually named ho aur unke beech mutual, bilateral ya reciprocal relationship ho, toh strictly 'BETWEEN' lagta hai. 'Among' tab lagta hai jab group general aur undistinguished mass ho ('among the countries').",
+    "incorrectExample": "Incorrect: A strategic defense pact was negotiated among India, France, and Australia.",
+    "correctExample": "Correct: A strategic defense pact was negotiated between India, France, and Australia.",
+    "trapRule": "The Distinct Reciprocal Law: Whenever 3 or more entities are separately named with bilateral/reciprocal relations (treaties, matches, borders), use 'BETWEEN'. Use 'AMONG' only for collective undistinguished groups."
+  },
+  {
+    "id": "PIT-05",
+    "title": "Temporal Origin vs Duration Discord ('Since' with Periods)",
+    "category": "Temporal Concord & Tense Discord Error",
+    "frequency": "Extremely High (SSC & High Court Core Error Item)",
+    "explanation": "Candidates aksar 'since' aur 'for' ke usage mein confuse ho jaate hain aur 'since three years' ya 'since two months' likh dete hain. 'Since' strictly starting point of time (calendar year, month, named day, clock time, life event) ke sath lagta hai. Jab time ko count kiya gaya ho (number + unit: 3 days, 5 hours, 10 years), toh strictly 'FOR' lagta hai. Sath hi, doosra trap ye hota hai ki candidates maante hain ki 'for' sirf perfect tense mein lag sakta hai; jabki agar past duration complete ho chuki ho toh Simple Past ke sath 'for' lagna 100% accurate standard English hai.",
+    "incorrectExample": "Incorrect: He has been practicing in this court since five years. / He is living here since 2020.",
+    "correctExample": "Correct: He has been practicing in this court for five years. / He has been living here since 2020.",
+    "trapRule": "Anchor Concord: Number + Time Unit (3 years, 10 days) = strictly 'FOR'. Exact Named Anchor (2020, Monday, dawn) = strictly 'SINCE'. And 'since' requires Perfect/Perfect Continuous tense."
+  },
+  {
+    "id": "PIT-06",
+    "title": "The 'Beside' vs 'Besides' Lexical Identity Trap",
+    "category": "Orthographic & Lexical Category Confusion",
+    "frequency": "High (Fixed Administrative Vocabulary Error)",
+    "explanation": "'Beside' aur 'Besides' mein sirf ek letter 's' ka farq hai, lekin dono completely alag grammatical categories hain. 'Beside' preposition of place hai jiska matlab hota hai 'by the side of / next to' (bagal mein baithna ya sthit hona). 'Besides' ek additive preposition ya transition adverb hai jiska matlab hota hai 'in addition to / apart from' (ke atirikt / ke alawa). Examiner seat par baithne ke liye 'sat besides him' likh deta hai ya addition batane ke liye 'beside a fine' likh kar distract karta hai.",
+    "incorrectExample": "Incorrect: The stenographer was seated besides the magistrate during the cross-examination.",
+    "correctExample": "Correct: The stenographer was seated beside the magistrate during the cross-examination. (Additive: Besides his legal practice, he writes textbooks).",
+    "trapRule": "The 'S' Filter: BESIDE (No 's') = Adjacent Location (by the side). BESIDES (Has 's') = Addition (in addition to). Test the sentence by substituting 'next to' vs 'in addition to'."
+  }
+]

@@ -1,0 +1,134 @@
+{
+  "id": "L12",
+  "title": "Fixed Prepositions — Verb, Adjective & Noun Combinations",
+  "shortTitle": "Fixed Prepositions: Verb, Adjective & Noun",
+  "topicId": "T05",
+  "topicTitle": "Use of Articles, Determiners and Prepositions",
+  "part": "3 of 3",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Advanced",
+  "targetScore": "100% Precision",
+  "description": "Verb, Adjective aur Noun ke sath aane wale high-frequency fixed prepositions, confusing preposition pairs (agree with/to, apply to/for, result in/from), transitive direct-object verbs (zero preposition), preposition + gerund (-ing) constructions, aur High Court administrative/legal collocations ko master karein.",
+  "learningObjectives": [
+    "Common verb + preposition combinations ko accurately recognize aur apply karein",
+    "Common adjective + preposition combinations ko context ke hisaab se select karein",
+    "Common noun + preposition combinations ke natural sentence structures ko decode karein",
+    "Intended expression aur context ke anusaar accurate preposition select karein",
+    "Similar meaning wale confusing preposition combinations (agree with vs agree to, apply to vs apply for) mein farq karein",
+    "Direct object verbs ko identify karein jahan standard English mein extra preposition lagana strictly prohibited hota hai",
+    "Unnecessary, missing, ya incorrect prepositions se hone wale exam errors ko eliminate karein",
+    "High Court exams mein aane wale recurring administrative aur legal vocabulary combinations ko master karein",
+    "Random lists ratne ke bajaye clear grammatical reasoning aur collocation patterns se questions solve karein",
+    "Preposition followed by -ing (gerund) vs infinitive (to + V1) ke structural distinction ko accurately implement karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Core Verb + Preposition collocations: depend on, rely on, insist on, approve of, accuse of, blame for, comply with, deal with, refer to, belong to, apply for/to, suffer from, recover from, prevent from, object to, prefer to, confide in, believe in, consist of, result in/from, agree with/to",
+      "Core Adjective + Preposition collocations: interested in, afraid of, aware of, responsible for, capable of, similar to, different from, famous for, good at/for, bad at, satisfied with, pleased with, concerned about, eligible for, accustomed to, prone to, consistent with, devoid of, liable for/to, senior/junior to",
+      "Core Noun + Preposition collocations: reason for, cause of, access to, demand for, need for, advantage of, interest in, relationship with, solution to, effect on, influence on, increase/decrease in, awareness of, responsibility for, exception to",
+      "Confusing Preposition Pairs: agree with vs to, apply to vs for, accuse of vs blame for, result in vs from, compare with vs to, complain of vs about, good at vs for, angry with vs about, prefer X to Y, senior/junior to",
+      "Direct-Object Verbs taking zero preposition: discuss, enter (physical room), reach, order, resemble, approach, emphasize",
+      "Prepositions followed by Gerunds (-ing): object to doing, accustomed to doing, look forward to doing, prevent from doing, insist on completing",
+      "Administrative and Legal Fixed Prepositions: abide by, adhere to, acquit of, convict of, vested in/with, charged with, in accordance with, pursuant to, dispose of, liable to/for, refrain/abstain from"
+    ],
+    "excluded": [
+      "Basic spatio-temporal In/On/At pyramids and physical movement vectors (covered in Lesson 11)",
+      "Articles and Quantifiers: A/An/The, Few/Little, Some/Any (covered in Lesson 10)",
+      "Subject-Verb Concord non-prepositional rules (covered in Lesson 13)",
+      "General Idiomatic Phrasal Verbs unrelated to fixed preposition questions (covered in Lesson 18)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Learning Objectives",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Fixed Prepositions ke core principles, exam weightage, collocation logic, confusing pairs, direct-object verbs, aur administrative combinations ko samjhein."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Fixed Prepositions Complete Reference & Categorized Rules",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "Verb, Adjective, Noun combinations, confusing pairs, direct-object verbs, gerund constructions, aur administrative collocations par comprehensive guide."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Interactive Collocation Navigators & Contrast Engines",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Fixed preposition matrix, confusing pairs comparator, direct-object omission inspector, gerund-preposition bridge, aur legal preposition compass."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "10 Precision Formula Cards",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Verb+Prep, Adj+Prep, Noun+Prep, Agree/Apply pairs, Result/Causal vectors, Evaluative adjectives, Latin comparatives, Direct Transitive zero preposition, Preposition+Gerund, aur Statutory Concord cards."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Exam Derivations",
+      "durationMin": 15,
+      "type": "worked-examples",
+      "summary": "Verb collocations, confusing pairs, direct object errors, comparative traps, gerund shifts, aur administrative preposition derivations with annotated Roman Hinglish reasoning."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "6 Critical Fixed Preposition Traps",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "Pleonastic 'discuss about', 'prefer than' error, Latin comparative with 'than', 'agree with' vs 'to' confusion, 'result in' vs 'from' inversion, aur gerund stripping after prepositional 'to'."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Scaffolded Questions with Hints",
+      "durationMin": 15,
+      "type": "guided-practice",
+      "summary": "Immediate feedback aur contextual hints ke saath 12 multi-dimensional fixed preposition practice items."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "20 Exam-Grade Practice Questions",
+      "durationMin": 20,
+      "type": "independent-practice",
+      "summary": "Full syllabus coverage wale 20 realistic competitive questions with detailed diagnostic explanations."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15 Timed Certification Questions",
+      "durationMin": 12,
+      "type": "mastery-assessment",
+      "summary": "12-minute timed exam simulation with 80% passing threshold (12/15) to achieve official module mastery."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Error Review & Remediation",
+      "subtitle": "Personalized Mistake Bank & Diagnostics",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Practice aur assessment ke sabhi incorrect answers ka comprehensive review, weak area diagnostics, aur one-click retry engine."
+    }
+  ]
+}

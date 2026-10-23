@@ -1,0 +1,162 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Verb + Preposition Core Collocations",
+    "time": "Verb Units",
+    "aspect": "Core Collocations",
+    "formula": "VERB + PREPOSITION (depend ON, insist ON, approve OF, consist OF, comply WITH)",
+    "auxiliary": "fixed preposition connectors",
+    "usage": "English mein verbs kisi arbitrary preposition ke bajaye established collocation ke sath unit banate hain: depend on, rely on, insist on (baat par zor dena), approve of (sahmati dena), consist of (se banna), comply with (rules ka palan karna), belong to (swamitva), suffer from (peedit hona), prevent from (rokna). Inhe complete phrases ke roop mein yaad rakhein.",
+    "patterns": {
+      "affirmative": "Full Collocation Unit: \"The judicial committee consists of three senior advocates who comply with High Court guidelines.\"",
+      "negative": "Prohibition Vector: \"Security protocols prevented the unauthorized visitor from entering the registry chamber.\"",
+      "interrogative": "Assertion Query: \"Did the defense counsel insist on filing a rejoinder before the lunch recess?\""
+    },
+    "timeMarkers": ["depend on", "rely on", "insist on", "approve of", "consist of", "comply with", "prevent from"],
+    "keyTip": "COMPLETE PHRASE LAW: Kabhi bhi 'consist', 'rely', ya 'insist' ko akela na yaad karein. Hamesha bolkar dekhein: 'consist of', 'rely on', 'insist on'."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Adjective + Preposition Core Collocations",
+    "time": "Adjective Units",
+    "aspect": "Evaluative States",
+    "formula": "ADJECTIVE + PREPOSITION (aware OF, capable OF, interested IN, responsible FOR, eligible FOR)",
+    "auxiliary": "state & capacity modifiers",
+    "usage": "Adjectives kisi quality, state ya capacity ko express karte hain aur specific prepositions ke sath target object se judte hain: aware of (parichit), capable of (kshamata), interested in (ruchi), responsible for (utardayi), eligible for (patra), afraid of (bhaybheet), famous for (prasiddh), similar to (saman), different from (bhinn), devoid of (vanchit).",
+    "patterns": {
+      "affirmative": "Capacity & Eligibility: \"Candidates holding an MCA degree are eligible for the post and fully capable of maintaining servers.\"",
+      "negative": "Deficiency State: \"The newly filed writ petition was completely devoid of merit and factual backing.\"",
+      "interrogative": "Awareness Check: \"Is the administrative officer aware of the latest High Court digitisation circular?\""
+    },
+    "timeMarkers": ["aware of", "capable of", "interested in", "responsible for", "eligible for", "devoid of"],
+    "keyTip": "STANDARD COMPARISON LAW: 'Different FROM' is the gold standard in Rajasthan competitive exams. Avoid '*different than' or '*different to'."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Noun + Preposition Syntactic Units",
+    "time": "Noun Units",
+    "aspect": "Relational Structures",
+    "formula": "NOUN + PREPOSITION (solution TO, key TO, reason FOR, cause OF, access TO, demand FOR, effect ON)",
+    "auxiliary": "structural noun connectors",
+    "usage": "Nouns specific conceptual prepositions demand karte hain: solution TO a problem (never *solution of!), key TO success (never *key of!), reason FOR an action, cause OF a fire/accident, access TO records, demand FOR resources, effect ON health/cases, increase/decrease IN numbers, exception TO a rule.",
+    "patterns": {
+      "affirmative": "Key & Solution Concord: \"Systematic daily typing practice is the indisputable key to success in the High Court skill test.\"",
+      "negative": "Absence of Access: \"Junior clerks do not have access to sealed judicial proceedings.\"",
+      "interrogative": "Causal Inquiry: \"What was the primary cause of the sudden electrical fire in the record room?\""
+    },
+    "timeMarkers": ["solution to", "key to", "reason for", "cause of", "access to", "effect on", "exception to"],
+    "keyTip": "SOLUTION & KEY TO LAW: Hindi mein 'samasya KA hal' bolte hain, par English mein strictly 'solution TO the problem' aur 'key TO success' hota hai (never 'of')."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Confusing Relational Pairs: 'Agree' & 'Apply'",
+    "time": "Confusing Pairs",
+    "aspect": "Target Concord",
+    "formula": "Agree WITH (Person) | Agree TO (Proposal) || Apply TO (Authority) | Apply FOR (Post/Job)",
+    "auxiliary": "person vs proposal / authority vs post",
+    "usage": "Jab target koi person ya personal opinion ho toh 'Agree WITH' lagta hai ('I agree with the advocate'). Jab target koi proposal, plan, scheme ya terms ho toh strictly 'Agree TO' lagta hai ('The registry agreed to the proposal'). Apply ke sath: pad ya chhutti ke liye 'Apply FOR' ('applied for leave/post'); jisko aavedan diya jaye us authority ke liye 'Apply TO' ('applied to the Registrar General').",
+    "patterns": {
+      "affirmative": "Proposal Agreement: \"The administrative committee agreed to the union's proposal for revised duty rosters.\"",
+      "negative": "Personal Disagreement: \"The learned judge did not agree with the public prosecutor on this legal interpretation.\"",
+      "interrogative": "Dual Application: \"Did he apply for the position or did he directly apply to the Chief Justice?\""
+    },
+    "timeMarkers": ["agree with you", "agree to the proposal", "apply for the post", "apply to the registrar"],
+    "keyTip": "PROPOSAL FILTER: Agar blank ke baad 'proposal', 'terms', 'scheme', ya 'plan' ho toh jaldbazi mein 'with' na lagayein, strictly 'TO' chunen."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Causal & Result Vectors: 'Result' & 'Accuse/Blame'",
+    "time": "Causal Vectors",
+    "aspect": "Directional Causality",
+    "formula": "Result IN (Outcome) | Result FROM (Cause) || Accuse OF (Crime) | Blame FOR (Fault)",
+    "auxiliary": "forward vs backward causal vectors",
+    "usage": "'Result IN' outcome batata hai: 'Careless typing resulted in an error' (Typing caused error). 'Result FROM' source/cause batata hai: 'The error resulted from careless typing' (Error was caused by typing). 'Accuse' apradh ke liye 'OF' leta hai: 'accused of bribery' (never *accused for). 'Blame' galti ke liye 'FOR' leta hai: 'blamed him for the delay'.",
+    "patterns": {
+      "affirmative": "Forward Outcome: \"Inadequate network bandwidth resulted in intermittent server disconnections during live trials.\"",
+      "negative": "Origin Attribution: \"The technical glitch did not result from any negligence on the part of the assistant.\"",
+      "interrogative": "Allegation Structure: \"Was the junior accountant formally accused of tampering with official vouchers?\""
+    },
+    "timeMarkers": ["resulted in", "resulted from", "accused of", "blamed for", "charged with"],
+    "keyTip": "SUBJECT TEST: Agar subject 'kaaran' (cause) hai toh 'RESULTED IN' aayega. Agar subject 'parinaam' (outcome) hai toh 'RESULTED FROM' aayega."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Evaluative & Emotional Adjectives: 'Good', 'Angry' & 'Pleased'",
+    "time": "Emotional States",
+    "aspect": "Evaluative Context",
+    "formula": "Good AT (Skill) | Good FOR (Health/Benefit) || Angry WITH (Person) | Angry AT (Matter)",
+    "auxiliary": "competence vs benefit / human vs situation",
+    "usage": "Kisi subject ya skill mein kushal hona: 'good AT mathematics/typing' (never *good in!). Kisi ke fayde ya health ke liye accha hona: 'good FOR health'. Kisi vyakti par naraz hona: 'angry WITH the clerk'. Kisi baat ya aacharan par naraz hona: 'angry AT/ABOUT the delay'. Kaam se santusht hona: 'satisfied WITH the report'.",
+    "patterns": {
+      "affirmative": "Skill Competence: \"The appointed System Assistant is remarkably good at shell scripting and SQL queries.\"",
+      "negative": "Personal Anger: \"The Chief Justice was not angry with the advocate, but angry at the administrative lapse.\"",
+      "interrogative": "Satisfaction Concord: \"Were the members of the committee satisfied with the forensic explanation?\""
+    },
+    "timeMarkers": ["good at typing", "good for health", "angry with him", "angry at the delay", "satisfied with"],
+    "keyTip": "GOOD AT LAW: Hindi mein 'wo typing MEIN accha hai' bolte hain, isliye log *good in typing likh dete hain. Standard English strictly 'GOOD AT' demand karti hai."
+  },
+  {
+    "id": "RC-07",
+    "tense": "Comparative Preposition Law: 'Prefer' & Latin Comparatives",
+    "time": "Comparisons",
+    "aspect": "Prepositional Concord",
+    "formula": "Prefer X TO Y (Never Than!) | Senior / Junior / Superior / Inferior / Prior + TO",
+    "auxiliary": "to (substituting comparative than)",
+    "usage": "'Prefer' aur 'preferable' do entities ke comparison mein preposition 'TO' lete hain ('prefer tea to coffee', 'prefer drafting to arguing'). Latin adjectives jinke end mein '-or' aata hai (senior, junior, superior, inferior, prior, anterior, posterior) kabhi bhi 'THAN' nahi lete; inke sath strictly 'TO' lagta hai: 'senior to me' (never *senior than me!).",
+    "patterns": {
+      "affirmative": "Prefer Concord: \"Most judicial officers prefer electronic case management to cumbersome paper records.\"",
+      "negative": "Latin Comparative: \"He is three years senior to me in service, though not superior to me in technical skills.\"",
+      "interrogative": "Preference Inquiry: \"Do you prefer mediation to prolonged adversarial litigation in court?\""
+    },
+    "timeMarkers": ["prefer ... to ...", "preferable to", "senior to", "junior to", "superior to", "prior to"],
+    "keyTip": "THE '-OR' FILTER: Jis comparative word ke ant mein '-or' ho (senior, junior, prior, superior), wahan 'THAN' 100% prohibited hai. Strictly use 'TO'."
+  },
+  {
+    "id": "RC-08",
+    "tense": "The Direct Transitive Law: Zero Preposition with Direct-Object Verbs",
+    "time": "Zero Preposition",
+    "aspect": "Direct Transitive Omission",
+    "formula": "VERB + Direct Object (discuss, enter, reach, order, resemble, approach, emphasize: NO PREPOSITION!)",
+    "auxiliary": "zero preposition marker",
+    "usage": "Direct transitive verbs ka action seedhe object par pass hota hai. Inke baad redundant preposition lagana pleonastic error hota hai: discuss (NOT about), enter physical room (NOT into), reach place (NOT to), order food/goods (NOT for), resemble person (NOT to/with), approach authority (NOT to), emphasize point (NOT on), demand explanation (NOT for).",
+    "patterns": {
+      "affirmative": "Clean Transitive Usage: \"The Division Bench discussed the petition, reached the conclusion, and entered the courtroom.\"",
+      "negative": "Zero Preposition Demand: \"The Registrar did not emphasize the penalty, but demanded an explanation directly.\"",
+      "interrogative": "Direct Order Query: \"Did the department order the new server equipment without administrative approval?\""
+    },
+    "timeMarkers": ["discuss the matter", "enter the room", "reach the court", "order the equipment", "resemble his brother"],
+    "keyTip": "PLEONASM ELIMINATION: Options mein agar 'discussed about', 'entered into the room', 'ordered for food', ya 'resembled to' dikhe, unhe pehle nazar mein eliminate karein."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Preposition + Gerund Law: 'To + V-ing' in Fixed Expressions",
+    "time": "Gerund Units",
+    "aspect": "Prepositional 'TO'",
+    "formula": "PREPOSITION + Verb-ing (especially: look forward to, accustomed to, object to, with a view to + V-ING)",
+    "auxiliary": "gerund (-ing) inflection",
+    "usage": "Kisi bhi preposition ke baad aane wali verb mandatory GERUND (-ing) hoti hai ('fond of reading', 'prevented from leaving'). Sabse bada trap tab banta hai jab preposition 'TO' hota hai: 'look forward to', 'accustomed to', 'used to', 'object to', 'with a view to', 'prone to', 'addicted to' mein 'to' preposition hai, isliye inke baad hamesha V-ing aayega, V1 bilkul nahi!",
+    "patterns": {
+      "affirmative": "With a View To + Gerund: \"The High Court modernized its IT cells with a view to accelerating digital case disposal.\"",
+      "negative": "Objection to Gerund: \"The prosecution did not object to granting interim medical bail to the respondent.\"",
+      "interrogative": "Anticipation Query: \"Are you looking forward to joining the Rajasthan High Court establishment as an assistant?\""
+    },
+    "timeMarkers": ["look forward to meeting", "accustomed to working", "object to granting", "with a view to accelerating"],
+    "keyTip": "NOUN TEST FOR 'TO': Agar phrase ke baad 'IT' fit ho sakta hai ('look forward to IT', 'accustomed to IT'), toh 'to' preposition hai aur verb aane par mandatory -ing lega!"
+  },
+  {
+    "id": "RC-10",
+    "tense": "Statutory & Administrative Preposition Concord",
+    "time": "Legal Lexicon",
+    "aspect": "Judicial Collocations",
+    "formula": "abide BY | comply WITH | acquit OF | charge WITH | pursuant TO | dispose OF (Single F!)",
+    "auxiliary": "statutory & judicial connectors",
+    "usage": "High Court exam context mein aane wale legal collocations: abide by (court decisions/rules), comply with (directives), pursuant to (orders/notifications), in accordance with (rules), acquit of (charges), convict of (crime), charged with (offence), vested in (authority/body), vested with (powers), incumbent upon (official), dispose of (files/petitions - ALWAYS single 'f'!), tamper with (evidence).",
+    "patterns": {
+      "affirmative": "Full Judicial Concord: \"Pursuant to the roster notification, the learned judge disposed of thirty writ petitions in accordance with service rules.\"",
+      "negative": "Acquittal & Exoneration: \"The sessions court acquitted the accused of all charges because no one could prove he tampered with records.\"",
+      "interrogative": "Administrative Compliance: \"Did the subordinate court comply with all safety mandates incumbent upon judicial officers?\""
+    },
+    "timeMarkers": ["abide by", "comply with", "acquit of", "convict of", "charged with", "pursuant to", "dispose of"],
+    "keyTip": "DISPOSE OF (SINGLE F): High Court exams mein 'dispose off' likhkar trick kiya jata hai. Yaad rakhein: Legal disposal hamesha single 'f' leta hai: 'dispose OF'."
+  }
+]

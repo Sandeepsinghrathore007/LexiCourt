@@ -1,0 +1,226 @@
+[
+  {
+    "id": "RC-01",
+    "tense": "Definition vs Synonym Precision Rule",
+    "time": "Core Foundations",
+    "aspect": "Definition Precision",
+    "formula": "Complete Definition Clues = Exact Target Lexeme (Near-Synonyms Eliminated)",
+    "auxiliary": "Every restricting clause in the definition must be satisfied by the chosen word",
+    "usage": "One-Word Substitution ek exact definition ko compress karta hai, na ki aam bolchal ke synonym ko. Agar definition mein specific limiting conditions hain (jaise 'especially through generous financial donation'), toh generic word 'kind' ya 'generous' galat hoga; technical word 'Philanthropist' hi correct answer hoga.",
+    "patterns": {
+      "affirmative": "Exact Substitution: \"A person who seeks to promote the welfare of others, especially by donating money = Philanthropist.\"",
+      "negative": "Near-Synonym Fallacy: Selecting 'Kind' or 'Friendly' ignores the financial/charitable restriction of the definition.",
+      "interrogative": "Verification Test: Kya chuninda word definition ke har ek shart (who, what, how, why) ko 100% satisfy karta hai?"
+    },
+    "timeMarkers": ["definition-match", "precision", "exactness", "philanthropist"],
+    "keyTip": "DEFINITION CHECK: Jab bhi question aaye, definition ke saare keywords underline karein. Sirf broad meaning mat dekhein; limiting clause ko match karein."
+  },
+  {
+    "id": "RC-02",
+    "tense": "Person vs Quality / Condition Grammatical Concord",
+    "time": "Grammatical Role Concord",
+    "aspect": "Part of Speech Matching",
+    "formula": "\"A person who...\" -> Agent Noun | \"The quality of...\" -> Abstract Noun | \"Tending to...\" -> Adjective",
+    "auxiliary": "Align the target word's part of speech strictly with the definition stem",
+    "usage": "Examiners bohot chaalaki se same word-family ke different parts of speech options mein daal dete hain. Agar question 'A person who expects favourable outcomes' pooch raha hai, toh answer 'Optimist' (noun) hoga, 'Optimistic' (adjective) ya 'Optimism' (abstract noun) nahi.",
+    "patterns": {
+      "affirmative": "Agent Noun Match: \"A person who looks on the bright side = Optimist (Noun).\"",
+      "negative": "Adjective Trap: *'Optimistic' describes a trait, but does NOT name the person.",
+      "interrogative": "Abstract Noun Trap: *'Optimism' is the philosophical attitude itself, not the human agent."
+    },
+    "timeMarkers": ["person", "agent-noun", "part-of-speech", "concord"],
+    "keyTip": "AGENT VS TRAIT RULE: Agar definition 'A person who...' se shuru ho, toh -ist, -er, -or, -ian ending wale agent noun ko hi select karein."
+  },
+  {
+    "id": "RC-03",
+    "tense": "Spatial Enclosure Law: Place vs Occupant vs Activity",
+    "time": "Domain Demarcation",
+    "aspect": "Spatial Enclosure Rules",
+    "formula": "Species Stem + [-arium / -ary / -orium] = Dedicated Repository / Enclosure",
+    "auxiliary": "Distinguish the physical facility from the organisms housed or the activity performed",
+    "usage": "Kisi sthan (place) ko define karte waqt uske occupant ko identify karein: Bees ke liye Apiary (apis = bee), Birds ke liye Aviary (avis = bird), Water creatures ke liye Aquarium (aqua = water), Weapons ke liye Arsenal, Coins ke liye Mint. Inhe aapas mein confuse na karein.",
+    "patterns": {
+      "affirmative": "Bee Enclosure: \"A place where bees are kept = Apiary.\"",
+      "negative": "Bird Enclosure: \"A place where birds are kept = Aviary (NOT Apiary).\"",
+      "interrogative": "Coin Factory: \"A place where coins are officially manufactured = Mint.\""
+    },
+    "timeMarkers": ["apiary", "aviary", "aquarium", "arsenal", "mint"],
+    "keyTip": "MNEMONIC FOR APIARY VS AVIARY: 'P' in Apiary stands for Pollination (Bees); 'V' in Aviary stands for Vectors of flight (Birds)."
+  },
+  {
+    "id": "RC-04",
+    "tense": "Morphological Root Word Decoding (-phobia, -cide, -cracy, -phil)",
+    "time": "Morphological Architecture",
+    "aspect": "Root Derivation Rules",
+    "formula": "[Prefix / Base] + [-phobia (fear) / -cide (killing) / -cracy (rule) / -phil (love)] = Meaning",
+    "auxiliary": "Deconstruct unfamiliar words into classical Greek and Latin morphemes",
+    "usage": "Greek aur Latin root networks se hazaron one-word substitutions decode kiye ja sakte hain:\n- -phobia = irrational fear (Acrophobia = height, Claustrophobia = closed spaces, Xenophobia = foreigners).\n- -cracy = governance/power (Democracy = people, Autocracy = one, Plutocracy = wealthy, Theocracy = religious).\n- -phil / -phile = lover/attraction (Bibliophile = books, Philanthropist = humans).\n- -cide = act of killing (Homicide, Suicide, Regicide, Patricide).",
+    "patterns": {
+      "affirmative": "Fear of Heights: Acro- (summit) + -phobia (fear) = Acrophobia.",
+      "negative": "Rule by the Wealthy: Ploutos (wealth) + -cracy (rule) = Plutocracy (NOT Aristocracy).",
+      "interrogative": "Lover of Books: Biblio- (book) + -phile (lover) = Bibliophile."
+    },
+    "timeMarkers": ["roots", "phobia", "cracy", "phil", "cide"],
+    "keyTip": "ROOT DECOMPOSITION: Agar unknown word aaye, uske suffix (-cracy, -phobia, -ist) aur prefix (auto-, omni-, biblio-) ko split karke meaning decode karein."
+  },
+  {
+    "id": "RC-05",
+    "tense": "Dispute Resolution Roles: Arbitrator vs Mediator",
+    "time": "Legal & Administrative Roles",
+    "aspect": "Authority & Binding Power",
+    "formula": "Arbitrator = Binding Decision (Award) | Mediator = Non-Binding Facilitator (Settlement)",
+    "auxiliary": "Isolate the legal authority and binding nature of the dispute resolution outcome",
+    "usage": "Rajasthan High Court aur judicial competitive exams mein ye distinction sabse zyada pucha jata hai:\n- Arbitrator: Ek officially appointed independent judge jiske paas dono pakshon ka vivad sunkar BINDING VERDICT (Arbitral Award) dene ka kanooni adhikar hota hai.\n- Mediator: Ek neutral third-party facilitator jo dono pakshon ko baithakar aapsi samjhauta karwata hai, par koi binding faisla nahi thop sakta.",
+    "patterns": {
+      "affirmative": "Binding Award: \"An independent person appointed to make a legally binding decision = Arbitrator.\"",
+      "negative": "Facilitative Discussion: \"A person who helps opposing parties reach an amicable agreement = Mediator.\"",
+      "interrogative": "Judicial Distinction: Arbitrator judge ki tarah order pass karta hai; mediator sirf discussion assist karta hai."
+    },
+    "timeMarkers": ["arbitrator", "mediator", "dispute-resolution", "legal", "binding"],
+    "keyTip": "BINDING CLUE: Agar question mein 'legally binding' ya 'settle a dispute by decision' aaye toh ARBITRATOR; agar 'negotiate / facilitate agreement' aaye toh MEDIATOR."
+  },
+  {
+    "id": "RC-06",
+    "tense": "Literary & Memorial Triad: Epitaph vs Eulogy vs Elegy",
+    "time": "Literature & Rhetoric",
+    "aspect": "Genre & Medium Rules",
+    "formula": "Epitaph = Tomb Inscription | Eulogy = Praise Speech / Text | Elegy = Mourning Poem",
+    "auxiliary": "Distinguish the physical medium (stone), oral format (speech), and poetic genre (verse)",
+    "usage": "In teeno terms mein deceased person ka reference hota hai, par inka medium aur format alag hota hai:\n- Epitaph: Qabr ya samadhi ke patthar par khoda gaya short inscription (tombstone inscription).\n- Eulogy: Nidhan ke baad kisi vyakti ki stuti mein bola gaya prashansa-bhashan ya formal praise essay.\n- Elegy: Ek shok-kavita (poem of sorrow or lamentation) jo mrit vyakti ke shok mein likhi jati hai.",
+    "patterns": {
+      "affirmative": "Tombstone Inscription: \"Words inscribed on a tomb = Epitaph.\"",
+      "negative": "Speech of Praise: \"A speech praising someone, especially after death = Eulogy.\"",
+      "interrogative": "Poem of Mourning: \"A poem expressing sorrow for someone who has died = Elegy.\""
+    },
+    "timeMarkers": ["epitaph", "eulogy", "elegy", "literature", "memorial"],
+    "keyTip": "MEDIUM DIFFERENTIATOR: Tombstone = Epitaph (Epigraph on tomb); Praise speech = Eulogy (Eu = good, logos = word); Poem of grief = Elegy."
+  },
+  {
+    "id": "RC-07",
+    "tense": "Time & Frequency Calculation: Annual vs Biannual vs Biennial",
+    "time": "Time & Frequency",
+    "aspect": "Mathematical Intervals",
+    "formula": "Annual (1/yr) vs Biannual (2/yr, semiannual) vs Biennial (1 every 2 yrs)",
+    "auxiliary": "Calculate the exact mathematical time interval specified in the definition",
+    "usage": "Prefix 'bi-' se banne wale time terms mein aksar confusion hota hai:\n- Annual: Occurring once every year (saal mein 1 baar).\n- Biannual (or Semiannual): Occurring twice a year (1 saal mein 2 baar).\n- Biennial: Occurring once every two years (2 saal mein 1 baar).\n- Triennial = every 3 years; Decennial = every 10 years; Centennial = every 100 years.",
+    "patterns": {
+      "affirmative": "Twice a Year: \"Happening twice a year = Biannual (or Semiannual).\"",
+      "negative": "Every Two Years: \"Happening once every two years = Biennial (NOT Biannual).\"",
+      "interrogative": "Once a Year: \"Happening once every year = Annual.\""
+    },
+    "timeMarkers": ["annual", "biannual", "biennial", "frequency", "time"],
+    "keyTip": "BIENNIAL VS BIANNUAL: Bienn-IAL has 'E' like 'Every two years'. Biannual has 'A' like 'Again in the same year'."
+  },
+  {
+    "id": "RC-08",
+    "tense": "Sequence Directionality: Predecessor vs Successor",
+    "time": "Time & Frequency",
+    "aspect": "Sequence Directionality",
+    "formula": "Pre- (Before) -> Predecessor | Suc- / Post- (After) -> Successor",
+    "auxiliary": "Verify whether the role transition is moving backward or forward in chronological time",
+    "usage": "- Predecessor: Wo vyakti jo kisi pad ya sthan par vartaman incumbent se theek PEHLE tha (came before).\n- Successor: Wo vyakti jo kisi pad ya role mein kisi ke theek BAAD aata hai (comes after).",
+    "patterns": {
+      "affirmative": "One Who Came Before: \"A person who held a position before another = Predecessor.\"",
+      "negative": "One Who Comes After: \"A person who takes over an office after another = Successor.\"",
+      "interrogative": "Sequential Harmony: Pre- prefix hamesha earlier/before ko denote karta hai."
+    },
+    "timeMarkers": ["predecessor", "successor", "sequence", "office"],
+    "keyTip": "PREFIX CHECK: 'Pre-' = Before (Purvavarti); 'Suc-' (sub-sequor) = Following/After (Uttaradhikari)."
+  },
+  {
+    "id": "RC-09",
+    "tense": "Migration Directional Vectors: Immigrant vs Emigrant vs Refugee",
+    "time": "Social & Political Status",
+    "aspect": "Directional Vectors",
+    "formula": "I- (In-coming) = Immigrant | E- (Exit / Outgoing) = Emigrant | Fleeing Persecution = Refugee",
+    "auxiliary": "Identify whether the focus is moving INTO a country, LEAVING a country, or FLEEING danger",
+    "usage": "- Immigrant: Videsh se aakar naye desh mein sthayi roop se basne wala vyakti (In-coming to a country).\n- Emigrant: Apna mool desh chhod kar kisi doosre desh mein rehne jaane wala vyakti (Leaving one's own country).\n- Refugee: Yuddh, hinsa ya shasan ke atyachar se bachne ke liye majboori mein sharan lene wala vyakti.",
+    "patterns": {
+      "affirmative": "Moving In: \"A person who comes to live permanently in a foreign country = Immigrant.\"",
+      "negative": "Moving Out: \"A person who leaves their own country to live permanently elsewhere = Emigrant.\"",
+      "interrogative": "Seeking Asylum: \"A person forced to flee their homeland due to war or persecution = Refugee.\""
+    },
+    "timeMarkers": ["immigrant", "emigrant", "refugee", "migration", "borders"],
+    "keyTip": "IN VS EXIT RULE: 'I'mmigrant = comes 'IN'; 'E'migrant = 'EXITS' home country."
+  },
+  {
+    "id": "RC-10",
+    "tense": "Judicial Verdicts & Culpability: Acquit vs Absolve vs Convict",
+    "time": "Legal & Judicial Actions",
+    "aspect": "Judicial Precision",
+    "formula": "Acquit = Formal Court Verdict of Not Guilty | Absolve = Free from Moral Blame / Sin | Convict = Guilty Verdict",
+    "auxiliary": "Distinguish a formal courtroom trial judgment from broad moral or spiritual forgiveness",
+    "usage": "- Acquit: Court dwara criminal charges se nirdosh paakar aupacharik roop se bari karna (legal verdict of not guilty).\n- Convict: Court dwara trial ke baad doshi thahrana (formal finding of guilt).\n- Absolve: Kisi vyakti ko paap, naitik zimmedari ya aarop se mukt karna (broader moral/religious sense).\n- Exonerate: Investigation ke baad saboot milne par doshmukt declare karna.",
+    "patterns": {
+      "affirmative": "Court Verdict Not Guilty: \"To formally declare someone not guilty of a criminal charge = Acquit.\"",
+      "negative": "Court Verdict Guilty: \"To formally find someone guilty of a crime = Convict.\"",
+      "interrogative": "Moral Cleansing: \"To declare someone free from moral blame or guilt = Absolve.\""
+    },
+    "timeMarkers": ["acquit", "convict", "absolve", "exonerate", "legal-verdict"],
+    "keyTip": "COURTROOM VS MORAL: Agar definition mein 'court of law' ya 'criminal charge' ho, toh ACQUIT; agar general 'guilt, blame or sin' ho, toh ABSOLVE."
+  },
+  {
+    "id": "RC-11",
+    "tense": "Relinquishing Authority: Abdicate vs Renounce",
+    "time": "Governance & Authority",
+    "aspect": "Scope & Formality",
+    "formula": "Abdicate = Monarchy / Throne Relinquishment | Renounce = General Rights / Claims Abandonment",
+    "auxiliary": "Limit 'abdicate' strictly to supreme sovereign or royal thrones",
+    "usage": "- Abdicate: Specifically singhasan (throne), rajgaddi ya supreme monarchical post ko tyaagna.\n- Renounce: Kisi bhi claim, right, vishwas, ya property ko aupacharik roop se chhodna ya nakarna.",
+    "patterns": {
+      "affirmative": "Giving Up a Throne: \"To formally give up the throne or supreme power = Abdicate.\"",
+      "negative": "Giving Up a Claim: \"To formally give up a claim or right = Renounce (NOT Abdicate).\"",
+      "interrogative": "Scope Check: Kya baat raja/throne ki ho rahi hai ya general rights ki?"
+    },
+    "timeMarkers": ["abdicate", "renounce", "throne", "authority"],
+    "keyTip": "THRONE CLUE: Definition mein 'throne' ya 'monarch' dekhte hi ABDICATE chunein; kisi belief ya right ke liye RENOUNCE."
+  },
+  {
+    "id": "RC-12",
+    "tense": "Severity Modulation: Mitigate vs Ameliorate vs Exacerbate",
+    "time": "Process & Action Verbs",
+    "aspect": "Valence Modulation",
+    "formula": "Mitigate = Make Less Severe | Ameliorate = Make Better | Exacerbate / Aggravate = Make Worse",
+    "auxiliary": "Identify whether the action reduces severity, improves a state, or worsens a condition",
+    "usage": "- Mitigate: Kisi kasht, nuksan ya saza ki tivrata ko kam karna (alleviate, make less severe).\n- Ameliorate: Kisi kharab sthiti ko behtar banana (improve a bad situation).\n- Exacerbate / Aggravate: Kisi samasya, bimari ya vivad ko aur zyada badtar ya gambhir bana dena (make worse).",
+    "patterns": {
+      "affirmative": "Reduce Severity: \"To make something bad or painful less severe = Mitigate.\"",
+      "negative": "Make Worse: \"To make a bad situation or problem worse = Exacerbate (or Aggravate).\"",
+      "interrogative": "Improve Situation: \"To make a bad situation better = Ameliorate.\""
+    },
+    "timeMarkers": ["mitigate", "ameliorate", "exacerbate", "aggravate", "severity"],
+    "keyTip": "VALENCE DIRECTION: Less severe = Mitigate; Better = Ameliorate; Worse = Exacerbate."
+  },
+  {
+    "id": "RC-13",
+    "tense": "Phonetic Lookalike Trap: Imminent vs Immanent vs Eminent",
+    "time": "Phonetic & Semantic Traps",
+    "aspect": "Orthographic Disambiguation",
+    "formula": "Imminent (About to happen) != Immanent (Inherent / Within) != Eminent (Distinguished / Famous)",
+    "auxiliary": "Do not select lookalike words based purely on sound",
+    "usage": "In teeno shabdon ka pronunciation kafi milta-julta hai par meanings poori tarah alag hain:\n- Imminent: About to happen very soon; impending (e.g. 'imminent danger').\n- Immanent: Existing or operating within; inherent, indwelling (e.g. 'the immanent spirit').\n- Eminent: Famous, respected, and distinguished in a field (e.g. 'an eminent jurist').",
+    "patterns": {
+      "affirmative": "About to Happen: \"Likely to happen very soon = Imminent.\"",
+      "negative": "Existing Within: \"Existing and operating within something = Immanent.\"",
+      "interrogative": "Famous / Respected: \"Distinguished and respected in one's profession = Eminent.\""
+    },
+    "timeMarkers": ["imminent", "immanent", "eminent", "confusing-pairs", "lookalikes"],
+    "keyTip": "IMPENDING CLUE: 'Imminent' mein double 'm' aur 'i' hai jo 'Immediately coming' ko yaad dilata hai."
+  },
+  {
+    "id": "RC-14",
+    "tense": "8-Step Verification Protocol for Competitive Exams",
+    "time": "Exam-Solving Protocol",
+    "aspect": "Elimination Algorithm",
+    "formula": "Read Full Stem -> Isolate Entity -> Underline Clues -> Eliminate Wrong POS -> Contrast Distractors -> Verify Context",
+    "auxiliary": "Systematic algorithm guaranteeing 100% precision in competitive vocabulary items",
+    "usage": "Examination hall mein jaldbazi mein hone wali galtiyon se bachne ke liye ye 8 steps follow karein:\n1. Question stem ko poora padhein.\n2. Required entity pehchanein (Person, Place, Quality, Action).\n3. Defining limiting clues underline karein.\n4. Galat part of speech wale options turant kaat dein.\n5. Root words (-cracy, -phobia, -phil) ko analyze karein.\n6. Plausible candidates ke beech specific clue compare karein.\n7. Lookalike traps (Imminent vs Immanent) check karein.\n8. Candidate word ko sentence mein substitute karke final answer lock karein.",
+    "patterns": {
+      "affirmative": "Systematic Solving: Eliminating wrong part of speech immediately removes 50% of wrong options.",
+      "negative": "Impulsive Answering: Clicking the first familiar word without reading option D results in negative score.",
+      "interrogative": "Final Check: Does the selected term satisfy ALL restricting conditions of the question?"
+    },
+    "timeMarkers": ["protocol", "elimination", "strategy", "algorithm", "exam-mastery"],
+    "keyTip": "THE GOLDEN RULE: Agar definition mein 3 specific conditions hain, toh answer wo hoga jo teeno satisfy kare, na ki wo jo sirf 2 satisfy kare."
+  }
+]

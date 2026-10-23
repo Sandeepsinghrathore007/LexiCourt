@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "If-Clause mein 'Would' ya 'Would Have' ka Galat Use",
+    "category": "Modal Intrusion in Subordinate Clause",
+    "frequency": "Extremely High (Number One Error in High Court MCQs)",
+    "explanation": "Candidates aksar result clause ke modal 'would' ya 'would have' ko dekhkar if-clause ke andar bhi wahi modal laga dete hain. English grammar mein subordinate conditional clause (if-clause) ke andar 'would' ya 'would have' ka use standard grammar mein strictly forbidden hai. If-clause mein Type 2 ke liye Simple Past (V2) aur Type 3 ke liye Past Perfect ('had + V3') lagta hai.",
+    "incorrectExample": "If the administrative bench would have accepted the petition, the stay would have been granted.",
+    "correctExample": "If the administrative bench had accepted the petition, the stay would have been granted.",
+    "trapRule": "Mnemonic: 'Would' kabhi bhi if-clause ke andar nahi baithta. If-clause mein strictly Past Perfect ('had + V3') use karein."
+  },
+  {
+    "id": "PIT-02",
+    "title": "First Conditional If-Clause mein Future Auxiliary 'Will' ka Use",
+    "category": "Temporal & Conditional Clause Constraint",
+    "frequency": "Extremely High (Top Error-Spotting Question)",
+    "explanation": "Hindi mein hum dono clauses mein future bolte hain (jaise 'Agar wo aayega, toh main jaunga'). Is native language interference ki wajah se candidates English mein dono clauses mein 'will' laga dete hain ('If he will come, I will go'). Lekin English syntax ka strict rule hai: temporal (when, as soon as) aur conditional (if, unless) clauses ke andar future ko Simple Present (V1/V_s/es) se express kiya jata hai, 'will' se nahi.",
+    "incorrectExample": "If the government will issue the recruitment notification tomorrow, thousands of candidates will apply.",
+    "correctExample": "If the government issues the recruitment notification tomorrow, thousands of candidates will apply.",
+    "trapRule": "If + Simple Present (V1/V_s/es), will + V1. If-clause mein 'will' lagana fatal error hai."
+  },
+  {
+    "id": "PIT-03",
+    "title": "Hypothetical Conditionals mein 'Was' ka Use (Subjunctive 'Were' ki Jagah)",
+    "category": "Subjunctive Concord Violation",
+    "frequency": "Very High",
+    "explanation": "Casual conversation mein log aksar 'If I was you' bol dete hain, lekin High Court aur State PSC exams mein formal standard English check ki jaati hai. Jab condition present ya future mein imaginary, unreal, ya fact ke contrary ho (Type 2), toh singular subjects (I, he, she, it) ke sath bhi strictly subjunctive 'were' lagta hai. Yahan 'was' lagane se sentence formal exam standard par disqualify ho jata hai.",
+    "incorrectExample": "If he was the Chief Justice of India, he would abolish all vacation benches.",
+    "correctExample": "If he were the Chief Justice of India, he would abolish all vacation benches.",
+    "trapRule": "Unreal/Hypothetical Conditionals mein sabhi persons ke sath subjunctive 'were' lagta hai: 'If I were', 'If he were', 'If she were'."
+  },
+  {
+    "id": "PIT-04",
+    "title": "'Unless' ke sath Double Negative Trap ('Unless... not')",
+    "category": "Negative Redundancy",
+    "frequency": "Very High",
+    "explanation": "'Unless' ka inherent dictionary meaning hi 'if not' (agar nahi) hota hai. Isliye unless se shuru hone wale clause ke andar koi doosra negative word (jaise does not, did not, not, never) lagana grammatical blunder hai kyunki ye double negative banata hai. Result clause negative ho sakta hai, lekin unless wala clause hamesha affirmative form mein hona chahiye.",
+    "incorrectExample": "Unless the petitioner does not produce the original receipt, the bail will not be considered.",
+    "correctExample": "Unless the petitioner produces the original receipt, the bail will not be considered.",
+    "trapRule": "Unless = If not. Unless wale clause ke andar 'not' kabhi mat lagayein. Example: 'Unless you work hard...' (not 'Unless you do not work hard...')."
+  },
+  {
+    "id": "PIT-05",
+    "title": "Negative Inversion mein Galat Word Order ('Had not S' vs 'Had S not')",
+    "category": "Syntactic Word Order Inversion",
+    "frequency": "High (Distractor in Tough Papers)",
+    "explanation": "Jab Type 3 conditional ko 'Had' se invert kiya jata hai aur sentence negative ho, toh candidates aksar 'Had not + Subject' likh dete hain. Standard formal inverted syntax mein negative particle 'not' hamesha subject ke BAAD lagta hai. 'Had not the police...' galat hai; 'Had the police not...' sahi hai.",
+    "incorrectExample": "Had not the high court stayed the illegal construction, the heritage gate would have been demolished.",
+    "correctExample": "Had the high court not stayed the illegal construction, the heritage gate would have been demolished.",
+    "trapRule": "Inverted Negative Pattern: 'Had + Subject + not + V3' (NOT 'Had not + Subject + V3')."
+  },
+  {
+    "id": "PIT-06",
+    "title": "Type 2 (Hypothetical Present) aur Type 3 (Unreal Past) mein Confusion",
+    "category": "Temporal Frame Misidentification",
+    "frequency": "High",
+    "explanation": "Candidates aksar 'would + V1' aur 'would have + V3' ke beech confuse ho jaate hain aur time marker check kiye bina wrong option tick kar dete hain. Agar sentence beete huye kal ke event ki baat kar raha hai (jaise 'yesterday', 'last year', trial proceeding finished in the past), toh strictly Type 3 ('had + V3' / 'would have + V3') lagega. Agar situation current imaginary state hai ('now', 'today', general condition), toh Type 2 ('V2' / 'would + V1') lagega.",
+    "incorrectExample": "If the clerk had known the rule today, he would have guided the litigant properly.",
+    "correctExample": "If the clerk knew the rule today, he would guide the litigant properly.",
+    "trapRule": "Present Imaginary = Type 2 ('V2' + 'would + V1'). Past Finished Unreal = Type 3 ('had + V3' + 'would have + V3'). Sentence ke time markers ko hamesha dhyan se padhein."
+  }
+]

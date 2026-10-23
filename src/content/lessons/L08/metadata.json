@@ -1,0 +1,143 @@
+{
+  "id": "L08",
+  "title": "Transformation of Sentences — Assertive, Negative, Interrogative & Exclamatory",
+  "shortTitle": "Assertive, Negative, Interrogative & Exclamatory",
+  "topicId": "T04",
+  "topicTitle": "Transformation of Sentences",
+  "part": "1 of 2",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Intermediate",
+  "targetScore": "100% Meaning Preservation",
+  "description": "Assertive, Negative, Interrogative aur Exclamatory sentences ke structural transformations ko master karein jisme syntactic form badalti hai lekin original semantic proposition aur meaning 100% preserve rehta hai.",
+  "learningObjectives": [
+    "Assertive (Affirmative/Negative), Interrogative (Information/Rhetorical), aur Exclamatory sentences ke syntactic structures ko accurately identify karein",
+    "Sentence form (syntax) aur sentence meaning (semantics) ke beech fundamental difference ko master karein",
+    "Affirmative statements ko 'not + antonym', 'none but', 'nothing but', 'no sooner...than', aur 'so...that...cannot' use karke bina meaning change kiye negative mein convert karein",
+    "Negative statements ko affirmative mein accurately transform karein",
+    "Assertive sentences ko Golden Polarity Law (Affirmative ➔ Negative Interrogative; Negative ➔ Affirmative Interrogative) apply karke interrogative form mein badlein",
+    "Rhetorical questions aur ordinary information-seeking questions ke beech distinction identify karein aur statements ke sath unki semantic equivalence establish karein",
+    "Exclamatory sentences ('What a...!', 'How...!') ko assertive statements mein contextually appropriate intensifiers ('very', 'great', 'terrible') ke sath transform karein",
+    "Wishes, regrets, aur interjections ('If only...', 'O that...', 'Alas!', 'Hurrah!') ko natural assertive structures ('I wish...', 'It is a matter of sorrow/joy') mein convert karein",
+    "Auxiliary inversion, dummy do/does/did auxiliary insertion, aur punctuation shifts (. vs ? vs !) ko correctly execute karein",
+    "Rajasthan High Court exams ke recurring transformation traps (mechanical not insertion, quantifier mismatches, wrong antonyms, correlative errors) ko eliminate karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Foundational theory: Sentence transformation definition, form vs meaning, the Cardinal Rule of meaning preservation",
+      "Assertive sentences: Affirmative vs Negative declarative structures, subject-verb identification, auxiliary chains",
+      "Affirmative to Negative transformations: Not + antonym, double negatives, fail-to idiom",
+      "Restricted quantifiers: 'Only / Alone' with persons ('None but'), inanimate objects ('Nothing but'), and age/numbers ('Not more than')",
+      "Temporal transformations: 'As soon as' ➔ 'No sooner did/had ... than'",
+      "Universal affirmatives: 'Every / All' ➔ 'There is no ... without / who does not'",
+      "Habitual polarity: 'Always' ➔ 'Never + opposite'",
+      "Intensive inability: 'Too ... to' ➔ 'So ... that ... cannot / could not'",
+      "Assertive to Interrogative transformations: Auxiliary inversion, dummy 'do/does/did' insertion",
+      "Golden Polarity Law: Affirmative assertive ➔ Negative interrogative; Negative assertive ➔ Affirmative interrogative",
+      "Rhetorical questions: 'Everyone' ➔ 'Who does not ...?', 'No one' ➔ 'Who ...?' / 'Can anyone ...?', 'Never' ➔ 'Ever' / 'When ...?'",
+      "Exclamatory to Assertive transformations: 'What a' / 'How' ➔ 'very', 'extremely', 'great', 'terrible', 'wonderful'",
+      "Noun vs Adjective intensifier rule: 'very' for adjectives/adverbs vs 'great/terrible' for qualifying nouns",
+      "Interjections and optative wishes: 'Alas!' ➔ 'It is a matter of great sorrow that...', 'Hurrah!' ➔ 'It is a matter of great joy that...', 'If only / O that' ➔ 'I wish'",
+      "Common examination traps: 10 distractor patterns analyzed in detail"
+    ],
+    "excluded": [
+      "Degrees of Comparison transformations (covered in Lesson 09)",
+      "Simple, Compound, and Complex clause transformations (covered in Lesson 09)",
+      "Active and Passive Voice transformations (covered in Lessons 04 & 05)",
+      "Direct and Indirect Speech narration (covered in Lessons 06 & 07)",
+      "Subject-Verb Agreement error rules (covered in Lesson 13)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Learning Objectives",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Transformation of Sentences ke core scope, Golden Rule of Meaning Preservation, exam weightage, aur sentence categories ko samajhein."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Sentence Transformation Architecture & Rules Reference",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "Affirmative to Negative patterns, Assertive to Interrogative inversion, Rhetorical question equivalence, aur Exclamatory intensifier rules par complete study document."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Interactive Diagrams & Transformation Flowcharts",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Sentence classification map, transformation decision flowchart, affirmative-to-negative comparator, rhetorical question polarity engine, aur exclamatory-to-assertive converter."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "10 Precision Transformation Formulas",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Antonym negation, None but, No sooner...than, Universal negatives, Too...to, Polarity reversal, Dummy auxiliary, Rhetorical quantifiers, Exclamatory intensifiers, aur Wish/Interjection cards."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Exam Derivations",
+      "durationMin": 15,
+      "type": "worked-examples",
+      "summary": "Assertive, negative, interrogative, rhetorical, aur exclamatory sentences ka step-by-step cognitive derivation algorithm with annotated Roman Hinglish reasoning."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "6 High-Risk Distractor Traps & Edge Cases",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "Mechanical not insertion, No sooner correlative discord (than vs then/when), polarity retention, very vs great with nouns, too...to tense error, aur rhetorical quantifier reversal traps."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Scaffolded Transformation Drills",
+      "durationMin": 15,
+      "type": "guided-practice",
+      "summary": "Instant Roman Hinglish feedback, step-by-step structural hints, aur distractor breakdown ke sath interactive practice MCQs."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "20 Timed Exam-Caliber MCQs",
+      "durationMin": 25,
+      "type": "independent-practice",
+      "summary": "Real High Court exam pattern par based 20 questions with verified answer keys, detailed explanations, flagging, aur score diagnostics."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15 Benchmark Certification Questions",
+      "durationMin": 12,
+      "type": "mastery-assessment",
+      "summary": "Timed benchmark assessment (12 minutes, 15 MCQs, 80% pass threshold) to certify flawless mastery in sentence transformation."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Revision & Error Review",
+      "subtitle": "Error Bank Diagnostics & Formula Summary",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Personalized error bank review, pattern-specific retry mechanics, aur rapid formula reference sheet for last-minute revision."
+    }
+  ]
+}

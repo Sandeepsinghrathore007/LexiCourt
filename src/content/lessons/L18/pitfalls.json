@@ -1,0 +1,182 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "The 'Invaluable' Pseudo-Negation Trap",
+    "category": "Semantic Polarity Trap",
+    "frequency": "Very High",
+    "explanation": "Candidates assume karte hain ki jaise 'in-' + 'active' = 'inactive' (not active) hota hai, waise hi 'invaluable' ka matlab 'not valuable' (worthless) hoga. Yeh exam ka sabse bada trap hai! Latin prefix 'in-' yahan intensive/incalculable sense mein use hota hai. 'Invaluable' ka matlab hota hai 'priceless' (itna keemti ki uski kimat aanki hi na ja sake). Agar kisi cheez ki koi kimat nahi hai toh use 'valueless' ya 'worthless' kehte hain.",
+    "incorrectExample": "The legal archives were flooded and rendered completely *invaluable* to researchers.",
+    "correctExample": "The legal archives were flooded and rendered completely worthless to researchers; fortunately, the ancient constitution manuscript was saved, which is truly invaluable.",
+    "trapRule": "Invaluable = Priceless / Highly Precious (Anmol). Valueless / Worthless = Having zero value (Bekaar). Examiner's negative test mein 'invaluable' ka antonym 'valuable' nahi, balki 'worthless' hota hai!"
+  },
+  {
+    "id": "PIT-02",
+    "title": "The 'Inflammable' Flammability Trap",
+    "category": "False Antonym Trap",
+    "frequency": "Very High",
+    "explanation": "Candidates 'in-' ko negative prefix samajhkar sochte hain ki 'inflammable' ka matlab 'jo aag na pakde' (non-flammable) hoga. Asal mein 'inflammable' Latin verb 'inflammare' (to set on fire) se aata hai, jahan 'in-' ka matlab 'into / upon' hota hai. Isliye 'inflammable' aur 'flammable' dono ka meaning 100% SAME hai: 'easily catching fire' (aag pakadne wala). Jo aag na pakde use 'non-flammable' ya 'incombustible' kehte hain.",
+    "incorrectExample": "Store these petroleum barrels in a safe room because they are *inflammable* and cannot burn.",
+    "correctExample": "Store these petroleum barrels in a fireproof vault because they are highly inflammable (flammable) and will ignite rapidly.",
+    "trapRule": "Inflammable = Flammable (both mean 'easily catches fire'). The true opposite is Non-flammable or Incombustible!"
+  },
+  {
+    "id": "PIT-03",
+    "title": "The 'Disinterested vs Uninterested' Confusion",
+    "category": "Nuance Distinction",
+    "frequency": "Crucial",
+    "explanation": "'Disinterested' aur 'uninterested' dono alag prefixes se shuru hote hain aur dono ka meaning zameen-aasman ka alag hai. 'Disinterested' ka matlab hota hai impartial, unbiased, neutral (jiska koi personal stake ya lalach na ho). Ek judge ko hamesha 'disinterested' hona chahiye. Jabki 'uninterested' ka matlab hota hai bored, not caring, unconcerned (jiska dhyan na ho).",
+    "incorrectExample": "The presiding judge was completely *uninterested* in the dispute, which proved his noble impartiality.",
+    "correctExample": "The presiding judge was completely disinterested in the outcome, ensuring a fair hearing for both parties.",
+    "trapRule": "A judge must be DISINTERESTED (impartial), but must NEVER be UNINTERESTED (bored/careless)!"
+  },
+  {
+    "id": "PIT-04",
+    "title": "Prefix Invariance Double Letter Drop",
+    "category": "Spelling Trap",
+    "frequency": "Very High",
+    "explanation": "Jab prefix ka aakhri consonant aur base word ka pehla consonant same hote hain, candidates ghabra kar ek letter drop kar dete hain. Rule RC-01 kehta hai ki prefix judne par base word ki spelling bilkul untouched rehti hai. 'un-' + 'necessary' = unnecessary (double n); 'mis-' + 'spell' = misspell (double s); 'dis-' + 'satisfied' = dissatisfied (double s); 'mis-' + 'statement' = misstatement (double s).",
+    "incorrectExample": "It is *unecessary* to *mispell* legal technical terms when drafting an appeal.",
+    "correctExample": "It is unnecessary to misspell legal technical terms when drafting an appeal.",
+    "trapRule": "Morpheme Boundary Cut Lagayein: un- + necessary = unnecessary; mis- + spell = misspell; dis- + satisfied = dissatisfied. Dono letters hamesha preserve rahenge!"
+  },
+  {
+    "id": "PIT-05",
+    "title": "The 'Indispensable' Suffix Ending Trap",
+    "category": "Suffix Selection Trap",
+    "frequency": "Very High",
+    "explanation": "Competitive exams mein '-able' aur '-ible' ka choice candidates ko sabse zyada confuse karta hai. 'Indispensable' (absolutely necessary / jiske bina kaam na chale) ke ant mein '-able' aata hai, lekin exam options mein hamesha distractor '*indispensible' diya jata hai. 'Dispense' ek complete English base verb hai jisse 'dispensation' banta hai, isliye yeh '-able' leta hai.",
+    "incorrectExample": "Accurate cause-lists are *indispensible* to everyday high court administration.",
+    "correctExample": "Accurate cause-lists are indispensable to everyday high court administration.",
+    "trapRule": "Indispensable ends in -ABLE (never *-ible!). Parallel: Dependable, Adaptable, Inevitable."
+  },
+  {
+    "id": "PIT-06",
+    "title": "The 'Historic vs Historical' Semantic Nuance Trap",
+    "category": "Nuance Gradient",
+    "frequency": "High",
+    "explanation": "Dono words 'history' se aate hain lekin unka application bilkul alag hai. 'Historic' ka matlab hota hai famous, momentous, epoch-making (itihasik roop se mahatvapurna ghatna ya faisla). 'Historical' ka matlab hota hai concerning past history, records, or facts (jo bhootkaal ke itihas se sambandhit ho).",
+    "incorrectExample": "The 1973 Kesavananda Bharati judgment was a *historical* day for constitutional supremacy.",
+    "correctExample": "The 1973 Kesavananda Bharati judgment was a historic day for constitutional supremacy; scholars consulted historical documents to analyze it.",
+    "trapRule": "A HISTORIC event/day/verdict = Famous and Monumental. A HISTORICAL novel/document/society = Pertaining to the study of the past."
+  },
+  {
+    "id": "PIT-07",
+    "title": "The 'Economic vs Economical' Fiscal vs Frugal Trap",
+    "category": "Nuance Gradient",
+    "frequency": "High",
+    "explanation": "'Economic' desh ki arthvyavastha, trade aur finance se sambandhit hota hai (economic growth, economic crisis). 'Economical' vyakti ya kriya ki kifayati aadat se sambandhit hota hai (frugal, saving money, thrifty).",
+    "incorrectExample": "The registrar urged all departments to follow an *economic* paper-printing protocol to cut costs.",
+    "correctExample": "The registrar urged all departments to follow an economical paper-printing protocol to cut costs during an economic downturn.",
+    "trapRule": "Economic = Related to the economy and finance. Economical = Thrifty, cost-saving, frugal (kifayati)."
+  },
+  {
+    "id": "PIT-08",
+    "title": "Dropping Silent 'e' in Truly and Duly",
+    "category": "Spelling Exception",
+    "frequency": "Very High",
+    "explanation": "Samanyatah base word ke silent 'e' ko '-ly' suffix se pehle retain kiya jata hai (safe -> safely, extreme -> extremely). Lekin 'true' aur 'due' do aisi non-negotiable exceptions hain jahan silent 'e' ko DROP kiya jata hai: true + ly = truly; due + ly = duly. Candidates aksar '*truely' aur '*duely' likhkar marks gawa dete hain.",
+    "incorrectExample": "The deponent stated that he had *truely* and *duely* signed the compromise deed.",
+    "correctExample": "The deponent stated that he had truly and duly signed the compromise deed.",
+    "trapRule": "TRULY (no 'e') and DULY (no 'e') — Drop the 'e' before '-ly' in both words without exception!"
+  },
+  {
+    "id": "PIT-09",
+    "title": "Dropping Silent 'e' in Argument & Judgment",
+    "category": "Spelling Exception",
+    "frequency": "Very High",
+    "explanation": "Consonant suffix '-ment' se pehle silent 'e' retain hota hai (achieve -> achievement, state -> statement). Lekin 'argue' mein jab '-ment' lagta hai, toh 'e' DROP ho jata hai: argue + ment = argument (never *arguement). Isi tarah formal legal drafting aur Indian judicial standards mein 'judge' + '-ment' = judgment (without 'e').",
+    "incorrectExample": "Senior counsel concluded his final *arguement* before the court pronounced *judgement*.",
+    "correctExample": "Senior counsel concluded his final argument before the court pronounced judgment.",
+    "trapRule": "ARGUMENT drops the 'e' (a-r-g-u-m-e-n-t). JUDGMENT is the universal standard in Indian legal texts."
+  },
+  {
+    "id": "PIT-10",
+    "title": "Soft 'c' and 'g' Silent 'e' Retention Trap",
+    "category": "Spelling Rule Exception",
+    "frequency": "Very High",
+    "explanation": "Jab base word 'ce' ya 'ge' par end hota hai, aur suffix '-able' ya '-ous' judta hai, toh silent 'e' ko RETAIN karna padta hai taaki 'c' aur 'g' ka soft sound (/s/ aur /dʒ/) bana rahe. Agar 'e' drop kiya toh hard sound (/k/ aur /ɡ/) ban jayega. Candidates galti se 'e' drop kar dete hain: noticeable (NOT *noticable), courageous (NOT *courageus), peaceable (NOT *peacable), changeable (NOT *changable).",
+    "incorrectExample": "The medical report noted a *noticable* recovery and praised the *courageus* victim.",
+    "correctExample": "The medical report noted a noticeable recovery and praised the courageous victim.",
+    "trapRule": "Keep the 'e' after soft 'c' and 'g' before -able and -ous: noticeable, courageous, changeable, peaceable, manageable!"
+  },
+  {
+    "id": "PIT-11",
+    "title": "Assimilation Double Consonant Omission",
+    "category": "Phonetic Assimilation Trap",
+    "frequency": "High",
+    "explanation": "Latin prefix 'in-' jab 'l', 'm', 'p', 'r' se takrata hai toh assimilate hokar double consonant produce karta hai. Candidates single consonant likhne ki galti karte hain: in- + legal = illegal (double l); in- + responsible = irresponsible (double r); in- + relevant = irrelevant (double r); in- + mature = immature (double m).",
+    "incorrectExample": "The magistrate dismissed the *irelevant* affidavit submitted by the *imature* clerk.",
+    "correctExample": "The magistrate dismissed the irrelevant affidavit submitted by the immature clerk.",
+    "trapRule": "Assimilation generates DOUBLE consonants: irrelevant, irresponsible, illegal, illiterate, immature, impossible."
+  },
+  {
+    "id": "PIT-12",
+    "title": "The 'Continuous vs Continual' Duration Trap",
+    "category": "Nuance Distinction",
+    "frequency": "High",
+    "explanation": "'Continuous' ka matlab hota hai bina kisi rukawat ke lagatar (uninterrupted in time or space, jaise continuous supply of electricity, continuous flow of a river). 'Continual' ka matlab hota hai bar-bar dohrane wala lekin beech mein rukawat ke sath (recurring regularly with intervals, jaise continual phone calls, continual complaints).",
+    "incorrectExample": "The trial was repeatedly paused due to *continuous* objections by the defense.",
+    "correctExample": "The trial was repeatedly paused due to continual objections by the defense, though the audio recording ran continuous for four hours.",
+    "trapRule": "Continuous = Unbroken / Without any interruption (lagatar). Continual = Recurring frequently with gaps (ruk-ruk kar bar-bar hone wala)."
+  },
+  {
+    "id": "PIT-13",
+    "title": "The 'Sensible vs Sensitive' Prudence vs Vulnerability Trap",
+    "category": "Nuance Distinction",
+    "frequency": "Very High",
+    "explanation": "'Sensible' base 'sense' (good judgment) se banta hai aur iska matlab practical, wise, prudent aur samajhdar hota hai (a sensible decision). 'Sensitive' sensory ya emotional responsiveness se banta hai aur iska matlab easily hurt, delicate, ya responsive to stimuli hota hai (sensitive skin, sensitive witness, sensitive classified document).",
+    "incorrectExample": "A *sensitive* advocate knows when to settle a dispute out of court to protect client money.",
+    "correctExample": "A sensible advocate knows when to settle a dispute out of court to protect client money, especially when handling sensitive custody matters.",
+    "trapRule": "Sensible = Practical, wise, prudent (samajhdar). Sensitive = Emotionally delicate, easily affected (sanvedansheel)."
+  },
+  {
+    "id": "PIT-14",
+    "title": "Invariable '-ise' Verb Trap",
+    "category": "Spelling Convention",
+    "frequency": "High",
+    "explanation": "Halaanki US English '-ize' prefer karti hai aur UK English dono accept karti hai, English mein lagbhag 20 aise verbs hain jinme 's' root ka aavashyak hissa hai aur unhe kabhi bhi 'z' ke sath nahi likha ja sakta. Inme sabse common hain: advise, supervise, exercise, surprise, compromise, revise, despise, devise.",
+    "incorrectExample": "The high court registry decided to *supervize* the examination and *exercize* strict oversight.",
+    "correctExample": "The high court registry decided to supervise the examination and exercise strict oversight.",
+    "trapRule": "Supervise, Exercise, Advise, Revise, Compromise — ALWAYS with 's', NEVER with 'z'!"
+  },
+  {
+    "id": "PIT-15",
+    "title": "1-1-1 Consonant Doubling in Unstressed Syllables",
+    "category": "Spelling Rule Application",
+    "frequency": "High",
+    "explanation": "Consonant doubling tabhi hoti hai jab multi-syllable word mein STRESS aakhri syllable par ho (oc-CUR -> occurred, occurrence; pre-FER -> preferred). Agar stress pehle syllable par ho, toh modern standard English mein terminal consonant double NAHI hota: BÉN-e-fit -> benefited, benefiting (single 't'); TÁR-get -> targeted, targeting; FÓ-cus -> focused, focusing.",
+    "incorrectExample": "The retired judicial staff *benefitted* greatly from the revised pension scheme.",
+    "correctExample": "The retired judicial staff benefited greatly from the revised pension scheme.",
+    "trapRule": "BENEFITED and BENEFITING take a SINGLE 't' because stress is on the first syllable (BÉN-e-fit)!"
+  },
+  {
+    "id": "PIT-16",
+    "title": "The 'Hyphen Semantic Reversal' Trap",
+    "category": "Punctuation & Meaning",
+    "frequency": "High",
+    "explanation": "Prefix 're-' ke sath hyphen ka prayog do alag meanings ko distinguish karne ke liye anivarya hota hai. Agar aap hyphen nahi lagate toh bilkul ulta meaning nikal sakta hai: 'resign' (quit office / pad chhodna) vs 're-sign' (sign contract again / dubara dastakhat karna); 'recover' (get well or regain / wapas pana) vs 're-cover' (put new cover on / naya cover chadhana).",
+    "incorrectExample": "The appointed mediator decided to *resign* the agreement for another three-year tenure.",
+    "correctExample": "The appointed mediator decided to re-sign the agreement for another three-year tenure after refusing to resign from the panel.",
+    "trapRule": "Re-sign (sign again) != Resign (quit). Re-cover (cover again) != Recover (regain). Hyphen preserves intended meaning!"
+  },
+  {
+    "id": "PIT-17",
+    "title": "The '-ful' Suffix Double 'l' Trap",
+    "category": "Suffix Spelling Trap",
+    "frequency": "High",
+    "explanation": "Jab base word ke aage suffix '-ful' lagaya jata hai, toh usme hamesha SINGLE 'l' hota hai: careful, skillful, grateful, respectful, stressful. Double 'l' tabhi banta hai jab is adjective mein further '-ly' suffix lagakar adverb banaya jaye: carefully, skillfully, gratefully.",
+    "incorrectExample": "The staff was very *skillfull* and drafted a *gratefull* acknowledgment letter.",
+    "correctExample": "The staff was very skillful and drafted a grateful acknowledgment letter, typing every line carefully.",
+    "trapRule": "Suffix -FUL always has a SINGLE 'l' (careful, skillful, grateful). Double 'l' occurs only in adverbs ending in -FULLY (carefully)!"
+  },
+  {
+    "id": "PIT-18",
+    "title": "The 'Amoral vs Immoral' Ethical Category Trap",
+    "category": "Etymology & Ethics",
+    "frequency": "High",
+    "explanation": "'Immoral' Latin prefix 'im-' (not/bad) se banta hai aur iska matlab hota hai anaitik (knowing what is right but deliberately doing wrong). 'Amoral' Greek privative prefix 'a-' (without) se banta hai aur iska matlab hota hai jisme moral awareness ka concept hi na ho (outside the sphere of moral judgment, jaise janwar ya natural calamities).",
+    "incorrectExample": "The corrupt revenue officer was described as totally *amoral* for accepting bribes.",
+    "correctExample": "The corrupt revenue officer was convicted for immoral conduct, whereas volcanic eruptions are entirely amoral natural events.",
+    "trapRule": "Immoral = Wicked, unethical, violating known moral rules. Amoral = Completely devoid of moral sense or outside moral evaluation."
+  }
+]

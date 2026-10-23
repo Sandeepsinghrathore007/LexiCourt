@@ -1,0 +1,135 @@
+{
+  "id": "L04",
+  "title": "Active & Passive Voice — Fundamentals and Tense Matrix",
+  "shortTitle": "Active & Passive Voice",
+  "topicId": "T02",
+  "topicTitle": "Voice: Active & Passive",
+  "part": "1 of 2",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Intermediate",
+  "targetScore": "100% Structural Accuracy",
+  "description": "Active aur Passive Voice ke core mechanics, subject-object transposition, auxiliary 'be' expansion, sabhi tenses ka transformation matrix, negative aur interrogative forms, agent ka role, aur exam traps ko master karein.",
+  "learningObjectives": [
+    "Active Voice aur Passive Voice ke beech fundamental grammatical aur functional farq ko identify karein",
+    "Sentence mein subject, verb, direct object, aur receiver of action ko accurately isolate karein",
+    "Identify karein ki kaunsi transitive verbs passive construct karti hain aur intransitive verbs passive kyun nahi banati",
+    "Active sentences ko tense aur meaning preserve karte huye passive voice mein accurately convert karein",
+    "Tense aur new subject ke number/person ke hisaab se verb 'be' ka correct auxiliary form select karein",
+    "Har passive construction mein main verb ki past participle (V3) form ka flawless use karein",
+    "Understand karein ki 'by + agent' kab zaroori hota hai, kab optional hota hai, aur kab naturally omit kiya jata hai",
+    "Basic negative aur interrogative (Yes/No aur Wh-questions) passive sentences construct aur interpret karein",
+    "High Court exams ke common voice traps (tense distortion, wrong auxiliary, missing V3, pronoun errors) ko eliminate karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Active Voice vs Passive Voice definitions, semantic focus, aur administrative/legal relevance",
+      "Subject, verb, direct object identification aur subject/object pronoun shifts (I/me, he/him, they/them, who/whom)",
+      "Core passive formula: Object + appropriate form of be + V3 + optional by-agent",
+      "Complete Tense Matrix: Simple Present, Present Continuous, Present Perfect, Simple Past, Past Continuous, Past Perfect, Simple Future, Future Perfect",
+      "Tenses conventionally omitted in competitive exams (Continuous Perfects aur Future Continuous) ka theoretical status",
+      "Negative passive constructions: auxiliary chain mein 'not' ki correct placement",
+      "Interrogative passive constructions: Yes/No auxiliary inversion aur basic Wh-word questions",
+      "Agentive 'by'-phrase rules: unknown, obvious, irrelevant, aur mandatory agents",
+      "Transitive vs Intransitive verbs: object requirement aur pseudo-passive errors ka elimination"
+    ],
+    "excluded": [
+      "Imperative passives: orders, commands, requests, aur advice with 'Let + obj + be + V3' (Lesson 05 mein covered hain)",
+      "Advanced modal passives: modal-perfect forms (must have been, should have been) (Lesson 05 mein covered hain)",
+      "Prepositional verbs aur phrasal verbs mein prepositions ka retention (jaise 'laughed at', 'looked after') (Lesson 05 mein covered hain)",
+      "Direct & Indirect Narration reporting changes (Lessons 06 & 07 mein covered hain)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Learning Objectives",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Doer vs Receiver focus, passive voice ki official utility, aur voice transformation ke core cognitive workflow ko samajhein."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Comprehensive Voice Theory & Tense Matrix",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "S-V-O identification, 'be + V3' architecture, 8 tenses ka matrix, negative/interrogative patterns, agent rules, aur transitive validity par in-depth reference."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Spatial Models & Transformation Flow",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Subject-object transposition, 5-step conversion algorithm, tense-to-auxiliary mapping, agent retention decision tree, aur transitive vs intransitive models."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "10 Precision Voice Transformation Formulas",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Sabhi core tenses, negative, interrogative, aur agent omission ke exact formulas aur exam tips."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Exam Derivations",
+      "durationMin": 15,
+      "type": "worked-examples",
+      "summary": "Active se passive aur passive se active conversion ka 5-step cognitive algorithm with annotated explanations."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "6 High-Frequency Exam Distractors",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "Tense shift, wrong auxiliary concord, V2 instead of V3, intransitive passivization, aur question word order errors ka complete elimination."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Scaffolded Questions with Instant Feedback",
+      "durationMin": 15,
+      "type": "guided-practice",
+      "summary": "Immediate hint support, step-by-step reasoning, aur rule references ke sath guided voice transformation practice."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "20 High Court Exam-Caliber MCQs",
+      "durationMin": 20,
+      "type": "independent-practice",
+      "summary": "Unassisted test simulation: Voice identification, tense transformations, negative/interrogative, error spotting, aur agent evaluation."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15-Question Timed Certification Test",
+      "durationMin": 12,
+      "type": "mastery-assessment",
+      "summary": "Strict 12-minute exam timer, 80% passing standard (12/15), shuffle support, aur official scoring."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Revision & Completion",
+      "subtitle": "Quick Reference & Error Remediation",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Active/Passive summary sheet, weakness diagnostics, Error Bank re-testing, aur permanent milestone completion."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "L10",
+  "title": "Articles & Determiners — A, An, The, Zero Article and Quantifiers",
+  "shortTitle": "Articles & Determiners",
+  "topicId": "T05",
+  "topicTitle": "Use of Articles, Determiners and Prepositions",
+  "part": "1 of 3",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Intermediate",
+  "targetScore": "100% Accuracy in Articles & Determiners",
+  "description": "Indefinite articles A/An ke phonetic sound rules, definite article The ke specific, unique aur institutional rules, zero article omission patterns, countable vs uncountable nouns, aur quantifiers (Few/A few/The few, Little/A little/The little, Some/Any, Much/Many, Each/Every/Either/Neither) ko master karein.",
+  "learningObjectives": [
+    "Noun phrases mein articles aur determiners ke syntactic function ko samjhein",
+    "Indefinite (A/An), Definite (The), aur Zero Article (Omission) mein accurately distinguish karein",
+    "Written spelling ke bajaye initial spoken phonetic sound ke basis par A aur An ko select karein",
+    "Acronyms aur initialisms (FIR, MLA, UNESCO) ke phonetic pronunciation rules ko apply karein",
+    "Definite article The ke specific, unique, superlative, ordinal, aur geographical rules ko master karein",
+    "Plural general nouns, general uncountable nouns, languages, academic subjects, aur meals ke zero article rules ko identify karein",
+    "Countable aur uncountable nouns ke beech qualitative farq aur dual-usage contexts ko samjhein",
+    "Plural countable nouns ke sath Few, A few, aur The few ke subtle semantic differences ko master karein",
+    "Uncountable nouns ke sath Little, A little, aur The little ke meaning-altering patterns ko apply karein",
+    "Affirmative, negative, open questions, polite offers, aur requests mein Some aur Any ke contextual rules ko samjhein",
+    "Much, Many, More, aur Most ke countability concord ko correctly apply karein",
+    "Distributive determiners (Each, Every, Either, Neither) ke singular noun aur singular verb agreement rules ko master karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Foundational theory: Nouns, noun phrases, determiners as noun markers, general vs specific reference",
+      "Indefinite articles A and An: Singular countable nouns, professions, first mentions, phonetic vocalic vs consonantal opening sounds",
+      "Spelling vs pronunciation contrasts: a university, an honest person, a European country, an hour, an FIR, a union, an heir",
+      "Definite article The: Second mentions, contextual specificity, unique entities (Sun, Moon, Earth), superlatives, ordinals, geographical names (rivers, seas, mountain ranges, island groups, federated countries)",
+      "Zero article omission: Plural countable general, uncountable general, languages, academic subjects, sports, meals, personal names, proper nouns",
+      "Particularization contrast: Gold is valuable vs The gold in this ring; Water is essential vs The water in this well",
+      "Institutional and formal expressions: School, college, hospital, prison, court, church (primary functional purpose vs secondary physical visit)",
+      "Countable vs uncountable noun distinction: Information, advice, furniture, equipment, luggage, scenery, machinery, work vs job",
+      "Few, A few, The few: Plural countable nouns (Few = almost none [negative], A few = some [positive], The few = all of that small specific number)",
+      "Little, A little, The little: Uncountable nouns (Little = hardly any [negative], A little = some amount [positive], The little = all of that small amount)",
+      "Some vs Any: Affirmative vs negative, open neutral questions vs polite offers/requests ('Would you like some...?', 'Could you lend me some...?'), 'Any' in affirmative meaning 'it does not matter which'",
+      "Much vs Many vs More vs Most: Much with uncountable, Many with plural countable, More in comparisons, Most in majority/superlative",
+      "Each, Every, Either, Neither: Distributives with singular countable nouns and singular verb concord; Each of / Either of / Neither of + plural noun + singular verb",
+      "Demonstrative and possessive determiners: This/these, that/those, my/your/his/her/its/our/their modifying noun phrases",
+      "Examination traps: Sound vs letter confusion, uncountable a/an errors, missing article before singular countable, redundant the with languages/proper nouns, few/little reversal, some/any overgeneralizations, each/every plural concord traps"
+    ],
+    "excluded": [
+      "Preposition hierarchies and administrative fixed prepositions (covered in Lesson 12)",
+      "Pronoun case systems and relative pronoun clauses (covered in dedicated pronoun/clause modules)",
+      "Subject-Verb Agreement non-determiner exceptions (covered in Lesson 13)",
+      "Active and Passive Voice transformations (covered in Lessons 04 & 05)",
+      "Direct and Indirect Speech narration (covered in Lessons 06 & 07)",
+      "Degrees of Comparison transformations (covered in Lesson 09)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Learning Objectives",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Articles aur Determiners ke core architecture, exam weightage, phonetic sound rules, countability concord, aur meaning-altering nuances ko samjhein."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Articles & Determiners Complete Theory & Usage Rules",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "A/An phonetic rules, Definite The, Zero Article omission, Countable vs Uncountable nouns, Few/Little matrices, Some/Any nuances, aur Distributives par comprehensive guide."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Interactive Diagrams & Decision Models",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Article selection decision tree, countable vs uncountable guide, Few vs A few vs The few visualizer, Little vs A little vs The little container, aur Some vs Any contextual guide."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "10 Precision Determiner Formulas",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Phonetic A/An, Singular Countable & Professions, Specific The & Uniqueness, Superlatives & Ordinals, Geographical The, Zero Article Omission, Institutional Purpose, Few Triad, Little Triad, aur Quantifiers & Distributives cards."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Exam Derivations",
+      "durationMin": 15,
+      "type": "worked-examples",
+      "summary": "Initial sound, acronyms (FIR, MLA), general vs particularized, second mentions, geography, institutions, uncountables, Few vs A few, Little vs A little, polite Some, Much vs Many, aur Distributive concord ka step-by-step cognitive analysis."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "6 Critical Articles & Determiners Distractors",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "Spelling vs pronunciation trap, uncountable noun a/an intrusion, single entity geography overgeneralization, few/little semantic reversal, some/any rigid rule traps, aur distributive number discord."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Step-by-Step Practice Problems",
+      "durationMin": 20,
+      "type": "guided-practice",
+      "summary": "Articles, pronunciation rules, zero article, countability, Few/Little, Some/Any, aur Distributives questions with immediate Roman Hinglish cognitive feedback and authoritative rule citations."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "20 Unassisted Test Questions",
+      "durationMin": 25,
+      "type": "independent-practice",
+      "summary": "Comprehensive 20-question test covering the entire Articles and Determiners syllabus with balanced difficulty, flag review, and diagnostic scoring."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Challenge",
+      "subtitle": "15-Question Timed Assessment (80% Pass)",
+      "durationMin": 15,
+      "type": "mastery-assessment",
+      "summary": "Strictly timed 12-minute exam-condition assessment simulating Rajasthan High Court System Assistant examination standards with 80% passing threshold."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Error Review & Revision",
+      "subtitle": "Remediation & Milestone Completion",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Review logged mistakes, weak determiner subtopics, high-frequency rules checklist, and consolidate Articles & Determiners mastery with persistent progress tracking."
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "WE-01",
+    "tense": "Prefix Invariance & Double Letter Preservation",
+    "sentence": "Fill in the blank with the correctly spelled derived form: The administrative board considered the newly proposed expenditure completely _______ (un + necessary).",
+    "correctAnswer": "unnecessary",
+    "options": [
+      "unecessary",
+      "unnecessary",
+      "unnecesary",
+      "unneccessary"
+    ],
+    "steps": {
+      "step1_marker": "Clause & Slot Identification: Sentence requires an adjective modifying the noun 'expenditure' following the linking adverb 'completely'. Base word is 'necessary'.",
+      "step2_time": "Morpheme Boundary Isolation: Prefix is negative Germanic 'un-'. Base word is 'necessary', which begins with the consonant 'n'.",
+      "step3_aspect": "Prefix Invariance Law (RC-01): Adding a prefix never drops letters from either the prefix or the base word. The final 'n' of 'un-' and the initial 'n' of 'necessary' both survive.",
+      "step4_inflection": "Orthographic Verification: 'un-' + 'necessary' = 'unnecessary'. Base word 'necessary' itself has one 'c' and double 's' (c-c-s-s rule: one collar, two socks).",
+      "step5_synthesis": "Correct Synthesis: 'unnecessary' (double 'n', single 'c', double 's'). The board considered the newly proposed expenditure completely unnecessary."
+    },
+    "trapWarning": "Examiners frequently set '*unecessary' (single n) or '*unneccessary' (double c). Verify both the prefix junction (double n) and internal root spelling (single c, double s)!"
+  },
+  {
+    "id": "WE-02",
+    "tense": "Negative Prefix Selection: Invaluable vs Worthless",
+    "sentence": "Choose the exact word to complete the sentence: The senior advocate's advice on constitutional interpretation proved _______ to the junior counsel, saving months of research.",
+    "correctAnswer": "invaluable",
+    "options": [
+      "valueless",
+      "worthless",
+      "invaluable",
+      "unvaluable"
+    ],
+    "steps": {
+      "step1_marker": "Contextual Valence Analysis: The advice saved months of research, which indicates an extremely positive, beneficial, and highly precious contribution.",
+      "step2_time": "Etymological Decoding: Root is 'value' + suffix '-able' = 'valuable'. The prefix 'in-' here is intensive/privative, meaning 'beyond any calculable monetary value' (priceless).",
+      "step3_aspect": "Semantic Concord Verification: 'Valueless' and 'worthless' mean having zero value (negative polarity). 'Unvaluable' is non-existent in standard English. 'Invaluable' means priceless (extreme positive polarity).",
+      "step4_inflection": "Morphological Synthesis: in- + value + able = invaluable. Final silent 'e' of 'value' drops before vowel suffix '-able'.",
+      "step5_synthesis": "Correct Synthesis: 'invaluable'. The senior advocate's advice on constitutional interpretation proved invaluable to the junior counsel."
+    },
+    "trapWarning": "Do not confuse 'invaluable' with 'valueless'. Invaluable = priceless (anmol); Valueless = worthless (bekaar). The prefix 'in-' here does NOT mean 'worthless'!"
+  },
+  {
+    "id": "WE-03",
+    "tense": "Phonetic Assimilation: Illegal, Immature, Irregular",
+    "sentence": "Identify the correctly spelled and grammatically sound sentence: The appellate court set aside the order because the detention was declared _______ (in + legal).",
+    "correctAnswer": "illegal",
+    "options": [
+      "inlegal",
+      "unlegal",
+      "illegal",
+      "dislegal"
+    ],
+    "steps": {
+      "step1_marker": "Grammar Slot: Predicate adjective following the linking verb 'was declared'. Base root is Latin 'legal'.",
+      "step2_time": "Assimilation Rule Trigger: The Latin negative prefix 'in-' encounters a base word starting with the liquid consonant 'l'.",
+      "step3_aspect": "Phonetic Assimilation Law (RC-03): 'in-' assimilates to 'il-' before 'l'. It produces a geminate (double) consonant 'll': in- + legal -> il- + legal = illegal.",
+      "step4_inflection": "Alternative Rejection: 'Inlegal' violates euphonic assimilation; 'unlegal' is non-standard Germanic mismatch; 'dislegal' is semantically invalid.",
+      "step5_synthesis": "Correct Synthesis: 'illegal'. The appellate court set aside the order because the detention was declared illegal."
+    },
+    "trapWarning": "Candidates often forget that assimilation creates a DOUBLE consonant: il-legal, im-mature, ir-regular. Single-letter variants are classic distractor traps."
+  },
+  {
+    "id": "WE-04",
+    "tense": "Nominalization & Silent 'e' Retention vs Deletion",
+    "sentence": "Supply the correct noun form derived from 'judge' to fill the blank: The five-judge bench delivered a unanimous _______ on the validity of the statutory amendment.",
+    "correctAnswer": "judgment",
+    "options": [
+      "judgement",
+      "judgment",
+      "judging",
+      "judgeation"
+    ],
+    "steps": {
+      "step1_marker": "Slot Identification: Article 'a' and adjective 'unanimous' require a singular count noun as the direct object of 'delivered'.",
+      "step2_time": "Base Word & Suffix: Base verb is 'judge'. Noun-forming suffix for action/result is '-ment'.",
+      "step3_aspect": "Orthographic Convention: Although UK literary English historically used 'judgement', the official statutory and legal standard across High Courts, Supreme Court of India, and modern legal drafting is strictly 'judgment' (dropping the silent 'e').",
+      "step4_inflection": "Morpheme Junction: judge + ment -> judgment ('e' dropped before consonant suffix in formal legal orthography, parallel to argue + ment = argument).",
+      "step5_synthesis": "Correct Synthesis: 'judgment'. The five-judge bench delivered a unanimous judgment on the validity of the statutory amendment."
+    },
+    "trapWarning": "In Indian judicial and competitive exams, 'judgment' (without 'e') is the universally accepted standard in legal contexts. Be prepared for 'argument' (never *arguement) and 'judgment'."
+  },
+  {
+    "id": "WE-05",
+    "tense": "Nuance Gradients: Historic vs Historical",
+    "sentence": "Select the correct adjective: Today's decision to grant permanent commission to female officers is a _______ occasion that will be remembered for generations.",
+    "correctAnswer": "historic",
+    "options": [
+      "historical",
+      "historic",
+      "historian",
+      "historicity"
+    ],
+    "steps": {
+      "step1_marker": "Noun Modification: Slot modifies 'occasion', qualified by the clause 'that will be remembered for generations'.",
+      "step2_time": "Semantic Distinction: Both 'historic' and 'historical' derive from 'history', but their suffix extensions generate distinct semantic nuances.",
+      "step3_aspect": "Nuance Gradient Rule (RC-08): '-ic' (historic) signifies having great importance, fame, or monumental significance in history. '-ical' (historical) signifies simply pertaining to or dealing with the past (e.g. historical records, historical research).",
+      "step4_inflection": "Context Match: An occasion that will be remembered for generations is momentous and epoch-making, requiring 'historic'.",
+      "step5_synthesis": "Correct Synthesis: 'historic'. Today's decision to grant permanent commission to female officers is a historic occasion."
+    },
+    "trapWarning": "Memorize the pair: A historic day/event/verdict (famous and monumental) vs A historical novel/document/archive (dealing with the factual past)."
+  },
+  {
+    "id": "WE-06",
+    "tense": "Suffix Discrimination: -able vs -ible",
+    "sentence": "Fill in the blank with the correct adjective: Good physical infrastructure and clean records are _______ to the smooth functioning of any registry.",
+    "correctAnswer": "indispensable",
+    "options": [
+      "indispensible",
+      "indispensable",
+      "undispensable",
+      "indispenceable"
+    ],
+    "steps": {
+      "step1_marker": "Slot Identification: Predicate adjective following 'are' and followed by preposition 'to'. Base concept is 'dispense with' (do without).",
+      "step2_time": "Prefix & Base Analysis: Negative prefix 'in-' + 'dispense' + capability suffix. Target meaning is 'impossible to do without / absolutely essential'.",
+      "step3_aspect": "-able vs -ible Rule (RC-08): 'Dispense' is an independent English verb. Verbs that take '-ation' (dispensation) take the suffix '-able'. Therefore, the correct form is 'indispensable'.",
+      "step4_inflection": "Spelling Check: in- + dispense + able = indispensable (silent 'e' of dispense dropped before '-able').",
+      "step5_synthesis": "Correct Synthesis: 'indispensable'. Good physical infrastructure and clean records are indispensable to the smooth functioning of any registry."
+    },
+    "trapWarning": "'Indispensable' ends in -ABLE, NOT *-ible! This is one of the top 3 single most frequently failed spelling test words in competitive exams."
+  },
+  {
+    "id": "WE-07",
+    "tense": "Consonant Doubling: 1-1-1 Rule in Polysyllables",
+    "sentence": "Choose the correctly spelled form to complete the sentence: The registrar reported that several unexpected irregularities had _______ during the weekend audit.",
+    "correctAnswer": "occurred",
+    "options": [
+      "occured",
+      "occurred",
+      "ocurred",
+      "ocured"
+    ],
+    "steps": {
+      "step1_marker": "Verb Aspect: Auxiliary 'had' requires past participle (V3) form of the base verb 'occur'.",
+      "step2_time": "Phonetic & Syllable Audit: Base word 'oc-CUR' has two syllables. It ends in 1 single vowel ('u') + 1 single consonant ('r').",
+      "step3_aspect": "1-1-1 Law Application (RC-13): Stress falls squarely on the SECOND (final) syllable: /əˈkɜːr/. When a polysyllabic base has final-syllable stress, the terminal consonant MUST be doubled before a vowel suffix.",
+      "step4_inflection": "Suffix Addition: occur + -ed -> occurred (double 'c' internally, double 'r' at the suffix boundary). Similarly: occur + -ence = occurrence.",
+      "step5_synthesis": "Correct Synthesis: 'occurred'. The registrar reported that several unexpected irregularities had occurred during the weekend audit."
+    },
+    "trapWarning": "Never write '*occured' with a single 'r'. Remember: 'occurred' and 'occurrence' have double 'c' AND double 'r'!"
+  },
+  {
+    "id": "WE-08",
+    "tense": "Adverb Derivation: Dropping Silent 'e' in Truly and Duly",
+    "sentence": "Select the sentence with the correct spelling: The deponent affirmed that the contents of the affidavit were _______ stated.",
+    "correctAnswer": "truly and duly",
+    "options": [
+      "truely and duely",
+      "truly and duly",
+      "truely and duly",
+      "truly and duely"
+    ],
+    "steps": {
+      "step1_marker": "Grammar Slot: Adverbs of manner modifying the past participle verb 'stated'. Base adjectives are 'true' and 'due'.",
+      "step2_time": "General Rule vs Exceptions: Normally, silent 'e' is retained before consonant suffix '-ly' (safe -> safely, polite -> politely).",
+      "step3_aspect": "Orthographic Exception Law (RC-11): 'True' and 'Due' are strict orthographic exceptions where the silent 'e' is DROPPED before '-ly': true + ly = truly; due + ly = duly.",
+      "step4_inflection": "Cross-Verification: '*truely' and '*duely' are non-existent archaisms rejected in modern standardized examinations.",
+      "step5_synthesis": "Correct Synthesis: 'truly and duly'. The deponent affirmed that the contents of the affidavit were truly and duly stated."
+    },
+    "trapWarning": "'Truly' (no 'e') and 'Duly' (no 'e') are evergreen exam questions. Never retain the silent 'e' in these two adverbs!"
+  },
+  {
+    "id": "WE-09",
+    "tense": "Soft 'c' and 'g' Retention: Noticeable & Courageous",
+    "sentence": "Complete the sentence with the correct derivative of 'notice': There was a _______ improvement in the disposal rate of civil appeals this quarter.",
+    "correctAnswer": "noticeable",
+    "options": [
+      "noticable",
+      "noticeable",
+      "notisable",
+      "noticible"
+    ],
+    "steps": {
+      "step1_marker": "Slot Identification: Attributive adjective modifying the singular noun 'improvement'. Base verb is 'notice'.",
+      "step2_time": "Phonetic Quality of Terminal Consonant: 'Notice' ends in 'ce', where 'c' has a soft /s/ sound because of the silent 'e'.",
+      "step3_aspect": "Soft 'c' Retention Rule (RC-11 Exception): If 'e' were dropped before '-able', the letter 'c' would precede 'a', turning into a hard /k/ sound (*notik-able). Therefore, the silent 'e' MUST be retained to preserve the soft /s/ pronunciation.",
+      "step4_inflection": "Derivation: notice + able -> noticeable (retaining the silent 'e'). Parallel: courage + ous -> courageous; peace + able -> peaceable.",
+      "step5_synthesis": "Correct Synthesis: 'noticeable'. There was a noticeable improvement in the disposal rate of civil appeals this quarter."
+    },
+    "trapWarning": "Candidates instinctively drop silent 'e' before '-able' and incorrectly choose '*noticable'. Remember: soft 'ce' and 'ge' keep the 'e' (noticeable, manageable, courageous)!"
+  },
+  {
+    "id": "WE-10",
+    "tense": "Semantic Disambiguation via Hyphen: Resign vs Re-sign",
+    "sentence": "Determine the correct word: The star legal counsel agreed to _______ the retainer contract for another two-year term after favorable renegotiations.",
+    "correctAnswer": "re-sign",
+    "options": [
+      "resign",
+      "re-sign",
+      "resine",
+      "re-sine"
+    ],
+    "steps": {
+      "step1_marker": "Context Clue: 'for another two-year term after favorable renegotiations' indicates continuing employment and signing the contract again, NOT leaving the job.",
+      "step2_time": "Semantic Conflict: The word 'resign' (/rɪˈzaɪn/) means to voluntarily leave an office, give up a post, or quit.",
+      "step3_aspect": "Hyphenation Disambiguation Law (RC-14): To express 'to sign again' (/riːˈsaɪn/), standard English mandates a hyphen to prevent confusion with 'quit': re- + sign -> re-sign.",
+      "step4_inflection": "Pronunciation & Meaning Check: re-sign = sign again; resign = quit post.",
+      "step5_synthesis": "Correct Synthesis: 're-sign'. The star legal counsel agreed to re-sign the retainer contract for another two-year term."
+    },
+    "trapWarning": "Choosing 'resign' here produces an absurd contradictory sentence (quitting a contract for another two years). Hyphens are mandatory when two meanings collide!"
+  },
+  {
+    "id": "WE-11",
+    "tense": "Degree Nuance: Economic vs Economical",
+    "sentence": "Select the correct adjective: In view of budget constraints, the registrar adopted an _______ procurement strategy for stationery.",
+    "correctAnswer": "economical",
+    "options": [
+      "economic",
+      "economical",
+      "economist",
+      "economy"
+    ],
+    "steps": {
+      "step1_marker": "Slot Identification: Attributive adjective modifying 'procurement strategy'. Context points to 'budget constraints' (saving money/frugal).",
+      "step2_time": "Root & Suffixes: Base is 'economy'. Derivatives are 'economic' and 'economical'.",
+      "step3_aspect": "Nuance Discrimination: 'Economic' relates to the broader fiscal system, trade, and financial structures of a country (e.g. economic policy, economic crisis). 'Economical' means thrifty, frugal, avoiding waste, and saving money.",
+      "step4_inflection": "Context Match: An expenditure strategy designed to save money under budget constraints is 'economical'.",
+      "step5_synthesis": "Correct Synthesis: 'economical'. In view of budget constraints, the registrar adopted an economical procurement strategy."
+    },
+    "trapWarning": "Do not confuse: Economic policy (arthik niti) vs Economical person/method (kifayati / kam kharche wala)."
+  },
+  {
+    "id": "WE-12",
+    "tense": "Correlative Agent vs Recipient Suffixes: Employer vs Employee",
+    "sentence": "Fill in the blank with the appropriate legal term: Under the Workmen's Compensation Act, every _______ is obligated to compensate an injured _______ in case of industrial accident.",
+    "correctAnswer": "employer / employee",
+    "options": [
+      "employee / employer",
+      "employer / employee",
+      "employment / employee",
+      "employer / employ"
+    ],
+    "steps": {
+      "step1_marker": "Syntactic Role Check: First slot is the subject who has the obligation to pay ('is obligated to compensate'). Second slot is the injured recipient who receives compensation.",
+      "step2_time": "Suffix Agency Distinction (RC-07): '-er' indicates the active agent / source of action (employer = one who employs). '-ee' indicates the passive recipient / beneficiary of action (employee = one who is employed).",
+      "step3_aspect": "Legal Relationship Concord: The employer bears the statutory liability to pay, and the employee receives the awarded compensation.",
+      "step4_inflection": "Synthesis: Slot 1 = employer; Slot 2 = employee.",
+      "step5_synthesis": "Correct Synthesis: 'employer / employee'. Under the Workmen's Compensation Act, every employer is obligated to compensate an injured employee."
+    },
+    "trapWarning": "Watch out for role reversal in multiple-choice questions. Always verify who performs the action (-er/-or) and who receives the action (-ee)!"
+  },
+  {
+    "id": "WE-13",
+    "tense": "Verbal Suffixes: Invariable '-ise' vs '-ize' Words",
+    "sentence": "Identify the word containing a spelling error: The appellate panel decided to scrutinize the files, supervise the junior staff, and *exercize* caution.",
+    "correctAnswer": "exercize (should be exercise)",
+    "options": [
+      "scrutinize",
+      "supervise",
+      "exercize",
+      "caution"
+    ],
+    "steps": {
+      "step1_marker": "Error Identification: Sentence contains three verbs ending in /aɪz/ sound: 'scrutinize', 'supervise', 'exercize'.",
+      "step2_time": "Root Etymology Examination: In English, words where 's' is part of the original Latin root (supervidere -> supervise; exercitium -> exercise) CANNOT be spelled with 'z'.",
+      "step3_aspect": "Invariable -ise Rule (RC-09): 'Exercise', 'supervise', 'advise', 'revise', and 'compromise' are always spelled with 's' in both UK and US English.",
+      "step4_inflection": "'Scrutinize' can take '-ize' (or UK '-ise'); 'supervise' is correctly spelled with 's'; '*exercize' with a 'z' is an outright spelling error.",
+      "step5_synthesis": "Correct Synthesis: 'exercize' is the erroneous word; the correct spelling is 'exercise'."
+    },
+    "trapWarning": "Never write '*exercize' or '*supervize'. Words with root 's' never accept 'z' under any spelling convention!"
+  },
+  {
+    "id": "WE-14",
+    "tense": "Privative 'a-' vs Negative 'im-': Amoral vs Immoral",
+    "sentence": "Choose the precise word: Animals operate under instinctive impulses and are entirely _______, lacking any conceptual awareness of right and wrong.",
+    "correctAnswer": "amoral",
+    "options": [
+      "immoral",
+      "amoral",
+      "unmoral",
+      "non-moral"
+    ],
+    "steps": {
+      "step1_marker": "Context Clue: 'lacking any conceptual awareness of right and wrong' indicates complete absence of the moral sense, NOT a deliberate violation of morals.",
+      "step2_time": "Prefix Comparison: Greek privative 'a-' means 'without / lacking the concept of'. Latin 'im-' means 'contrary to / bad / sinful'.",
+      "step3_aspect": "Semantic Boundary: 'Immoral' means knowing what is right but deliberately doing evil (e.g. corrupt official). 'Amoral' means completely outside the moral realm (e.g. wild animals, infants, earthquakes).",
+      "step4_inflection": "Prefix Selection: a- + moral = amoral (privative non-existence of moral sense).",
+      "step5_synthesis": "Correct Synthesis: 'amoral'. Animals operate under instinctive impulses and are entirely amoral, lacking any conceptual awareness of right and wrong."
+    },
+    "trapWarning": "'Immoral' (evil/wrong conduct) vs 'Amoral' (lacking moral perception completely). This philosophical and ethical distinction is a recurring exam favorite."
+  },
+  {
+    "id": "WE-15",
+    "tense": "Greek Classical Root Decoding: Anachronism",
+    "sentence": "Select the accurate one-word substitution: A person, custom, or object that belongs or seems to belong to another time period than that in which it exists is called an _______.",
+    "correctAnswer": "anachronism",
+    "options": [
+      "anachronism",
+      "anticipation",
+      "archetype",
+      "antediluvian"
+    ],
+    "steps": {
+      "step1_marker": "Definition Query: 'Belongs or seems to belong to another time period' requires a noun rooted in the concept of chronological displacement.",
+      "step2_time": "Root Decomposition: Greek prefix 'ana-' (backward / contrary to / against) + Greek root 'chronos' (time) + noun suffix '-ism'.",
+      "step3_aspect": "Morphological Decoding: ana- + chron + ism = anachronism (literally: against chronological order).",
+      "step4_inflection": "Alternative Elimination: 'Anticipation' (expecting ahead); 'Archetype' (original model); 'Antediluvian' (belonging to before the Biblical flood / extremely ancient).",
+      "step5_synthesis": "Correct Synthesis: 'anachronism'. A person, custom, or object belonging to another time period is called an anachronism."
+    },
+    "trapWarning": "Notice the spelling: 'ana-' + 'chron' (with 'ch') + '-ism' = a-n-a-c-h-r-o-n-i-s-m. Do not confuse with 'antediluvian' which simply means 'very ancient'."
+  }
+]

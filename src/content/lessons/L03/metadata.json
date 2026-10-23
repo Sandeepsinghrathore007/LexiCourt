@@ -1,0 +1,133 @@
+{
+  "id": "L03",
+  "title": "Conditional Sentences — Types 0, 1, 2, 3 and Inversions",
+  "shortTitle": "Conditional Sentences",
+  "topicId": "T01",
+  "topicTitle": "Tenses/Sequences of Tenses",
+  "part": "3 of 3",
+  "status": "active",
+  "estimatedMinutes": 105,
+  "difficulty": "Advanced",
+  "targetScore": "100% Structural Accuracy",
+  "description": "Condition aur result clauses ki syntax, Types 0, 1, 2, 3 ke structural formulas, mixed conditionals, inverted structures (Had I..., Were he...), aur competitive exam traps ko master karein.",
+  "learningObjectives": [
+    "Condition clause (if-clause) aur result clause ke syntactic function aur clause ordering ko identify karein",
+    "Chaar standard conditional types (Types 0, 1, 2, aur 3) ke meaning aur verb formulas ko master karein",
+    "Factual truths, realistic future, hypothetical present, aur unreal past conditions mein accurately distinguish karein",
+    "Contextual time references ke hisaab se mixed conditionals ko analyze aur construct karein",
+    "Formal English aur exam questions mein aane wali conditional inversions (Had, Were, Should) ko master karein",
+    "Unless, provided that, as long as jaise conditional connectives ke rules aur limitations ko apply karein",
+    "High Court exams ke recurring formula traps (jaise if-clause mein 'would' ya 'will' ka use) ko eliminate karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "Condition clause (if-clause) vs main/result clause syntax aur comma rules",
+      "Zero Conditional (Type 0): General facts, scientific laws, aur recurring cause-and-effect",
+      "First Conditional (Type 1): Realistic future conditions aur modal/imperative variations",
+      "Second Conditional (Type 2): Hypothetical/unlikely present ya future situations aur subjunctive 'were'",
+      "Third Conditional (Type 3): Unreal counterfactual past conditions aur imagined past results",
+      "Mixed Conditionals: Past condition with present result, aur continuing state with past result",
+      "Conditional Inversions: 'Had + S + V3', 'Were + S + to + V1 / adjective', 'Should + S + V1'",
+      "Related Conjunctions: 'Unless' (if... not), 'provided that', 'as long as', 'in case'",
+      "High Court exam ke recurring distractors aur formula errors ka elimination"
+    ],
+    "excluded": [
+      "Voice: Active & Passive Voice transformations across tenses (Lesson 04 & 05 mein covered hain)",
+      "Narration: Direct & Indirect speech reporting changes (Lesson 06 & 07 mein covered hain)",
+      "General non-conditional conjunctions (Lesson 14 Connectives mein covered hain)",
+      "Standard non-conditional Subject-Verb Agreement rules (Lesson 13 mein covered hain)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Learning Objectives",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Condition aur result ke causal relationship ko samajhein aur jaanein ki conditionals High Court exam ke liye decisive kyun hain."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Comprehensive Conditionals Reference",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "Types 0, 1, 2, 3 ke rules, mixed conditionals, inversions, aur connective constraints par complete reference."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Structural Flows & Decision Matrices",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Condition-to-result flows, comparative matrix, timelines, inversion mechanisms, aur mixed conditionals ko visually decode karein."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "10 Precision Formula Cards",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Foundational types, subjunctive were, formal inversions, aur unless connectives par instant reference cards."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Derivations",
+      "durationMin": 10,
+      "type": "worked-examples",
+      "summary": "15 annotated competitive exam sentences jo clause classification aur verb derivation ko systematically solve karte hain."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "6 Recurring Exam Traps & Distractors",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "Examiners ke favorite traps ka breakdown: if-clause mein 'would' ka use, 'unless' ke sath double negative, aur inversion errors."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Questions with Instant Explanations",
+      "durationMin": 15,
+      "type": "guided-practice",
+      "summary": "Interactive MCQs with immediate Roman Hinglish feedback, clause structure breakdown, aur distractor elimination."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "20 Questions with Summary Review",
+      "durationMin": 20,
+      "type": "independent-practice",
+      "summary": "Full exam-style test bank covering identification, fill-in-the-blanks, inversions, aur error spotting."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15 Questions Timed Simulation (12 Mins)",
+      "durationMin": 12,
+      "type": "mastery-assessment",
+      "summary": "Timed certification exam (pass threshold: >=80%) with strict scoring aur comprehensive performance evaluation."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Review & Error Bank",
+      "subtitle": "Conditional Revision & Error Retakes",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Complete revision summary sheet aur personalized Error Bank remediation workflow."
+    }
+  ]
+}

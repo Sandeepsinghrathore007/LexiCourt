@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "Mechanical 'Not' Insertion Without Compensatory Antonym",
+    "category": "Semantic Truth Reversal Error",
+    "frequency": "Extremely High (Examiner's Most Common Affirmative-to-Negative Distractor)",
+    "explanation": "Candidates aksar sochte hain ki sentence ko negative banana hai toh sirf helping verb ke baad 'not' laga do. Lekin transformation ka golden rule hai: MEANING MUST NOT CHANGE! Agar aap 'The judge was satisfied with the report' ko badal kar 'The judge was not satisfied with the report' likh dete hain, toh aapne affirmative ko negative toh bana diya lekin truth value 180 degree ulta kar diya! Correct transformation ke liye 'not' ke sath opposite word (antonym) lagana zaroori hai: 'The judge was not dissatisfied with the report'.",
+    "incorrectExample": "Affirmative: The advocate is very competent. ➔ Transformed: The advocate is not competent.",
+    "correctExample": "Affirmative: The advocate is very competent. ➔ Transformed: The advocate is not incompetent.",
+    "trapRule": "Antonym Balance Law: 'Not' akela meaning ko reverse kar deta hai. Meaning ko preserve karne ke liye 'Not + Opposite Word' (ya double negative) ka hona mandatory hai."
+  },
+  {
+    "id": "PIT-02",
+    "title": "Correlative Discord in 'No Sooner': Using 'When' or 'Then' Instead of 'Than'",
+    "category": "Correlative Conjunction Trap",
+    "frequency": "Extremely High (Classic High Court Question Trap)",
+    "explanation": "'No sooner' comparative degree adverbial hai (soon ➔ sooner). English grammar mein comparative adverbs ke sath correlative conjunction strictly 'THAN' (T-H-A-N) co-occur karta hai. Candidates 'Hardly / Scarcely' ke sath aane wale 'when' ko 'No sooner' mein mix kar dete hain, ya Hindi ke 'tab / waise hi' ki translation mein 'then' choose kar lete hain. Options mein 'No sooner did he arrive *when...' ya 'No sooner had he arrived *then...' bilkul fatal errors hain.",
+    "incorrectExample": "Affirmative: As soon as the clerk saw the file, he signed it. ➔ Transformed: No sooner did the clerk see the file when he signed it.",
+    "correctExample": "Affirmative: As soon as the clerk saw the file, he signed it. ➔ Transformed: No sooner did the clerk see the file than he signed it.",
+    "trapRule": "Correlative Matching Rule: 'No sooner' strictly demands 'THAN' (NOT 'when', NOT 'then'). Aur 'did' ke baad base verb V1 aayegi ('did see', NOT '*did saw')."
+  },
+  {
+    "id": "PIT-03",
+    "title": "Polarity Failure in Assertive-to-Interrogative Transformation",
+    "category": "Mood & Polarity Discord",
+    "frequency": "Very High (Number One Error in Sentence Conversion)",
+    "explanation": "Jab kisi assertive statement ko interrogative sentence mein transform kiya jata hai, toh polarity hamesha REVERSE hoti hai. Agar original statement affirmative hai ('He is rich'), toh question negative banega ('Is he not rich?'). Agar aap affirmative statement ko positive question bana denge ('Is he rich?'), toh wo ek factual declaration se hatkar genuine inquiry ya doubt ban jayega. Negative question hi assertive affirmation ko accurately communicate karta hai.",
+    "incorrectExample": "Assertive: A true friend never deserts you in trouble. ➔ Interrogative: Does a true friend never desert you in trouble?",
+    "correctExample": "Assertive: A true friend never deserts you in trouble. ➔ Interrogative: Does a true friend ever desert you in trouble?",
+    "trapRule": "The Polarity Flip Law: Positive Statement ➔ Negative Question ('Isn't he?'). Negative Statement ➔ Positive Question ('Can anyone? / Does he?'). Polarity invert kiye bina transformation invalid hai."
+  },
+  {
+    "id": "PIT-04",
+    "title": "Misusing 'Very' with Direct Nouns in Exclamatory Conversions",
+    "category": "Intensifier Collocation Discord",
+    "frequency": "High (Subtle Vocabulary Trap in Rajasthan Exams)",
+    "explanation": "Exclamatory sentences ('What a...', 'How...') ko assertive mein convert karte waqt candidates har jagah blind tarike se 'very' chipka dete hain. Rule ye hai ki 'very' ek adverb hai jo sirf ADJECTIVES ya ADVERBS ko modify karta hai ('very beautiful', 'very fast'). Lekin agar 'What a' ke baad koi direct NOUN aaya ho (jaise fool, pity, tragedy, blunder, victory), toh 'very' use karna absurd English hai. Nouns ke sath descriptive intensifying adjectives jaise 'great', 'terrible', 'wonderful' use kiye jate hain.",
+    "incorrectExample": "Exclamatory: What a fool the accused was! ➔ Assertive: The accused was a very fool.",
+    "correctExample": "Exclamatory: What a fool the accused was! ➔ Assertive: The accused was a great fool.",
+    "trapRule": "Noun vs Adjective Intensifier Collocation: Adjective / Adverb ➔ 'very' ('very clever'). Qualifying Noun ➔ 'great / terrible / wonderful' ('a great fool', 'a terrible tragedy')."
+  },
+  {
+    "id": "PIT-05",
+    "title": "Tense Discord in 'Too...To' Transformations (Cannot vs Could Not)",
+    "category": "Cross-Clause Tense Concord",
+    "frequency": "High (Tense Shift Distractor Trap)",
+    "explanation": "'Too...to' ko 'so...that' mein transform karte waqt candidates tense harmonize karna bhool jate hain. Agar main clause present tense mein hai ('is/are too...'), toh that-clause mein 'cannot' aayega ('is so weak that he cannot walk'). Lekin agar main clause past tense mein hai ('was/were too...'), toh that-clause mein past ability modal 'could not' aana mandatory hai ('was so weak that he could not walk'). Options mein 'was so weak that he cannot...' sabse common trap hota hai.",
+    "incorrectExample": "Affirmative: The applicant was too nervous to answer the viva questions. ➔ Transformed: The applicant was so nervous that he cannot answer the viva questions.",
+    "correctExample": "Affirmative: The applicant was too nervous to answer the viva questions. ➔ Transformed: The applicant was so nervous that he could not answer the viva questions.",
+    "trapRule": "Tense Concord Rule: Present ('is too') ➔ 'cannot + V1'. Past ('was too') ➔ 'could not + V1'. Tense consistency verify karna pehla step hona chahiye."
+  },
+  {
+    "id": "PIT-06",
+    "title": "Quantifier Inversion Reversal in Rhetorical Questions",
+    "category": "Quantifier Semantic Reversal Trap",
+    "frequency": "Very High (Examiner's Favorite MCQ Trap)",
+    "explanation": "'Everyone' (affirmative quantifier) aur 'No one / Nobody' (negative quantifier) ko rhetorical questions mein transform karte waqt polarity symmetry follow karni hoti hai. 'Everyone loves his country' ek positive assertion hai, isliye iska rhetorical question NEGATIVE aayega: 'Who does NOT love his country?' (Implies: Everyone does). Agar examiner ke option 'Who loves his country?' ko select kiya, toh uska implied meaning nikalta hai 'No one loves his country', jo original statement ka bilkul ulta hai!",
+    "incorrectExample": "Assertive: Everyone knows the law of the land. ➔ Rhetorical: Who knows the law of the land?",
+    "correctExample": "Assertive: Everyone knows the law of the land. ➔ Rhetorical: Who does not know the law of the land?",
+    "trapRule": "Rhetorical Quantifier Symmetry: 'Everyone' ➔ 'Who does NOT...?'. 'No one / Nobody' ➔ 'Who DOES...?' / 'Can anyone...?'. Meaning ko check karne ke liye question ka obvious answer soch kar verify karein."
+  }
+]

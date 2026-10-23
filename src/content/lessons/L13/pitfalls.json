@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "Selecting the Verb Based on the Nearest Noun (The Proximity Error Trap)",
+    "category": "Intervening Prepositional Phrase & Nearest Noun Trap",
+    "frequency": "Extremely High (Number 1 Error Spotting Trap in High Court English)",
+    "explanation": "Human ear natural spoken flow mein hamesha verb ko uske theek paas aane wale noun se match karne ki koshish karta hai (Auditory Bias). Examiners janboojhkar ek singular head noun ke baad ek plural prepositional phrase insert karte hain: 'The quality of the mangoes...', 'The box of chocolates...', 'The list of candidates...'. Learner 'mangoes', 'chocolates', ya 'candidates' ko dekhkar plural verb laga deta hai. Lekin preposition ke baad aane wala noun preposition ka OBJECT hota hai, wo kabhi sentence ka SUBJECT nahi ho sakta! Subject hamesha preposition se pehle aane wala Head Noun hota hai.",
+    "incorrectExample": "Incorrect: The quality of these recently procured biometric machines are substandard.",
+    "correctExample": "Correct: The quality of these recently procured biometric machines IS substandard.",
+    "trapRule": "The Head Noun Law: Strip prepositional modifiers ('of...', 'in...', 'with...'). [Head Noun] dictates the verb, NOT the nearest noun!"
+  },
+  {
+    "id": "PIT-02",
+    "title": "Assuming a Subject Followed by 'Along with' or 'As well as' Becomes Plural",
+    "category": "Parenthetical Connective vs Coordinate Conjunction Confusion",
+    "frequency": "Extremely High (Classic Competitive Exam Grammar Trap)",
+    "explanation": "Learners 'along with', 'as well as', 'together with', aur 'in addition to' ko coordinating conjunction 'AND' ke barabar samajhne ki galti karte hain. Unhe lagta hai ki jab do log jud gaye (jaise 'The judge along with his assistants'), toh 1 + 2 = 3 (plural) ho gaya. Lekin English grammar mein 'along with' ek parenthetical prepositional phrase hai, koi addition operator nahi. Iska aane se main subject ka number kabhi change nahi hota. Verb STRICTLY FIRST SUBJECT ke according aati hai.",
+    "incorrectExample": "Incorrect: The Chief Justice, along with three administrative officers, have inspected the court complex.",
+    "correctExample": "Correct: The Chief Justice, along with three administrative officers, HAS inspected the court complex.",
+    "trapRule": "First Subject Rule: In [Subject 1 + as well as / along with / together with + Subject 2], the verb matches ONLY Subject 1!"
+  },
+  {
+    "id": "PIT-03",
+    "title": "Confusing 'A Number of' (Plural) with 'The Number of' (Singular)",
+    "category": "Polar Quantifier Discord",
+    "frequency": "Very High (High-Frequency Fill-in-the-Blank & Cloze Test Trap)",
+    "explanation": "Candidates 'number' word dekhkar dono expressions ko ek jaisa samajh lete hain. Lekin unka grammatical nature bilkul opposite hai. 'A number of' ka idiomatic matlab hota hai 'many/several' (bahut saare), iska syntactic focus plural items par hota hai ➔ PLURAL VERB. Jabki 'The number of' ek specific single numerical figure (sankhya) ko denote karta hai, iska subject word 'The number' (singular) hota hai ➔ SINGULAR VERB. In dono ko reverse karna 100% exam penalty deta hai.",
+    "incorrectExample": "Incorrect: A number of candidates has qualified, but the number of available vacancies are very limited.",
+    "correctExample": "Correct: A number of candidates HAVE qualified, but the number of available vacancies IS very limited.",
+    "trapRule": "The Number Polarity: 'A number of + Plural Noun' ➔ PLURAL VERB. 'THE number of + Plural Noun' ➔ SINGULAR VERB."
+  },
+  {
+    "id": "PIT-04",
+    "title": "Misidentifying the Antecedent in 'One of the [Plural Noun] Who...'",
+    "category": "Relative Clause Antecedent Blind Spot",
+    "frequency": "Extremely High (Advanced Error Spotting & Sentence Correction Trap)",
+    "explanation": "Jab sentence mein 'He is one of those advocates who...' aata hai, toh examinees sentence ke shuru mein 'He' ya 'one' dekhkar relative clause ke andar singular verb ('has') laga dete hain. Lekin English grammar ka cardinal rule hai: Relative pronoun ('who', 'which', 'that') apne theek pehle aane wale noun (ANTECEDENT) se agree karta hai. Antecedent yahan plural noun ('advocates') hai, isliye relative clause ke andar strictly PLURAL VERB aani chahiye! Exception sirf tab hota hai jab sentence mein 'THE ONLY' lag jaye ('He is the only one... who has').",
+    "incorrectExample": "Incorrect: He is one of the senior judicial officers who has delivered landmark judgments on digital evidence.",
+    "correctExample": "Correct: He is one of the senior judicial officers who HAVE delivered landmark judgments on digital evidence.",
+    "trapRule": "Antecedent Concord: [One of the + Plural Noun + WHO] ➔ PLURAL VERB. BUT [THE ONLY ONE of the + Plural Noun + WHO] ➔ SINGULAR VERB."
+  },
+  {
+    "id": "PIT-05",
+    "title": "The 'Each of' / 'Neither of' Plural Mirage",
+    "category": "Distributive Singular vs Plural Object Trap",
+    "frequency": "Very High (Recurring Error Spotting Trap in Rajasthan Exams)",
+    "explanation": "'Each of the boys...', 'Neither of the plans...', 'Either of the options...' mein 'of the' ke baad aane wala noun hamesha PLURAL hota hai. Examiners isi plural noun ke turant baad blank ya verb de dete hain. Candidates plural noun ke flow mein behkar plural verb ('are', 'have', 'were') choose kar lete hain. Lekin grammatical fact ye hai ki 'Each', 'Neither', aur 'Either' distributive singular pronouns hain jo hamesha ek-ek item ko consider karte hain aur STRICTLY SINGULAR VERB lete hain.",
+    "incorrectExample": "Incorrect: Neither of the two shortlisted candidates were found suitable for the technical role.",
+    "correctExample": "Correct: Neither of the two shortlisted candidates WAS found suitable for the technical role.",
+    "trapRule": "Distributive Singular Law: [Each of / Neither of / Either of + Plural Noun] ALWAYS takes a SINGULAR VERB ('is', 'was', 'has')."
+  },
+  {
+    "id": "PIT-06",
+    "title": "Treating Quantity, Measurement, Time or Distance as Plural",
+    "category": "Lump Sum vs Discrete Unit Distortion",
+    "frequency": "High (Standard Fill-in-the-Blank Exam Item)",
+    "explanation": "Jab koi distance (twenty miles), time duration (three hours), weight (fifty kilograms), ya amount of money (ten thousand rupees) mention hota hai, toh noun mein 's' (plural) hone ki vajah se learners plural verb laga dete hain. Lekin agar ye quantity ek SINGLE COMBINED UNIT ya TOTAL LUMP SUM ke roop mein express ho rahi ho (jaise 'a long distance', 'a large amount'), toh grammatical subject SINGULAR hota hai. Plural verb sirf tab lagti hai jab individual coins, notes, ya items alag-alag distribute ya count kiye ja rahe hon.",
+    "incorrectExample": "Incorrect: Five thousand rupees were a very handsome reward for finding the lost judicial register.",
+    "correctExample": "Correct: Five thousand rupees WAS a very handsome reward for finding the lost judicial register.",
+    "trapRule": "Lump Sum Principle: Amount, Distance, Time, and Weight as a single entity ➔ SINGULAR VERB (\"Ten miles IS\", \"Two hours IS\")."
+  },
+  {
+    "id": "PIT-07",
+    "title": "Defaulting to 'There is' Regardless of the Actual Post-Verbal Subject",
+    "category": "Inverted Word Order & Dummy Pronoun Bias",
+    "frequency": "High (Spoken English Bias in Written Exams)",
+    "explanation": "Spoken English mein log contraction 'there's' ko plural nouns ke aage bhi dharalle se use kar dete hain (jaise 'there's many reasons'). Competitive examination mein ye ek fatal error hai. 'There' koi subject nahi hai, ye sirf ek placeholder adverb hai. Sentence ka actual subject verb ke THEEK BAAD aata hai. Verb ke baad aane wale noun ko dekhein: agar plural hai, toh strictly 'There are', 'There were', ya 'There have been' aayega.",
+    "incorrectExample": "Incorrect: There was several procedural lapses identified during the annual cybersecurity audit.",
+    "correctExample": "Correct: There WERE several procedural lapses identified during the annual cybersecurity audit.",
+    "trapRule": "Post-Verbal Subject Law: Look AFTER the verb! There + [IS/WAS + Singular Noun] vs There + [ARE/WERE + Plural Noun]."
+  },
+  {
+    "id": "PIT-08",
+    "title": "Confusing Collective Noun Meaning with Its Outer Grammatical Form",
+    "category": "Collective Noun Context Blindness",
+    "frequency": "Very High (Subtle Discrimination Question in Advanced Papers)",
+    "explanation": "Learners collective nouns (jury, committee, team, audience) ko ya toh hamesha singular maan lete hain ya hamesha plural. Lekin collective noun agreement MEANING-DEPENDENT hota hai. Agar sentence mein markers hon jaise 'unanimous', 'its verdict', 'as a unit', toh verb strictly SINGULAR hoti hai. Lekin agar markers hon jaise 'divided', 'their opinions', 'taking their seats', toh collective noun plural ban jata hai aur PLURAL VERB leta hai. Context clues ko ignore karke ek rigid rule lagana examiner ke trap mein phansa deta hai.",
+    "incorrectExample": "Incorrect: The jury was divided in their opinions regarding the forensic handwriting analysis.",
+    "correctExample": "Correct: The jury WERE divided in their opinions regarding the forensic handwriting analysis.",
+    "trapRule": "Collective Clue Check: Look for pronouns and adjectives! 'ITS / unanimous' ➔ Singular Verb. 'THEIR / divided' ➔ Plural Verb."
+  }
+]

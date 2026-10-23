@@ -1,0 +1,146 @@
+{
+  "id": "L13",
+  "title": "Subject–Verb Agreement: Core Rules, Exceptions & Sentence Correction",
+  "shortTitle": "Subject–Verb Agreement & Sentence Correction",
+  "topicId": "T06",
+  "topicTitle": "Correction of Sentences",
+  "part": "1 of 2",
+  "status": "active",
+  "estimatedMinutes": 90,
+  "difficulty": "Advanced",
+  "targetScore": "100% Precision",
+  "description": "Sentence ka actual grammatical subject aur head noun pehchanna, intervening phrases (prepositional & relative clauses) ko eliminate karna, compound subjects, correlative conjunctions (Either/Or proximity), parenthetical connectives (as well as, along with), distributive pronouns ('each of', 'one of the'), collective nouns, measurements, inverted constructions ('there is/are'), aur High Court sentence correction traps ko systematically master karein.",
+  "learningObjectives": [
+    "Sentence mein main verb ka true grammatical subject aur head noun accurately identify karein",
+    "Subject aur verb ke beech aane wale intervening prepositional phrases aur relative clauses ke distractor traps ko eliminate karein",
+    "Compound subjects joined by 'and' mein two separate entities vs single conceptual unit ke farq ko samjhein",
+    "Correlative conjunctions (Either...or, Neither...nor, Not only...but also) mein Proximity Rule (nearer subject) flawlessly apply karein",
+    "Parenthetical connectives (along with, as well as, together with, in addition to) mein First Subject Rule follow karein",
+    "Indefinite pronouns ke teeno groups (strictly singular, strictly plural, aur variable quantity 'all/some/none') ke concord ko master karein",
+    "Distributive constructions ('Each of', 'Neither of', 'Every') ke singular verb agreement logic ko decode karein",
+    "Collective nouns (jury, committee, team) mein unified single body (singular) vs divided individual members (plural) distinguish karein",
+    "Quantity, time, distance, aur money ke units jab single combined whole represent karein toh singular verb apply karein",
+    "'A number of' (plural) aur 'The number of' (singular) ke syntactic difference ko flawlessly resolve karein",
+    "'One of the + plural noun + who/which/that' relative clause antecedent agreement aur 'The only one of the...' contrast ko master karein",
+    "Inverted sentences ('There is/are', adverbial inversions) mein verb ke baad aane wale true subject ke hisaab se correct verb select karein",
+    "Rajasthan High Court exams ke recurring error spotting aur sentence correction questions bina kisi guesswork ke solve karein"
+  ],
+  "scopeBoundaries": {
+    "included": [
+      "True Subject vs Intervening Phrases (prepositional phrases like 'of...', 'with...', 'in...', relative clauses)",
+      "Core Singular and Plural Subject-Verb Concord across present and auxiliary chains (is/are, has/have, does/do, was/were)",
+      "Compound subjects joined by 'and' (separate individuals vs single food/unit/concept pairings like bread and butter)",
+      "Correlative conjunctions and Proximity Concord: Either...or, Neither...nor, Not only...but also",
+      "Parenthetical expressions: as well as, along with, together with, in addition to, accompanied by, besides, including",
+      "Indefinite Pronouns: strictly singular (each, everyone, someone, anybody, nobody), strictly plural (both, few, many, several), variable quantity (all, some, most, none) determined by complement noun",
+      "Distributive patterns: 'Each of the + plural noun', 'Every boy and every girl', 'Neither of the two'",
+      "Collective Nouns: team, committee, jury, audience, council, family, government (unitary sense vs divided member sense)",
+      "Measurement, Sums, Time and Distance: singular when treated as single amount vs plural when individual units are counted",
+      "Plural-looking titles, disciplines, and diseases: Gulliver's Travels, Mathematics, Physics, Economics, Measles, Billiards",
+      "The Number Concord: 'A number of + plural noun + plural verb' vs 'The number of + plural noun + singular verb'",
+      "Advanced structures: 'One of the + plural noun + who + plural verb', 'The only one of the + plural noun + who + singular verb', 'Many a + singular noun + singular verb', 'More than one + singular noun + singular verb'",
+      "Inverted sentences with dummy 'There' and introductory location adverbs (There is/are, Here comes/come)",
+      "Clauses and Gerund phrases acting as singular subjects ('Reading books expands knowledge', 'What he said was true')"
+    ],
+    "excluded": [
+      "Connectives and Correlative Conjunction non-agreement rules like scarcely...when, no sooner...than (covered in Lesson 14)",
+      "Confusing Word Pairs and Diction Errors like Affect/Effect, Judicial/Judicious (covered in Lesson 14)",
+      "Articles and Determiners countability rules (covered in Lesson 10)",
+      "Prepositional collocations and zero prepositions (covered in Lessons 11 and 12)",
+      "Active and Passive Voice transformations (covered in Lessons 04 and 05)",
+      "Direct and Indirect Speech tense shifts (covered in Lessons 06 and 07)"
+    ]
+  },
+  "steps": [
+    {
+      "id": "step-1",
+      "index": 1,
+      "title": "Concept Orientation",
+      "subtitle": "Overview & Prerequisite Check",
+      "durationMin": 5,
+      "type": "orientation",
+      "summary": "Subject-Verb Agreement ke core principles, exam weightage, head noun isolation, distracting phrases, proximity traps, aur diagnostic prerequisite check ko samjhein."
+    },
+    {
+      "id": "step-2",
+      "index": 2,
+      "title": "Study Guide",
+      "subtitle": "Complete Reference Guide across 11 SVA Categories",
+      "durationMin": 30,
+      "type": "study-doc",
+      "summary": "Head noun isolation, compound subjects, correlative proximity, parenthetical connectives, indefinite pronouns, collective nouns, measurements, special structures, aur 7-step sentence correction algorithm par comprehensive guide."
+    },
+    {
+      "id": "step-3",
+      "index": 3,
+      "title": "Visual Architecture",
+      "subtitle": "Interactive SVA Decision Trees & Syntactic Models",
+      "durationMin": 15,
+      "type": "visuals",
+      "summary": "Subject-Verb identification diagram, SVA decision tree, agreement rules comparison matrix, distractor phrases inspector, 'a number of' vs 'the number of' comparator, aur special structures reference map."
+    },
+    {
+      "id": "step-4",
+      "index": 4,
+      "title": "Rule Cards",
+      "subtitle": "12 Precision Formula Cards",
+      "durationMin": 10,
+      "type": "rule-cards",
+      "summary": "Head Noun vs Distractor, Compound 'And', Proximity Rule (Either/Or), Parenthetical 'As well as', Distributive Singulars, Variable Indefinite Pronouns, 'A Number of' vs 'The Number of', 'One of the' Relative Clause Concord, Collective Nouns, Quantities & Distances, Inverted 'There', aur 'Many a' syntax cards."
+    },
+    {
+      "id": "step-5",
+      "index": 5,
+      "title": "Worked Examples",
+      "subtitle": "15 Step-by-Step Exam Derivations",
+      "durationMin": 15,
+      "type": "worked-examples",
+      "summary": "Intervening phrases, parenthetical connectives, proximity order, relative clause antecedents, 'a number of' contrasts, collective division, aur inverted 'there' derivations with annotated Roman Hinglish reasoning."
+    },
+    {
+      "id": "step-6",
+      "index": 6,
+      "title": "Common Pitfalls",
+      "subtitle": "8 Critical Subject-Verb Agreement Traps",
+      "durationMin": 10,
+      "type": "common-mistakes",
+      "summary": "Nearest noun proximity blunder, 'along with' plural distortion, 'a number of' vs 'the number of' reversal, 'one of the...who' antecedent blind spot, 'each of' plural mirage, measurement plural distortion, inverted subject misidentification, aur collective noun meaning confusion."
+    },
+    {
+      "id": "step-7",
+      "index": 7,
+      "title": "Guided Practice",
+      "subtitle": "12 Scaffolded Questions with Hints",
+      "durationMin": 15,
+      "type": "guided-practice",
+      "summary": "Immediate feedback, step-by-step head noun isolation, aur contextual hints ke saath 12 multi-dimensional SVA practice items."
+    },
+    {
+      "id": "step-8",
+      "index": 8,
+      "title": "Independent Practice",
+      "subtitle": "20 Exam-Grade Practice Questions",
+      "durationMin": 20,
+      "type": "independent-practice",
+      "summary": "Full syllabus coverage wale 20 realistic competitive questions (choose verb, error spotting, sentence correction, select true subject) with detailed diagnostic explanations."
+    },
+    {
+      "id": "step-9",
+      "index": 9,
+      "title": "Mastery Assessment",
+      "subtitle": "15 Timed Certification Questions",
+      "durationMin": 12,
+      "type": "mastery-assessment",
+      "summary": "12-minute timed exam simulation with 80% passing threshold (12/15) to achieve official module mastery."
+    },
+    {
+      "id": "step-10",
+      "index": 10,
+      "title": "Error Review & Remediation",
+      "subtitle": "Personalized Mistake Bank & Diagnostics",
+      "durationMin": 10,
+      "type": "error-review",
+      "summary": "Practice aur assessment ke sabhi incorrect answers ka comprehensive review, weak area diagnostics, aur one-click retry engine."
+    }
+  ]
+}

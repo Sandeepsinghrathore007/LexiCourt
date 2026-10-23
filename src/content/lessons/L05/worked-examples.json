@@ -1,0 +1,212 @@
+[
+  {
+    "id": "WE-01",
+    "sentence": "Active: 'Submit the official audit report before Friday.'",
+    "correctAnswer": "Let the official audit report be submitted before Friday.",
+    "tense": "Standard Imperative (Command / Administrative Instruction)",
+    "steps": {
+      "step1_marker": "Sentence Type Analysis: Active sentence base verb 'Submit' se shuru ho raha hai aur direct command/instruction express kar raha hai. Subject 'You' implied (hidden) hai.",
+      "step2_time": "Object Identification: Transitive verb 'Submit' ke baad direct object 'the official audit report' maujood hai.",
+      "step3_aspect": "Formula Selection: Direct command with object ke liye standard textbook formula lagayein: 'Let + Object + be + V3'.",
+      "step4_inflection": "Auxiliary & V3 Assembly: 'Let' ke baad object 'the official audit report' aaya, fir auxiliary 'be', aur main verb 'submit' ka V3 form 'submitted' lagaya.",
+      "step5_synthesis": "Final Synthesis: 'Let the official audit report be submitted before Friday.'"
+    },
+    "trapWarning": "EXAM TRAP: Active mein 'should' ya 'you are ordered' tabhi chunein jab 'Let' wala option missing ho ya context specifically order/advice mention kare. Examination grammar mein standard transitive command ke liye 'Let + obj + be + V3' first preference hota hai."
+  },
+  {
+    "id": "WE-02",
+    "sentence": "Active: 'Please grant me an extension of two weeks to file the reply.'",
+    "correctAnswer": "You are requested to grant me an extension of two weeks to file the reply.",
+    "tense": "Situational Imperative (Polite Request with 'Please')",
+    "steps": {
+      "step1_marker": "Tone & Politeness Marker: Active sentence mein word 'Please' laga hai, jo clearly darshata hai ki speaker polite request kar raha hai.",
+      "step2_time": "Formula Determination: Polite request ke liye situational passive formula: 'You are requested to + V1 + Object'.",
+      "step3_aspect": "Redundancy Elimination: Passive formula mein 'requested' verb aane se 'Please' ka meaning already absorb ho jata hai, isliye 'Please' ko drop karein.",
+      "step4_inflection": "Infinitive Construction: Main verb 'grant' base infinitive form ('to grant') mein retain rehti hai.",
+      "step5_synthesis": "Final Synthesis: 'You are requested to grant me an extension of two weeks to file the reply.'"
+    },
+    "trapWarning": "SUPERFLUOUS WORD TRAP: 'You are requested to please grant...' likhna grammatically redundant hai. Option mein se 'please' drop hona mandatory hai."
+  },
+  {
+    "id": "WE-03",
+    "sentence": "Active: 'Do not disclose the confidential court cipher.'",
+    "correctAnswer": "Let the confidential court cipher not be disclosed.",
+    "tense": "Negative Imperative Transformation",
+    "steps": {
+      "step1_marker": "Polarity & Structure: Active sentence 'Do not' se shuru ho raha hai aur direct object 'the confidential court cipher' hai.",
+      "step2_time": "Negative Placement Rule: Negative imperative formula: 'Let + Object + not + be + V3'.",
+      "step3_aspect": "Object Promotion: Object 'the confidential court cipher' ko 'Let' ke baad promote karein.",
+      "step4_inflection": "Word Order Check: 'Not' ko auxiliary 'be' se theek pehle place karein, aur 'disclose' ka V3 'disclosed' lagayein.",
+      "step5_synthesis": "Final Synthesis: 'Let the confidential court cipher not be disclosed.'"
+    },
+    "trapWarning": "WORD ORDER TRAP: Distractor options mein aksar 'Let the cipher be not disclosed' diya jata hai. 'Not' hamesha 'be' se pehle aana chahiye: 'not be disclosed'."
+  },
+  {
+    "id": "WE-04",
+    "sentence": "Active: 'Respect the judicial verdicts of the High Court.'",
+    "correctAnswer": "The judicial verdicts of the High Court should be respected.",
+    "tense": "Moral Obligation & Civic Duty",
+    "steps": {
+      "step1_marker": "Semantic Tone Check: Sentence kisi coercing order ya personal request ka nahi, balki ek civic duty aur moral obligation ka hai.",
+      "step2_time": "Formula Selection: Moral advice/duty ke liye standard passive formula: 'Object + should be + V3'.",
+      "step3_aspect": "Object Promotion: Direct object 'The judicial verdicts of the High Court' sentence ka naya subject banega.",
+      "step4_inflection": "Modal Auxiliary & V3: Modal 'should' ke baad 'be' aur verb 'respect' ka past participle 'respected' aayega.",
+      "step5_synthesis": "Final Synthesis: 'The judicial verdicts of the High Court should be respected.'"
+    },
+    "trapWarning": "TONE MISMATCH: 'Let the judicial verdicts be respected' ki tulna mein 'should be respected' contextually far superior aur exam-preferred option hota hai."
+  },
+  {
+    "id": "WE-05",
+    "sentence": "Active: 'Leave the courtroom immediately.'",
+    "correctAnswer": "You are ordered to leave the courtroom immediately.",
+    "tense": "Intransitive Imperative Command",
+    "steps": {
+      "step1_marker": "Transitivity Check: Verb 'Leave' ke baad koi direct object nahi hai ('the courtroom' place adverbial/locative complement hai, aur sentence authoritative command hai).",
+      "step2_time": "Feasibility Determination: Intransitive imperative sentences ka 'Let' se passive nahi ban sakta (jaise 'Let the courtroom be left' unnatural aur grammatically incorrect hai).",
+      "step3_aspect": "Situational Passive Formula: Authoritative order ke liye situational formula lagayein: 'You are ordered to + V1'.",
+      "step4_inflection": "Infinitive Construction: 'to leave the courtroom immediately' jod dein.",
+      "step5_synthesis": "Final Synthesis: 'You are ordered to leave the courtroom immediately.'"
+    },
+    "trapWarning": "PSEUDO-PASSIVE TRAP: Intransitive commands mein kabhi 'Let' lagane ki koshish na karein. Wahan strictly 'You are ordered / commanded to' hi correct hota hai."
+  },
+  {
+    "id": "WE-06",
+    "sentence": "Active: 'The administrative officer can approve this urgent expenditure.'",
+    "correctAnswer": "This urgent expenditure can be approved by the administrative officer.",
+    "tense": "Simple Modal Passive ('Can' — Ability / Authority)",
+    "steps": {
+      "step1_marker": "Component Isolation: Subject = 'The administrative officer', Modal + Verb = 'can approve', Object = 'this urgent expenditure'.",
+      "step2_time": "Modal Invariance Rule: Active sentence mein modal 'can' hai. Voice change mein modal badalna nahi chahiye ('can' 'can' hi rahega, 'could' nahi banega).",
+      "step3_aspect": "Formula Application: Simple Modal Passive = 'Object + Modal + be + V3 + (by + Subject)'.",
+      "step4_inflection": "Auxiliary & V3 Assembly: 'can' ke baad 'be' aayega aur 'approve' ka V3 'approved' banega.",
+      "step5_synthesis": "Final Synthesis: 'This urgent expenditure can be approved by the administrative officer.'"
+    },
+    "trapWarning": "BACKSHIFTING ERROR: Option mein 'could be approved' diya hoga jo Narration ka rule hai. Voice mein tense aur modal strictly preserve rehte hain."
+  },
+  {
+    "id": "WE-07",
+    "sentence": "Active: 'All candidates must produce their original identity cards.'",
+    "correctAnswer": "Original identity cards must be produced by all candidates.",
+    "tense": "Simple Modal Passive ('Must' — Mandatory Obligation)",
+    "steps": {
+      "step1_marker": "Component Isolation: Subject = 'All candidates', Modal = 'must', Verb = 'produce', Object = 'their original identity cards'.",
+      "step2_time": "Modal Meaning Preservation: 'Must' strict legal compulsion express kar raha hai. Ye passive mein intact rahega.",
+      "step3_aspect": "Object Promotion: Object 'Original identity cards' naya subject ban gaya.",
+      "step4_inflection": "Auxiliary & V3: 'must be produced' ban gaya. Agent 'by all candidates' end mein add hua.",
+      "step5_synthesis": "Final Synthesis: 'Original identity cards must be produced by all candidates.'"
+    },
+    "trapWarning": "MODAL SUBSTITUTION: Distractor options 'should be produced' ya 'had to be produced' dekar meaning dilute karte hain. Original modal 'must' retain hona chahiye."
+  },
+  {
+    "id": "WE-08",
+    "sentence": "Active: 'The court cannot entertain an uncertified revision petition.'",
+    "correctAnswer": "An uncertified revision petition cannot be entertained by the court.",
+    "tense": "Negative Modal Construction",
+    "steps": {
+      "step1_marker": "Component Isolation: Subject = 'The court', Verb Phrase = 'cannot entertain', Object = 'an uncertified revision petition'.",
+      "step2_time": "Negation Order: Negative modal formula: 'Object + Modal + not + be + V3 + (by + Subject)'.",
+      "step3_aspect": "Object Promotion: 'An uncertified revision petition' sentence ka naya subject bana.",
+      "step4_inflection": "Auxiliary & V3: 'cannot be entertained' (note: 'cannot' single word ya 'can not' valid hai).",
+      "step5_synthesis": "Final Synthesis: 'An uncertified revision petition cannot be entertained by the court.'"
+    },
+    "trapWarning": "WORD ORDER DISCORD: 'can be not entertained' bilkul galat word order hai. Negation 'not' hamesha modal ke turant baad aati hai."
+  },
+  {
+    "id": "WE-09",
+    "sentence": "Active: 'Can the cyber forensic expert retrieve the deleted server logs?'",
+    "correctAnswer": "Can the deleted server logs be retrieved by the cyber forensic expert?",
+    "tense": "Interrogative Modal Inversion",
+    "steps": {
+      "step1_marker": "Interrogative Syntax Check: Sentence Yes/No question hai jo modal 'Can' se shuru ho raha hai.",
+      "step2_time": "Inversion Rule: Interrogative passive mein bhi modal auxiliary subject se pehle sentence ke start mein inverted rahegi.",
+      "step3_aspect": "Question Formula: 'Modal + Object + be + V3 + (by + Subject)?'.",
+      "step4_inflection": "Component Placement: 'Can' + [the deleted server logs] + 'be retrieved' + [by the cyber forensic expert]?",
+      "step5_synthesis": "Final Synthesis: 'Can the deleted server logs be retrieved by the cyber forensic expert?'"
+    },
+    "trapWarning": "ASSERTIVE WORD ORDER TRAP: Distractor mein 'Can be the deleted server logs retrieved...?' ya 'The deleted server logs can be retrieved...?' dekar question syntax corrupt kiya jata hai."
+  },
+  {
+    "id": "WE-10",
+    "sentence": "Active: 'The registry should have dispatched the summons yesterday.'",
+    "correctAnswer": "The summons should have been dispatched by the registry yesterday.",
+    "tense": "Modal Perfect Passive (Unfulfilled Past Duty)",
+    "steps": {
+      "step1_marker": "Component Isolation: Subject = 'The registry', Verb = 'should have dispatched' (Modal Perfect), Object = 'the summons'.",
+      "step2_time": "Temporal Reference: 'Should have dispatched' past unfulfilled duty ko indicate kar raha hai.",
+      "step3_aspect": "Modal Perfect Passive Formula: 'Object + Modal + have been + V3 + (by + Subject)'.",
+      "step4_inflection": "Auxiliary Chain: 'should' + 'have been' + 'dispatched'. (Note: 'summons' singular noun hone ke bawajood modal ke baad 'have' hi aayega, 'has' nahi).",
+      "step5_synthesis": "Final Synthesis: 'The summons should have been dispatched by the registry yesterday.'"
+    },
+    "trapWarning": "BEEN OMISSION BLUNDER: Agar option mein 'The summons should have dispatched...' ho, toh 'been' missing hai. Ye active voice hi reh jata hai aur completely wrong hota hai."
+  },
+  {
+    "id": "WE-11",
+    "sentence": "Active: 'Someone must have tampered with the electronic seal.'",
+    "correctAnswer": "The electronic seal must have been tampered with.",
+    "tense": "Modal Perfect with Prepositional Verb & Indefinite Agent",
+    "steps": {
+      "step1_marker": "Component Isolation: Subject = 'Someone' (indefinite pronoun), Verb = 'must have tampered with' (Modal Perfect + Prepositional Verb), Object = 'the electronic seal'.",
+      "step2_time": "Double Rule Application: (1) Modal perfect passive rule ('must have been + V3'), aur (2) Preposition retention rule ('with' verb ke sath rahega).",
+      "step3_aspect": "Agent Omission Check: Subject 'Someone' vague/indefinite hai, isliye passive mein 'by someone' naturally omit ho jayega.",
+      "step4_inflection": "Auxiliary & Particle: 'must have been tampered with' poora compound unit ek sath aayega.",
+      "step5_synthesis": "Final Synthesis: 'The electronic seal must have been tampered with.'"
+    },
+    "trapWarning": "DROPPED PREPOSITION: 'The electronic seal must have been tampered' mein 'with' missing hai, jo sentence ko grammatically incomplete aur unacceptable banata hai."
+  },
+  {
+    "id": "WE-12",
+    "sentence": "Active: 'The division bench looked into the election dispute thoroughly.'",
+    "correctAnswer": "The election dispute was looked into thoroughly by the division bench.",
+    "tense": "Prepositional Verb (Preposition Retention Rule)",
+    "steps": {
+      "step1_marker": "Component Isolation: Subject = 'The division bench', Verb = 'looked into' (Simple Past Prepositional Verb), Object = 'the election dispute'.",
+      "step2_time": "Tense Identification: Active verb 'looked' Simple Past (V2) hai, isliye passive auxiliary 'was/were' hogi.",
+      "step3_aspect": "Preposition Retention Check: Preposition 'into' verb phrase ka core hissa hai (look into = investigate), isko drop nahi kiya ja sakta.",
+      "step4_inflection": "Passive Construction: Naya subject singular ('The election dispute') hai, isliye 'was looked into' aayega.",
+      "step5_synthesis": "Final Synthesis: 'The election dispute was looked into thoroughly by the division bench.'"
+    },
+    "trapWarning": "PREPOSITION DROPPING: Option mein 'was looked thoroughly by...' diya hoga. Fixed preposition 'into' drop karna exam ka top distractor hai."
+  },
+  {
+    "id": "WE-13",
+    "sentence": "Active: 'We should never laugh at the misfortune of others.'",
+    "correctAnswer": "The misfortune of others should never be laughed at by us.",
+    "tense": "Modal + Prepositional Verb Transformation",
+    "steps": {
+      "step1_marker": "Component Isolation: Subject = 'We', Modal + Adv + Verb = 'should never laugh at', Object = 'the misfortune of others'.",
+      "step2_time": "Preposition Retention: 'laugh at' ek fixed prepositional unit hai. Passive mein 'at' verb ke baad bana rahega.",
+      "step3_aspect": "Formula Application: 'Object + Modal + never be + V3 + Preposition + (by + Subject)'.",
+      "step4_inflection": "Adverb & Auxiliary Chain: 'should never be laughed at' assemble karein.",
+      "step5_synthesis": "Final Synthesis: 'The misfortune of others should never be laughed at by us.'"
+    },
+    "trapWarning": "DOUBLE PREPOSITION IS VALID: Agar option mein 'laughed at by us' aaye, toh mat sochiye ki 'at' aur 'by' ek sath nahi aa sakte. 'at' verb ka hissa hai aur 'by' agent marker hai."
+  },
+  {
+    "id": "WE-14",
+    "sentence": "Active: 'The administrative staff called off the pen-down strike.'",
+    "correctAnswer": "The pen-down strike was called off by the administrative staff.",
+    "tense": "Phrasal Verb (Verb + Particle Inseparability)",
+    "steps": {
+      "step1_marker": "Component Isolation: Subject = 'The administrative staff', Verb = 'called off' (Simple Past phrasal verb), Object = 'the pen-down strike'.",
+      "step2_time": "Tense & Aspect: Simple Past V2 hai, naya subject singular hai, isliye auxiliary 'was' aayegi.",
+      "step3_aspect": "Particle Retention: 'off' adverbial particle hai jo 'called' ke sath judkar 'cancel' ka meaning deta hai. Ye V3 ke sath intact rahega.",
+      "step4_inflection": "Passive Verb: 'was called off' assemble hua.",
+      "step5_synthesis": "Final Synthesis: 'The pen-down strike was called off by the administrative staff.'"
+    },
+    "trapWarning": "PARTICLE DROPPING: Agar 'off' drop karke sirf 'was called' likha jaye, toh sentence ka meaning cancel hone ki jagah bulaane (summon) ka ban jayega."
+  },
+  {
+    "id": "WE-15",
+    "sentence": "Active: 'The Chief Justice granted the petitioner interim protection.'",
+    "correctAnswer": "The petitioner was granted interim protection by the Chief Justice.",
+    "tense": "Bi-Transitive Verb with Two Objects (Indirect Object Promoted)",
+    "steps": {
+      "step1_marker": "Component Isolation: Subject = 'The Chief Justice', Verb = 'granted' (Simple Past), Indirect Object (IO, Person) = 'the petitioner', Direct Object (DO, Thing) = 'interim protection'.",
+      "step2_time": "Two-Path Evaluation: Path 1 (IO promoted): 'The petitioner was granted interim protection...'. Path 2 (DO promoted): 'Interim protection was granted TO the petitioner...'.",
+      "step3_aspect": "Natural Preference: Standard English mein person (IO) ko promote karna zyada natural aur formal mana jata hai.",
+      "step4_inflection": "Auxiliary Check: Simple Past singular subject 'The petitioner' ke liye auxiliary 'was granted' lagaya.",
+      "step5_synthesis": "Final Synthesis: 'The petitioner was granted interim protection by the Chief Justice.'"
+    },
+    "trapWarning": "DIRECT OBJECT PREPOSITION TRAP: Agar Path 2 choose karein, toh 'Interim protection was granted the petitioner' bina 'to' ke bilkul galat hoga. Wahan 'granted TO the petitioner' aana mandatory hai."
+  }
+]

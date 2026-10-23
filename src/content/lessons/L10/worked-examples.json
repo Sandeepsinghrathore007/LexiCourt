@@ -1,0 +1,212 @@
+[
+  {
+    "id": "WE-01",
+    "sentence": "Fill in the blanks: \"He is ___ university professor and ___ honest gentleman.\"",
+    "correctAnswer": "a, an",
+    "tense": "Phonetic Sound Engine: Initial Spoken Sound vs Written Letter",
+    "steps": {
+      "step1_marker": "Target Noun Analysis: Pehla noun phrase 'university professor' hai aur doosra 'honest gentleman'. Dono singular countable noun phrases hain jinko pehli baar describe kiya ja raha hai.",
+      "step2_time": "First Word Phonetics ('University'): 'University' ka written letter vowel 'u' hai, lekin spoken sound /juː/ ('yu' - Hindi vyanjan sound) hai. Consonantal opening sound hone ke karan indefinite article 'A' lagega.",
+      "step3_aspect": "Second Word Phonetics ('Honest'): 'Honest' ka written letter consonant 'h' hai, lekin ye silent rehta hai. Spoken sound /ˈɒnɪst/ ('o' - Hindi swar sound) se shuru hota hai. Vocalic opening sound hone ke karan 'AN' lagega.",
+      "step4_inflection": "Syntax Assembly: 'a university professor' aur 'an honest gentleman'.",
+      "step5_synthesis": "Final Output: \"He is a university professor and an honest gentleman.\""
+    },
+    "trapWarning": "THE ALPHABET TRAP: 'U' dekh kar 'an' lagana aur 'H' dekh kar 'a' lagana school level ki galti hai. Word ka spoken opening sound check karo: sound 'yu' ➔ 'a'; sound 'o' ➔ 'an'."
+  },
+  {
+    "id": "WE-02",
+    "sentence": "Choose the correct article: \"The aggrieved party rushed to the police station to lodge ___ FIR.\"",
+    "correctAnswer": "an",
+    "tense": "Initialism Phonetics: Spoken Sound of Letter Abbreviations",
+    "steps": {
+      "step1_marker": "Abbreviation Identification: Sentence mein initialism 'FIR' (First Information Report) singular countable noun ki tarah use hua hai.",
+      "step2_time": "Phonetic Pronunciation Check: Initialisms ko unke individual letters bol kar padha jata hai ('F-I-R'). Letter 'F' ko pronounce karte waqt opening sound /ef/ nikalta hai, jo vowel sound 'e' se start hota hai.",
+      "step3_aspect": "Article Decision: Kyunki initial sound vocalic (/e/) hai, isliye letter consonant 'F' hone ke bawajood indefinite article 'AN' lagega.",
+      "step4_inflection": "Comparative Check: 'an FIR', 'an MLA' (/em/), 'an SP' (/es/), 'an LLB' (/el/). Agar full form likha hota ('First Information Report'), toh 'a' lagta ('a First Information Report')!",
+      "step5_synthesis": "Final Output: \"The aggrieved party rushed to the police station to lodge an FIR.\""
+    },
+    "trapWarning": "FULL FORM VS ABBREVIATION: 'FIR' ke aage 'an' lagta hai ('an FIR'), lekin agar exam mein full form likha ho ('First Information Report'), toh 'a' lagega ('a First Information Report')."
+  },
+  {
+    "id": "WE-03",
+    "sentence": "Determine the articles: \"___ water is essential for life, but ___ water in this well is not potable.\"",
+    "correctAnswer": "No article (Zero Article), the",
+    "tense": "General Uncountable vs Particularized Context",
+    "steps": {
+      "step1_marker": "Clause Comparison: Pehla clause 'water is essential for life' universal truth hai; doosra clause 'water in this well is not potable' ek specific kuye ke paani ki baat kar raha hai.",
+      "step2_time": "First Occurrence Analysis: 'Water' uncountable material noun hai. Jab ye generic nature mein duniya ke sabhi paani ko represent kare, toh Zero Article (Ø) leta hai.",
+      "step3_aspect": "Second Occurrence Analysis: Doosre clause mein 'water' ke turant baad qualifying prepositional phrase 'in this well' laga hai, jisne use ek specific container/well tak restrict kar diya hai.",
+      "step4_inflection": "Definite Marker Application: Particularized uncountable noun hamesha definite article 'The' leta hai ('The water in this well').",
+      "step5_synthesis": "Final Output: \"Water is essential for life, but the water in this well is not potable.\""
+    },
+    "trapWarning": "BLANKET RULE FALLACY: Ye mat socho ki 'water ke aage kabhi article nahi lagta'. General sense mein article nahi lagta, lekin jab prepositional phrase se particularize ho jaye, toh 'the' zaroor lagta hai."
+  },
+  {
+    "id": "WE-04",
+    "sentence": "Complete the passage: \"Yesterday, ___ petitioner submitted a memorandum. ___ memorandum was placed before the bench.\"",
+    "correctAnswer": "a, The",
+    "tense": "First Mention vs Second Mention Discourse Architecture",
+    "steps": {
+      "step1_marker": "Discourse Flow Analysis: Do consecutive sentences ek judicial narrative bana rahe hain. 'Petitioner' aur 'memorandum' pehle sentence mein first time introduce ho rahe hain.",
+      "step2_time": "First Mention Rule: Kisi singular countable noun ko pehli baar introduce karte waqt listener ke liye wo unknown hota hai, isliye indefinite article 'a' lagta hai ('a petitioner submitted a memorandum').",
+      "step3_aspect": "Second Mention Rule: Doosre sentence mein 'memorandum' wahi particular document hai jo kal submit hua tha (already identified in discourse).",
+      "step4_inflection": "Definiteness Shift: Known referent hone ke karan doosri baar 'memorandum' ke aage definite article 'The' lagana mandatory hai.",
+      "step5_synthesis": "Final Output: \"Yesterday, a petitioner submitted a memorandum. The memorandum was placed before the bench.\""
+    },
+    "trapWarning": "ANAPHORIC REFERENCE: Pehli baar 'a/an', doosri baar 'the'. Options mein agar dono jagah 'the' ya dono jagah 'a' ho, toh discourse coherence violate hoti hai."
+  },
+  {
+    "id": "WE-05",
+    "sentence": "Choose the correct option: \"___ Himalayas are located to the north of India, and ___ Mount Everest is their highest point.\"",
+    "correctAnswer": "The, no article",
+    "tense": "Geographical Conventions: Mountain Ranges vs Individual Peaks",
+    "steps": {
+      "step1_marker": "Geographical Entities: 'Himalayas' ek continuous mountain range (chain of mountains) hai; 'Mount Everest' us range ki ek single individual peak hai.",
+      "step2_time": "Mountain Range Rule: Standard English naming convention ke mutabiq mountain ranges ke naam ke sath definite article 'The' lagta hai ('the Himalayas', 'the Alps', 'the Andes').",
+      "step3_aspect": "Individual Peak Exception: Kisi bhi single, individual mountain peak ke naam ke aage 'The' KABHI NAHI lagta ('Mount Everest', 'Mount Abu', 'K2', 'Nanda Devi').",
+      "step4_inflection": "Syntactic Pairing: First blank = 'The'; Second blank = Zero Article (Ø).",
+      "step5_synthesis": "Final Output: \"The Himalayas are located to the north of India, and Mount Everest is their highest point.\""
+    },
+    "trapWarning": "THE MOUNT EVEREST TRAP: Candidates 'highest peak' dekh kar jaldbazi mein '*The Mount Everest' mark kar dete hain. Superlative adjective 'the highest peak' lega, lekin proper noun 'Mount Everest' zero article lega."
+  },
+  {
+    "id": "WE-06",
+    "sentence": "Examine the sentences: \"The convicted felon was sent to ___ prison, while his advocate went to ___ prison to consult him.\"",
+    "correctAnswer": "prison (no article), the prison",
+    "tense": "Institutional Expressions: Primary Functional Purpose vs Secondary Visit",
+    "steps": {
+      "step1_marker": "Contextual Inquiry: Sentence mein do alag persons 'prison' ja rahe hain: ek convicted felon (criminal) aur ek advocate (legal representative).",
+      "step2_time": "Convict's Purpose (Primary): Convict jail mein saza katne ja raha hai, jo prison ka primary functional purpose hai. Primary purpose ke liye NO ARTICLE (Ø) use hota hai ('sent to prison').",
+      "step3_aspect": "Advocate's Purpose (Secondary): Advocate saza katne nahi, meeting/consultation ke liye building visit kar raha hai (incidental/secondary purpose).",
+      "step4_inflection": "Secondary Marker: Secondary purpose ya physical building visit ke liye definite article 'The' lagta hai ('went to the prison').",
+      "step5_synthesis": "Final Output: \"The convicted felon was sent to prison, while his advocate went to the prison to consult him.\""
+    },
+    "trapWarning": "INSTITUTION DUALITY: School, college, hospital, church, prison: agar patient/student/prisoner jaye toh NO ARTICLE; agar visitor ya parent jaye toh 'THE'."
+  },
+  {
+    "id": "WE-07",
+    "sentence": "Fill in the blank: \"She speaks ___ English with great fluency, but she has never met ___ English in person.\"",
+    "correctAnswer": "no article, the",
+    "tense": "Languages (Zero Article) vs National Inhabitants (The)",
+    "steps": {
+      "step1_marker": "Semantic Role of Word 'English': Pehle part mein 'English' language (spoken medium) hai; doosre part mein 'English' wahan ke inhabitants (the English people) hain.",
+      "step2_time": "Language Rule: Kisi bhi language ke naam ke aage standardly zero article lagta hai ('speaks English', 'learns Hindi', 'studies Sanskrit').",
+      "step3_aspect": "People/Nationality Rule: Jab kisi nationality ya country ke logo ko collective plural noun ki tarah represent kiya jaye, toh definite article 'The' lagta hai ('the English' = the English people, 'the French' = French people).",
+      "step4_inflection": "Verification: First blank = No article; Second blank = 'the'.",
+      "step5_synthesis": "Final Output: \"She speaks English with great fluency, but she has never met the English in person.\""
+    },
+    "trapWarning": "LANGUAGE ERROR: '*She speaks the English' bolna blunder hai. Language ke sath 'the' tabhi lagta hai jab word 'language' sath mein likha ho ('the English language')."
+  },
+  {
+    "id": "WE-08",
+    "sentence": "Error Spotting: \"The senior counsel gave me (A) / an useful advice (B) / regarding the procedural appeal (C) / yesterday afternoon. (D)\"",
+    "correctAnswer": "Part (B) contains the error. Correct: 'useful advice' or 'a piece of useful advice'",
+    "tense": "Double Blunder on Uncountable Noun: A/An Intrusion & Phonetic Sound",
+    "steps": {
+      "step1_marker": "Error Isolation in Part (B): Part (B) mein 'an useful advice' likha gaya hai. Yahan do distinct grammatical blunders hain.",
+      "step2_time": "Blunder 1 (Countability): 'Advice' uncountable noun hai. Uncountable nouns ke pehle indefinite article 'a' ya 'an' lagana strictly prohibited hai.",
+      "step3_aspect": "Blunder 2 (Phonetics): Adjective 'useful' ka spoken sound /juːsfʊl/ (consonant sound 'yu') hai, jiske sath waise bhi 'an' nahi, 'a' lagta ('a useful tool').",
+      "step4_inflection": "Correction Formulation: Ya toh article completely hata dein ('gave me useful advice') ya partitive expression use karein ('gave me a piece of useful advice').",
+      "step5_synthesis": "Final Output: \"The senior counsel gave me useful advice regarding the procedural appeal yesterday afternoon.\""
+    },
+    "trapWarning": "UNCOUNTABLE NOUN TRAP: Advice, information, furniture, equipment, luggage, scenery ke aage 'an/a' dekhte hi error mark kar do."
+  },
+  {
+    "id": "WE-09",
+    "sentence": "Contextual Selection: \"Because of his hostile attitude, he has ___ friends and spends most weekends in complete isolation.\"",
+    "correctAnswer": "few",
+    "tense": "Countable Quantifiers: Few (Negative Scarcity) vs A Few (Positive Existence)",
+    "steps": {
+      "step1_marker": "Noun & Context Analysis: Noun 'friends' plural countable noun hai. Context clause 'spends most weekends in complete isolation' clear emotional deficit aur loneliness establish kar raha hai.",
+      "step2_time": "Semantic Requirements: Negative result (isolation/loneliness) tabhi possible hai jab dost na ke barabar (almost zero) hon.",
+      "step3_aspect": "Few vs A few Comparison: 'Few' ka meaning hota hai 'almost none / hardly any' (negative implication). 'A few' ka meaning hota hai 'some' (positive implication).",
+      "step4_inflection": "Quantifier Choice: Negative context aur shortage ko match karne ke liye strictly 'few' aayega.",
+      "step5_synthesis": "Final Output: \"Because of his hostile attitude, he has few friends and spends most weekends in complete isolation.\""
+    },
+    "trapWarning": "CONTEXT CLUE: Agar sentence mein 'isolation', 'lonely', ya 'complained' ho ➔ FEW. Agar 'supported him', 'happy', ya 'helped him' ho ➔ A FEW."
+  },
+  {
+    "id": "WE-10",
+    "sentence": "Fill in the blank: \"___ few belongings the poor tenant possessed were sold off to recover the rent arrears.\"",
+    "correctAnswer": "The",
+    "tense": "Countable Quantifiers: The Few with Defining Relative Clause",
+    "steps": {
+      "step1_marker": "Sentence Structure: Noun phrase 'few belongings' ke theek baad qualifying clause 'the poor tenant possessed' aayi hai.",
+      "step2_time": "Semantic Meaning: Tenant ke paas belongings kam thi (small number), lekin wo saari ki saari jo uske paas thi, rent recover karne ke liye bech di gayi.",
+      "step3_aspect": "The Few Rule: Jab sentence kisi specific small group ke sabhi members ('all of that small number') ko refer kare, toh quantifier 'The few' use hota hai.",
+      "step4_inflection": "Formulation: 'The few + plural noun + defining clause'.",
+      "step5_synthesis": "Final Output: \"The few belongings the poor tenant possessed were sold off to recover the rent arrears.\""
+    },
+    "trapWarning": "THE FEW IDENTIFIER: Jab bhi 'few + noun' ke baad 'that he had / which were present / he possessed' jaisi clause ho, 99% cases mein 'THE FEW' correct answer hota hai."
+  },
+  {
+    "id": "WE-11",
+    "sentence": "Contextual Selection: \"The medical bulletin stated that there was ___ hope of the patient's recovery, so the family prepared for the worst.\"",
+    "correctAnswer": "little",
+    "tense": "Uncountable Quantifiers: Little (Hopelessness) vs A Little (Modest Hope)",
+    "steps": {
+      "step1_marker": "Noun & Tone Inspection: Noun 'hope' uncountable noun hai. Consequence clause 'so the family prepared for the worst' severe negative reality indicate kar rahi hai.",
+      "step2_time": "Meaning Deduction: Agar family ne worst outcome ke liye prepare kar liya hai, iska matlab bachne ki ummeed lagbhag na ke barabar (practically zero) thi.",
+      "step3_aspect": "Little vs A little: 'Little' = hardly any (negative tone). 'A little' = some amount (positive tone, survival possible).",
+      "step4_inflection": "Selection: Uncountable noun 'hope' ke sath negative scarcity express karne ke liye 'little' aayega.",
+      "step5_synthesis": "Final Output: \"The medical bulletin stated that there was little hope of the patient's recovery, so the family prepared for the worst.\""
+    },
+    "trapWarning": "PREPARED FOR THE WORST: Consequence dekho: Agar log haar maan chuke hain ya prepare for the worst kar rahe hain, toh ummeed 'LITTLE' hai, 'a little' nahi."
+  },
+  {
+    "id": "WE-12",
+    "sentence": "Sentence Completion: \"The thirsty traveller drank ___ little water that remained in the flask.\"",
+    "correctAnswer": "the",
+    "tense": "Uncountable Quantifiers: The Little in Specific Exhaustive Sense",
+    "steps": {
+      "step1_marker": "Syntax Check: Noun phrase 'little water' ke baad relative clause 'that remained in the flask' aayi hai.",
+      "step2_time": "Semantic Scope: Flask mein paani thoda hi bacha tha, lekin traveller ne wo pura ka pura jo bacha tha, pee liya (all of that small amount).",
+      "step3_aspect": "The Little Rule: Jab uncountable noun ki small quantity specific ho aur poori ki poori encompass ho rahi ho, toh 'The little' lagta hai.",
+      "step4_inflection": "Syntactic Placement: 'the' + 'little water that remained'.",
+      "step5_synthesis": "Final Output: \"The thirsty traveller drank the little water that remained in the flask.\""
+    },
+    "trapWarning": "SPECIFIC EXHAUSTION: 'That remained / that was left' clause aate hi 'THE LITTLE' select karo. 'A little' kisi specific bache huye poore amount ko denote nahi karta."
+  },
+  {
+    "id": "WE-13",
+    "sentence": "Fill in the blanks: \"Would you like ___ coffee? No, thank you, I do not want ___ beverage right now.\"",
+    "correctAnswer": "some, any",
+    "tense": "Polite Offer (Some) vs Negative Statement (Any)",
+    "steps": {
+      "step1_marker": "Speech Acts: Pehla sentence ek polite offer/invitation hai ('Would you like...?'); doosra sentence ek explicit negative statement hai ('I do not want...').",
+      "step2_time": "Polite Offer Rule: Interrogative sentence hone ke bawajood, jab speaker samne wale ko hospitable offer karta hai jisme acceptance expected ho, toh 'SOME' lagta hai ('Would you like some coffee?').",
+      "step3_aspect": "Negative Statement Rule: Sentences jisme negative particle 'not' ho, wahan standardly non-assertive quantifier 'ANY' lagta hai ('do not want any beverage').",
+      "step4_inflection": "Pair Synthesis: Blank 1 = 'some'; Blank 2 = 'any'.",
+      "step5_synthesis": "Final Output: \"Would you like some coffee? No, thank you, I do not want any beverage right now.\""
+    },
+    "trapWarning": "QUESTION MARK ILLUSION: Har question mark dekh kar 'any' mat thoko. 'Would you like...?' aur 'Could you lend me...?' polite offers/requests hain jo strictly 'SOME' lete hain."
+  },
+  {
+    "id": "WE-14",
+    "sentence": "Choose the correct words: \"The auditor found ___ calculation errors, but there was not ___ time left to rectify them.\"",
+    "correctAnswer": "many, much",
+    "tense": "Quantity Concord: Many (Plural Countable) vs Much (Uncountable)",
+    "steps": {
+      "step1_marker": "Noun Countability Check: Pehla noun 'calculation errors' plural countable noun hai. Doosra noun 'time' (duration) uncountable noun hai.",
+      "step2_time": "First Determiner (Errors): Plural countable nouns ke sath large number express karne ke liye quantifier 'MANY' lagta hai ('many calculation errors').",
+      "step3_aspect": "Second Determiner (Time): Uncountable nouns ke sath negative sentence mein quantity express karne ke liye quantifier 'MUCH' lagta hai ('not much time left').",
+      "step4_inflection": "Concord Verification: Many + Plural Countable; Much + Uncountable.",
+      "step5_synthesis": "Final Output: \"The auditor found many calculation errors, but there was not much time left to rectify them.\""
+    },
+    "trapWarning": "MUCH VS MANY CONCORD: '*Much errors' bolna ya '*many time' bolna elementary level error hai. Countable = Many; Uncountable = Much."
+  },
+  {
+    "id": "WE-15",
+    "sentence": "Error Spotting: \"Each of the advocates (A) / were given twenty minutes (B) / to present their arguments (C) / before the bench. (D)\"",
+    "correctAnswer": "Part (B) contains the error. Correct: 'was given twenty minutes'",
+    "tense": "Distributive Determiner Concord: 'Each of the' + Plural Noun + Singular Verb",
+    "steps": {
+      "step1_marker": "Subject Structure: Sentence ka subject phrase 'Each of the advocates' hai.",
+      "step2_time": "Grammatical Head: Is phrase ka grammatical head distributive pronoun 'Each' hai, jo singular concept represent karta hai (one by one).",
+      "step3_aspect": "The 'Of The' Concord Rule: 'Each of the' ke baad noun plural ('advocates') hota hai, LEKIN VERB HAMESHA SINGULAR HOTI HAI.",
+      "step4_inflection": "Error Location: Part (B) mein plural auxiliary 'were given' likha hai, jo subject-verb agreement ko violate karta hai. Sahi singular verb 'was given' hogi.",
+      "step5_synthesis": "Final Output: \"Each of the advocates was given twenty minutes to present his arguments before the bench.\""
+    },
+    "trapWarning": "PROXIMITY TRAP: Verb ke theek pehle plural noun 'advocates' dekh kar confuse mat ho. Real subject 'Each' hai, isliye verb strictly singular 'was' aayegi."
+  }
+]

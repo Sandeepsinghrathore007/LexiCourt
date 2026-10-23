@@ -1,0 +1,1063 @@
+{
+  "lessonId": "L19",
+  "stage": "independent-practice",
+  "questions": [
+    {
+      "id": "L19-IP-001",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Core Idiom Meanings",
+      "conceptTags": [
+        "success",
+        "hit-the-jackpot"
+      ],
+      "question": "What is the meaning of the idiom 'hit the jackpot'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To win a game of cards by cheating"
+        },
+        {
+          "id": "B",
+          "text": "To achieve sudden, tremendous success or fortune"
+        },
+        {
+          "id": "C",
+          "text": "To suffer a heavy loss in business"
+        },
+        {
+          "id": "D",
+          "text": "To damage public property"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Hit the jackpot' ka arth achanak behad badi kamyabi, fayda ya dhan prapt karna hota hai.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter."
+    },
+    {
+      "id": "L19-IP-002",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Core Idiom Meanings",
+      "conceptTags": [
+        "work",
+        "leave-no-stone-unturned"
+      ],
+      "question": "The idiom 'leave no stone unturned' means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "To engage in manual construction work"
+        },
+        {
+          "id": "B",
+          "text": "To search thoroughly and do everything possible to achieve an aim"
+        },
+        {
+          "id": "C",
+          "text": "To cause physical obstruction on public pathways"
+        },
+        {
+          "id": "D",
+          "text": "To ignore small details in an investigation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Leave no stone unturned' ka matlab hota hai har sambhav rasta apnana aur koi kasar na chhodna.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter."
+    },
+    {
+      "id": "L19-IP-003",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Core Idiom Meanings",
+      "conceptTags": [
+        "communication",
+        "read-between-the-lines"
+      ],
+      "question": "What does 'read between the lines' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To identify typographical errors in printed texts"
+        },
+        {
+          "id": "B",
+          "text": "To understand the implicit, unstated meaning beyond literal words"
+        },
+        {
+          "id": "C",
+          "text": "To read a document with extreme speed"
+        },
+        {
+          "id": "D",
+          "text": "To underline key words in a statute"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Read between the lines' ka matlab hota hai chhipe huye ya ankahe arth ko samajhna.",
+      "ruleReference": "Rule RC-02: Sentence Context Isolation Protocol."
+    },
+    {
+      "id": "L19-IP-004",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "easy",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Core Idiom Meanings",
+      "conceptTags": [
+        "money",
+        "break-the-bank"
+      ],
+      "question": "The phrase 'won't break the bank' implies that an item:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Is strictly illegal under banking laws"
+        },
+        {
+          "id": "B",
+          "text": "Is reasonably priced and affordable"
+        },
+        {
+          "id": "C",
+          "text": "Will cause financial bankruptcy"
+        },
+        {
+          "id": "D",
+          "text": "Is available only through bank loans"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Won't break the bank' ka matlab hota hai ki koi vastu budget ke andar hai aur affordable hai.",
+      "ruleReference": "Rule RC-11: Financial & Resource Context Precision."
+    },
+    {
+      "id": "L19-IP-005",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Contextual Interpretation",
+      "conceptTags": [
+        "emotions",
+        "bitter-pill-to-swallow"
+      ],
+      "question": "In the sentence:\n\"Accepting the punitive demotion was a bitter pill for the senior officer to swallow.\"\nThe underlined expression means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Consuming an unpalatable medication"
+        },
+        {
+          "id": "B",
+          "text": "An unpleasant fact or circumstance that must be endured"
+        },
+        {
+          "id": "C",
+          "text": "An unfair medical leave granted by authorities"
+        },
+        {
+          "id": "D",
+          "text": "Refusing to comply with disciplinary sanctions"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'A bitter pill to swallow' ka arth aisi apriy sacchayi ya punishment hoti hai jise majbooran bardasht karna pade.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter."
+    },
+    {
+      "id": "L19-IP-006",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Contextual Interpretation",
+      "conceptTags": [
+        "decisions",
+        "the-last-straw"
+      ],
+      "question": "Select the closest meaning of 'the last straw' in this sentence:\n\"The clerk tolerated long working hours, but the denial of festival leave was the last straw.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "A physical piece of dry grass found in office records"
+        },
+        {
+          "id": "B",
+          "text": "The final problem in a series of troubles that makes the situation intolerable"
+        },
+        {
+          "id": "C",
+          "text": "The primary initial complaint lodged by the union"
+        },
+        {
+          "id": "D",
+          "text": "A trivial matter easily resolved by conversation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'The last straw' musibaton ki series ka aakhri aisa event hota hai jiske baad vyakti ka sabra toot jata hai.",
+      "ruleReference": "Rule RC-02: Sentence Context Isolation Protocol."
+    },
+    {
+      "id": "L19-IP-007",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Contextual Interpretation",
+      "conceptTags": [
+        "relationships",
+        "see-eye-to-eye"
+      ],
+      "question": "\"The administrative committee and the bar association do not see eye to eye on court timings.\"\nThis means the two parties:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Refuse to look at each other during hearings"
+        },
+        {
+          "id": "B",
+          "text": "Are in complete disagreement on the issue"
+        },
+        {
+          "id": "C",
+          "text": "Have agreed to reconcile their past disputes"
+        },
+        {
+          "id": "D",
+          "text": "Have identical optical requirements"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'See eye to eye' ka matlab agree hona hota hai; 'do not see eye to eye' ka matlab asahmat hona (disagreement) hota hai.",
+      "ruleReference": "Rule RC-13: Reconciliation vs Simple Agreement."
+    },
+    {
+      "id": "L19-IP-008",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Contextual Interpretation",
+      "conceptTags": [
+        "communication",
+        "hear-through-grapevine"
+      ],
+      "question": "What does 'hear through the grapevine' mean in official workplace communication?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To receive communication via registered postal dispatch"
+        },
+        {
+          "id": "B",
+          "text": "To hear news through informal rumors and unofficial gossip"
+        },
+        {
+          "id": "C",
+          "text": "To inspect agricultural estates under high court receiver ship"
+        },
+        {
+          "id": "D",
+          "text": "To access secured digital court databases"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Hear through the grapevine' ka matlab anaupcharik afwahon ya gossip ke zariye khabar sunna hota hai.",
+      "ruleReference": "Rule RC-12: Disclosure vs Rumour Disambiguation."
+    },
+    {
+      "id": "L19-IP-009",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Work & Success",
+      "conceptTags": [
+        "work",
+        "pull-one's-weight"
+      ],
+      "question": "\"In a joint project, every officer must pull his weight.\" This means each officer should:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exercise in the gymnasium regularly"
+        },
+        {
+          "id": "B",
+          "text": "Do his fair share of the collective work"
+        },
+        {
+          "id": "C",
+          "text": "Assume absolute unilateral control of decisions"
+        },
+        {
+          "id": "D",
+          "text": "Carry heavy case bundles physically"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Pull one's weight' ka matlab group ya team mein apne hisse ka poora kaam imaandari se karna hota hai.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter."
+    },
+    {
+      "id": "L19-IP-010",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Work & Failure",
+      "conceptTags": [
+        "success",
+        "back-to-square-one"
+      ],
+      "question": "Complete the sentence with the appropriate idiom:\n\"When the appellate bench set aside the preliminary decree, the litigants were ________.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "on cloud nine"
+        },
+        {
+          "id": "B",
+          "text": "back to square one"
+        },
+        {
+          "id": "C",
+          "text": "ahead of their time"
+        },
+        {
+          "id": "D",
+          "text": "worth their weight in gold"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Decree set aside hone par case dobara shuruat ke point par chala gaya, isliye 'back to square one' aayega.",
+      "ruleReference": "Rule RC-08: Idiom Sentence Completion Strategy."
+    },
+    {
+      "id": "L19-IP-011",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Time & Deadlines",
+      "conceptTags": [
+        "time",
+        "at-the-eleventh-hour"
+      ],
+      "question": "\"The petitioner filed an amended affidavit at the eleventh hour.\" This means the affidavit was filed:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Precisely at eleven o'clock in the morning"
+        },
+        {
+          "id": "B",
+          "text": "At the latest possible moment before the deadline"
+        },
+        {
+          "id": "C",
+          "text": "Well in advance of the scheduled hearing"
+        },
+        {
+          "id": "D",
+          "text": "During the post-lunch judicial session"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'At the eleventh hour' ka arth aakhri moment ya sabse late possible samay par hota hai.",
+      "ruleReference": "Rule RC-10: Time & Frequency Boundary Precision."
+    },
+    {
+      "id": "L19-IP-012",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Money & Resources",
+      "conceptTags": [
+        "money",
+        "live-from-hand-to-mouth"
+      ],
+      "question": "Which idiom describes a family that spends all their meager earnings on daily survival without savings?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Live from hand to mouth"
+        },
+        {
+          "id": "B",
+          "text": "Burn the midnight oil"
+        },
+        {
+          "id": "C",
+          "text": "Play it by ear"
+        },
+        {
+          "id": "D",
+          "text": "Bite the bullet"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Live from hand to mouth' ka matlab roz ki aamdani par guzara karna hota hai bina kisi bachat ke.",
+      "ruleReference": "Rule RC-11: Financial & Resource Context Precision."
+    },
+    {
+      "id": "L19-IP-013",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Emotions & Behaviour",
+      "conceptTags": [
+        "emotions",
+        "down-in-the-dumps"
+      ],
+      "question": "If an officer is 'down in the dumps', he is feeling:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extremely triumphant and proud"
+        },
+        {
+          "id": "B",
+          "text": "Dejected, depressed, and unhappy"
+        },
+        {
+          "id": "C",
+          "text": "Physically energetic and active"
+        },
+        {
+          "id": "D",
+          "text": "Curious about judicial precedents"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Down in the dumps' ka matlab udaas, dukhi ya niraash hona hota hai.",
+      "ruleReference": "Rule RC-09: Emotion & Psychological Tone Alignment."
+    },
+    {
+      "id": "L19-IP-014",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Relationships & Peacemaking",
+      "conceptTags": [
+        "relationships",
+        "bury-the-hatchet"
+      ],
+      "question": "What does 'bury the hatchet' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To conceal illegal weapons under earth"
+        },
+        {
+          "id": "B",
+          "text": "To end a feud and establish peace"
+        },
+        {
+          "id": "C",
+          "text": "To initiate criminal proceedings"
+        },
+        {
+          "id": "D",
+          "text": "To dismiss staff members summarily"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Bury the hatchet' purani dushmani ya jhagda bhula kar aapsi sulah kar lene ko kehte hain.",
+      "ruleReference": "Rule RC-13: Reconciliation vs Simple Agreement."
+    },
+    {
+      "id": "L19-IP-015",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Decisions & Hesitation",
+      "conceptTags": [
+        "decisions",
+        "sit-on-the-fence"
+      ],
+      "question": "\"The committee members cannot sit on the fence during this crucial vote.\" This means they must not:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Climb physical boundary railings"
+        },
+        {
+          "id": "B",
+          "text": "Remain neutral or delay making a firm decision"
+        },
+        {
+          "id": "C",
+          "text": "Cast multiple conflicting ballots"
+        },
+        {
+          "id": "D",
+          "text": "Walk out of the assembly hall"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Sit on the fence' ka arth neutral rehna ya faisla lene mein der karna hota hai.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter."
+    },
+    {
+      "id": "L19-IP-016",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Disambiguation: Similar Idioms",
+      "conceptTags": [
+        "disambiguation",
+        "cold-feet",
+        "cold-shoulder"
+      ],
+      "question": "Distinguish between 'cold feet' and 'cold shoulder':\nWhich sentence uses 'cold shoulder' correctly?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The applicant got a cold shoulder and ran away in fear before entering the viva room."
+        },
+        {
+          "id": "B",
+          "text": "After siding with the rival candidate, Mohan was given the cold shoulder by his old colleagues."
+        },
+        {
+          "id": "C",
+          "text": "He put on a warm coat because his cold shoulder was shivering in winter."
+        },
+        {
+          "id": "D",
+          "text": "The whistleblower developed a cold shoulder and refused to sign the affidavit."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Cold shoulder' kisi ko deliberate ignore ya upeksha karne ke liye lagta hai (Sentence B). 'Cold feet' dar se pichhe hatne ke liye lagta hai (jo sentences A aur D mein misuse kiya gaya hai).",
+      "ruleReference": "Rule RC-03: Distinguishing Confusing Lookalike Idioms."
+    },
+    {
+      "id": "L19-IP-017",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Disambiguation: Similar Idioms",
+      "conceptTags": [
+        "disambiguation",
+        "call-it-a-day",
+        "call-it-quits"
+      ],
+      "question": "When workers decide to 'call it a day', they intend to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Permanently resign from their government positions"
+        },
+        {
+          "id": "B",
+          "text": "Stop working for the remainder of the current day"
+        },
+        {
+          "id": "C",
+          "text": "Declare an indefinite general strike"
+        },
+        {
+          "id": "D",
+          "text": "Work throughout the midnight hours"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Call it a day' ka matlab aaj ke liye kaam band karna hota hai. Permanently chhodne ke liye 'call it quits' lagta hai.",
+      "ruleReference": "Rule RC-10: Time & Frequency Boundary Precision."
+    },
+    {
+      "id": "L19-IP-018",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Disambiguation: Similar Idioms",
+      "conceptTags": [
+        "disambiguation",
+        "cut-corners",
+        "cut-short"
+      ],
+      "question": "\"The construction firm was penalized for cutting corners during the court annex renovation.\" Here 'cutting corners' means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rounding off the sharp angles of stone blocks"
+        },
+        {
+          "id": "B",
+          "text": "Taking improper shortcuts by compromising on quality and standards"
+        },
+        {
+          "id": "C",
+          "text": "Finishing the contract several weeks ahead of schedule"
+        },
+        {
+          "id": "D",
+          "text": "Terminating the workers' contracts prematurely"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Cut corners' ka arth paisa ya samay bachane ke liye galat tareeqe ya substandard shortcuts lena hota hai.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter."
+    },
+    {
+      "id": "L19-IP-019",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Disambiguation: Similar Idioms",
+      "conceptTags": [
+        "disambiguation",
+        "spill-beans",
+        "let-cat-out-bag"
+      ],
+      "question": "Both 'spill the beans' and 'let the cat out of the bag' denote revealing secrets. However, 'let the cat out of the bag' most frequently describes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Releasing captured laboratory animals"
+        },
+        {
+          "id": "B",
+          "text": "Inadvertently disclosing a surprise or secret plan"
+        },
+        {
+          "id": "C",
+          "text": "Giving false testimony before a magistrate"
+        },
+        {
+          "id": "D",
+          "text": "Blackmailing public servants"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Let the cat out of the bag' aksar kisi chhipayi hui surprise planning ya secret ko galti se zaahir kar dene ke liye use hota hai.",
+      "ruleReference": "Rule RC-12: Disclosure vs Rumour Disambiguation."
+    },
+    {
+      "id": "L19-IP-020",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Sentence Correction: Fixed Expressions",
+      "conceptTags": [
+        "sentence-correction",
+        "fixed-expression",
+        "nutshell"
+      ],
+      "question": "Spot the error in the underlined portion of the sentence:\n\"To put the matter (A) / in the nutshell, (B) / the appeal lacks merit (C) / and stands dismissed. (D)\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Part A"
+        },
+        {
+          "id": "B",
+          "text": "Part B"
+        },
+        {
+          "id": "C",
+          "text": "Part C"
+        },
+        {
+          "id": "D",
+          "text": "Part D"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Rule RC-04 ke anusaar, established idiom 'in a nutshell' hota hai, na ki '*in the nutshell*'. Part B mein article distortion error hai.",
+      "ruleReference": "Rule RC-04: Fixed Phraseology & Non-Substitution Law."
+    },
+    {
+      "id": "L19-IP-021",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Sentence Correction: Distorted Idioms",
+      "conceptTags": [
+        "sentence-correction",
+        "distorted-idiom",
+        "eye-to-eye"
+      ],
+      "question": "Which of the following sentences uses the idiom correctly without structural distortion?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The directors do not see eyes to eyes on the fiscal deficit."
+        },
+        {
+          "id": "B",
+          "text": "The directors do not see eye to eye on the fiscal deficit."
+        },
+        {
+          "id": "C",
+          "text": "The directors do not see an eye to an eye on the fiscal deficit."
+        },
+        {
+          "id": "D",
+          "text": "The directors do not look eye to eye on the fiscal deficit."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Correct fixed phrase 'see eye to eye' hai. Options A aur C mein nouns ko pluralize ya article add kiya gaya hai jo incorrect hai. Option D mein verb badal di gayi hai.",
+      "ruleReference": "Rule RC-04: Fixed Phraseology & Non-Substitution Law."
+    },
+    {
+      "id": "L19-IP-022",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Sentence Correction: Pronoun Concord",
+      "conceptTags": [
+        "grammar",
+        "pronoun-concord",
+        "keep-cool"
+      ],
+      "question": "Choose the grammatically correct sentence conforming to subject-possessive concord:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The young women maintained one's cool during the fire alarm."
+        },
+        {
+          "id": "B",
+          "text": "The young women maintained her cool during the fire alarm."
+        },
+        {
+          "id": "C",
+          "text": "The young women maintained their cool during the fire alarm."
+        },
+        {
+          "id": "D",
+          "text": "The young women maintained theirs cool during the fire alarm."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rule RC-05 ke mutabiq, plural subject 'The young women' ke sath plural possessive adjective 'their' aayega ('maintained their cool').",
+      "ruleReference": "Rule RC-05: Subject-Possessive Concord Rule in Idioms."
+    },
+    {
+      "id": "L19-IP-023",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Administrative Collocations",
+      "conceptTags": [
+        "administrative",
+        "by-the-book"
+      ],
+      "question": "The registrar instructed the staff to execute the tender process 'by the book'. This means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "By reading books aloud during meetings"
+        },
+        {
+          "id": "B",
+          "text": "In strict accordance with established official rules and laws"
+        },
+        {
+          "id": "C",
+          "text": "Without maintaining any written accounts"
+        },
+        {
+          "id": "D",
+          "text": "According to personal discretionary opinions"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'By the book' ka arth sabhi established rules, laws aur procedure ka aksharasah strict palan karna hota hai.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter."
+    },
+    {
+      "id": "L19-IP-024",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Administrative Collocations",
+      "conceptTags": [
+        "administrative",
+        "in-black-and-white"
+      ],
+      "question": "Select the meaning of 'in black and white':\n\"The high court registry required all undertakings to be submitted in black and white.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Printed only in monochrome ink"
+        },
+        {
+          "id": "B",
+          "text": "In official written or printed form"
+        },
+        {
+          "id": "C",
+          "text": "Without containing any legal arguments"
+        },
+        {
+          "id": "D",
+          "text": "Supported by photographic evidence"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'In black and white' ka established legal aur administrative meaning 'in written or printed form' (likhit roop mein) hota hai.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter."
+    },
+    {
+      "id": "L19-IP-025",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "medium",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Administrative Collocations",
+      "conceptTags": [
+        "administrative",
+        "null-and-void"
+      ],
+      "question": "\"The bench declared the illegal appointment orders null and void.\"\nHere 'null and void' means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Legally binding and enforceable"
+        },
+        {
+          "id": "B",
+          "text": "Having no legal force or validity"
+        },
+        {
+          "id": "C",
+          "text": "Kept in temporary abeyance"
+        },
+        {
+          "id": "D",
+          "text": "Circulated to all subordinate courts"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Null and void' legal aur administrative English ka established phrase hai jiska arth 'having no legal validity' (shunya aur nishprabhavi) hota hai.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter."
+    },
+    {
+      "id": "L19-IP-026",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Consequences: Double-Edged Sword",
+      "conceptTags": [
+        "decisions",
+        "double-edged-sword"
+      ],
+      "question": "Why is implementing complete automation described as a 'double-edged sword'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it cuts down physical paper files"
+        },
+        {
+          "id": "B",
+          "text": "Because it brings significant benefits but also entails serious potential risks"
+        },
+        {
+          "id": "C",
+          "text": "Because it costs twice as much as manual processing"
+        },
+        {
+          "id": "D",
+          "text": "Because it is strictly forbidden under judicial service rules"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'A double-edged sword' aisi niti ya tool hota hai jiske acche laabh ke sath-sath barabar khatre (benefits and hazards) dono hote hain.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter."
+    },
+    {
+      "id": "L19-IP-027",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Accountability: Face the Music",
+      "conceptTags": [
+        "consequences",
+        "face-the-music"
+      ],
+      "question": "The idiom 'face the music' refers to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Attending a classical cultural program"
+        },
+        {
+          "id": "B",
+          "text": "Confronting and accepting the unpleasant consequences of one's actions"
+        },
+        {
+          "id": "C",
+          "text": "Appreciating harmonious legal arguments"
+        },
+        {
+          "id": "D",
+          "text": "Listening to radio news broadcasts"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Face the music' ka arth apni galti ya apradh ke dushparinam aur daant ko jhelna hota hai.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter."
+    },
+    {
+      "id": "L19-IP-028",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Judgment: Cognitive Oversight",
+      "conceptTags": [
+        "judgment",
+        "not-see-forest-for-trees"
+      ],
+      "question": "\"By obsessing over petty font margins, the editor could not see the forest for the trees.\" This implies:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The editor was fond of forestry and botany"
+        },
+        {
+          "id": "B",
+          "text": "He was so focused on trivial details that he failed to perceive the overall situation"
+        },
+        {
+          "id": "C",
+          "text": "He cleared the document room of paper clutter"
+        },
+        {
+          "id": "D",
+          "text": "He was visually impaired"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Not see the forest for the trees' ka matlab chhoti details mein itna ulajh jana hota hai ki main picture ya broad reality nazar na aaye.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter."
+    },
+    {
+      "id": "L19-IP-029",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Honesty: Blunt Truth",
+      "conceptTags": [
+        "honesty",
+        "call-a-spade-a-spade"
+      ],
+      "question": "The idiom 'call a spade a spade' emphasizes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Using accurate agricultural tools"
+        },
+        {
+          "id": "B",
+          "text": "Speaking the blunt, direct truth without euphemisms or evasion"
+        },
+        {
+          "id": "C",
+          "text": "Playing card games competitively"
+        },
+        {
+          "id": "D",
+          "text": "Accusing innocent persons falsely"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'Call a spade a spade' ka matlab sach ko bina kisi laag-lapet ke bilkul spasht aur seedhe shabdon mein bolna hota hai.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter."
+    },
+    {
+      "id": "L19-IP-030",
+      "lessonId": "L19",
+      "type": "single-answer-mcq",
+      "stage": "independent-practice",
+      "difficulty": "hard",
+      "topic": "Idioms & Phrases",
+      "subtopic": "Judgment: Impending Downfall",
+      "conceptTags": [
+        "judgment",
+        "writing-on-the-wall"
+      ],
+      "question": "\"With multiple vigilance inquiries ordered against the agency, the writing was on the wall.\" This indicates:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Graffiti was painted on the office walls"
+        },
+        {
+          "id": "B",
+          "text": "There were clear, unmistakable signs of impending downfall or failure"
+        },
+        {
+          "id": "C",
+          "text": "The agency received formal commendations"
+        },
+        {
+          "id": "D",
+          "text": "The inquiry officers painted notice boards"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "'The writing is on the wall' ka arth aane wale vinash, downfall ya asafalta ke spasht sanket hona hota hai.",
+      "ruleReference": "Rule RC-01: Literal vs Figurative Meaning Filter."
+    }
+  ]
+}

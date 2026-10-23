@@ -12,7 +12,7 @@ const MATRIX_DATA = {
     aux: 'do / does (neg/int only)',
     example: 'The bench convenes daily at 10:30 AM.',
     markers: 'daily, always, usually, often, every week',
-    color: 'border-primary-400 bg-primary-50/70',
+    color: 'border-primary-400 bg-primary-50/70 dark:bg-primary-950/60 dark:border-primary-600',
   },
   'Present-Continuous': {
     tense: 'Present Continuous',
@@ -20,7 +20,7 @@ const MATRIX_DATA = {
     aux: 'is / am / are',
     example: 'The system assistant is updating the server now.',
     markers: 'now, right now, currently, at present',
-    color: 'border-primary-400 bg-primary-50/70',
+    color: 'border-primary-400 bg-primary-50/70 dark:bg-primary-950/60 dark:border-primary-600',
   },
   'Present-Perfect': {
     tense: 'Present Perfect',
@@ -28,7 +28,7 @@ const MATRIX_DATA = {
     aux: 'has / have',
     example: 'The registrar has verified all documents already.',
     markers: 'already, just, yet, recently, so far',
-    color: 'border-primary-400 bg-primary-50/70',
+    color: 'border-primary-400 bg-primary-50/70 dark:bg-primary-950/60 dark:border-primary-600',
   },
   'Present-Perfect Continuous': {
     tense: 'Present Perfect Continuous',
@@ -36,7 +36,7 @@ const MATRIX_DATA = {
     aux: 'has been / have been',
     example: 'They have been auditing the logs for two hours.',
     markers: 'since, for, all morning, how long',
-    color: 'border-primary-400 bg-primary-50/70',
+    color: 'border-primary-400 bg-primary-50/70 dark:bg-primary-950/60 dark:border-primary-600',
   },
   'Past-Simple': {
     tense: 'Simple Past',
@@ -44,7 +44,7 @@ const MATRIX_DATA = {
     aux: 'did (neg/int only)',
     example: 'The court issued the summon yesterday.',
     markers: 'yesterday, ago, last year, in 2021',
-    color: 'border-amber-400 bg-amber-50/70',
+    color: 'border-amber-400 bg-amber-50/70 dark:bg-amber-950/60 dark:border-amber-600',
   },
   'Past-Continuous': {
     tense: 'Past Continuous',
@@ -52,7 +52,7 @@ const MATRIX_DATA = {
     aux: 'was / were',
     example: 'The clerk was filing petitions when the alarm rang.',
     markers: 'while, at that time, at 4 PM yesterday',
-    color: 'border-amber-400 bg-amber-50/70',
+    color: 'border-amber-400 bg-amber-50/70 dark:bg-amber-950/60 dark:border-amber-600',
   },
   'Past-Perfect': {
     tense: 'Past Perfect',
@@ -60,7 +60,7 @@ const MATRIX_DATA = {
     aux: 'had',
     example: 'The accused had fled before the police arrived.',
     markers: 'before, after, by the time, until then',
-    color: 'border-amber-400 bg-amber-50/70',
+    color: 'border-amber-400 bg-amber-50/70 dark:bg-amber-950/60 dark:border-amber-600',
   },
   'Past-Perfect Continuous': {
     tense: 'Past Perfect Continuous',
@@ -68,7 +68,7 @@ const MATRIX_DATA = {
     aux: 'had been',
     example: 'They had been waiting for three hours before the hearing started.',
     markers: 'for + duration + before',
-    color: 'border-amber-400 bg-amber-50/70',
+    color: 'border-amber-400 bg-amber-50/70 dark:bg-amber-950/60 dark:border-amber-600',
   },
   'Future-Simple': {
     tense: 'Simple Future',
@@ -76,7 +76,7 @@ const MATRIX_DATA = {
     aux: 'will / shall',
     example: 'The administration will declare results tomorrow.',
     markers: 'tomorrow, next week, soon, shortly',
-    color: 'border-emerald-400 bg-emerald-50/70',
+    color: 'border-emerald-400 bg-emerald-50/70 dark:bg-emerald-950/60 dark:border-emerald-600',
   },
   'Future-Continuous': {
     tense: 'Future Continuous',
@@ -84,7 +84,7 @@ const MATRIX_DATA = {
     aux: 'will be / shall be',
     example: 'Candidates will be appearing for typing test at 10 AM.',
     markers: 'at this time tomorrow, during next week',
-    color: 'border-emerald-400 bg-emerald-50/70',
+    color: 'border-emerald-400 bg-emerald-50/70 dark:bg-emerald-950/60 dark:border-emerald-600',
   },
   'Future-Perfect': {
     tense: 'Future Perfect',
@@ -92,7 +92,7 @@ const MATRIX_DATA = {
     aux: 'will have / shall have',
     example: 'The team will have scanned all files by 5 PM.',
     markers: 'by tomorrow, by next month, by 2028',
-    color: 'border-emerald-400 bg-emerald-50/70',
+    color: 'border-emerald-400 bg-emerald-50/70 dark:bg-emerald-950/60 dark:border-emerald-600',
   },
   'Future-Perfect Continuous': {
     tense: 'Future Perfect Continuous',
@@ -100,7 +100,7 @@ const MATRIX_DATA = {
     aux: 'will have been',
     example: 'By next July, she will have been teaching for 5 years.',
     markers: 'by + future time ... for + duration',
-    color: 'border-emerald-400 bg-emerald-50/70',
+    color: 'border-emerald-400 bg-emerald-50/70 dark:bg-emerald-950/60 dark:border-emerald-600',
   },
 }
 
@@ -113,11 +113,11 @@ export default function TenseMatrix() {
       {/* Matrix Controls Header */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
         <div>
-          <h3 className="font-heading font-bold text-base text-surface-900 flex items-center gap-2">
-            <Sparkles size={18} className="text-primary-600" />
+          <h3 className="font-heading font-bold text-base text-surface-900 dark:text-surface-50 flex items-center gap-2">
+            <Sparkles size={18} className="text-primary-600 dark:text-primary-400" />
             <span>The 3×4 Tense Matrix (Time × Aspect)</span>
           </h3>
-          <p className="text-xs text-surface-500">
+          <p className="text-xs text-surface-500 dark:text-surface-400">
             Click any cell to inspect its structural formula, auxiliary concord, and exam example.
           </p>
         </div>
@@ -131,13 +131,13 @@ export default function TenseMatrix() {
         <table className="w-full border-collapse text-left min-w-[700px]">
           <thead>
             <tr>
-              <th className="p-3 bg-surface-100 text-xs font-bold text-surface-700 uppercase tracking-wider rounded-tl-xl border-b border-surface-200">
+              <th className="p-3 bg-surface-100 dark:bg-surface-800 text-xs font-bold text-surface-700 dark:text-surface-300 uppercase tracking-wider rounded-tl-xl border-b border-surface-200 dark:border-surface-700">
                 Time \ Aspect
               </th>
               {ASPECTS.map((aspect) => (
                 <th
                   key={aspect}
-                  className="p-3 bg-surface-100 text-xs font-bold text-surface-800 uppercase tracking-wider text-center border-b border-surface-200"
+                  className="p-3 bg-surface-100 dark:bg-surface-800 text-xs font-bold text-surface-800 dark:text-surface-200 uppercase tracking-wider text-center border-b border-surface-200 dark:border-surface-700"
                 >
                   {aspect}
                 </th>
@@ -146,8 +146,8 @@ export default function TenseMatrix() {
           </thead>
           <tbody>
             {TIMES.map((time, rowIdx) => (
-              <tr key={time} className="border-b border-surface-100 hover:bg-surface-50/50">
-                <td className={`p-3 font-heading font-bold text-xs text-surface-900 bg-surface-50/80 border-r border-surface-200 ${
+              <tr key={time} className="border-b border-surface-100 dark:border-surface-800 hover:bg-surface-50/50 dark:hover:bg-surface-800/40">
+                <td className={`p-3 font-heading font-bold text-xs text-surface-900 dark:text-surface-100 bg-surface-50/80 dark:bg-surface-800/70 border-r border-surface-200 dark:border-surface-700 ${
                   rowIdx === TIMES.length - 1 ? 'rounded-bl-xl' : ''
                 }`}>
                   {time}
@@ -165,16 +165,16 @@ export default function TenseMatrix() {
                         className={`w-full text-left p-3 rounded-xl border-2 transition-all cursor-pointer ${
                           isSelected
                             ? `${item.color} shadow-sm ring-2 ring-primary-500 scale-[1.02]`
-                            : 'border-surface-200 bg-white hover:border-surface-300 hover:bg-surface-50'
+                            : 'border-surface-200 dark:border-surface-700 bg-white dark:bg-surface-900 hover:border-surface-300 dark:hover:border-surface-600 hover:bg-surface-50 dark:hover:bg-surface-800'
                         }`}
                       >
                         <div className="flex items-center justify-between mb-1">
-                          <span className="font-heading font-bold text-xs text-surface-900 truncate">
+                          <span className="font-heading font-bold text-xs text-surface-900 dark:text-surface-100 truncate">
                             {item.tense.replace(time, '').trim() || time}
                           </span>
-                          {isSelected && <Check size={12} className="text-primary-600 shrink-0" />}
+                          {isSelected && <Check size={12} className="text-primary-600 dark:text-primary-400 shrink-0" />}
                         </div>
-                        <p className="font-mono text-[11px] text-surface-600 font-medium truncate">
+                        <p className="font-mono text-[0.6875rem] text-surface-600 dark:text-surface-400 font-medium truncate">
                           {item.formula.replace('Subject', 'S')}
                         </p>
                       </button>
@@ -189,38 +189,38 @@ export default function TenseMatrix() {
 
       {/* Selected Cell Detail Inspector */}
       {activeData && (
-        <Card variant="default" padding="lg" className="border-primary-200 bg-gradient-to-br from-primary-50/40 via-white to-primary-50/20">
+        <Card variant="default" padding="lg" className="border-primary-200 dark:border-primary-800 bg-gradient-to-br from-primary-50/40 via-white to-primary-50/20 dark:from-surface-900 dark:via-primary-950/20 dark:to-surface-900">
           <div className="flex flex-col md:flex-row md:items-start justify-between gap-4 mb-4">
             <div>
               <div className="flex items-center gap-2 mb-1">
                 <Badge variant="primary">{activeData.tense}</Badge>
-                <span className="text-xs text-surface-500">
+                <span className="text-xs text-surface-500 dark:text-surface-400">
                   Time: <strong>{selectedCell.split('-')[0]}</strong> • Aspect: <strong>{selectedCell.split('-')[1]}</strong>
                 </span>
               </div>
-              <p className="font-mono text-sm md:text-base font-bold text-primary-800 bg-white px-3 py-1.5 rounded-lg border border-primary-200 inline-block shadow-2xs">
+              <p className="font-mono text-sm md:text-base font-bold text-primary-800 dark:text-primary-200 bg-white dark:bg-surface-800 px-3 py-1.5 rounded-lg border border-primary-200 dark:border-primary-700 inline-block shadow-2xs">
                 {activeData.formula}
               </p>
             </div>
 
             <div className="text-right">
-              <span className="text-xs text-surface-500 block">Auxiliary Concord</span>
-              <span className="font-mono text-xs font-bold text-surface-800 bg-surface-100 px-2 py-1 rounded">
+              <span className="text-xs text-surface-500 dark:text-surface-400 block">Auxiliary Concord</span>
+              <span className="font-mono text-xs font-bold text-surface-800 dark:text-surface-200 bg-surface-100 dark:bg-surface-800 px-2 py-1 rounded">
                 {activeData.aux}
               </span>
             </div>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs pt-2 border-t border-surface-200">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs pt-2 border-t border-surface-200 dark:border-surface-800">
             <div>
-              <span className="font-bold text-surface-700 block mb-1">Exemplar Sentence:</span>
-              <p className="p-2.5 rounded-lg bg-white border border-surface-200 font-medium text-surface-800 italic">
+              <span className="font-bold text-surface-700 dark:text-surface-300 block mb-1">Exemplar Sentence:</span>
+              <p className="p-2.5 rounded-lg bg-white dark:bg-surface-800/70 border border-surface-200 dark:border-surface-700 font-medium text-surface-800 dark:text-surface-200 italic">
                 "{activeData.example}"
               </p>
             </div>
             <div>
-              <span className="font-bold text-surface-700 block mb-1">Contextual Time Markers:</span>
-              <p className="p-2.5 rounded-lg bg-white border border-surface-200 text-surface-600">
+              <span className="font-bold text-surface-700 dark:text-surface-300 block mb-1">Contextual Time Markers:</span>
+              <p className="p-2.5 rounded-lg bg-white dark:bg-surface-800/70 border border-surface-200 dark:border-surface-700 text-surface-600 dark:text-surface-300">
                 {activeData.markers}
               </p>
             </div>

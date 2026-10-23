@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "Dropping the Fixed Preposition from Prepositional Verbs",
+    "category": "Prepositional Omission Trap",
+    "frequency": "Extremely High (Number One Error in Advanced Voice Papers)",
+    "explanation": "Jab kisi prepositional verb (laugh at, look into, deal with, listen to, approve of) ko passive mein transform kiya jata hai, toh verb ke sath judi fixed preposition verb phrase ka inseparable hissa hoti hai. Candidates aksar sochte hain ki agent ke pehle 'by' aane se pehle wali preposition unnecessary ho gayi hai, aur use drop kar dete hain. Lekin preposition drop karne se verb ka core meaning corrupt ya unintelligible ho jata hai ('looked into' = investigated, jabki 'looked by' meaningless hai).",
+    "incorrectExample": "Active: 'The High Court committee is looking into the scam.' ➔ Passive: 'The scam is being looked by the High Court committee.'",
+    "correctExample": "Active: 'The High Court committee is looking into the scam.' ➔ Passive: 'The scam is being looked into by the High Court committee.'",
+    "trapRule": "Preposition Retention Rule: Fixed preposition verb ke V3 form ke theek baad chipki rahegi: 'looked into by', 'laughed at by', 'dealt with by'. Dono prepositions ka ek sath aana perfectly valid hai."
+  },
+  {
+    "id": "PIT-02",
+    "title": "Modal Backshifting Confusion (Narration Rule ko Voice mein Lagana)",
+    "category": "Modal Invariance Violation",
+    "frequency": "Extremely High (Classic Multiple-Choice Trap)",
+    "explanation": "Direct-Indirect Narration padhne ke baad candidates aksar Voice questions mein bhi modals ko past form mein backshift kar dete hain (jaise 'can' ko 'could', 'may' ko 'might', ya 'will' ko 'would'). Voice transformation ka universal rule hai: TENSE AUR MODALITY KABHI NAHI BADALTI. Active sentence mein jo modal auxiliary hai, passive voice mein bhi wahi exact modal auxiliary 'be + V3' ke sath use hogi. Backshifting sirf Narration mein hoti hai, Voice mein strictly forbidden hai.",
+    "incorrectExample": "Active: 'The division bench can hear the urgent writ today.' ➔ Passive: 'The urgent writ could be heard by the division bench today.'",
+    "correctExample": "Active: 'The division bench can hear the urgent writ today.' ➔ Passive: 'The urgent writ can be heard by the division bench today.'",
+    "trapRule": "Modal Identity Rule: Modal verb freeze rehti hai! 'Can' ➔ 'can be', 'May' ➔ 'may be', 'Must' ➔ 'must be'. Option mein tense ya modal change dekhte hi us option ko turant eliminate karein."
+  },
+  {
+    "id": "PIT-03",
+    "title": "Missing 'Been' in Modal Perfect Passive Constructions",
+    "category": "Aspectual Auxiliary Omission",
+    "frequency": "Very High (Top Distractor in High Court Exams)",
+    "explanation": "Active sentence mein jab modal-perfect 'modal + have + V3' aata hai (jaise 'should have filed', 'could have prevented', 'must have stolen'), toh passive voice mein 'have' aur 'V3' ke beech auxiliary 'been' insert hona compulsory hai: 'modal + have been + V3'. Agar 'been' drop kar diya jaye, toh sentence active hi reh jata hai aur uska subject action ka doer ban jata hai (jaise 'The appeal should have filed' ka matlab nikalta hai ki appeal khud court mein chalkar file karne gayi).",
+    "incorrectExample": "Active: 'The registry should have issued the summons yesterday.' ➔ Passive: 'The summons should have issued by the registry yesterday.'",
+    "correctExample": "Active: 'The registry should have issued the summons yesterday.' ➔ Passive: 'The summons should have been issued by the registry yesterday.'",
+    "trapRule": "Modal-Perfect Rule: 'Modal + have been + V3'. 'Been' ke bina modal perfect passive grammatically impossible hai. Saath hi dhyan rahe: modal ke baad hamesha 'have' lagega, 'has' kabhi nahi."
+  },
+  {
+    "id": "PIT-04",
+    "title": "Word Order Inversion Discord in Negative Imperatives",
+    "category": "Negative Syntax Misplacement",
+    "frequency": "Very High (Classic Sentence Improvement Pitfall)",
+    "explanation": "Jab kisi negative imperative sentence ('Do not disclose the password') ko 'Let' structure se convert kiya jata hai, toh 'not' ki exact position critical hoti hai. Correct word order hota hai: 'Let + Object + not + be + V3'. Candidates aur faulty distractor options aksar 'not' ko 'be' ke baad laga dete hain ('Let the password be not disclosed'), jo modern examination standard ke hisaab se non-standard aur incorrect word order hai.",
+    "incorrectExample": "Active: 'Do not touch the exhibits.' ➔ Passive: 'Let the exhibits be not touched.'",
+    "correctExample": "Active: 'Do not touch the exhibits.' ➔ Passive: 'Let the exhibits not be touched.'",
+    "trapRule": "Negative Imperative Order: 'Let + Object + NOT + BE + V3'. Negative particle 'not' hamesha helping verb 'be' se theek pehle aayega."
+  },
+  {
+    "id": "PIT-05",
+    "title": "Double Negative Blunder with 'Forbidden' or 'Prohibited'",
+    "category": "Semantic Redundancy & Polarity Discord",
+    "frequency": "High (Top Error-Spotting Question in Rajasthan Exams)",
+    "explanation": "Negative imperatives ko situational passive mein convert karte waqt verbs like 'forbidden', 'prohibited', ya 'warned against' use kiye ja sakte hain. In verbs ke andar 'not' (prohibition) ka meaning pehle se inbuilt hota hai. Inke sath doobara 'not' lagana fatal double negative blunder hai (jaise 'You are forbidden not to smoke' ka literal matlab nikalta hai ki smoking na karna mana hai, yani smoking karna compulsory hai!).",
+    "incorrectExample": "Active: 'Do not enter the restricted server room.' ➔ Passive: 'You are forbidden not to enter the restricted server room.'",
+    "correctExample": "Active: 'Do not enter the restricted server room.' ➔ Passive: 'You are forbidden to enter the restricted server room.'",
+    "trapRule": "Forbidden Polarity Rule: 'You are forbidden TO + V1' (never add 'not' after forbidden). Agar 'not' lagana hai, toh neutral verb use karein: 'You are instructed NOT to enter'."
+  },
+  {
+    "id": "PIT-06",
+    "title": "Omitting 'To' or 'For' when Promoting Direct Object in Two-Object Verbs",
+    "category": "Prepositional Complement Omission in Bi-Transitives",
+    "frequency": "Very High (Exam Trap in Two-Object Transformations)",
+    "explanation": "Jab active sentence mein do objects hote hain (Indirect Object = person, Direct Object = thing), jaise 'The judge awarded him a medal', aur passive sentence mein Direct Object (thing) ko subject banaya jaye, toh person (indirect object) se pehle preposition 'to' ya 'for' lagana mandatory hota hai. Candidates aksar bina preposition ke direct pronoun likh dete hain, jo incomplete sentence structure banata hai.",
+    "incorrectExample": "Active: 'The registrar handed the advocate the case file.' ➔ Passive: 'The case file was handed the advocate by the registrar.'",
+    "correctExample": "Active: 'The registrar handed the advocate the case file.' ➔ Passive: 'The case file was handed to the advocate by the registrar.'",
+    "trapRule": "Two-Object Preposition Rule: Direct Object promoted ➔ 'DO + was/were + V3 + TO/FOR + Indirect Object'. Bina 'to/for' ke direct object passive incomplete hota hai."
+  }
+]

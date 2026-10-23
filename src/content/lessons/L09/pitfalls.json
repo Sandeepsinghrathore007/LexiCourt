@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PIT-01",
+    "title": "Double Comparatives & Superlatives (Redundant Adverbial Suffixes)",
+    "category": "Morphological Redundancy Error",
+    "frequency": "Extremely High (Classic School & Exam Error)",
+    "explanation": "Jab kisi adjective mein already inflectional suffix '-er' ya '-est' lag gaya ho (jaise taller, wiser, biggest, finest), toh uske aage alag se 'more' ya 'most' lagana strict grammatical blunder hai. Candidates emphasis dene ke chakkar mein bolte hain 'more taller' ya 'most finest', jo English grammar mein pleonasm (unnecessary repetition) kehlata hai. Single-syllable adjectives '-er' lete hain aur multi-syllable adjectives 'more' lete hain; dono ko ek sath combine karna fatal error hai.",
+    "incorrectExample": "Incorrect: This judgment is more clearer than the previous decree. / He is the most wisest judge on the bench.",
+    "correctExample": "Correct: This judgment is clearer than the previous decree. / He is the wisest judge on the bench.",
+    "trapRule": "Single Inflection Law: Use EITHER suffix (-er / -est) OR periphrastic adverb (more / most). Never combine both. Instantly eliminate any option containing 'more -er' or 'most -est'."
+  },
+  {
+    "id": "PIT-02",
+    "title": "Omission of 'Other' in Comparative Self-Exclusion",
+    "category": "Semantic Logic & Class Inclusion Trap",
+    "frequency": "Extremely High (High Court Examiner's Favorite MCQ Trap)",
+    "explanation": "Jab hum kisi class ke member ko usi class ke baaki members se compare karte hain using comparative degree, toh subject ko group se alag karne ke liye word 'OTHER' ka lagna mandatory hota hai. Agar aap bolte hain 'Iron is more useful than any metal', toh Iron khud ek metal hone ke karan 'any metal' ke set mein shamil ho jata hai, jiska literal matlab nikalta hai ki 'Iron is more useful than Iron itself'! Sahi construction mein 'any other metal' lagakar Iron ko comparison set se bahar nikala jata hai.",
+    "incorrectExample": "Incorrect: Mount Everest is higher than any peak in the world. / Kalidasa was greater than any poet.",
+    "correctExample": "Correct: Mount Everest is higher than any other peak in the world. / Kalidasa was greater than any other poet.",
+    "trapRule": "The Self-Exclusion Law: When comparing a member within its own category, 'other' is compulsory ('any other + singular noun'). If comparing outside its category ('Shakespeare is greater than any Indian writer'), 'other' is not used."
+  },
+  {
+    "id": "PIT-03",
+    "title": "Noun Number Discord after 'Any Other' vs 'All Other'",
+    "category": "Syntactic Number Agreement Trap",
+    "frequency": "Very High (Number Concord Error in MCQs)",
+    "explanation": "Candidates aksar 'any other' ke baad plural noun choose kar lete hain. Rule ye hai ki 'any other' ke baad strictly SINGULAR COUNTABLE NOUN aata hai: 'than any other boy / city / metal'. Agar sentence mein plural noun use karna ho, toh determiner 'ALL OTHER' use hota hai: 'than all other boys / cities / metals'. Options mein 'than any other metals' ya 'than any other students' examiner ke subtle distractors hote hain jo jaldbazi mein miss ho jate hain.",
+    "incorrectExample": "Incorrect: Lead is heavier than any other metals in the laboratory. / Jaipur is cleaner than any other cities in the state.",
+    "correctExample": "Correct: Lead is heavier than any other metal in the laboratory. (Or: ...than all other metals). / Jaipur is cleaner than any other city.",
+    "trapRule": "Concord Formula: 'than ANY OTHER + Singular Noun' (Standard Transformation). 'than ALL OTHER + Plural Noun'. Dono ko mix karke '*any other + plural noun' banana strict error hai."
+  },
+  {
+    "id": "PIT-04",
+    "title": "Singular Noun Discord after 'One of the' in Superlative Constructions",
+    "category": "Distributive Concord Error",
+    "frequency": "Extremely High (Recurring Error Across All SSC & High Court Exams)",
+    "explanation": "'One of the' construction ka matlab hota hai kisi group ya collection ke multiple members mein se kisi ek ko select karna. Isliye 'one of the' ke baad aane wala noun hamesha PLURAL COUNTABLE NOUN hona chahiye. Candidates Hindi translation ('sabse mahan rajaon mein se ek') ke chakkar mein ya singular subject dekh kar noun ko singular likh dete hain (*one of the greatest king). Jab tak group mein multiple kings nahi honge, tab tak unme se 'ek' ko kaise chuna ja sakta hai?",
+    "incorrectExample": "Incorrect: Ashoka was one of the greatest king of ancient India. / He is one of the best officer in the registry.",
+    "correctExample": "Correct: Ashoka was one of the greatest kings of ancient India. / He is one of the best officers in the registry.",
+    "trapRule": "The 'One of the' Plural Rule: 'One of the + Superlative + PLURAL NOUN' (e.g., 'one of the finest judgments', NOT '*judgment'). Note: If followed by a singular subject, the verb remains singular ('One of the officers was awarded')."
+  },
+  {
+    "id": "PIT-05",
+    "title": "Apex Scope Confusion: Conflating 'No Other' with 'One of the'",
+    "category": "Propositional Scope Distortion Trap",
+    "frequency": "Very High (Transformation Semantic Distortion Error)",
+    "explanation": "Exam mein sabse common distractor trap ye hota hai ki jab original sentence mein 'One of the' laga hota hai (matlab subject top group ke kai members mein se ek hai), toh options mein use 'No other' (matlab subject akela number-1 hai) mein transform kar diya jata hai. 'No other' unique apex ke liye hota hai; 'One of the' subset bracket ke liye hota hai. 'One of the' ka transformation hamesha 'Very few... as... as' (positive) aur 'than most other + plural noun' (comparative) se hota hai.",
+    "incorrectExample": "Incorrect Transformation: Original: Tagore was one of the greatest poets of Bengal. ➔ Transformed: No other poet of Bengal was as great as Tagore.",
+    "correctExample": "Correct Transformation: Original: Tagore was one of the greatest poets of Bengal. ➔ Transformed: Very few poets of Bengal were as great as Tagore.",
+    "trapRule": "Scope Distinction Rule: Unique Best ('The + Superlative') ➔ 'No other' & 'any other'. Elite Bracket ('One of the + Superlative') ➔ 'Very few' & 'most other'. Kabhi bhi 'one of the' ko 'No other' se match na karein."
+  },
+  {
+    "id": "PIT-06",
+    "title": "Preposition Discord with Latin Comparatives (Using 'Than' Instead of 'To')",
+    "category": "Prepositional Concord Error",
+    "frequency": "High (Fixed Administrative Vocabulary Trap)",
+    "explanation": "Latin origin ke comparative adjectives jo '-or' par end hote hain (senior, junior, superior, inferior, prior, anterior, posterior) aur adjective 'preferable', conjunction 'than' ki jagah strictly preposition 'TO' demand karte hain. Candidates general comparative rule ('taller than', 'faster than') ko blind tarike se apply karke 'senior than' ya 'superior than' choose kar lete hain. Sath hi, inke pehle 'more' lagana (*more senior to, *more preferable) bhi strict redundancy hai.",
+    "incorrectExample": "Incorrect: The legal assistant is junior than the court clerk. / Mediation is more preferable than litigation.",
+    "correctExample": "Correct: The legal assistant is junior to the court clerk. / Mediation is preferable to litigation.",
+    "trapRule": "Latin 'TO' Mandate: senior to, junior to, superior to, inferior to, prior to, preferable to. Conjunction 'than' aur adverb 'more' dono completely strictly prohibited hain."
+  }
+]
